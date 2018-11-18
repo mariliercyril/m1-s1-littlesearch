@@ -55,6 +55,12 @@ public class Littlesearch {
 	// The directory where the index will be stored:
 	private static Directory indexDirectory;
 
+	// Adds a private constructor to hide the implicit public one (indicated by SonarQube).
+	private Littlesearch() {
+
+		throw new IllegalStateException("Utility class");
+	}
+
 	/**
 	 * Indexes texts (which are as parameters).
 	 * 

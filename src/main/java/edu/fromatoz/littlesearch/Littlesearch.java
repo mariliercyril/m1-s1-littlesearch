@@ -59,11 +59,13 @@ public class Littlesearch {
 	 *  the text corpus
 	 * 
 	 * @return <i>true</i> if the indexing of the texts is successful; <i>false</i> if it isn't
+	 * @throws IOException 
 	 */
 	public static boolean index(String... texts) {
 
 		boolean indexingIsSuccessful = false;
 
+		IndexWriter indexWriter = null;
 		try {
 		    // Opens the directory, on the disk (normally on a temporary way), where the index is going to be stored.
 			indexDirectory = FSDirectory.open(Paths.get(INDEX_FILES_DIRECTORY_PATH));
@@ -72,7 +74,7 @@ public class Littlesearch {
 			IndexWriterConfig indexWriterConfig = new IndexWriterConfig(ANALYZER);
 
 			// Creates an index writer.
-			IndexWriter indexWriter = new IndexWriter(indexDirectory, indexWriterConfig);
+			indexWriter = new IndexWriter(indexDirectory, indexWriterConfig);
 			// Deletes, if exist, all the documents which are in the index.
 			indexWriter.deleteAll();
 			// Indexes the text about Henri Poincaré...
@@ -84,11 +86,17 @@ public class Littlesearch {
 			documentBernhardRiemann.add(new Field("field_name", texts[1], TextField.TYPE_STORED));
 			indexWriter.addDocument(documentBernhardRiemann);
 
-			indexWriter.close();
-
 			indexingIsSuccessful = true;
 		} catch (IOException ioe) {
 			ioe.printStackTrace();
+		} finally {
+			try {
+				if (indexWriter != null) {
+					indexWriter.close();
+				}
+			} catch (IOException ioe) {
+				ioe.printStackTrace();
+			}
 		}
 
 		return indexingIsSuccessful;

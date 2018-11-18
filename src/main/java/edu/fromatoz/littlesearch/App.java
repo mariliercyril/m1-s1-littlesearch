@@ -37,11 +37,13 @@ public class App {
 	public static void main(String[] args) {
 
 		// Allows to get the words to be searched by the command.
+		StringBuilder wordsBuilder = new StringBuilder();
 		String words = "";
 		if (args.length > 0) {
 			for (String word : args) {
-				words += word + " ";
+				wordsBuilder.append(word + " ");
 			}
+			words = wordsBuilder.toString();
 		} else {
 			words = "mathématicien systèmes";
 		}

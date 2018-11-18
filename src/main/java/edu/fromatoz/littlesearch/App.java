@@ -1,4 +1,4 @@
-package fromatoz.littlesearch;
+package edu.fromatoz.littlesearch;
 
 /**
  * Hello world!

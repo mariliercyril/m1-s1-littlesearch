@@ -49,6 +49,9 @@ public class Littlesearch {
 	// TODO: To replace the StandardAnalyzer with a FrenchAnalyzer (to construct an analyzer with a stop words for French).
 	private static final Analyzer ANALYZER = new StandardAnalyzer();
 
+	// The name of the field which should contain text...
+	private static String fieldName = "field_name";
+
 	// The directory where the index will be stored:
 	private static Directory indexDirectory;
 
@@ -79,11 +82,11 @@ public class Littlesearch {
 			indexWriter.deleteAll();
 			// Indexes the text about Henri Poincaré...
 			Document documentHenriPoincare = new Document();
-			documentHenriPoincare.add(new Field("field_name", texts[0], TextField.TYPE_STORED));
+			documentHenriPoincare.add(new Field(fieldName, texts[0], TextField.TYPE_STORED));
 			indexWriter.addDocument(documentHenriPoincare);
 			// Indexes the text about Bernhard Riemann...
 			Document documentBernhardRiemann = new Document();
-			documentBernhardRiemann.add(new Field("field_name", texts[1], TextField.TYPE_STORED));
+			documentBernhardRiemann.add(new Field(fieldName, texts[1], TextField.TYPE_STORED));
 			indexWriter.addDocument(documentBernhardRiemann);
 
 			indexingIsSuccessful = true;
@@ -119,7 +122,7 @@ public class Littlesearch {
 			DirectoryReader directoryReader = DirectoryReader.open(indexDirectory);
 			IndexSearcher indexSearcher = new IndexSearcher(directoryReader);
 			// Parses a query for searching for words.
-			QueryParser queryParser = new QueryParser("field_name", ANALYZER);
+			QueryParser queryParser = new QueryParser(fieldName, ANALYZER);
 			Query query = queryParser.parse(words);
 			// Gets the top 10 document's numbers, if exist.
 			ScoreDoc[] hits = indexSearcher.search(query, 10, new Sort()).scoreDocs;

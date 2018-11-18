@@ -43,9 +43,6 @@ import org.apache.lucene.store.FSDirectory;
  */
 public class Littlesearch {
 
-	// The path of the directory for storing the index files:
-	private static final String INDEX_FILES_DIRECTORY_PATH = "c:\\tmp\\index_test";
-
 	// TODO: To replace the StandardAnalyzer with a FrenchAnalyzer (to construct an analyzer with a stop words for French).
 	private static final Analyzer ANALYZER = new StandardAnalyzer();
 
@@ -77,7 +74,7 @@ public class Littlesearch {
 		IndexWriter indexWriter = null;
 		try {
 		    // Opens the directory, on the disk (normally on a temporary way), where the index is going to be stored.
-			indexDirectory = FSDirectory.open(Paths.get(INDEX_FILES_DIRECTORY_PATH));
+			indexDirectory = FSDirectory.open(Paths.get(System.getProperty("java.io.tmpdir")));
 
 			// Defines a configuration for giving the analyzer to the index writer...
 			IndexWriterConfig indexWriterConfig = new IndexWriterConfig(ANALYZER);

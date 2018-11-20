@@ -64,8 +64,7 @@ public class Littlesearch {
 	 * @param texts
 	 *  the text corpus
 	 * 
-	 * @return <i>true</i> if the indexing of the texts is successful; <i>false</i> if it isn't
-	 * @throws IOException 
+	 * @return <i>true</i>, if the indexing of the texts is successful; <i>false</i>, if it isn't
 	 */
 	public static boolean index(String... texts) {
 
@@ -73,7 +72,7 @@ public class Littlesearch {
 
 		IndexWriter indexWriter = null;
 		try {
-		    // Opens the directory, on the disk (normally on a temporary way), where the index is going to be stored.
+			// Opens the directory, on the disk (normally in a temporary way), where the index is going to be stored.
 			indexDirectory = FSDirectory.open(Paths.get(System.getProperty("java.io.tmpdir")));
 
 			// Defines a configuration for giving the analyzer to the index writer...
@@ -109,7 +108,7 @@ public class Littlesearch {
 	}
 
 	/**
-	 * Searches, in the indexed texts, the words (which are as a parameter).
+	 * Searches, in the indexed texts, for the words (which are as a parameter).
 	 * 
 	 * @param words
 	 *  the set of words which should be searched
@@ -121,13 +120,13 @@ public class Littlesearch {
 		List<Document> hitDocuments = new ArrayList<Document>();
 
 		try {
-		    // Opens the index directory in order to allowing the search...
+			// Opens the index directory in order to allowing the search...
 			DirectoryReader directoryReader = DirectoryReader.open(indexDirectory);
 			IndexSearcher indexSearcher = new IndexSearcher(directoryReader);
 			// Parses a query for searching for words.
 			QueryParser queryParser = new QueryParser(fieldName, ANALYZER);
 			Query query = queryParser.parse(words);
-			// Gets the top 10 document's numbers, if exist.
+			// Gets the top 10 document's numbers, if exist...
 			ScoreDoc[] hits = indexSearcher.search(query, 10, new Sort()).scoreDocs;
 			// Adds the corresponding documents to the list...
 			for (ScoreDoc hit : hits) {

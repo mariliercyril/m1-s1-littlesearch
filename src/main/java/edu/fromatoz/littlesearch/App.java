@@ -52,17 +52,17 @@ public class App {
 		if (!Littlesearch.index(TEXT_HENRI_POINCARE, TEXT_BERNHARD_RIEMANN)) {
 			System.exit(1);
 		} else {
-			// If the indexing is successful, searches words...
+			// If the indexing is successful, searches for words...
 			List<Document> hitDocuments = Littlesearch.search(words);
 			if (hitDocuments.isEmpty()) {
 				System.out.println("Littlesearch n'a rien trouvé pour \"" + words + "\".");
 				System.exit(1);
 			} else {
 				// If the engine finds at least one of the searched words in an indexed document, returns the document in question...
-				ListIterator<Document> hitDocsIterator = hitDocuments.listIterator();
+				ListIterator<Document> hitDocumentsIterator = hitDocuments.listIterator();
 				int i = 0;
-				while(hitDocsIterator.hasNext()) {
-					Document hitDocument = hitDocsIterator.next();
+				while (hitDocumentsIterator.hasNext()) {
+					Document hitDocument = hitDocumentsIterator.next();
 					System.out.println("Document " + ++i + ":\n" + hitDocument.get("field_name"));
 				}
 			}

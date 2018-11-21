@@ -9,7 +9,7 @@ import java.util.List;
 
 import org.apache.lucene.analysis.Analyzer;
 
-import org.apache.lucene.analysis.standard.StandardAnalyzer;
+import org.apache.lucene.analysis.fr.FrenchAnalyzer;
 
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
@@ -43,8 +43,8 @@ import org.apache.lucene.store.FSDirectory;
  */
 public class Littlesearch {
 
-	// TODO: To replace the StandardAnalyzer with a FrenchAnalyzer (to construct an analyzer with a stop words for French).
-	private static final Analyzer ANALYZER = new StandardAnalyzer();
+	// The Analyzer as a FrenchAnalyzer (constructed with the default stop words for the French language).
+	private static final Analyzer ANALYZER = new FrenchAnalyzer();
 
 	// The name of the field which should contain text...
 	private static String fieldName = "field_name";
@@ -126,11 +126,10 @@ public class Littlesearch {
 			// Parses a query for searching for words.
 			QueryParser queryParser = new QueryParser(fieldName, ANALYZER);
 			Query query = queryParser.parse(words);
-			// Gets meta-information of the top 10 documents (sorted by relevance, the default sorting mode), if exist...
+			// Gets meta-information of the top 10 documents (sorted by relevance, the default sorting mode)...
 			ScoreDoc[] hits = indexSearcher.search(query, 10, new Sort()).scoreDocs;
 			// Adds the corresponding documents to the list...
 			for (ScoreDoc hit : hits) {
-				System.out.println(hit);
 				hitDocuments.add(indexSearcher.getIndexReader().document(hit.doc));
 			}
 

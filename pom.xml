@@ -42,6 +42,11 @@
       <artifactId>lucene-core</artifactId>
       <version>7.5.0</version>
     </dependency>
+    <dependency> <!-- Dependency for the Lucene analyzers common -->
+      <groupId>org.apache.lucene</groupId>
+      <artifactId>lucene-analyzers-common</artifactId>
+      <version>7.5.0</version>
+    </dependency>
     <dependency> <!-- Dependency for the Lucene queryparser -->
       <groupId>org.apache.lucene</groupId>
       <artifactId>lucene-queryparser</artifactId>

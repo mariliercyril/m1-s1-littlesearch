@@ -126,10 +126,11 @@ public class Littlesearch {
 			// Parses a query for searching for words.
 			QueryParser queryParser = new QueryParser(fieldName, ANALYZER);
 			Query query = queryParser.parse(words);
-			// Gets the top 10 document's numbers, if exist...
+			// Gets meta-information of the top 10 documents (sorted by relevance, the default sorting mode), if exist...
 			ScoreDoc[] hits = indexSearcher.search(query, 10, new Sort()).scoreDocs;
 			// Adds the corresponding documents to the list...
 			for (ScoreDoc hit : hits) {
+				System.out.println(hit);
 				hitDocuments.add(indexSearcher.getIndexReader().document(hit.doc));
 			}
 

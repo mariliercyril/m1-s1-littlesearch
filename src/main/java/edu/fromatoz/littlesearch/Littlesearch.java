@@ -2,8 +2,11 @@ package edu.fromatoz.littlesearch;
 
 import java.io.IOException;
 
-import java.nio.file.Paths;
+import java.io.InputStream;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.*;
 
+import java.nio.file.attribute.BasicFileAttributes;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -13,12 +16,14 @@ import org.apache.lucene.analysis.fr.FrenchAnalyzer;
 
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
+import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
 
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 
+import org.apache.lucene.index.Term;
 import org.apache.lucene.queryparser.classic.ParseException;
 import org.apache.lucene.queryparser.classic.QueryParser;
 
@@ -46,11 +51,16 @@ public class Littlesearch {
 	// The Analyzer as a FrenchAnalyzer (constructed with the default stop words for the French language).
 	private static final Analyzer ANALYZER = new FrenchAnalyzer();
 
-	// The name of the field which should contain text...
-	private static String fieldName = "field_name";
+	// The name of the field which should contain content of txt file...
+	private static String contents = "contents";
+
+	// The name of the field which should contain path to txt file...
+	private static String path = "path";
 
 	// The directory where the index will be stored:
 	private static Directory indexDirectory;
+
+	private static IndexWriter indexWriter = null;
 
 	// Adds a private constructor to hide the implicit public one (indicated by SonarQube).
 	private Littlesearch() {
@@ -58,52 +68,81 @@ public class Littlesearch {
 		throw new IllegalStateException("Utility class");
 	}
 
-	/**
-	 * Indexes texts (which are as parameters).
-	 * 
-	 * @param texts
-	 *  the text corpus
-	 * 
-	 * @return <i>true</i>, if the indexing of the texts is successful; <i>false</i>, if it isn't
-	 */
-	public static boolean index(String... texts) {
+	public static boolean indexFiles() throws IOException{
+
+        // Opens the directory, on the disk (normally in a temporary way), where the index is going to be stored.
+        indexDirectory = FSDirectory.open(Paths.get(System.getProperty("java.io.tmpdir")));
+
+        // Defines a configuration for giving the analyzer to the index writer...
+        IndexWriterConfig indexWriterConfig = new IndexWriterConfig(ANALYZER);
+        //create a new index if there is not already an index at the provided path
+		// and otherwise open the existing index.
+        indexWriterConfig.setOpenMode(IndexWriterConfig.OpenMode.CREATE_OR_APPEND);
+
+        // Init an index writer.
+		indexWriter = new IndexWriter(indexDirectory, indexWriterConfig);
+
+        // Deletes, if exist, all the documents which are in the index.
+        indexWriter.deleteAll();
+
+        final Path path = Paths.get(App.docsPath);
+
+	    //check if path is Directory
+        if(Files.isDirectory(path) && path.toFile().list().length > 0){
+            //Iterate directory
+            Files.walkFileTree(path, new SimpleFileVisitor<Path>() {
+                @Override
+                public FileVisitResult visitFile(Path file, BasicFileAttributes attrs){
+                    //index this file
+                    if(index(file))
+                    {
+                        return FileVisitResult.CONTINUE;
+                    }
+                    return FileVisitResult.TERMINATE;
+                }
+            });
+        }
+        //if it is not directory
+        else{
+        	throw new NoSuchFileException("Directory is empty or it's not a directory");
+		}
+
+		try {
+			if (indexWriter != null) {
+				indexWriter.close();
+			}
+		} catch (IOException ioe) {
+			ioe.printStackTrace();
+		}
+        return true;
+    }
+
+    /**
+     * Indexes texts (which are as parameters).
+     *
+     * @param file
+     *  doc with the text corpus
+     *
+     * @return <i>true</i>, if the indexing of the texts is successful; <i>false</i>, if it isn't
+     */
+	private static boolean index(Path file) {
 
 		boolean indexingIsSuccessful = false;
 
-		IndexWriter indexWriter = null;
-		try {
-			// Opens the directory, on the disk (normally in a temporary way), where the index is going to be stored.
-			indexDirectory = FSDirectory.open(Paths.get(System.getProperty("java.io.tmpdir")));
-
-			// Defines a configuration for giving the analyzer to the index writer...
-			IndexWriterConfig indexWriterConfig = new IndexWriterConfig(ANALYZER);
-
-			// Creates an index writer.
-			indexWriter = new IndexWriter(indexDirectory, indexWriterConfig);
-			// Deletes, if exist, all the documents which are in the index.
-			indexWriter.deleteAll();
-			// Indexes the text about Henri Poincaré...
-			Document documentHenriPoincare = new Document();
-			documentHenriPoincare.add(new Field(fieldName, texts[0], TextField.TYPE_STORED));
-			indexWriter.addDocument(documentHenriPoincare);
-			// Indexes the text about Bernhard Riemann...
-			Document documentBernhardRiemann = new Document();
-			documentBernhardRiemann.add(new Field(fieldName, texts[1], TextField.TYPE_STORED));
-			indexWriter.addDocument(documentBernhardRiemann);
-
+		try(InputStream stream = Files.newInputStream(file)) {
+			// Indexes the file...
+			Document doc = new Document();
+			//store path of current file
+			doc.add(new StringField(path, file.toString(),Field.Store.YES));
+			//store content of current file
+			doc.add(new TextField(contents, new String(Files.readAllBytes(file),StandardCharsets.ISO_8859_1),Field.Store.YES));
+			//index current doc
+            indexWriter.updateDocument(new Term(path,file.toString()),doc);
 			indexingIsSuccessful = true;
-		} catch (IOException ioe) {
-			ioe.printStackTrace();
-		} finally {
-			try {
-				if (indexWriter != null) {
-					indexWriter.close();
-				}
-			} catch (IOException ioe) {
-				ioe.printStackTrace();
-			}
-		}
-
+        }
+        catch (IOException ioe) {
+            ioe.printStackTrace();
+        }
 		return indexingIsSuccessful;
 	}
 
@@ -124,7 +163,7 @@ public class Littlesearch {
 			DirectoryReader directoryReader = DirectoryReader.open(indexDirectory);
 			IndexSearcher indexSearcher = new IndexSearcher(directoryReader);
 			// Parses a query for searching for words.
-			QueryParser queryParser = new QueryParser(fieldName, ANALYZER);
+			QueryParser queryParser = new QueryParser(contents, ANALYZER);
 			Query query = queryParser.parse(words);
 			// Gets meta-information of the top 10 documents (sorted by relevance, the default sorting mode)...
 			ScoreDoc[] hits = indexSearcher.search(query, 10, new Sort()).scoreDocs;
@@ -137,13 +176,11 @@ public class Littlesearch {
 
 			// Closes the directory where the index is stored.
 			indexDirectory.close();
-		} catch (IOException ioe) {
+		} catch (IOException | ParseException ioe) {
 			ioe.printStackTrace();
-		} catch (ParseException pe) {
-			pe.printStackTrace();
 		}
 
-		return hitDocuments;
+        return hitDocuments;
 	}
 
 }

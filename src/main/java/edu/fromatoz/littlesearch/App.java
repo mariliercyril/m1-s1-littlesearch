@@ -1,6 +1,7 @@
 package edu.fromatoz.littlesearch;
 
-import java.io.IOException;
+import java.io.File;
+
 import java.util.List;
 import java.util.ListIterator;
 
@@ -16,10 +17,11 @@ import org.apache.lucene.document.Document;
  * @author Cyril Marilier
  */
 public class App {
-	//Input folder
-	protected static final String docsPath = "data";
 
-	public static void main(String[] args) throws IOException {
+	// The Text Corpus
+	static final File TEXT_CORPUS = new File("texts");
+
+	public static void main(String[] args) {
 
 		// Allows to get the words to be searched by the command.
 		StringBuilder wordsBuilder = new StringBuilder();
@@ -30,11 +32,11 @@ public class App {
 			}
 			words = wordsBuilder.toString();
 		} else {
-			words = "mathématicien";
+			words = "mathématicien systèmes";
 		}
 
 		// Indexes the texts...
-		if (!Littlesearch.indexFiles()) {
+		if (!Littlesearch.indexTexts()) {
 			System.exit(1);
 		} else {
 			// If the indexing is successful, searches for words...
@@ -48,7 +50,7 @@ public class App {
 				int i = 0;
 				while (hitDocumentsIterator.hasNext()) {
 					Document hitDocument = hitDocumentsIterator.next();
-					System.out.println("Document " + ++i + ":\n" + hitDocument.get("path"));
+					System.out.println("Document " + ++i + ":\n" + hitDocument.get("content") + "\n");
 				}
 			}
 		}

@@ -1,0 +1,34 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "dynamiques",
+    "other_forms" : [ "dynamique" ]
+  }, {
+    "canonical_form" : "actif",
+    "other_forms" : [ "actifs", "active", "actives" ]
+  }, {
+    "canonical_form" : "vivant",
+    "other_forms" : [ "vivante", "vivantes", "vivants" ]
+  }, {
+    "canonical_form" : "ardent",
+    "other_forms" : [ "ardente", "ardentes", "ardents" ]
+  }, {
+    "canonical_form" : "physique",
+    "other_forms" : [ "physiques" ]
+  }, {
+    "canonical_form" : "dynamisation",
+    "other_forms" : [ "dynamisations" ]
+  }, {
+    "canonical_form" : "balistique",
+    "other_forms" : [ "balistiques" ]
+  }, {
+    "canonical_form" : "allant",
+    "other_forms" : [ "allante", "allantes", "allants" ]
+  }, {
+    "canonical_form" : "accélération",
+    "other_forms" : [ "accélérations" ]
+  }, {
+    "canonical_form" : "évolution",
+    "other_forms" : [ "évolutions" ]
+  } ]
+}

@@ -1,0 +1,121 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "chaos",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "confusion",
+    "other_forms" : [ "confusions" ]
+  }, {
+    "canonical_form" : "désordre",
+    "other_forms" : [ "désordres" ]
+  }, {
+    "canonical_form" : "fatras",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "mélange",
+    "other_forms" : [ "mélanges" ]
+  }, {
+    "canonical_form" : "méli-mélo",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "pêle-mêle",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "tohu-bohu",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "imbroglio",
+    "other_forms" : [ "imbroglios" ]
+  }, {
+    "canonical_form" : "chambardement",
+    "other_forms" : [ "chambardements" ]
+  }, {
+    "canonical_form" : "brouillamini",
+    "other_forms" : [ "brouillaminis" ]
+  }, {
+    "canonical_form" : "bouleversement",
+    "other_forms" : [ "bouleversements" ]
+  }, {
+    "canonical_form" : "perturbation",
+    "other_forms" : [ "perturbations" ]
+  }, {
+    "canonical_form" : "gâchis",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "enchevêtrement",
+    "other_forms" : [ "enchevêtrements" ]
+  }, {
+    "canonical_form" : "branle-bas",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "embrouillement",
+    "other_forms" : [ "embrouillage", "embrouillages", "embrouillements" ]
+  }, {
+    "canonical_form" : "incohérence",
+    "other_forms" : [ "incohérences" ]
+  }, {
+    "canonical_form" : "incohésion",
+    "other_forms" : [ "incohésions" ]
+  }, {
+    "canonical_form" : "mêlée",
+    "other_forms" : [ "mêlées" ]
+  }, {
+    "canonical_form" : "pastis",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "tumulte",
+    "other_forms" : [ "tumultes" ]
+  }, {
+    "canonical_form" : "éparpillement",
+    "other_forms" : [ "éparpillements" ]
+  }, {
+    "canonical_form" : "foutoir",
+    "other_forms" : [ "foutoirs" ]
+  }, {
+    "canonical_form" : "désorganisation",
+    "other_forms" : [ "désorganisations" ]
+  }, {
+    "canonical_form" : "anarchie",
+    "other_forms" : [ "anarchies" ]
+  }, {
+    "canonical_form" : "bazar",
+    "other_forms" : [ "bazars" ]
+  }, {
+    "canonical_form" : "bordel",
+    "other_forms" : [ "bordels" ]
+  }, {
+    "canonical_form" : "cohue",
+    "other_forms" : [ "cohues" ]
+  }, {
+    "canonical_form" : "complication",
+    "other_forms" : [ "complications" ]
+  }, {
+    "canonical_form" : "débâcle",
+    "other_forms" : [ "débâcles" ]
+  }, {
+    "canonical_form" : "zizanie",
+    "other_forms" : [ "zizanies" ]
+  }, {
+    "canonical_form" : "micmac",
+    "other_forms" : [ "micmacs" ]
+  }, {
+    "canonical_form" : "marmelade",
+    "other_forms" : [ "marmelades" ]
+  }, {
+    "canonical_form" : "marasme",
+    "other_forms" : [ "marasmes" ]
+  }, {
+    "canonical_form" : "chantier",
+    "other_forms" : [ "chantiers" ]
+  }, {
+    "canonical_form" : "cataclysme",
+    "other_forms" : [ "cataclysmes" ]
+  }, {
+    "canonical_form" : "abîme",
+    "other_forms" : [ "abîmes" ]
+  }, {
+    "canonical_form" : "écroulement",
+    "other_forms" : [ "écroulements" ]
+  } ]
+}

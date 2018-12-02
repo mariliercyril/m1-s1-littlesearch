@@ -1,0 +1,390 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "faire"
+  }, {
+    "canonical_form" : "former"
+  }, {
+    "canonical_form" : "produire"
+  }, {
+    "canonical_form" : "façonner"
+  }, {
+    "canonical_form" : "créer"
+  }, {
+    "canonical_form" : "prendre"
+  }, {
+    "canonical_form" : "composer"
+  }, {
+    "canonical_form" : "préparer"
+  }, {
+    "canonical_form" : "fabriquer"
+  }, {
+    "canonical_form" : "donner"
+  }, {
+    "canonical_form" : "élaborer"
+  }, {
+    "canonical_form" : "exécuter"
+  }, {
+    "canonical_form" : "construire"
+  }, {
+    "canonical_form" : "travailler"
+  }, {
+    "canonical_form" : "agir"
+  }, {
+    "canonical_form" : "représenter"
+  }, {
+    "canonical_form" : "établir"
+  }, {
+    "canonical_form" : "dresser"
+  }, {
+    "canonical_form" : "élever"
+  }, {
+    "canonical_form" : "pratiquer"
+  }, {
+    "canonical_form" : "pousser"
+  }, {
+    "canonical_form" : "monter"
+  }, {
+    "canonical_form" : "jouer"
+  }, {
+    "canonical_form" : "attraper"
+  }, {
+    "canonical_form" : "cultiver"
+  }, {
+    "canonical_form" : "dire"
+  }, {
+    "canonical_form" : "piquer"
+  }, {
+    "canonical_form" : "sortir"
+  }, {
+    "canonical_form" : "rendre"
+  }, {
+    "canonical_form" : "bâtir"
+  }, {
+    "canonical_form" : "écrire"
+  }, {
+    "canonical_form" : "tirer"
+  }, {
+    "canonical_form" : "tenir"
+  }, {
+    "canonical_form" : "soulever"
+  }, {
+    "canonical_form" : "réaliser"
+  }, {
+    "canonical_form" : "polir"
+  }, {
+    "canonical_form" : "instruire"
+  }, {
+    "canonical_form" : "déterminer"
+  }, {
+    "canonical_form" : "constituer"
+  }, {
+    "canonical_form" : "servir"
+  }, {
+    "canonical_form" : "reproduire"
+  }, {
+    "canonical_form" : "remplir"
+  }, {
+    "canonical_form" : "provoquer"
+  }, {
+    "canonical_form" : "exercer"
+  }, {
+    "canonical_form" : "accomplir"
+  }, {
+    "canonical_form" : "traiter"
+  }, {
+    "canonical_form" : "prononcer"
+  }, {
+    "canonical_form" : "gagner"
+  }, {
+    "canonical_form" : "forger"
+  }, {
+    "canonical_form" : "publier"
+  }, {
+    "canonical_form" : "susciter"
+  }, {
+    "canonical_form" : "tracer"
+  }, {
+    "canonical_form" : "user"
+  }, {
+    "canonical_form" : "étudier"
+  }, {
+    "canonical_form" : "procéder"
+  }, {
+    "canonical_form" : "plier"
+  }, {
+    "canonical_form" : "causer"
+  }, {
+    "canonical_form" : "confectionner"
+  }, {
+    "canonical_form" : "imiter"
+  }, {
+    "canonical_form" : "obtenir"
+  }, {
+    "canonical_form" : "opérer"
+  }, {
+    "canonical_form" : "peser"
+  }, {
+    "canonical_form" : "ramasser"
+  }, {
+    "canonical_form" : "occasionner"
+  }, {
+    "canonical_form" : "lâcher"
+  }, {
+    "canonical_form" : "lever"
+  }, {
+    "canonical_form" : "habituer"
+  }, {
+    "canonical_form" : "frotter"
+  }, {
+    "canonical_form" : "figurer"
+  }, {
+    "canonical_form" : "débiter"
+  }, {
+    "canonical_form" : "couvrir"
+  }, {
+    "canonical_form" : "charger"
+  }, {
+    "canonical_form" : "avoir"
+  }, {
+    "canonical_form" : "appuyer"
+  }, {
+    "canonical_form" : "accoucher"
+  }, {
+    "canonical_form" : "nommer"
+  }, {
+    "canonical_form" : "observer"
+  }, {
+    "canonical_form" : "procurer"
+  }, {
+    "canonical_form" : "proférer"
+  }, {
+    "canonical_form" : "refaire"
+  }, {
+    "canonical_form" : "édifier"
+  }, {
+    "canonical_form" : "fournir"
+  }, {
+    "canonical_form" : "ficher"
+  }, {
+    "canonical_form" : "engendrer"
+  }, {
+    "canonical_form" : "commettre"
+  }, {
+    "canonical_form" : "contenir"
+  }, {
+    "canonical_form" : "dessiner"
+  }, {
+    "canonical_form" : "dérober"
+  }, {
+    "canonical_form" : "effectuer"
+  }, {
+    "canonical_form" : "enfanter"
+  }, {
+    "canonical_form" : "réussir"
+  }, {
+    "canonical_form" : "répondre"
+  }, {
+    "canonical_form" : "récolter"
+  }, {
+    "canonical_form" : "remporter"
+  }, {
+    "canonical_form" : "parcourir"
+  }, {
+    "canonical_form" : "paraître"
+  }, {
+    "canonical_form" : "nettoyer"
+  }, {
+    "canonical_form" : "modeler"
+  }, {
+    "canonical_form" : "mesurer"
+  }, {
+    "canonical_form" : "satisfaire"
+  }, {
+    "canonical_form" : "être"
+  }, {
+    "canonical_form" : "évaluer"
+  }, {
+    "canonical_form" : "évacuer"
+  }, {
+    "canonical_form" : "visiter"
+  }, {
+    "canonical_form" : "vendre"
+  }, {
+    "canonical_form" : "valoir"
+  }, {
+    "canonical_form" : "transformer"
+  }, {
+    "canonical_form" : "séduire"
+  }, {
+    "canonical_form" : "soutirer"
+  }, {
+    "canonical_form" : "simuler"
+  }, {
+    "canonical_form" : "semer"
+  }, {
+    "canonical_form" : "lustrer"
+  }, {
+    "canonical_form" : "accoutumer"
+  }, {
+    "canonical_form" : "coûter"
+  }, {
+    "canonical_form" : "courir"
+  }, {
+    "canonical_form" : "couper"
+  }, {
+    "canonical_form" : "convertir"
+  }, {
+    "canonical_form" : "contrefaire"
+  }, {
+    "canonical_form" : "chercher"
+  }, {
+    "canonical_form" : "changer"
+  }, {
+    "canonical_form" : "brûler"
+  }, {
+    "canonical_form" : "astiquer"
+  }, {
+    "canonical_form" : "apprêter"
+  }, {
+    "canonical_form" : "aider"
+  }, {
+    "canonical_form" : "adresser"
+  }, {
+    "canonical_form" : "cueillir"
+  }, {
+    "canonical_form" : "célébrer"
+  }, {
+    "canonical_form" : "jauger"
+  }, {
+    "canonical_form" : "interpréter"
+  }, {
+    "canonical_form" : "instituer"
+  }, {
+    "canonical_form" : "impressionner"
+  }, {
+    "canonical_form" : "imposer"
+  }, {
+    "canonical_form" : "fricoter"
+  }, {
+    "canonical_form" : "foutre"
+  }, {
+    "canonical_form" : "devenir"
+  }, {
+    "canonical_form" : "duper"
+  }, {
+    "canonical_form" : "décider"
+  }, {
+    "canonical_form" : "dévorer"
+  }, {
+    "canonical_form" : "extorquer"
+  }, {
+    "canonical_form" : "faucher"
+  }, {
+    "canonical_form" : "procréer"
+  }, {
+    "canonical_form" : "pisser"
+  }, {
+    "canonical_form" : "piocher"
+  }, {
+    "canonical_form" : "parfaire"
+  }, {
+    "canonical_form" : "mijoter"
+  }, {
+    "canonical_form" : "maquiller"
+  }, {
+    "canonical_form" : "laver"
+  }, {
+    "canonical_form" : "prospecter"
+  }, {
+    "canonical_form" : "prétendre"
+  }, {
+    "canonical_form" : "ranger"
+  }, {
+    "canonical_form" : "récurer"
+  }, {
+    "canonical_form" : "sillonner"
+  }, {
+    "canonical_form" : "élucubrer"
+  }, {
+    "canonical_form" : "équivaloir"
+  }, {
+    "canonical_form" : "instaurer"
+  }, {
+    "canonical_form" : "importer"
+  }, {
+    "canonical_form" : "acquitter"
+  }, {
+    "canonical_form" : "amasser"
+  }, {
+    "canonical_form" : "chier"
+  }, {
+    "canonical_form" : "chiper"
+  }, {
+    "canonical_form" : "cirer"
+  }, {
+    "canonical_form" : "cuire"
+  }, {
+    "canonical_form" : "déféquer"
+  }, {
+    "canonical_form" : "détailler"
+  }, {
+    "canonical_form" : "embobiner"
+  }, {
+    "canonical_form" : "entortiller"
+  }, {
+    "canonical_form" : "fêter"
+  }, {
+    "canonical_form" : "farder"
+  }, {
+    "canonical_form" : "familiariser"
+  }, {
+    "canonical_form" : "entretenir"
+  }, {
+    "canonical_form" : "entreprendre"
+  }, {
+    "canonical_form" : "répliquer"
+  }, {
+    "canonical_form" : "potasser"
+  }, {
+    "canonical_form" : "pondre"
+  }, {
+    "canonical_form" : "perpétrer"
+  }, {
+    "canonical_form" : "peigner"
+  }, {
+    "canonical_form" : "singer"
+  }, {
+    "canonical_form" : "transmuer"
+  }, {
+    "canonical_form" : "uriner"
+  }, {
+    "canonical_form" : "usiner"
+  }, {
+    "canonical_form" : "égaler"
+  }, {
+    "canonical_form" : "épauler"
+  }, {
+    "canonical_form" : "métamorphoser"
+  }, {
+    "canonical_form" : "allouer"
+  }, {
+    "canonical_form" : "chiader"
+  }, {
+    "canonical_form" : "choper"
+  }, {
+    "canonical_form" : "coter"
+  }, {
+    "canonical_form" : "crotter"
+  }, {
+    "canonical_form" : "durer"
+  }, {
+    "canonical_form" : "dégrossir"
+  }, {
+    "canonical_form" : "goupiller"
+  }, {
+    "canonical_form" : "intenter"
+  }, {
+    "canonical_form" : "manufacturer"
+  } ]
+}

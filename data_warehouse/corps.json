@@ -1,0 +1,133 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "corps",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "association",
+    "other_forms" : [ "associations" ]
+  }, {
+    "canonical_form" : "compagnie",
+    "other_forms" : [ "compagnies" ]
+  }, {
+    "canonical_form" : "société",
+    "other_forms" : [ "sociétés" ]
+  }, {
+    "canonical_form" : "unité",
+    "other_forms" : [ "unités" ]
+  }, {
+    "canonical_form" : "peau",
+    "other_forms" : [ "peaux" ]
+  }, {
+    "canonical_form" : "corporation",
+    "other_forms" : [ "corporations" ]
+  }, {
+    "canonical_form" : "communauté",
+    "other_forms" : [ "communautés" ]
+  }, {
+    "canonical_form" : "carcasse",
+    "other_forms" : [ "carcasses" ]
+  }, {
+    "canonical_form" : "troupe",
+    "other_forms" : [ "troupes" ]
+  }, {
+    "canonical_form" : "personne",
+    "other_forms" : [ "personnes" ]
+  }, {
+    "canonical_form" : "homme",
+    "other_forms" : [ "hommes" ]
+  }, {
+    "canonical_form" : "défroque",
+    "other_forms" : [ "défroques" ]
+  }, {
+    "canonical_form" : "congrégation",
+    "other_forms" : [ "congrégations" ]
+  }, {
+    "canonical_form" : "assemblée",
+    "other_forms" : [ "assemblées" ]
+  }, {
+    "canonical_form" : "substance",
+    "other_forms" : [ "substances" ]
+  }, {
+    "canonical_form" : "objet",
+    "other_forms" : [ "objets" ]
+  }, {
+    "canonical_form" : "matière",
+    "other_forms" : [ "matières" ]
+  }, {
+    "canonical_form" : "individu",
+    "other_forms" : [ "individus" ]
+  }, {
+    "canonical_form" : "guenille",
+    "other_forms" : [ "guenilles" ]
+  }, {
+    "canonical_form" : "collège",
+    "other_forms" : [ "collèges" ]
+  }, {
+    "canonical_form" : "chair",
+    "other_forms" : [ "chairs" ]
+  }, {
+    "canonical_form" : "armée",
+    "other_forms" : [ "armées" ]
+  }, {
+    "canonical_form" : "mort",
+    "other_forms" : [ "mortes", "morts" ]
+  }, {
+    "canonical_form" : "mortel",
+    "other_forms" : [ "mortelle", "mortelles", "mortels" ]
+  }, {
+    "canonical_form" : "ordre",
+    "other_forms" : [ "ordres" ]
+  }, {
+    "canonical_form" : "organe",
+    "other_forms" : [ "organes" ]
+  }, {
+    "canonical_form" : "organisme",
+    "other_forms" : [ "organismes" ]
+  }, {
+    "canonical_form" : "principal",
+    "other_forms" : [ "principale", "principales", "principaux" ]
+  }, {
+    "canonical_form" : "reste",
+    "other_forms" : [ "restes" ]
+  }, {
+    "canonical_form" : "régiment",
+    "other_forms" : [ "régiments" ]
+  }, {
+    "canonical_form" : "solide",
+    "other_forms" : [ "solides" ]
+  }, {
+    "canonical_form" : "dépouille",
+    "other_forms" : [ "dépouilles" ]
+  }, {
+    "canonical_form" : "anatomie",
+    "other_forms" : [ "anatomies" ]
+  }, {
+    "canonical_form" : "atome",
+    "other_forms" : [ "atomes" ]
+  }, {
+    "canonical_form" : "cadavre",
+    "other_forms" : [ "cadavres" ]
+  }, {
+    "canonical_form" : "chambre",
+    "other_forms" : [ "chambres" ]
+  }, {
+    "canonical_form" : "collection",
+    "other_forms" : [ "collections" ]
+  }, {
+    "canonical_form" : "composant",
+    "other_forms" : [ "composante", "composantes", "composants" ]
+  }, {
+    "canonical_form" : "confrérie",
+    "other_forms" : [ "confréries" ]
+  }, {
+    "canonical_form" : "coquâtre",
+    "other_forms" : [ "coquâtres" ]
+  }, {
+    "canonical_form" : "corpus",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "tronc",
+    "other_forms" : [ "troncs" ]
+  } ]
+}

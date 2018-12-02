@@ -1,0 +1,34 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "fondateur",
+    "other_forms" : [ "fondateurs", "fondatrice", "fondatrices" ]
+  }, {
+    "canonical_form" : "créateur",
+    "other_forms" : [ "créateurs", "créatrice", "créatrices" ]
+  }, {
+    "canonical_form" : "pionnier",
+    "other_forms" : [ "pionniers", "pionnière", "pionnières" ]
+  }, {
+    "canonical_form" : "innovateur",
+    "other_forms" : [ "innovateurs" ]
+  }, {
+    "canonical_form" : "instaurateur",
+    "other_forms" : [ "instaurateurs", "instauratrice", "instauratrices" ]
+  }, {
+    "canonical_form" : "inventeur",
+    "other_forms" : [ "inventeurs", "inventrice", "inventrices" ]
+  }, {
+    "canonical_form" : "père",
+    "other_forms" : [ "pères" ]
+  }, {
+    "canonical_form" : "auteur",
+    "other_forms" : [ "auteurs" ]
+  }, {
+    "canonical_form" : "bâtisseur",
+    "other_forms" : [ "bâtisseurs" ]
+  }, {
+    "canonical_form" : "chef",
+    "other_forms" : [ "chefs" ]
+  } ]
+}

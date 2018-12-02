@@ -35,7 +35,7 @@ public class JSONWriter {
 	// The JSON file path format...
 	private static final String JSON_FILE_PATH_FORMAT = DATA_WAREHOUSE + (Separator.SLASH).getValue() + JSON_FILE_NAME_EXTENDED_FORMAT;
 
-	public void write(String word) {
+	public void load(String word) {
 
 		FrenchTagger tagger = new FrenchTagger(word);
 

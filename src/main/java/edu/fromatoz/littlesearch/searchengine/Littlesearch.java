@@ -161,7 +161,7 @@ public class Littlesearch {
 	}
 
 	/**
-	 * Searches, in the indexed texts, for the words (which are as a parameter).
+	 * Searches, in the indexed texts, for words (which are as a parameter).
 	 * 
 	 * @param words
 	 *  the set of words which should be searched

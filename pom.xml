@@ -11,6 +11,8 @@
   <url>http://maven.apache.org</url>
 
   <properties>
+    <maven.compiler.target>1.8</maven.compiler.target>
+    <maven.compiler.source>1.8</maven.compiler.source>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <lucene.version>7.5.0</lucene.version>
   </properties>
@@ -28,10 +30,7 @@
               <goal>java</goal>
             </goals>
           </execution>
-        </executions>
-        <configuration>
-          <mainClass>edu.fromatoz.littlesearch.App</mainClass>
-        </configuration>    
+        </executions>   
       </plugin>
     </plugins>
   </build>
@@ -58,6 +57,31 @@
       <artifactId>lucene-test-framework</artifactId>
       <version>${lucene.version}</version>
       <scope>test</scope>
+    </dependency>
+
+    <!-- Dependency for JSoup Java HTML Parser -->
+    <dependency>
+      <groupId>org.jsoup</groupId>
+      <artifactId>jsoup</artifactId>
+      <version>1.11.3</version>
+    </dependency>
+
+    <!-- Dependency for JSON -->
+    <dependency> <!-- Dependency for Jackson annotations -->
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <artifactId>jackson-annotations</artifactId>
+      <version>2.9.7</version>
+    </dependency>
+    <dependency> <!-- Dependency for Jackson databind -->
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <artifactId>jackson-databind</artifactId>
+      <version>2.9.7</version>
+    </dependency>
+
+    <dependency>
+      <groupId>org.apache.commons</groupId>
+      <artifactId>commons-lang3</artifactId>
+      <version>3.8.1</version>
     </dependency>
 
     <dependency>

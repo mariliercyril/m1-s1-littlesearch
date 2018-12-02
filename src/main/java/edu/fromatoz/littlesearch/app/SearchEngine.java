@@ -30,14 +30,15 @@ public class SearchEngine {
 	public static void main(String[] args) {
 
 		// Gives the search words to the engine...
-		String words = "mathématicien";
+		StringBuilder wordsBuilder = new StringBuilder();
+		String words = "";
 		if (args.length > 0) {
-			if (args.length > 1) {
-				System.out.println("Use: ./searchFor \"<words>\"");
-				System.exit(0);
-			} else {
-				words = args[0];
+			for (String word : args) {
+				wordsBuilder.append(word + " ");
 			}
+			words = wordsBuilder.toString();
+		} else {
+			words = "mathématicien";
 		}
 
 		// Indexes the texts...

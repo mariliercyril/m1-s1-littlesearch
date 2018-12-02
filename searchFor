@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# This script allows to use the search engine in a fairly natural way.
+
+mvn exec:java -Dexec.mainClass="edu.fromatoz.littlesearch.app.SearchEngine" -Dexec.args="$1";

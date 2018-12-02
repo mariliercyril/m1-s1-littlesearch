@@ -29,20 +29,19 @@ public class SearchEngine {
 
 	public static void main(String[] args) {
 
-		// Allows to get the words to be searched by the command.
-		StringBuilder wordsBuilder = new StringBuilder();
-		String words = "";
+		// Gives the search words to the engine...
+		String words = "mathématicien";
 		if (args.length > 0) {
-			for (String word : args) {
-				wordsBuilder.append(word + " ");
+			if (args.length > 1) {
+				System.out.println("Use: ./searchFor \"<words>\"");
+				System.exit(0);
+			} else {
+				words = args[0];
 			}
-			words = wordsBuilder.toString();
-		} else {
-			words = "systèmes";
 		}
 
 		// Indexes the texts...
-		if (!Littlesearch.indexTexts()) {
+		if (!(Littlesearch.indexTexts())) {
 			System.exit(1);
 		} else {
 			// If the indexing is successful, searches for words...

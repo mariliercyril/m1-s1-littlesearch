@@ -1,4 +1,4 @@
-package edu.fromatoz.littlesearch;
+package edu.fromatoz.littlesearch.app;
 
 import java.io.File;
 
@@ -7,19 +7,25 @@ import java.util.ListIterator;
 
 import org.apache.lucene.document.Document;
 
+import edu.fromatoz.littlesearch.searchengine.Littlesearch;
+
+import edu.fromatoz.littlesearch.tool.Extension;
+import edu.fromatoz.littlesearch.tool.Separator;
+
 /**
- * This class contains the main method of the application:
- * When we use Littlesearch, the application tries to index the texts and,
- * if the indexing is successful, search for the words entered by the user
- * (in the texts indexed).
+ * The {@code SearchEngine} class is the "main" class of our search engine.
+ * (Lucene is used.)
  * 
  * @author Andrei Zabolotnîi
  * @author Cyril Marilier
  */
-public class App {
+public class SearchEngine {
 
 	// The Text Corpus
-	static final File TEXT_CORPUS = new File("texts");
+	public static final File TEXT_CORPUS = new File("texts");
+
+	private static final String TEXT_FILE_NAME_EXTENDED_FORMAT = "%S" + Separator.POINT.getValue() + Extension.TEXT.getValue();
+	public static final String TEXT_FILE_PATH_FORMAT = TEXT_CORPUS + Separator.SLASH.getValue() + TEXT_FILE_NAME_EXTENDED_FORMAT;
 
 	public static void main(String[] args) {
 
@@ -32,7 +38,7 @@ public class App {
 			}
 			words = wordsBuilder.toString();
 		} else {
-			words = "mathématicien systèmes";
+			words = "systèmes";
 		}
 
 		// Indexes the texts...

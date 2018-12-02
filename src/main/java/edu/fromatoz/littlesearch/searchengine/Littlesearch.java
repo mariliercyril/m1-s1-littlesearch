@@ -1,4 +1,4 @@
-package edu.fromatoz.littlesearch;
+package edu.fromatoz.littlesearch.searchengine;
 
 import java.io.IOException;
 
@@ -41,6 +41,8 @@ import org.apache.lucene.search.TopDocs;
 
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
+
+import edu.fromatoz.littlesearch.app.SearchEngine;
 
 /**
  * The {@code Littlesearch} class defines a search engine.
@@ -99,18 +101,17 @@ public class Littlesearch {
 			indexWriter = new IndexWriter(indexDirectory, indexWriterConfig);
 
 			// Checks whether the TC is a directory...
-			if ((App.TEXT_CORPUS).isDirectory()) {
+			if ((SearchEngine.TEXT_CORPUS).isDirectory()) {
 				// Checks whether the TC (as a directory) is empty...
-				if (((App.TEXT_CORPUS).list()).length > 0) {
+				if (((SearchEngine.TEXT_CORPUS).list()).length > 0) {
 					// Walks in the TC as in a file tree.
-					Files.walkFileTree((App.TEXT_CORPUS).toPath(), new SimpleFileVisitor<Path>() {
+					Files.walkFileTree((SearchEngine.TEXT_CORPUS).toPath(), new SimpleFileVisitor<Path>() {
 						@Override
 						public FileVisitResult visitFile(Path textFilePath, BasicFileAttributes attributes) {
 							// Indexes text in the file...
-							if (index(textFilePath)) {
-								return FileVisitResult.CONTINUE;
-							}
-							return FileVisitResult.TERMINATE;
+							index(textFilePath);
+
+							return FileVisitResult.CONTINUE;
 						}
 					});
 					return true;
@@ -143,7 +144,7 @@ public class Littlesearch {
 	 * 
 	 * @return <i>true</i>, if the indexing of the text in question is successful; <i>false</i>, if it isn't
 	 */
-	private static boolean index(Path textFilePath) {
+	private static void index(Path textFilePath) {
 
 		try {
 			// Constructs a document from the file of which the path which is as a parameter...
@@ -155,10 +156,8 @@ public class Littlesearch {
 			// Indexes the document... (Updates it, if exists...)
 			indexWriter.updateDocument(new Term(path, textFilePath.toString()), doc);
 		} catch (IOException ioe) {
-			return false;
+			ioe.printStackTrace();
 		}
-
-		return true;
 	}
 
 	/**

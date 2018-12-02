@@ -1,0 +1,54 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "permettre"
+  }, {
+    "canonical_form" : "tolérer"
+  }, {
+    "canonical_form" : "autoriser"
+  }, {
+    "canonical_form" : "admettre"
+  }, {
+    "canonical_form" : "consentir"
+  }, {
+    "canonical_form" : "accepter"
+  }, {
+    "canonical_form" : "accorder"
+  }, {
+    "canonical_form" : "donner"
+  }, {
+    "canonical_form" : "acquiescer"
+  }, {
+    "canonical_form" : "concéder"
+  }, {
+    "canonical_form" : "passer"
+  }, {
+    "canonical_form" : "souffrir"
+  }, {
+    "canonical_form" : "laisser"
+  }, {
+    "canonical_form" : "approuver"
+  }, {
+    "canonical_form" : "agréer"
+  }, {
+    "canonical_form" : "daigner"
+  }, {
+    "canonical_form" : "supporter"
+  }, {
+    "canonical_form" : "justifier"
+  }, {
+    "canonical_form" : "dispenser"
+  }, {
+    "canonical_form" : "comporter"
+  }, {
+    "canonical_form" : "aider"
+  }, {
+    "canonical_form" : "endurer"
+  }, {
+    "canonical_form" : "habiliter"
+  }, {
+    "canonical_form" : "légitimer"
+  }, {
+    "canonical_form" : "servir"
+  } ]
+}

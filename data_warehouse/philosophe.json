@@ -1,0 +1,43 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "philosophe",
+    "other_forms" : [ "philosophes" ]
+  }, {
+    "canonical_form" : "calme",
+    "other_forms" : [ "calmes" ]
+  }, {
+    "canonical_form" : "sage",
+    "other_forms" : [ "sages" ]
+  }, {
+    "canonical_form" : "théoricien",
+    "other_forms" : [ "théoricienne", "théoriciennes", "théoriciens" ]
+  }, {
+    "canonical_form" : "savant",
+    "other_forms" : [ "savante", "savantes", "savants" ]
+  }, {
+    "canonical_form" : "penseur",
+    "other_forms" : [ "penseurs" ]
+  }, {
+    "canonical_form" : "péripatéticien",
+    "other_forms" : [ "péripatéticienne", "péripatéticiennes", "péripatéticiens" ]
+  }, {
+    "canonical_form" : "métaphysicien",
+    "other_forms" : [ "métaphysicienne", "métaphysiciennes", "métaphysiciens" ]
+  }, {
+    "canonical_form" : "libertin",
+    "other_forms" : [ "libertine", "libertines", "libertins" ]
+  }, {
+    "canonical_form" : "encyclopédiste",
+    "other_forms" : [ "encyclopédistes" ]
+  }, {
+    "canonical_form" : "contemplateur",
+    "other_forms" : [ "contemplateurs", "contemplatrice", "contemplatrices" ]
+  }, {
+    "canonical_form" : "alchimiste",
+    "other_forms" : [ "alchimistes" ]
+  }, {
+    "canonical_form" : "sérieux",
+    "other_forms" : [ ]
+  } ]
+}

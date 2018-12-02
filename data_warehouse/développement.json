@@ -1,0 +1,229 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "développement",
+    "other_forms" : [ "développements" ]
+  }, {
+    "canonical_form" : "progrès",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "augmentation",
+    "other_forms" : [ "augmentations" ]
+  }, {
+    "canonical_form" : "progression",
+    "other_forms" : [ "progressions" ]
+  }, {
+    "canonical_form" : "accroissement",
+    "other_forms" : [ "accroissements" ]
+  }, {
+    "canonical_form" : "cour",
+    "other_forms" : [ "cours" ]
+  }, {
+    "canonical_form" : "extension",
+    "other_forms" : [ "extensions" ]
+  }, {
+    "canonical_form" : "marche",
+    "other_forms" : [ "marches" ]
+  }, {
+    "canonical_form" : "croissance",
+    "other_forms" : [ "croissances" ]
+  }, {
+    "canonical_form" : "évolution",
+    "other_forms" : [ "évolutions" ]
+  }, {
+    "canonical_form" : "amplification",
+    "other_forms" : [ "amplifications" ]
+  }, {
+    "canonical_form" : "avancement",
+    "other_forms" : [ "avancements" ]
+  }, {
+    "canonical_form" : "processus",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "suite",
+    "other_forms" : [ "suites" ]
+  }, {
+    "canonical_form" : "propagation",
+    "other_forms" : [ "propagations" ]
+  }, {
+    "canonical_form" : "expansion",
+    "other_forms" : [ "expansions" ]
+  }, {
+    "canonical_form" : "agrandissement",
+    "other_forms" : [ "agrandissements" ]
+  }, {
+    "canonical_form" : "transmission",
+    "other_forms" : [ "transmissions" ]
+  }, {
+    "canonical_form" : "paraphrase",
+    "other_forms" : [ "paraphrases" ]
+  }, {
+    "canonical_form" : "essor",
+    "other_forms" : [ "essors" ]
+  }, {
+    "canonical_form" : "déroulement",
+    "other_forms" : [ "déroulements" ]
+  }, {
+    "canonical_form" : "tirade",
+    "other_forms" : [ "tirades" ]
+  }, {
+    "canonical_form" : "prolongement",
+    "other_forms" : [ "prolongements" ]
+  }, {
+    "canonical_form" : "mouvement",
+    "other_forms" : [ "mouvements" ]
+  }, {
+    "canonical_form" : "exposé",
+    "other_forms" : [ "exposés" ]
+  }, {
+    "canonical_form" : "explication",
+    "other_forms" : [ "explications" ]
+  }, {
+    "canonical_form" : "épanouissement",
+    "other_forms" : [ "épanouissements" ]
+  }, {
+    "canonical_form" : "train",
+    "other_forms" : [ "trains" ]
+  }, {
+    "canonical_form" : "redoublement",
+    "other_forms" : [ "redoublements" ]
+  }, {
+    "canonical_form" : "ornement",
+    "other_forms" : [ "ornements" ]
+  }, {
+    "canonical_form" : "montée",
+    "other_forms" : [ "montées" ]
+  }, {
+    "canonical_form" : "enrichissement",
+    "other_forms" : [ "enrichissements" ]
+  }, {
+    "canonical_form" : "détail",
+    "other_forms" : [ "détails" ]
+  }, {
+    "canonical_form" : "ampleur",
+    "other_forms" : [ "ampleurs" ]
+  }, {
+    "canonical_form" : "aggravation",
+    "other_forms" : [ "aggravations" ]
+  }, {
+    "canonical_form" : "action",
+    "other_forms" : [ "actions" ]
+  }, {
+    "canonical_form" : "ricochet",
+    "other_forms" : [ "ricochets" ]
+  }, {
+    "canonical_form" : "récit",
+    "other_forms" : [ "récits" ]
+  }, {
+    "canonical_form" : "répercussion",
+    "other_forms" : [ "répercussions" ]
+  }, {
+    "canonical_form" : "traité",
+    "other_forms" : [ "traités" ]
+  }, {
+    "canonical_form" : "transformation",
+    "other_forms" : [ "transformations" ]
+  }, {
+    "canonical_form" : "élargissement",
+    "other_forms" : [ "élargissements" ]
+  }, {
+    "canonical_form" : "retentissement",
+    "other_forms" : [ "retentissements" ]
+  }, {
+    "canonical_form" : "précision",
+    "other_forms" : [ "précisions" ]
+  }, {
+    "canonical_form" : "procès",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "allongement",
+    "other_forms" : [ "allongements" ]
+  }, {
+    "canonical_form" : "approfondissement",
+    "other_forms" : [ "approfondissements" ]
+  }, {
+    "canonical_form" : "broderie",
+    "other_forms" : [ "broderies" ]
+  }, {
+    "canonical_form" : "déploiement",
+    "other_forms" : [ "déploiements" ]
+  }, {
+    "canonical_form" : "grossissement",
+    "other_forms" : [ "grossissements" ]
+  }, {
+    "canonical_form" : "longueur",
+    "other_forms" : [ "longueurs" ]
+  }, {
+    "canonical_form" : "maturité",
+    "other_forms" : [ "maturités" ]
+  }, {
+    "canonical_form" : "naissance",
+    "other_forms" : [ "naissances" ]
+  }, {
+    "canonical_form" : "narration",
+    "other_forms" : [ "narrations" ]
+  }, {
+    "canonical_form" : "pousse",
+    "other_forms" : [ "pousses" ]
+  }, {
+    "canonical_form" : "projection",
+    "other_forms" : [ "projections" ]
+  }, {
+    "canonical_form" : "prospérité",
+    "other_forms" : [ "prospérités" ]
+  }, {
+    "canonical_form" : "présentation",
+    "other_forms" : [ "présentations" ]
+  }, {
+    "canonical_form" : "rayonnement",
+    "other_forms" : [ "rayonnements" ]
+  }, {
+    "canonical_form" : "suite",
+    "other_forms" : [ "suites" ]
+  }, {
+    "canonical_form" : "tartine",
+    "other_forms" : [ "tartines" ]
+  }, {
+    "canonical_form" : "hypertrophie",
+    "other_forms" : [ "hypertrophies" ]
+  }, {
+    "canonical_form" : "hypergénèse",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "adulte",
+    "other_forms" : [ "adultes" ]
+  }, {
+    "canonical_form" : "déduction",
+    "other_forms" : [ "déductions" ]
+  }, {
+    "canonical_form" : "dépliage",
+    "other_forms" : [ "dépliages", "dépliement", "dépliements" ]
+  }, {
+    "canonical_form" : "dépliement",
+    "other_forms" : [ "dépliements" ]
+  }, {
+    "canonical_form" : "embellissement",
+    "other_forms" : [ "embellissements" ]
+  }, {
+    "canonical_form" : "enchaînement",
+    "other_forms" : [ "enchaînements" ]
+  }, {
+    "canonical_form" : "fente",
+    "other_forms" : [ "fentes" ]
+  }, {
+    "canonical_form" : "financement",
+    "other_forms" : [ "financements" ]
+  }, {
+    "canonical_form" : "formation",
+    "other_forms" : [ "formations" ]
+  }, {
+    "canonical_form" : "germination",
+    "other_forms" : [ "germinations" ]
+  }, {
+    "canonical_form" : "gigantisme",
+    "other_forms" : [ "gigantismes" ]
+  }, {
+    "canonical_form" : "éclaircissement",
+    "other_forms" : [ "éclaircissements" ]
+  } ]
+}

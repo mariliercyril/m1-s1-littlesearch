@@ -1,0 +1,151 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "calcul",
+    "other_forms" : [ "calculs" ]
+  }, {
+    "canonical_form" : "combinaison",
+    "other_forms" : [ "combinaisons" ]
+  }, {
+    "canonical_form" : "pierre",
+    "other_forms" : [ "pierres" ]
+  }, {
+    "canonical_form" : "évaluation",
+    "other_forms" : [ "évaluations" ]
+  }, {
+    "canonical_form" : "supputation",
+    "other_forms" : [ "supputations" ]
+  }, {
+    "canonical_form" : "projet",
+    "other_forms" : [ "projets" ]
+  }, {
+    "canonical_form" : "opération",
+    "other_forms" : [ "opérations" ]
+  }, {
+    "canonical_form" : "moyen",
+    "other_forms" : [ "moyenne", "moyennes", "moyens" ]
+  }, {
+    "canonical_form" : "intrigue",
+    "other_forms" : [ "intrigues" ]
+  }, {
+    "canonical_form" : "dessein",
+    "other_forms" : [ "desseins" ]
+  }, {
+    "canonical_form" : "arithmétique",
+    "other_forms" : [ "arithmétiques" ]
+  }, {
+    "canonical_form" : "spéculation",
+    "other_forms" : [ "spéculations" ]
+  }, {
+    "canonical_form" : "mesure",
+    "other_forms" : [ "mesures" ]
+  }, {
+    "canonical_form" : "mathématique",
+    "other_forms" : [ "mathématiques" ]
+  }, {
+    "canonical_form" : "manoeuvre",
+    "other_forms" : [ "manoeuvres" ]
+  }, {
+    "canonical_form" : "manigance",
+    "other_forms" : [ "manigances" ]
+  }, {
+    "canonical_form" : "intention",
+    "other_forms" : [ "intentions" ]
+  }, {
+    "canonical_form" : "gravier",
+    "other_forms" : [ "graviers" ]
+  }, {
+    "canonical_form" : "estimation",
+    "other_forms" : [ "estimations" ]
+  }, {
+    "canonical_form" : "détermination",
+    "other_forms" : [ "déterminations" ]
+  }, {
+    "canonical_form" : "compte",
+    "other_forms" : [ "comptes" ]
+  }, {
+    "canonical_form" : "machiavélisme",
+    "other_forms" : [ "machiavélismes" ]
+  }, {
+    "canonical_form" : "menées",
+    "other_forms" : [ "menée" ]
+  }, {
+    "canonical_form" : "prévision",
+    "other_forms" : [ "prévisions" ]
+  }, {
+    "canonical_form" : "sable",
+    "other_forms" : [ "sables" ]
+  }, {
+    "canonical_form" : "gravelle",
+    "other_forms" : [ "gravelles" ]
+  }, {
+    "canonical_form" : "décompte",
+    "other_forms" : [ "décomptes" ]
+  }, {
+    "canonical_form" : "division",
+    "other_forms" : [ "divisions" ]
+  }, {
+    "canonical_form" : "chiffre",
+    "other_forms" : [ "chiffres" ]
+  }, {
+    "canonical_form" : "arrière-pensée",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "appréciation",
+    "other_forms" : [ "appréciations" ]
+  }, {
+    "canonical_form" : "analyse",
+    "other_forms" : [ "analyses" ]
+  }, {
+    "canonical_form" : "hippolithe",
+    "other_forms" : [ "hippolithes" ]
+  }, {
+    "canonical_form" : "lithiase",
+    "other_forms" : [ "lithiases" ]
+  }, {
+    "canonical_form" : "multiplication",
+    "other_forms" : [ "multiplications" ]
+  }, {
+    "canonical_form" : "planning",
+    "other_forms" : [ "plannings" ]
+  }, {
+    "canonical_form" : "politique",
+    "other_forms" : [ "politiques" ]
+  }, {
+    "canonical_form" : "soustraction",
+    "other_forms" : [ "soustractions" ]
+  }, {
+    "canonical_form" : "concrétion",
+    "other_forms" : [ "concrétions" ]
+  }, {
+    "canonical_form" : "computation",
+    "other_forms" : [ "computations" ]
+  }, {
+    "canonical_form" : "comput",
+    "other_forms" : [ "computs" ]
+  }, {
+    "canonical_form" : "bézoard",
+    "other_forms" : [ "besoar", "besoars", "bézoards" ]
+  }, {
+    "canonical_form" : "attente",
+    "other_forms" : [ "attentes" ]
+  }, {
+    "canonical_form" : "arène",
+    "other_forms" : [ "arènes" ]
+  }, {
+    "canonical_form" : "approximation",
+    "other_forms" : [ "approximations" ]
+  }, {
+    "canonical_form" : "algèbre",
+    "other_forms" : [ "algèbres" ]
+  }, {
+    "canonical_form" : "algorithme",
+    "other_forms" : [ "algorithmes" ]
+  }, {
+    "canonical_form" : "addition",
+    "other_forms" : [ "additions" ]
+  }, {
+    "canonical_form" : "théorie",
+    "other_forms" : [ "théories" ]
+  } ]
+}

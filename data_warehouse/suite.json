@@ -1,0 +1,256 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "suite",
+    "other_forms" : [ "suites" ]
+  }, {
+    "canonical_form" : "succession",
+    "other_forms" : [ "successions" ]
+  }, {
+    "canonical_form" : "série",
+    "other_forms" : [ "séries" ]
+  }, {
+    "canonical_form" : "conséquence",
+    "other_forms" : [ "conséquences" ]
+  }, {
+    "canonical_form" : "enchaînement",
+    "other_forms" : [ "enchaînements" ]
+  }, {
+    "canonical_form" : "ribambelle",
+    "other_forms" : [ "ribambelles" ]
+  }, {
+    "canonical_form" : "prolongement",
+    "other_forms" : [ "prolongements" ]
+  }, {
+    "canonical_form" : "chaîne",
+    "other_forms" : [ "chaînes" ]
+  }, {
+    "canonical_form" : "résultat",
+    "other_forms" : [ "résultats" ]
+  }, {
+    "canonical_form" : "répercussion",
+    "other_forms" : [ "répercussions" ]
+  }, {
+    "canonical_form" : "ricochet",
+    "other_forms" : [ "ricochets" ]
+  }, {
+    "canonical_form" : "liaison",
+    "other_forms" : [ "liaisons" ]
+  }, {
+    "canonical_form" : "file",
+    "other_forms" : [ "files" ]
+  }, {
+    "canonical_form" : "effet",
+    "other_forms" : [ "effets" ]
+  }, {
+    "canonical_form" : "cour",
+    "other_forms" : [ "cours" ]
+  }, {
+    "canonical_form" : "cortège",
+    "other_forms" : [ "cortèges" ]
+  }, {
+    "canonical_form" : "chapelet",
+    "other_forms" : [ "chapelets" ]
+  }, {
+    "canonical_form" : "développement",
+    "other_forms" : [ "développements" ]
+  }, {
+    "canonical_form" : "incidence",
+    "other_forms" : [ "incidences" ]
+  }, {
+    "canonical_form" : "continuation",
+    "other_forms" : [ "continuations" ]
+  }, {
+    "canonical_form" : "cascade",
+    "other_forms" : [ "cascades" ]
+  }, {
+    "canonical_form" : "trame",
+    "other_forms" : [ "trames" ]
+  }, {
+    "canonical_form" : "train",
+    "other_forms" : [ "trains" ]
+  }, {
+    "canonical_form" : "kyrielle",
+    "other_forms" : [ "kyrielles" ]
+  }, {
+    "canonical_form" : "fruit",
+    "other_forms" : [ "fruits" ]
+  }, {
+    "canonical_form" : "filiation",
+    "other_forms" : [ "filiations" ]
+  }, {
+    "canonical_form" : "contrecoup",
+    "other_forms" : [ "contrecoups" ]
+  }, {
+    "canonical_form" : "continuité",
+    "other_forms" : [ "continuités" ]
+  }, {
+    "canonical_form" : "séquelle",
+    "other_forms" : [ "séquelles" ]
+  }, {
+    "canonical_form" : "reste",
+    "other_forms" : [ "restes" ]
+  }, {
+    "canonical_form" : "procession",
+    "other_forms" : [ "processions" ]
+  }, {
+    "canonical_form" : "maison",
+    "other_forms" : [ "maisons" ]
+  }, {
+    "canonical_form" : "liste",
+    "other_forms" : [ "listes" ]
+  }, {
+    "canonical_form" : "lignée",
+    "other_forms" : [ "lignées" ]
+  }, {
+    "canonical_form" : "lendemain",
+    "other_forms" : [ "lendemains" ]
+  }, {
+    "canonical_form" : "futur",
+    "other_forms" : [ "future", "futures", "futurs" ]
+  }, {
+    "canonical_form" : "accompagnement",
+    "other_forms" : [ "accompagnements" ]
+  }, {
+    "canonical_form" : "défilé",
+    "other_forms" : [ "défilés" ]
+  }, {
+    "canonical_form" : "dépendance",
+    "other_forms" : [ "dépendances" ]
+  }, {
+    "canonical_form" : "déroulement",
+    "other_forms" : [ "déroulements" ]
+  }, {
+    "canonical_form" : "fil",
+    "other_forms" : [ "fils" ]
+  }, {
+    "canonical_form" : "rançon",
+    "other_forms" : [ "rançons" ]
+  }, {
+    "canonical_form" : "reliquat",
+    "other_forms" : [ "reliquats" ]
+  }, {
+    "canonical_form" : "répertoire",
+    "other_forms" : [ "répertoires" ]
+  }, {
+    "canonical_form" : "survivance",
+    "other_forms" : [ "survivances" ]
+  }, {
+    "canonical_form" : "théorie",
+    "other_forms" : [ "théories" ]
+  }, {
+    "canonical_form" : "tirade",
+    "other_forms" : [ "tirades" ]
+  }, {
+    "canonical_form" : "échelle",
+    "other_forms" : [ "échelles" ]
+  }, {
+    "canonical_form" : "énumération",
+    "other_forms" : [ "énumérations" ]
+  }, {
+    "canonical_form" : "équipage",
+    "other_forms" : [ "équipages" ]
+  }, {
+    "canonical_form" : "progression",
+    "other_forms" : [ "progressions" ]
+  }, {
+    "canonical_form" : "aboutissement",
+    "other_forms" : [ "aboutissements" ]
+  }, {
+    "canonical_form" : "appareil",
+    "other_forms" : [ "appareils" ]
+  }, {
+    "canonical_form" : "collection",
+    "other_forms" : [ "collections" ]
+  }, {
+    "canonical_form" : "course",
+    "other_forms" : [ "courses" ]
+  }, {
+    "canonical_form" : "domestique",
+    "other_forms" : [ "domestiques" ]
+  }, {
+    "canonical_form" : "engrenage",
+    "other_forms" : [ "engrenages" ]
+  }, {
+    "canonical_form" : "lien",
+    "other_forms" : [ "liens" ]
+  }, {
+    "canonical_form" : "postérité",
+    "other_forms" : [ "postérités" ]
+  }, {
+    "canonical_form" : "poursuite",
+    "other_forms" : [ "poursuites" ]
+  }, {
+    "canonical_form" : "processus",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "ordre",
+    "other_forms" : [ "ordres" ]
+  }, {
+    "canonical_form" : "généalogie",
+    "other_forms" : [ "généalogies" ]
+  }, {
+    "canonical_form" : "gens",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "gamme",
+    "other_forms" : [ "gammes" ]
+  }, {
+    "canonical_form" : "portée",
+    "other_forms" : [ "portées" ]
+  }, {
+    "canonical_form" : "prolongation",
+    "other_forms" : [ "prolongations" ]
+  }, {
+    "canonical_form" : "queue",
+    "other_forms" : [ "queues" ]
+  }, {
+    "canonical_form" : "suivant",
+    "other_forms" : [ "suivante", "suivantes", "suivants" ]
+  }, {
+    "canonical_form" : "séquence",
+    "other_forms" : [ "séquences" ]
+  }, {
+    "canonical_form" : "fixité",
+    "other_forms" : [ "fixités" ]
+  }, {
+    "canonical_form" : "escorte",
+    "other_forms" : [ "escortes" ]
+  }, {
+    "canonical_form" : "entourage",
+    "other_forms" : [ "entourages" ]
+  }, {
+    "canonical_form" : "alternance",
+    "other_forms" : [ "alternances" ]
+  }, {
+    "canonical_form" : "alternative",
+    "other_forms" : [ "alternatives" ]
+  }, {
+    "canonical_form" : "apanage",
+    "other_forms" : [ "apanages" ]
+  }, {
+    "canonical_form" : "cohérence",
+    "other_forms" : [ "cohérences" ]
+  }, {
+    "canonical_form" : "cohésion",
+    "other_forms" : [ "cohésions" ]
+  }, {
+    "canonical_form" : "concaténation",
+    "other_forms" : [ "concaténations" ]
+  }, {
+    "canonical_form" : "corollaire",
+    "other_forms" : [ "corollaires" ]
+  }, {
+    "canonical_form" : "cour",
+    "other_forms" : [ "cours" ]
+  }, {
+    "canonical_form" : "cycle",
+    "other_forms" : [ "cycles" ]
+  }, {
+    "canonical_form" : "enfilade",
+    "other_forms" : [ "enfilades" ]
+  }, {
+    "canonical_form" : "éclaboussure",
+    "other_forms" : [ "éclaboussures" ]
+  } ]
+}

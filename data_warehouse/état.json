@@ -1,0 +1,235 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "état",
+    "other_forms" : [ "états" ]
+  }, {
+    "canonical_form" : "situation",
+    "other_forms" : [ "situations" ]
+  }, {
+    "canonical_form" : "condition",
+    "other_forms" : [ "conditions" ]
+  }, {
+    "canonical_form" : "position",
+    "other_forms" : [ "positions" ]
+  }, {
+    "canonical_form" : "qualité",
+    "other_forms" : [ "qualités" ]
+  }, {
+    "canonical_form" : "fonction",
+    "other_forms" : [ "fonctions" ]
+  }, {
+    "canonical_form" : "rang",
+    "other_forms" : [ "rangs" ]
+  }, {
+    "canonical_form" : "profession",
+    "other_forms" : [ "professions" ]
+  }, {
+    "canonical_form" : "liste",
+    "other_forms" : [ "listes" ]
+  }, {
+    "canonical_form" : "disposition",
+    "other_forms" : [ "dispositions" ]
+  }, {
+    "canonical_form" : "métier",
+    "other_forms" : [ "métiers" ]
+  }, {
+    "canonical_form" : "tableau",
+    "other_forms" : [ "tableaux" ]
+  }, {
+    "canonical_form" : "répertoire",
+    "other_forms" : [ "répertoires" ]
+  }, {
+    "canonical_form" : "relevé",
+    "other_forms" : [ "relevés" ]
+  }, {
+    "canonical_form" : "puissance",
+    "other_forms" : [ "puissances" ]
+  }, {
+    "canonical_form" : "pays",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "note",
+    "other_forms" : [ "notes" ]
+  }, {
+    "canonical_form" : "nation",
+    "other_forms" : [ "nations" ]
+  }, {
+    "canonical_form" : "inventaire",
+    "other_forms" : [ "inventaires" ]
+  }, {
+    "canonical_form" : "empire",
+    "other_forms" : [ "empires" ]
+  }, {
+    "canonical_form" : "travail",
+    "other_forms" : [ "travaux" ]
+  }, {
+    "canonical_form" : "rôle",
+    "other_forms" : [ "rôles" ]
+  }, {
+    "canonical_form" : "nature",
+    "other_forms" : [ "natures" ]
+  }, {
+    "canonical_form" : "gouvernement",
+    "other_forms" : [ "gouvernements" ]
+  }, {
+    "canonical_form" : "forme",
+    "other_forms" : [ "formes" ]
+  }, {
+    "canonical_form" : "dénombrement",
+    "other_forms" : [ "dénombrements" ]
+  }, {
+    "canonical_form" : "classe",
+    "other_forms" : [ "classes" ]
+  }, {
+    "canonical_form" : "catalogue",
+    "other_forms" : [ "catalogues" ]
+  }, {
+    "canonical_form" : "vie",
+    "other_forms" : [ "vies" ]
+  }, {
+    "canonical_form" : "sorte",
+    "other_forms" : [ "sortes" ]
+  }, {
+    "canonical_form" : "sort",
+    "other_forms" : [ "sorts" ]
+  }, {
+    "canonical_form" : "emploi",
+    "other_forms" : [ "emplois" ]
+  }, {
+    "canonical_form" : "bordereau",
+    "other_forms" : [ "bordereaux" ]
+  }, {
+    "canonical_form" : "bilan",
+    "other_forms" : [ "bilans" ]
+  }, {
+    "canonical_form" : "exposé",
+    "other_forms" : [ "exposés" ]
+  }, {
+    "canonical_form" : "facture",
+    "other_forms" : [ "factures" ]
+  }, {
+    "canonical_form" : "mémoire",
+    "other_forms" : [ "mémoires" ]
+  }, {
+    "canonical_form" : "république",
+    "other_forms" : [ "républiques" ]
+  }, {
+    "canonical_form" : "statut",
+    "other_forms" : [ "statuts" ]
+  }, {
+    "canonical_form" : "existence",
+    "other_forms" : [ "existences" ]
+  }, {
+    "canonical_form" : "espèce",
+    "other_forms" : [ "espèces" ]
+  }, {
+    "canonical_form" : "déclaration",
+    "other_forms" : [ "déclarations" ]
+  }, {
+    "canonical_form" : "art",
+    "other_forms" : [ "arts" ]
+  }, {
+    "canonical_form" : "bulletin",
+    "other_forms" : [ "bulletins" ]
+  }, {
+    "canonical_form" : "carrière",
+    "other_forms" : [ "carrières" ]
+  }, {
+    "canonical_form" : "cas",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "conjoncture",
+    "other_forms" : [ "conjonctures" ]
+  }, {
+    "canonical_form" : "description",
+    "other_forms" : [ "descriptions" ]
+  }, {
+    "canonical_form" : "destin",
+    "other_forms" : [ "destins" ]
+  }, {
+    "canonical_form" : "posture",
+    "other_forms" : [ "postures" ]
+  }, {
+    "canonical_form" : "province",
+    "other_forms" : [ "provinces" ]
+  }, {
+    "canonical_form" : "royaume",
+    "other_forms" : [ "royaumes" ]
+  }, {
+    "canonical_form" : "régime",
+    "other_forms" : [ "régimes" ]
+  }, {
+    "canonical_form" : "société",
+    "other_forms" : [ "sociétés" ]
+  }, {
+    "canonical_form" : "souveraineté",
+    "other_forms" : [ "souverainetés" ]
+  }, {
+    "canonical_form" : "statistique",
+    "other_forms" : [ "statistiques" ]
+  }, {
+    "canonical_form" : "volée",
+    "other_forms" : [ "volées" ]
+  }, {
+    "canonical_form" : "patrie",
+    "other_forms" : [ "patries" ]
+  }, {
+    "canonical_form" : "modalité",
+    "other_forms" : [ "modalités" ]
+  }, {
+    "canonical_form" : "administration",
+    "other_forms" : [ "administrations" ]
+  }, {
+    "canonical_form" : "attitude",
+    "other_forms" : [ "attitudes" ]
+  }, {
+    "canonical_form" : "champ",
+    "other_forms" : [ "champs" ]
+  }, {
+    "canonical_form" : "cité",
+    "other_forms" : [ "cités" ]
+  }, {
+    "canonical_form" : "communauté",
+    "other_forms" : [ "communautés" ]
+  }, {
+    "canonical_form" : "compte rendu",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "couronne",
+    "other_forms" : [ "couronnes" ]
+  }, {
+    "canonical_form" : "fortune",
+    "other_forms" : [ "fortunes" ]
+  }, {
+    "canonical_form" : "recensement",
+    "other_forms" : [ "recensements" ]
+  }, {
+    "canonical_form" : "statu quo",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "tempérament",
+    "other_forms" : [ "tempéraments" ]
+  }, {
+    "canonical_form" : "territoire",
+    "other_forms" : [ "territoires" ]
+  }, {
+    "canonical_form" : "questionnaire",
+    "other_forms" : [ "questionnaires" ]
+  }, {
+    "canonical_form" : "politique",
+    "other_forms" : [ "politiques" ]
+  }, {
+    "canonical_form" : "nomenclature",
+    "other_forms" : [ "nomenclatures" ]
+  }, {
+    "canonical_form" : "naissance",
+    "other_forms" : [ "naissances" ]
+  }, {
+    "canonical_form" : "division",
+    "other_forms" : [ "divisions" ]
+  }, {
+    "canonical_form" : "équipage",
+    "other_forms" : [ "équipages" ]
+  } ]
+}

@@ -1,0 +1,124 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "analyse",
+    "other_forms" : [ "analyses" ]
+  }, {
+    "canonical_form" : "examen",
+    "other_forms" : [ "examens" ]
+  }, {
+    "canonical_form" : "observation",
+    "other_forms" : [ "observations" ]
+  }, {
+    "canonical_form" : "résumé",
+    "other_forms" : [ "résumés" ]
+  }, {
+    "canonical_form" : "sommaire",
+    "other_forms" : [ "sommaires" ]
+  }, {
+    "canonical_form" : "précis",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "note",
+    "other_forms" : [ "notes" ]
+  }, {
+    "canonical_form" : "étude",
+    "other_forms" : [ "études" ]
+  }, {
+    "canonical_form" : "introspection",
+    "other_forms" : [ "introspections" ]
+  }, {
+    "canonical_form" : "division",
+    "other_forms" : [ "divisions" ]
+  }, {
+    "canonical_form" : "approfondissement",
+    "other_forms" : [ "approfondissements" ]
+  }, {
+    "canonical_form" : "rapport",
+    "other_forms" : [ "rapports" ]
+  }, {
+    "canonical_form" : "raisonnement",
+    "other_forms" : [ "raisonnements" ]
+  }, {
+    "canonical_form" : "psychanalyse",
+    "other_forms" : [ "psychanalyses" ]
+  }, {
+    "canonical_form" : "notice",
+    "other_forms" : [ "notices" ]
+  }, {
+    "canonical_form" : "mathématique",
+    "other_forms" : [ "mathématiques" ]
+  }, {
+    "canonical_form" : "exploration",
+    "other_forms" : [ "explorations" ]
+  }, {
+    "canonical_form" : "essai",
+    "other_forms" : [ "essais" ]
+  }, {
+    "canonical_form" : "décomposition",
+    "other_forms" : [ "décompositions" ]
+  }, {
+    "canonical_form" : "compte rendu",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "compendium",
+    "other_forms" : [ "compendiums" ]
+  }, {
+    "canonical_form" : "calcul",
+    "other_forms" : [ "calculs" ]
+  }, {
+    "canonical_form" : "induction",
+    "other_forms" : [ "inductions" ]
+  }, {
+    "canonical_form" : "pesée",
+    "other_forms" : [ "pesées" ]
+  }, {
+    "canonical_form" : "prélèvement",
+    "other_forms" : [ "prélèvements" ]
+  }, {
+    "canonical_form" : "raccourci",
+    "other_forms" : [ "raccourcis" ]
+  }, {
+    "canonical_form" : "résolution",
+    "other_forms" : [ "résolutions" ]
+  }, {
+    "canonical_form" : "thérapie",
+    "other_forms" : [ "thérapies" ]
+  }, {
+    "canonical_form" : "vérification",
+    "other_forms" : [ "vérifications" ]
+  }, {
+    "canonical_form" : "index",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "exposé",
+    "other_forms" : [ "exposés" ]
+  }, {
+    "canonical_form" : "dépouillement",
+    "other_forms" : [ "dépouillements" ]
+  }, {
+    "canonical_form" : "dissociation",
+    "other_forms" : [ "dissociations" ]
+  }, {
+    "canonical_form" : "dissection",
+    "other_forms" : [ "dissections" ]
+  }, {
+    "canonical_form" : "digest",
+    "other_forms" : [ "digests" ]
+  }, {
+    "canonical_form" : "comparaison",
+    "other_forms" : [ "comparaisons" ]
+  }, {
+    "canonical_form" : "codex",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "autopsie",
+    "other_forms" : [ "autopsies" ]
+  }, {
+    "canonical_form" : "abstract",
+    "other_forms" : [ "abstracts" ]
+  }, {
+    "canonical_form" : "énumération",
+    "other_forms" : [ "énumérations" ]
+  } ]
+}

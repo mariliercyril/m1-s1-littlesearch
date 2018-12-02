@@ -1,0 +1,25 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "allemand",
+    "other_forms" : [ "allemande", "allemandes", "allemands" ]
+  }, {
+    "canonical_form" : "fridolin",
+    "other_forms" : [ "fridolins" ]
+  }, {
+    "canonical_form" : "frisé",
+    "other_forms" : [ "frisés" ]
+  }, {
+    "canonical_form" : "germanique",
+    "other_forms" : [ "germaniques" ]
+  }, {
+    "canonical_form" : "teuton",
+    "other_forms" : [ "teutonne", "teutonnes", "teutons" ]
+  }, {
+    "canonical_form" : "fritz",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "boche",
+    "other_forms" : [ "boches" ]
+  } ]
+}

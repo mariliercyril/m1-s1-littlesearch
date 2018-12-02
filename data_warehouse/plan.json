@@ -1,0 +1,16 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "plan",
+    "other_forms" : [ "plane", "planes", "plans" ]
+  }, {
+    "canonical_form" : "perspective",
+    "other_forms" : [ "perspectif", "perspectifs", "perspectives" ]
+  }, {
+    "canonical_form" : "uni",
+    "other_forms" : [ "unie", "unies", "unis" ]
+  }, {
+    "canonical_form" : "brouillon",
+    "other_forms" : [ "brouillonne", "brouillonnes", "brouillons" ]
+  } ]
+}

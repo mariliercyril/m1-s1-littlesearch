@@ -1,0 +1,88 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "contribution",
+    "other_forms" : [ "contributions" ]
+  }, {
+    "canonical_form" : "apport",
+    "other_forms" : [ "apports" ]
+  }, {
+    "canonical_form" : "impôt",
+    "other_forms" : [ "impôts" ]
+  }, {
+    "canonical_form" : "participation",
+    "other_forms" : [ "participations" ]
+  }, {
+    "canonical_form" : "cotisation",
+    "other_forms" : [ "cotisations" ]
+  }, {
+    "canonical_form" : "quote-part",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "quota",
+    "other_forms" : [ "quotas" ]
+  }, {
+    "canonical_form" : "aide",
+    "other_forms" : [ "aides" ]
+  }, {
+    "canonical_form" : "écot",
+    "other_forms" : [ "écots" ]
+  }, {
+    "canonical_form" : "taxe",
+    "other_forms" : [ "taxes" ]
+  }, {
+    "canonical_form" : "part",
+    "other_forms" : [ "parts" ]
+  }, {
+    "canonical_form" : "imposition",
+    "other_forms" : [ "impositions" ]
+  }, {
+    "canonical_form" : "dépense",
+    "other_forms" : [ "dépenses" ]
+  }, {
+    "canonical_form" : "coopération",
+    "other_forms" : [ "coopérations" ]
+  }, {
+    "canonical_form" : "appoint",
+    "other_forms" : [ "appoints" ]
+  }, {
+    "canonical_form" : "subvention",
+    "other_forms" : [ "subventions" ]
+  }, {
+    "canonical_form" : "subside",
+    "other_forms" : [ "subsides" ]
+  }, {
+    "canonical_form" : "service",
+    "other_forms" : [ "services" ]
+  }, {
+    "canonical_form" : "finance",
+    "other_forms" : [ "finances" ]
+  }, {
+    "canonical_form" : "contingent",
+    "other_forms" : [ "contingents" ]
+  }, {
+    "canonical_form" : "collaboration",
+    "other_forms" : [ "collaborations" ]
+  }, {
+    "canonical_form" : "recouvrement",
+    "other_forms" : [ "recouvrements" ]
+  }, {
+    "canonical_form" : "pénitence",
+    "other_forms" : [ "pénitences" ]
+  }, {
+    "canonical_form" : "prélèvement",
+    "other_forms" : [ "prélèvements" ]
+  }, {
+    "canonical_form" : "droit",
+    "other_forms" : [ "droite", "droites", "droits" ]
+  }, {
+    "canonical_form" : "confession",
+    "other_forms" : [ "confessions" ]
+  }, {
+    "canonical_form" : "componction",
+    "other_forms" : [ "componctions" ]
+  }, {
+    "canonical_form" : "tribut",
+    "other_forms" : [ "tributs" ]
+  } ]
+}

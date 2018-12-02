@@ -1,0 +1,46 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "nombreux",
+    "other_forms" : [ "nombreuse", "nombreuses" ]
+  }, {
+    "canonical_form" : "abondant",
+    "other_forms" : [ "abondante", "abondantes", "abondants" ]
+  }, {
+    "canonical_form" : "grand",
+    "other_forms" : [ "grande", "grandes", "grands" ]
+  }, {
+    "canonical_form" : "gros",
+    "other_forms" : [ "grosse", "grosses" ]
+  }, {
+    "canonical_form" : "vaste",
+    "other_forms" : [ "vastes" ]
+  }, {
+    "canonical_form" : "fort",
+    "other_forms" : [ "forte", "fortes", "forts" ]
+  }, {
+    "canonical_form" : "considérable",
+    "other_forms" : [ "considérables" ]
+  }, {
+    "canonical_form" : "dense",
+    "other_forms" : [ "denses" ]
+  }, {
+    "canonical_form" : "populeux",
+    "other_forms" : [ "populeuse", "populeuses" ]
+  }, {
+    "canonical_form" : "maint",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "innombrable",
+    "other_forms" : [ "innombrables" ]
+  }, {
+    "canonical_form" : "harmonieux",
+    "other_forms" : [ "harmonieuse", "harmonieuses" ]
+  }, {
+    "canonical_form" : "fréquent",
+    "other_forms" : [ "fréquente", "fréquentes", "fréquents" ]
+  }, {
+    "canonical_form" : "varié",
+    "other_forms" : [ "variée", "variées", "variés" ]
+  } ]
+}

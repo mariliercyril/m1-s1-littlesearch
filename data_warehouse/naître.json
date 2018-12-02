@@ -1,0 +1,46 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "naître"
+  }, {
+    "canonical_form" : "poindre"
+  }, {
+    "canonical_form" : "surgir"
+  }, {
+    "canonical_form" : "apparaître"
+  }, {
+    "canonical_form" : "venir"
+  }, {
+    "canonical_form" : "percer"
+  }, {
+    "canonical_form" : "éclore"
+  }, {
+    "canonical_form" : "sortir"
+  }, {
+    "canonical_form" : "paraître"
+  }, {
+    "canonical_form" : "sourdre"
+  }, {
+    "canonical_form" : "commencer"
+  }, {
+    "canonical_form" : "découler"
+  }, {
+    "canonical_form" : "pointer"
+  }, {
+    "canonical_form" : "partir"
+  }, {
+    "canonical_form" : "croître"
+  }, {
+    "canonical_form" : "survenir"
+  }, {
+    "canonical_form" : "résulter"
+  }, {
+    "canonical_form" : "provenir"
+  }, {
+    "canonical_form" : "perler"
+  }, {
+    "canonical_form" : "germer"
+  }, {
+    "canonical_form" : "descendre"
+  } ]
+}

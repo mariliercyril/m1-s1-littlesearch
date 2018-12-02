@@ -1,0 +1,22 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "physicien",
+    "other_forms" : [ "physicienne", "physiciennes", "physiciens" ]
+  }, {
+    "canonical_form" : "atomiste",
+    "other_forms" : [ "atomistes" ]
+  }, {
+    "canonical_form" : "escamoteur",
+    "other_forms" : [ "escamoteurs", "escamoteuse", "escamoteuses" ]
+  }, {
+    "canonical_form" : "illusionniste",
+    "other_forms" : [ "illusionnistes" ]
+  }, {
+    "canonical_form" : "médecin",
+    "other_forms" : [ "médecins" ]
+  }, {
+    "canonical_form" : "prestidigitateur",
+    "other_forms" : [ "prestidigitateurs", "prestidigitatrice", "prestidigitatrices" ]
+  } ]
+}

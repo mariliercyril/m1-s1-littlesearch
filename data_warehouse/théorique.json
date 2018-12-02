@@ -1,0 +1,49 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "théorique",
+    "other_forms" : [ "théoriques" ]
+  }, {
+    "canonical_form" : "chimérique",
+    "other_forms" : [ "chimériques" ]
+  }, {
+    "canonical_form" : "rationnel",
+    "other_forms" : [ "rationnelle", "rationnelles", "rationnels" ]
+  }, {
+    "canonical_form" : "platonique",
+    "other_forms" : [ "platoniques" ]
+  }, {
+    "canonical_form" : "idéal",
+    "other_forms" : [ "idéale", "idéales", "idéals", "idéaux" ]
+  }, {
+    "canonical_form" : "vaseux",
+    "other_forms" : [ "vaseuse", "vaseuses" ]
+  }, {
+    "canonical_form" : "onirique",
+    "other_forms" : [ "oniriques" ]
+  }, {
+    "canonical_form" : "irréalisable",
+    "other_forms" : [ "irréalisables" ]
+  }, {
+    "canonical_form" : "hypothétique",
+    "other_forms" : [ "hypothétiques" ]
+  }, {
+    "canonical_form" : "gnosique",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "fumeux",
+    "other_forms" : [ "fumeuse", "fumeuses" ]
+  }, {
+    "canonical_form" : "formel",
+    "other_forms" : [ "formelle", "formelles", "formels" ]
+  }, {
+    "canonical_form" : "fictif",
+    "other_forms" : [ "fictifs", "fictive", "fictives" ]
+  }, {
+    "canonical_form" : "doctrinal",
+    "other_forms" : [ "doctrinale", "doctrinales", "doctrinaux" ]
+  }, {
+    "canonical_form" : "conceptuel",
+    "other_forms" : [ "conceptuelle", "conceptuelles", "conceptuels" ]
+  } ]
+}

@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "avril",
+    "other_forms" : [ "avrils" ]
+  }, {
+    "canonical_form" : "aurore",
+    "other_forms" : [ "aurores" ]
+  }, {
+    "canonical_form" : "printemps",
+    "other_forms" : [ ]
+  } ]
+}

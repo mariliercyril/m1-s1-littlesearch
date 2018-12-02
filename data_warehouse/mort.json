@@ -1,0 +1,148 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "mort",
+    "other_forms" : [ "mortes", "morts" ]
+  }, {
+    "canonical_form" : "anéantissement",
+    "other_forms" : [ "anéantissements" ]
+  }, {
+    "canonical_form" : "disparition",
+    "other_forms" : [ "disparitions" ]
+  }, {
+    "canonical_form" : "passé",
+    "other_forms" : [ "passés" ]
+  }, {
+    "canonical_form" : "fin",
+    "other_forms" : [ "fins" ]
+  }, {
+    "canonical_form" : "effondrement",
+    "other_forms" : [ "effondrements" ]
+  }, {
+    "canonical_form" : "ruine",
+    "other_forms" : [ "ruines" ]
+  }, {
+    "canonical_form" : "vide",
+    "other_forms" : [ "vides" ]
+  }, {
+    "canonical_form" : "perte",
+    "other_forms" : [ "pertes" ]
+  }, {
+    "canonical_form" : "défunt",
+    "other_forms" : [ "défunte", "défuntes", "défunts" ]
+  }, {
+    "canonical_form" : "chute",
+    "other_forms" : [ "chutes" ]
+  }, {
+    "canonical_form" : "mourant",
+    "other_forms" : [ "mourante", "mourantes", "mourants" ]
+  }, {
+    "canonical_form" : "désert",
+    "other_forms" : [ "déserts" ]
+  }, {
+    "canonical_form" : "destruction",
+    "other_forms" : [ "destructions" ]
+  }, {
+    "canonical_form" : "agonie",
+    "other_forms" : [ "agonies" ]
+  }, {
+    "canonical_form" : "écroulement",
+    "other_forms" : [ "écroulements" ]
+  }, {
+    "canonical_form" : "cadavre",
+    "other_forms" : [ "cadavres" ]
+  }, {
+    "canonical_form" : "dormant",
+    "other_forms" : [ "dormants" ]
+  }, {
+    "canonical_form" : "décès",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "enterrement",
+    "other_forms" : [ "enterrements" ]
+  }, {
+    "canonical_form" : "extinction",
+    "other_forms" : [ "extinctions" ]
+  }, {
+    "canonical_form" : "silencieux",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "plongeon",
+    "other_forms" : [ "plongeons" ]
+  }, {
+    "canonical_form" : "spectre",
+    "other_forms" : [ "spectres" ]
+  }, {
+    "canonical_form" : "tombeau",
+    "other_forms" : [ "tombeaux" ]
+  }, {
+    "canonical_form" : "trépas",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "victime",
+    "other_forms" : [ "victimes" ]
+  }, {
+    "canonical_form" : "plat",
+    "other_forms" : [ "plats" ]
+  }, {
+    "canonical_form" : "ombre",
+    "other_forms" : [ "ombres" ]
+  }, {
+    "canonical_form" : "camarde",
+    "other_forms" : [ "camardes" ]
+  }, {
+    "canonical_form" : "décomposition",
+    "other_forms" : [ "décompositions" ]
+  }, {
+    "canonical_form" : "esprit",
+    "other_forms" : [ "esprits" ]
+  }, {
+    "canonical_form" : "fantôme",
+    "other_forms" : [ "fantômes" ]
+  }, {
+    "canonical_form" : "faucheuse",
+    "other_forms" : [ "faucheuses" ]
+  }, {
+    "canonical_form" : "néant",
+    "other_forms" : [ "néants" ]
+  }, {
+    "canonical_form" : "mânes",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "macchabée",
+    "other_forms" : [ "macchabées" ]
+  }, {
+    "canonical_form" : "macchab",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "malemort",
+    "other_forms" : [ "malemorts" ]
+  }, {
+    "canonical_form" : "reste",
+    "other_forms" : [ "restes" ]
+  }, {
+    "canonical_form" : "supplice",
+    "other_forms" : [ "supplices" ]
+  }, {
+    "canonical_form" : "tombe",
+    "other_forms" : [ "tombes" ]
+  }, {
+    "canonical_form" : "charogne",
+    "other_forms" : [ "charognes" ]
+  }, {
+    "canonical_form" : "corps",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "dépouille",
+    "other_forms" : [ "dépouilles" ]
+  }, {
+    "canonical_form" : "exécution",
+    "other_forms" : [ "exécutions" ]
+  }, {
+    "canonical_form" : "feu",
+    "other_forms" : [ "feux" ]
+  }, {
+    "canonical_form" : "torture",
+    "other_forms" : [ "tortures" ]
+  } ]
+}

@@ -1,0 +1,31 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "hameau",
+    "other_forms" : [ "hameaux" ]
+  }, {
+    "canonical_form" : "village",
+    "other_forms" : [ "villages" ]
+  }, {
+    "canonical_form" : "agglomération",
+    "other_forms" : [ "agglomérations" ]
+  }, {
+    "canonical_form" : "bourg",
+    "other_forms" : [ "bourgs" ]
+  }, {
+    "canonical_form" : "bourgade",
+    "other_forms" : [ "bourgades" ]
+  }, {
+    "canonical_form" : "lieu-dit",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "localité",
+    "other_forms" : [ "localités" ]
+  }, {
+    "canonical_form" : "paroisse",
+    "other_forms" : [ "paroisses" ]
+  }, {
+    "canonical_form" : "écart",
+    "other_forms" : [ "écarts" ]
+  } ]
+}

@@ -1,0 +1,133 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "certain",
+    "other_forms" : [ "certaine", "certaines", "certains" ]
+  }, {
+    "canonical_form" : "évident",
+    "other_forms" : [ "évidente", "évidentes", "évidents" ]
+  }, {
+    "canonical_form" : "sûr",
+    "other_forms" : [ "sûre", "sûres", "sûrs" ]
+  }, {
+    "canonical_form" : "incontestable",
+    "other_forms" : [ "incontestables" ]
+  }, {
+    "canonical_form" : "indubitable",
+    "other_forms" : [ "indubitables" ]
+  }, {
+    "canonical_form" : "manifeste",
+    "other_forms" : [ "manifestes" ]
+  }, {
+    "canonical_form" : "exact",
+    "other_forms" : [ "exacte", "exactes", "exacts" ]
+  }, {
+    "canonical_form" : "irréfragable",
+    "other_forms" : [ "irréfragables" ]
+  }, {
+    "canonical_form" : "formel",
+    "other_forms" : [ "formelle", "formelles", "formels" ]
+  }, {
+    "canonical_form" : "sincère",
+    "other_forms" : [ "sincères" ]
+  }, {
+    "canonical_form" : "tangible",
+    "other_forms" : [ "tangibles" ]
+  }, {
+    "canonical_form" : "indiscutable",
+    "other_forms" : [ "indiscutables" ]
+  }, {
+    "canonical_form" : "indéniable",
+    "other_forms" : [ "indéniables" ]
+  }, {
+    "canonical_form" : "notoire",
+    "other_forms" : [ "notoires" ]
+  }, {
+    "canonical_form" : "net",
+    "other_forms" : [ "nets", "nette", "nettes" ]
+  }, {
+    "canonical_form" : "patent",
+    "other_forms" : [ "patente", "patentes", "patents" ]
+  }, {
+    "canonical_form" : "véridique",
+    "other_forms" : [ "véridiques" ]
+  }, {
+    "canonical_form" : "flagrant",
+    "other_forms" : [ "flagrante", "flagrantes", "flagrants" ]
+  }, {
+    "canonical_form" : "décisif",
+    "other_forms" : [ "décisifs", "décisive", "décisives" ]
+  }, {
+    "canonical_form" : "stable",
+    "other_forms" : [ "stables" ]
+  }, {
+    "canonical_form" : "probant",
+    "other_forms" : [ "probante", "probantes", "probants" ]
+  }, {
+    "canonical_form" : "irréfutable",
+    "other_forms" : [ "irréfutables" ]
+  }, {
+    "canonical_form" : "irrécusable",
+    "other_forms" : [ "irrécusables" ]
+  }, {
+    "canonical_form" : "constant",
+    "other_forms" : [ "constante", "constantes", "constants" ]
+  }, {
+    "canonical_form" : "péremptoire",
+    "other_forms" : [ "péremptoires" ]
+  }, {
+    "canonical_form" : "visible",
+    "other_forms" : [ "visibles" ]
+  }, {
+    "canonical_form" : "infaillible",
+    "other_forms" : [ "infaillibles" ]
+  }, {
+    "canonical_form" : "dogmatique",
+    "other_forms" : [ "dogmatiques" ]
+  }, {
+    "canonical_form" : "inattaquable",
+    "other_forms" : [ "inattaquables" ]
+  }, {
+    "canonical_form" : "palpable",
+    "other_forms" : [ "palpables" ]
+  }, {
+    "canonical_form" : "rigoureux",
+    "other_forms" : [ "rigoureuse", "rigoureuses" ]
+  }, {
+    "canonical_form" : "tranquille",
+    "other_forms" : [ "tranquilles" ]
+  }, {
+    "canonical_form" : "efficace",
+    "other_forms" : [ "efficaces" ]
+  }, {
+    "canonical_form" : "effectif",
+    "other_forms" : [ "effectifs", "effective", "effectives" ]
+  }, {
+    "canonical_form" : "incontesté",
+    "other_forms" : [ "incontestée", "incontestées", "incontestés" ]
+  }, {
+    "canonical_form" : "invariable",
+    "other_forms" : [ "invariables" ]
+  }, {
+    "canonical_form" : "inéluctable",
+    "other_forms" : [ "inéluctables" ]
+  }, {
+    "canonical_form" : "inévitable",
+    "other_forms" : [ "inévitables" ]
+  }, {
+    "canonical_form" : "immanquable",
+    "other_forms" : [ "immanquables" ]
+  }, {
+    "canonical_form" : "relatif",
+    "other_forms" : [ "relatifs", "relative", "relatives" ]
+  }, {
+    "canonical_form" : "quelque",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "obligatoire",
+    "other_forms" : [ "obligatoires" ]
+  }, {
+    "canonical_form" : "tel",
+    "other_forms" : [ ]
+  } ]
+}

@@ -1,0 +1,49 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "générale",
+    "other_forms" : [ "générales" ]
+  }, {
+    "canonical_form" : "chef",
+    "other_forms" : [ "chefs" ]
+  }, {
+    "canonical_form" : "collectif",
+    "other_forms" : [ "collectifs", "collective", "collectives" ]
+  }, {
+    "canonical_form" : "universel",
+    "other_forms" : [ "universels" ]
+  }, {
+    "canonical_form" : "vague",
+    "other_forms" : [ "vagues" ]
+  }, {
+    "canonical_form" : "total",
+    "other_forms" : [ "totaux" ]
+  }, {
+    "canonical_form" : "supérieur",
+    "other_forms" : [ "supérieure", "supérieures", "supérieurs" ]
+  }, {
+    "canonical_form" : "international",
+    "other_forms" : [ "internationale", "internationales", "internationaux" ]
+  }, {
+    "canonical_form" : "large",
+    "other_forms" : [ "larges" ]
+  }, {
+    "canonical_form" : "ordinaire",
+    "other_forms" : [ "ordinaires" ]
+  }, {
+    "canonical_form" : "stratège",
+    "other_forms" : [ "stratèges" ]
+  }, {
+    "canonical_form" : "générique",
+    "other_forms" : [ "génériques" ]
+  }, {
+    "canonical_form" : "généralissime",
+    "other_forms" : [ "généralissimes" ]
+  }, {
+    "canonical_form" : "conducteur",
+    "other_forms" : [ "conducteurs", "conductrice", "conductrices" ]
+  }, {
+    "canonical_form" : "amiral",
+    "other_forms" : [ "amiraux" ]
+  } ]
+}

@@ -1,0 +1,100 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "commun",
+    "other_forms" : [ "commune", "communes", "communs" ]
+  }, {
+    "canonical_form" : "trivial",
+    "other_forms" : [ "triviale", "triviales", "triviaux" ]
+  }, {
+    "canonical_form" : "courant",
+    "other_forms" : [ "courante", "courantes", "courants" ]
+  }, {
+    "canonical_form" : "médiocre",
+    "other_forms" : [ "médiocres" ]
+  }, {
+    "canonical_form" : "prosaïque",
+    "other_forms" : [ "prosaïques" ]
+  }, {
+    "canonical_form" : "populaire",
+    "other_forms" : [ "populaires" ]
+  }, {
+    "canonical_form" : "grossier",
+    "other_forms" : [ "grossiers", "grossière", "grossières" ]
+  }, {
+    "canonical_form" : "public",
+    "other_forms" : [ "publics", "publique", "publiques" ]
+  }, {
+    "canonical_form" : "quelconque",
+    "other_forms" : [ "quelconques" ]
+  }, {
+    "canonical_form" : "populacier",
+    "other_forms" : [ "populaciers", "populacière", "populacières" ]
+  }, {
+    "canonical_form" : "habituel",
+    "other_forms" : [ "habituelle", "habituelles", "habituels" ]
+  }, {
+    "canonical_form" : "vil",
+    "other_forms" : [ "vile", "viles", "vils" ]
+  }, {
+    "canonical_form" : "usité",
+    "other_forms" : [ "usitée", "usitées", "usités" ]
+  }, {
+    "canonical_form" : "gros",
+    "other_forms" : [ "grosse", "grosses" ]
+  }, {
+    "canonical_form" : "familier",
+    "other_forms" : [ "familiers", "familière", "familières" ]
+  }, {
+    "canonical_form" : "contigu",
+    "other_forms" : [ "contigus", "contiguë", "contiguës" ]
+  }, {
+    "canonical_form" : "mitoyen",
+    "other_forms" : [ "mitoyenne", "mitoyennes", "mitoyens" ]
+  }, {
+    "canonical_form" : "unanime",
+    "other_forms" : [ "unanimes" ]
+  }, {
+    "canonical_form" : "identique",
+    "other_forms" : [ "identiques" ]
+  }, {
+    "canonical_form" : "fréquent",
+    "other_forms" : [ "fréquente", "fréquentes", "fréquents" ]
+  }, {
+    "canonical_form" : "comparable",
+    "other_forms" : [ "comparables" ]
+  }, {
+    "canonical_form" : "analogique",
+    "other_forms" : [ "analogiques" ]
+  }, {
+    "canonical_form" : "abondant",
+    "other_forms" : [ "abondante", "abondantes", "abondants" ]
+  }, {
+    "canonical_form" : "popu",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "même",
+    "other_forms" : [ "mêmes" ]
+  }, {
+    "canonical_form" : "simultané",
+    "other_forms" : [ "simultanée", "simultanées", "simultanés" ]
+  }, {
+    "canonical_form" : "utilitaire",
+    "other_forms" : [ "utilitaires" ]
+  }, {
+    "canonical_form" : "appellatif",
+    "other_forms" : [ "appellatifs", "appellative", "appellatives" ]
+  }, {
+    "canonical_form" : "communal",
+    "other_forms" : [ "communale", "communales", "communaux" ]
+  }, {
+    "canonical_form" : "démocratique",
+    "other_forms" : [ "démocratiques" ]
+  }, {
+    "canonical_form" : "indivis",
+    "other_forms" : [ "indivise", "indivises" ]
+  }, {
+    "canonical_form" : "inélégant",
+    "other_forms" : [ "inélégante", "inélégantes", "inélégants" ]
+  } ]
+}

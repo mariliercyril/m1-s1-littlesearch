@@ -1,0 +1,8 @@
+edu.fromatoz.littlesearch.app
+edu.fromatoz.littlesearch.dataintegrator
+edu.fromatoz.littlesearch.dataintegrator.controller
+edu.fromatoz.littlesearch.dataintegrator.model
+edu.fromatoz.littlesearch.dataintegrator.model.entity
+edu.fromatoz.littlesearch.dataintegrator.model.entity.word
+edu.fromatoz.littlesearch.searchengine
+edu.fromatoz.littlesearch.tool

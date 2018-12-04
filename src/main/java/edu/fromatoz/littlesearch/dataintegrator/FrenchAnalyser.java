@@ -19,76 +19,136 @@ public class FrenchAnalyser {
 		this.text = text;
 	}
 
-	public Set<String> getToken() {
+	/**
+	 * Returns a set of <b>tokens</b> from the text in question.
+	 * <p>
+	 * Gets the <i>tokens</i> after performing the following scheduling of tasks:
+	 * <ol>
+	 * <li><i>remove all the signs of punctuation</i> (by the method "<b>unpunctuate()</b>");</li>
+	 * <li><i>filter the digits</i> (by the method "<b>filterDigits()</b>");</li>
+	 * <li><i>tokenize the text</i> (by the method "<b>tokenize()</b>"), task which returns a first set of <i>tokens</i>;</li>
+	 * <li><i>filter the stop words</i> (by the method "<b>filterStopWords(</b>tokens<b>)</b>");</li>
+	 * <li><i>filter the proper nouns</i> (by the method "<b>filterProperNouns(</b>tokens<b>)</b>");</li>
+	 * <li><i>disambiguate the verb "est"</i> (by the method "<b>disambiguate(</b>tokens<b>,</b> "est"<b>,</b> "être"<b>)</b>");</li>
+	 * <li><i>disambiguate the word "a"</i> (by the method "<b>disambiguate(</b>tokens<b>,</b> "a"<b>,</b> "avoir"<b>)</b>");</li>
+	 * </ol>
+	 * 
+	 * @return a set of tokens from the text as a parameter
+	 */
+	public Set<String> getTokens() {
 
-		// Removes all the signs of punctuation...
+		// Does the task 1: Removes all the signs of punctuation...
 		unpunctuate();
-		// Filters the digits...
+		// Does the task 2: Filters the digits...
 		// TODO: POSSIBLE FEATURE: To develop a NER (Named-Entity Recognition) for digital data.
 		filterDigits();
-		// Tokenizes the text
-		Set<String> token = tokenize();
-		// Filters the stop words
-		token = filterStopWords(token);
-		// Filters the proper names
+		// Does the task 3: Tokenizes the text
+		Set<String> tokens = tokenize();
+		// Does the task 4: Filters the stop words
+		tokens = filterStopWords(tokens);
+		// Does the task 5: Filters the proper nouns
 		// TODO: POSSIBLE FEATURE: To develop a NER (Named-Entity Recognition) for proper noun.
-		token = filterProperNouns(token);
-		// Disambiguates about the verb "être"
-		token = disambiguate(token, "être", "est");
-		// Disambiguates about the verb "avoir"
-		token = disambiguate(token, "avoir", "a");
+		tokens = filterProperNouns(tokens);
+		// Does the task 6: Disambiguates the verb "est"
+		tokens = disambiguate(tokens, "est", "être");
+		// Does the task 7: Disambiguates the verb "a"
+		tokens = disambiguate(tokens, "a", "avoir");
 
-		return token;
+		return tokens;
 	}
 
+	/**
+	 * Removes all the signs of punctuation.
+	 */
 	private void unpunctuate() {
 
 		text = text.replaceAll("[\\.\\?!,;:\\(\\)\\[\\]\\{\\}\"'«»]", " ");
 	}
 
+	/**
+	 * Filter the digits.
+	 */
 	private void filterDigits() {
 
 		text = text.replaceAll("\\d", " ");
 	}
 
+	/**
+	 * Returns a first version of the set of tokens.
+	 * 
+	 * @return a first version of the set of tokens
+	 */
 	private Set<String> tokenize() {
 
 		return new TreeSet<>(Arrays.asList(text.split(" ")));
 	}
 
-	private Set<String> filterStopWords(Set<String> token) {
+	/**
+	 * Filter the stop words and returns a new version of the set of tokens.
+	 * 
+	 * @param tokens
+	 * 	a version of the set of tokens
+	 * 
+	 * @return a new version of the set of tokens (it could be the previous version,
+	 * the version which is as a parameter of the method)
+	 */
+	private Set<String> filterStopWords(Set<String> tokens) {
 
 		for (StopFrenchWords stopFrenchWords : StopFrenchWords.values()) {
-			(stopFrenchWords.getStopWords()).stream().forEach(s -> {
-				token.removeIf(w -> w.equals(s));
+			(stopFrenchWords.getStopWords()).stream().forEach(w -> {
+				tokens.removeIf(t -> t.equals(w));
 			});
 		}
 
-		token.removeIf(w -> w.isEmpty());
+		tokens.removeIf(t -> t.isEmpty());
 
-		return token;
+		return tokens;
 	}
 
-	private Set<String> filterProperNouns(Set<String> token) {
+	/**
+	 * Filter the proper nouns and returns a new version of the set of tokens.
+	 * 
+	 * @param tokens
+	 * 	a version of the set of tokens
+	 * 
+	 * @return a new version of the set of tokens (it could be the previous version,
+	 * the version which is as a parameter of the method)
+	 */
+	private Set<String> filterProperNouns(Set<String> tokens) {
 
-		token.removeIf(w -> (String.valueOf(w.charAt(0))).matches("[A-Z]"));
+		tokens.removeIf(t -> (String.valueOf(t.charAt(0))).matches("[A-Z]"));
 
-		return token;
+		return tokens;
 	}
 
-	private Set<String> disambiguate(Set<String> token, String unambiguousWord, String ambiguousWord) {
+	/**
+	 * Disambiguate a word, <i>w</i>, which is contained by the set of tokens
+	 * and returns a new version of the set of tokens.
+	 * 
+	 * @param tokens
+	 * 	a version of the set of tokens
+	 * @param ambiguousWord
+	 *  the word to be disambiguated
+	 * @param unambiguousWord
+	 *  a word for disambiguating the word in question
+	 * 
+	 * @return a new version of the set of tokens (it could be the previous version,
+	 * the version which is as a parameter of the method)
+	 */
+	private Set<String> disambiguate(Set<String> tokens, String ambiguousWord, String unambiguousWord) {
 
-		if (token.contains(ambiguousWord)) {
-			token.add(unambiguousWord);
-			token.remove(ambiguousWord);
+		if (tokens.contains(ambiguousWord)) {
+			tokens.add(unambiguousWord);
+			tokens.remove(ambiguousWord);
 		}
 
-		return token;
+		return tokens;
 	}
 
 	/**
 	 * A stop-French-words, such as "le".
-	 * <p>{@code StopFrenchWords} is an enum representing current stop French words distributed into parts of speech:
+	 * <p>
+	 * {@code StopFrenchWords} is an enum representing current stop French words distributed into parts of speech:
 	 * <ul>
 	 * <li>DEFINITE ARTICLES</li>
 	 * <li>INDEFINITE ARTICLES</li>
@@ -96,16 +156,27 @@ public class FrenchAnalyser {
 	 * <li>OTHER STOP WORDS</li>
 	 * <li>...</li>
 	 * </ul>
-	 * </p>
 	 * 
 	 * @author Andrei Zabolotnîi
 	 * @author Cyril Marilier
 	 */
 	private enum StopFrenchWords {
 
+		/**
+		 * The singleton instance for the <b>definite articles</b>.
+		 */
 		DEFINITE_ARTICLES("le", "la", "les"),
+		/**
+		 * The singleton instance for the <b>indefinite articles</b>.
+		 */
 		INDEFINITE_ARTICLES("un", "une", "des"),
+		/**
+		 * The singleton instance for <b>other articles</b>.
+		 */
 		OTHER_ARTICLES("l", "d", "de", "du"),
+		/**
+		 * The singleton instance for <b>other stop words</b>.
+		 */
 		OTHER_STOP_WORDS("à", "ici", "là");
 
 		private final String[] stopWords;

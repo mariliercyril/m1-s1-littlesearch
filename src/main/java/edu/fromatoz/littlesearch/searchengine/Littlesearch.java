@@ -47,7 +47,8 @@ import edu.fromatoz.littlesearch.app.SearchEngine;
 /**
  * The {@code Littlesearch} class defines a search engine.
  * <p>
- * Therefore, this class provides the methods for indexing then searching:<ul>
+ * Therefore, this class provides the methods for indexing then searching:
+ * <ul>
  * <li>{@code index(String... texts)}</li>
  * <li>{@code search(String words)}</li>
  * </ul>
@@ -101,11 +102,11 @@ public class Littlesearch {
 			indexWriter = new IndexWriter(indexDirectory, indexWriterConfig);
 
 			// Checks whether the TC is a directory...
-			if ((SearchEngine.TEXT_CORPUS).isDirectory()) {
+			if ((SearchEngine.TEXT_CORPUS_DIRECTORY).isDirectory()) {
 				// Checks whether the TC (as a directory) is empty...
-				if (((SearchEngine.TEXT_CORPUS).list()).length > 0) {
+				if (((SearchEngine.TEXT_CORPUS_DIRECTORY).list()).length > 0) {
 					// Walks in the TC as in a file tree.
-					Files.walkFileTree((SearchEngine.TEXT_CORPUS).toPath(), new SimpleFileVisitor<Path>() {
+					Files.walkFileTree((SearchEngine.TEXT_CORPUS_DIRECTORY).toPath(), new SimpleFileVisitor<Path>() {
 						@Override
 						public FileVisitResult visitFile(Path textFilePath, BasicFileAttributes attributes) {
 							// Indexes text in the file...
@@ -141,8 +142,6 @@ public class Littlesearch {
 	 * 
 	 * @param textFilePath
 	 *  the path of a text file
-	 * 
-	 * @return <i>true</i>, if the indexing of the text in question is successful; <i>false</i>, if it isn't
 	 */
 	private static void index(Path textFilePath) {
 

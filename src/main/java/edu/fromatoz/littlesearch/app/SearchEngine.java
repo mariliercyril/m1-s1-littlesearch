@@ -21,12 +21,30 @@ import edu.fromatoz.littlesearch.tool.Separator;
  */
 public class SearchEngine {
 
-	// The Text Corpus
-	public static final File TEXT_CORPUS = new File("texts");
+	/**
+	 * The name of the directory of the Text Corpus.
+	 */
+	private static final String TEXT_CORPUS_DIRECTORY_NAME = "texts";
+	/**
+	 * The directory of the Text Corpus.
+	 */
+	public static final File TEXT_CORPUS_DIRECTORY = new File(TEXT_CORPUS_DIRECTORY_NAME);
 
-	private static final String TEXT_FILE_NAME_EXTENDED_FORMAT = "%S" + Separator.POINT.getValue() + Extension.TEXT.getValue();
-	public static final String TEXT_FILE_PATH_FORMAT = TEXT_CORPUS + Separator.SLASH.getValue() + TEXT_FILE_NAME_EXTENDED_FORMAT;
+	/**
+	 * Format of the extended name of a text file.
+	 */
+	private static final String TEXT_FILE_EXTENDED_NAME_FORMAT = "%S" + Separator.POINT.getValue() + Extension.TEXT.getValue();
+	/**
+	 * Format of the path of a text file.
+	 */
+	public static final String TEXT_FILE_PATH_FORMAT = TEXT_CORPUS_DIRECTORY + Separator.SLASH.getValue() + TEXT_FILE_EXTENDED_NAME_FORMAT;
 
+	/**
+	 * Allows an user to search for words into the text of the corpus.
+	 * 
+	 * @param args
+	 *  the words which we would to find
+	 */
 	public static void main(String[] args) {
 
 		// Gives the search words to the engine...

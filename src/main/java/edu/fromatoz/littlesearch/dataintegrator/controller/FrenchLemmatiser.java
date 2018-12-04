@@ -138,8 +138,6 @@ public class FrenchLemmatiser {
 	 * 
 	 * @param singularForm
 	 *  a singular form (the canonical form, for example)
-	 * 
-	 * @return at least the plural form from the singular form in question, unless the word is invariable
 	 */
 	private void getPluralFormFrom(String singularForm) {
 

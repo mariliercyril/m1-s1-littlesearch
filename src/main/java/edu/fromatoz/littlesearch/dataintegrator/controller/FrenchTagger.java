@@ -52,6 +52,9 @@ public class FrenchTagger {
 	/**
 	 * Returns the text which should contain an indication of the part of speech of a word (as a parameter).
 	 * 
+	 * @param word
+	 *  the word which we would to get the part of speech
+	 * 
 	 * @return the text which should contain an indication of the part of speech of the word in question
 	 */
 	private String getHTMLElementTextForPartOfSpeech(String word) {
@@ -64,6 +67,9 @@ public class FrenchTagger {
 
 	/**
 	 * Returns the canonical form of a word...
+	 * 
+	 * @param word
+	 *  the word which we would to get the canonical form
 	 * 
 	 * @return the canonical form of the word in question
 	 */

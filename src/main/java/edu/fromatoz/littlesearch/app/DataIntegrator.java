@@ -100,7 +100,7 @@ public class DataIntegrator {
 				// Tokenizes the current paragraph...
 				FrenchAnalyser frenchAnalyser = new FrenchAnalyser(paragraph);
 				// Gets the token after analysing the current paragraph
-				Set<String> words = frenchAnalyser.getToken();
+				Set<String> words = frenchAnalyser.getTokens();
 				for (String word : words) {
 					// For monitoring...
 					System.out.println(word);

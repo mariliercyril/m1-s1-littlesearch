@@ -2,7 +2,7 @@
 
 # This script allows to use the search engine in a fairly natural way.
 
-words=$1;
+words="$*";
 
 words=${words//à/\\u00e0};
 words=${words//â/\\u00e2};

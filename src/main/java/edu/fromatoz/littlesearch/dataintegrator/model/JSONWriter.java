@@ -49,7 +49,7 @@ public class JSONWriter {
 					 */
 					ObjectWriter objectWripper = (new ObjectMapper()).writerWithDefaultPrettyPrinter();
 					try {
-						objectWripper.writeValue(new OutputStreamWriter(new FileOutputStream(jsonFile), StandardCharsets.ISO_8859_1), synonymsSet);
+						objectWripper.writeValue(new OutputStreamWriter(new FileOutputStream(jsonFile), StandardCharsets.UTF_8), synonymsSet);
 						// TODO: To replace by log...
 						System.out.println(objectWripper.writeValueAsString(synonymsSet));
 					} catch (JsonProcessingException jpe) {

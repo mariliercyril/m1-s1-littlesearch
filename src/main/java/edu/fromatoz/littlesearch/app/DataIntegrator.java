@@ -81,12 +81,7 @@ public class DataIntegrator {
 		// Gives the text file name to the integrator...
 		String textFileName = "THALES";
 		if (args.length > 0) {
-			if (args.length > 1) {
-				System.out.println("Use: ./integrate \"<text_file_name>\"");
-				System.exit(0);
-			} else {
-				textFileName = args[0];
-			}
+			textFileName = args[0];
 		}
 		String textFilePath = String.format(SearchEngine.TEXT_FILE_PATH_FORMAT, textFileName);
 

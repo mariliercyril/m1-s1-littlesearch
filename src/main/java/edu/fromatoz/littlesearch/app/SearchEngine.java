@@ -60,7 +60,8 @@ public class SearchEngine {
 			words = wordsBuilder.toString();
 			words = words.substring(0, words.lastIndexOf(" "));
 		} else {
-			words = "systèmes";
+			System.out.println("Use: ./searchOf \"<words>\"");
+			System.exit(0);
 		}
 
 		// Indexes the texts...

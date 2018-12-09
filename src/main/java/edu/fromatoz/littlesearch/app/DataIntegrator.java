@@ -79,7 +79,7 @@ public class DataIntegrator {
 	public static void main(String[] args) {
 
 		// Gives the text file name to the integrator...
-		String textFileName = "BERNHARD_RIEMANN";
+		String textFileName = "THALES";
 		if (args.length > 0) {
 			if (args.length > 1) {
 				System.out.println("Use: ./integrate \"<text_file_name>\"");

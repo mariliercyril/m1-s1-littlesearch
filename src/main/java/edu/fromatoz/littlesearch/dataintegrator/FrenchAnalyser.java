@@ -167,6 +167,14 @@ public class FrenchAnalyser {
 	private enum StopFrenchWords {
 
 		/**
+		 * The singleton instance for the <b>Coordination conjunctions</b>.
+		 */
+		COORDINATION_CONJUNCTIONS("mais", "ou", "et", "donc", "ni"),
+		/**
+		 * The singleton instance for the <b>demonstrative adjectives</b> and <b>demonstrative pronouns</b>.
+		 */
+		DEMONSTRATIVE("ce", "cet", "cette", "ces", "c'", "ç'"),
+		/**
 		 * The singleton instance for the <b>definite articles</b>.
 		 */
 		DEFINITE_ARTICLES("le", "la", "les"),
@@ -181,7 +189,7 @@ public class FrenchAnalyser {
 		/**
 		 * The singleton instance for <b>other stop words</b>.
 		 */
-		OTHER_STOP_WORDS("à", "ici", "là", "-");
+		OTHER_STOP_WORDS("à", "ici", "là", "dans", "sur", "vers", "-");
 
 		private final String[] stopWords;
 

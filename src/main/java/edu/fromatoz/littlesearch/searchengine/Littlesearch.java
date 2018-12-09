@@ -1,7 +1,10 @@
 package edu.fromatoz.littlesearch.searchengine;
 
+import java.io.BufferedReader;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.IOException;
-
+import java.io.InputStreamReader;
 import java.nio.charset.StandardCharsets;
 
 import java.nio.file.FileVisitResult;
@@ -15,6 +18,7 @@ import java.nio.file.attribute.BasicFileAttributes;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Set;
 
 import org.apache.lucene.analysis.Analyzer;
 
@@ -43,6 +47,7 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 
 import edu.fromatoz.littlesearch.app.SearchEngine;
+import edu.fromatoz.littlesearch.dataintegrator.FrenchAnalyser;
 
 /**
  * The {@code Littlesearch} class defines a search engine.
@@ -151,12 +156,40 @@ public class Littlesearch {
 			// Stores the path which is as a parameter.
 			doc.add(new StringField(path, textFilePath.toString(), Field.Store.YES));
 			// Store the content (which is text) of the file of which the path which is as a parameter.
-			doc.add(new TextField(content, new String(Files.readAllBytes(textFilePath), StandardCharsets.UTF_8), Field.Store.YES));
+			doc.add(new TextField(content, getText(textFilePath), Field.Store.YES));
 			// Indexes the document... (Updates it, if exists...)
 			indexWriter.updateDocument(new Term(path, textFilePath.toString()), doc);
 		} catch (IOException ioe) {
 			ioe.printStackTrace();
 		}
+	}
+
+	private static String getText(Path textFilePath) {
+
+		String text = "";
+
+		BufferedReader bufferedReader = null;
+		try {
+			bufferedReader = new BufferedReader(new InputStreamReader(new FileInputStream(textFilePath.toString())));
+			String paragraph;
+			while ((paragraph = bufferedReader.readLine()) != null) {
+				text += paragraph + "\n";
+			}
+		} catch (FileNotFoundException fnfe) {
+			fnfe.printStackTrace();
+		} catch (IOException ioe) {
+			ioe.printStackTrace();
+		} finally {
+			try {
+				if (bufferedReader != null) {
+					bufferedReader.close();
+				}
+			} catch (IOException ioe) {
+				ioe.printStackTrace();
+			}
+		}
+
+		return text;
 	}
 
 	/**

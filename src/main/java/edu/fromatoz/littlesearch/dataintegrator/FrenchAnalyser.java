@@ -6,6 +6,7 @@ import java.util.TreeSet;
 
 /**
  * The {@code FrenchAnalyser} class defines an analyser for the French language.
+ * (The analysis of the French language by Lucene is not always reliable.)
  * 
  * @author Andrei Zabolotnîi
  * @author Cyril Marilier
@@ -22,7 +23,7 @@ public class FrenchAnalyser {
 	/**
 	 * Returns a set of <b>tokens</b> from the text in question.
 	 * <p>
-	 * Gets the <i>tokens</i> after performing the following scheduling of tasks:
+	 * The <i>tokens</i> are returned after performing the following scheduling of tasks:
 	 * <ol>
 	 * <li><i>remove all the signs of punctuation</i> (by the method "<b>unpunctuate()</b>");</li>
 	 * <li><i>filter the digits</i> (by the method "<b>filterDigits()</b>");</li>

@@ -50,10 +50,13 @@ public class FrenchAnalyser {
 		// Does the task 5: Filters the proper nouns
 		// TODO: POSSIBLE FEATURE: To develop a NER (Named-Entity Recognition) for proper noun.
 		tokens = filterProperNouns(tokens);
-		// Does the task 6: Disambiguates the verb "est"
+		// Does the task 6: Disambiguates the verb "être"
 		tokens = disambiguate(tokens, "est", "être");
-		// Does the task 7: Disambiguates the verb "a"
+		// Does the task 7: Disambiguates the verb "avoir"
 		tokens = disambiguate(tokens, "a", "avoir");
+		// Does the task 8: Disambiguates the word "aujourd'hui"
+		tokens = disambiguate(tokens, "aujourd", "aujourd'hui");
+		tokens = disambiguate(tokens, "hui", "aujourd'hui");
 
 		return tokens;
 	}
@@ -63,7 +66,7 @@ public class FrenchAnalyser {
 	 */
 	private void unpunctuate() {
 
-		text = text.replaceAll("[\\.\\?!,;:\\(\\)\\[\\]\\{\\}\"'«»]", " ");
+		text = text.replaceAll("[\\.\\?!,;:\\(\\)\\[\\]\\{\\}\"'«»—]", " ");
 	}
 
 	/**
@@ -178,7 +181,7 @@ public class FrenchAnalyser {
 		/**
 		 * The singleton instance for <b>other stop words</b>.
 		 */
-		OTHER_STOP_WORDS("à", "ici", "là");
+		OTHER_STOP_WORDS("à", "ici", "là", "-");
 
 		private final String[] stopWords;
 

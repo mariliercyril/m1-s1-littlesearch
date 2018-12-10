@@ -190,6 +190,7 @@ public class DataIntegrator {
 					elements = document.select(cssQuery);
 				}
 			} catch (IOException ioe) {
+				//ioe.printStackTrace();
 			}
 
 			return elements;

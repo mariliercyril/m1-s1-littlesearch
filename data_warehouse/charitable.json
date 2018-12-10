@@ -1,0 +1,67 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "charitable",
+    "other_forms" : [ "charitables" ]
+  }, {
+    "canonical_form" : "bon",
+    "other_forms" : [ "bonne", "bonnes", "bons" ]
+  }, {
+    "canonical_form" : "généreux",
+    "other_forms" : [ "généreuse", "généreuses" ]
+  }, {
+    "canonical_form" : "humain",
+    "other_forms" : [ "humaine", "humaines", "humains" ]
+  }, {
+    "canonical_form" : "bienveillant",
+    "other_forms" : [ "bienveillante", "bienveillantes", "bienveillants" ]
+  }, {
+    "canonical_form" : "aimable",
+    "other_forms" : [ "aimables" ]
+  }, {
+    "canonical_form" : "sensible",
+    "other_forms" : [ "sensibles" ]
+  }, {
+    "canonical_form" : "miséricordieux",
+    "other_forms" : [ "miséricordieuse", "miséricordieuses" ]
+  }, {
+    "canonical_form" : "indulgent",
+    "other_forms" : [ "indulgente", "indulgentes", "indulgents" ]
+  }, {
+    "canonical_form" : "bénin",
+    "other_forms" : [ "bénigne", "bénignes", "bénins" ]
+  }, {
+    "canonical_form" : "bienfaisant",
+    "other_forms" : [ "bienfaisante", "bienfaisantes", "bienfaisants" ]
+  }, {
+    "canonical_form" : "altruiste",
+    "other_forms" : [ "altruistes" ]
+  }, {
+    "canonical_form" : "serviable",
+    "other_forms" : [ "serviables" ]
+  }, {
+    "canonical_form" : "secourable",
+    "other_forms" : [ "secourables" ]
+  }, {
+    "canonical_form" : "philanthropique",
+    "other_forms" : [ "philanthropiques" ]
+  }, {
+    "canonical_form" : "hospitalier",
+    "other_forms" : [ "hospitaliers", "hospitalière", "hospitalières" ]
+  }, {
+    "canonical_form" : "gentil",
+    "other_forms" : [ "gentille", "gentilles", "gentils" ]
+  }, {
+    "canonical_form" : "aumônier",
+    "other_forms" : [ "aumôniers", "aumônière", "aumônières" ]
+  }, {
+    "canonical_form" : "caritatif",
+    "other_forms" : [ "caritatifs", "caritative", "caritatives" ]
+  }, {
+    "canonical_form" : "fraternel",
+    "other_forms" : [ "fraternelle", "fraternelles", "fraternels" ]
+  }, {
+    "canonical_form" : "prodigue",
+    "other_forms" : [ "prodigues" ]
+  } ]
+}

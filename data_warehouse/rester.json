@@ -1,0 +1,54 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "rester"
+  }, {
+    "canonical_form" : "demeurer"
+  }, {
+    "canonical_form" : "subsister"
+  }, {
+    "canonical_form" : "durer"
+  }, {
+    "canonical_form" : "traîner"
+  }, {
+    "canonical_form" : "continuer"
+  }, {
+    "canonical_form" : "tenir"
+  }, {
+    "canonical_form" : "séjourner"
+  }, {
+    "canonical_form" : "persister"
+  }, {
+    "canonical_form" : "survivre"
+  }, {
+    "canonical_form" : "surnager"
+  }, {
+    "canonical_form" : "moisir"
+  }, {
+    "canonical_form" : "habiter"
+  }, {
+    "canonical_form" : "garder"
+  }, {
+    "canonical_form" : "croupir"
+  }, {
+    "canonical_form" : "conserver"
+  }, {
+    "canonical_form" : "attendre"
+  }, {
+    "canonical_form" : "résider"
+  }, {
+    "canonical_form" : "posséder"
+  }, {
+    "canonical_form" : "loger"
+  }, {
+    "canonical_form" : "lambiner"
+  }, {
+    "canonical_form" : "détenir"
+  }, {
+    "canonical_form" : "stationner"
+  }, {
+    "canonical_form" : "stagner"
+  }, {
+    "canonical_form" : "traînasser"
+  } ]
+}

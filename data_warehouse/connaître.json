@@ -1,0 +1,62 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "connaître"
+  }, {
+    "canonical_form" : "voir"
+  }, {
+    "canonical_form" : "entendre"
+  }, {
+    "canonical_form" : "comprendre"
+  }, {
+    "canonical_form" : "percevoir"
+  }, {
+    "canonical_form" : "sentir"
+  }, {
+    "canonical_form" : "pénétrer"
+  }, {
+    "canonical_form" : "apercevoir"
+  }, {
+    "canonical_form" : "éprouver"
+  }, {
+    "canonical_form" : "appréhender"
+  }, {
+    "canonical_form" : "concevoir"
+  }, {
+    "canonical_form" : "discerner"
+  }, {
+    "canonical_form" : "prendre"
+  }, {
+    "canonical_form" : "apprécier"
+  }, {
+    "canonical_form" : "constater"
+  }, {
+    "canonical_form" : "juger"
+  }, {
+    "canonical_form" : "subir"
+  }, {
+    "canonical_form" : "ressentir"
+  }, {
+    "canonical_form" : "embrasser"
+  }, {
+    "canonical_form" : "considérer"
+  }, {
+    "canonical_form" : "posséder"
+  }, {
+    "canonical_form" : "expérimenter"
+  }, {
+    "canonical_form" : "estimer"
+  }, {
+    "canonical_form" : "apprendre"
+  }, {
+    "canonical_form" : "reconnaître"
+  }, {
+    "canonical_form" : "pratiquer"
+  }, {
+    "canonical_form" : "entrevoir"
+  }, {
+    "canonical_form" : "endurer"
+  }, {
+    "canonical_form" : "assavoir"
+  } ]
+}

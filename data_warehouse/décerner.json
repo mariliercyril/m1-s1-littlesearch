@@ -1,0 +1,28 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "décerner"
+  }, {
+    "canonical_form" : "attribuer"
+  }, {
+    "canonical_form" : "donner"
+  }, {
+    "canonical_form" : "octroyer"
+  }, {
+    "canonical_form" : "conférer"
+  }, {
+    "canonical_form" : "allouer"
+  }, {
+    "canonical_form" : "adjuger"
+  }, {
+    "canonical_form" : "accorder"
+  }, {
+    "canonical_form" : "assigner"
+  }, {
+    "canonical_form" : "distribuer"
+  }, {
+    "canonical_form" : "déférer"
+  }, {
+    "canonical_form" : "récompenser"
+  } ]
+}

@@ -1,0 +1,31 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "avènement",
+    "other_forms" : [ "avènements" ]
+  }, {
+    "canonical_form" : "apparition",
+    "other_forms" : [ "apparitions" ]
+  }, {
+    "canonical_form" : "commencement",
+    "other_forms" : [ "commencements" ]
+  }, {
+    "canonical_form" : "seuil",
+    "other_forms" : [ "seuils" ]
+  }, {
+    "canonical_form" : "naissance",
+    "other_forms" : [ "naissances" ]
+  }, {
+    "canonical_form" : "introduction",
+    "other_forms" : [ "introductions" ]
+  }, {
+    "canonical_form" : "accession",
+    "other_forms" : [ "accessions" ]
+  }, {
+    "canonical_form" : "éclosion",
+    "other_forms" : [ "éclosions" ]
+  }, {
+    "canonical_form" : "élévation",
+    "other_forms" : [ "élévations" ]
+  } ]
+}

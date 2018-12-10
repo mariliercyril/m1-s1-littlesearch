@@ -1,0 +1,82 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "fondamental",
+    "other_forms" : [ "fondamentale", "fondamentales", "fondamentaux" ]
+  }, {
+    "canonical_form" : "essentiel",
+    "other_forms" : [ "essentielle", "essentielles", "essentiels" ]
+  }, {
+    "canonical_form" : "primordial",
+    "other_forms" : [ "primordiale", "primordiales", "primordiaux" ]
+  }, {
+    "canonical_form" : "principal",
+    "other_forms" : [ "principale", "principales", "principaux" ]
+  }, {
+    "canonical_form" : "capital",
+    "other_forms" : [ "capitale", "capitales", "capitaux" ]
+  }, {
+    "canonical_form" : "premier",
+    "other_forms" : [ "premiers", "première", "premières" ]
+  }, {
+    "canonical_form" : "important",
+    "other_forms" : [ "importante", "importantes", "importants" ]
+  }, {
+    "canonical_form" : "vital",
+    "other_forms" : [ "vitale", "vitales", "vitaux" ]
+  }, {
+    "canonical_form" : "naturel",
+    "other_forms" : [ "naturelle", "naturelles", "naturels" ]
+  }, {
+    "canonical_form" : "foncier",
+    "other_forms" : [ "fonciers", "foncière", "foncières" ]
+  }, {
+    "canonical_form" : "dominant",
+    "other_forms" : [ "dominante", "dominantes", "dominants" ]
+  }, {
+    "canonical_form" : "initial",
+    "other_forms" : [ "initiale", "initiales", "initiaux" ]
+  }, {
+    "canonical_form" : "élémentaire",
+    "other_forms" : [ "élémentaires" ]
+  }, {
+    "canonical_form" : "éminent",
+    "other_forms" : [ "éminente", "éminentes", "éminents" ]
+  }, {
+    "canonical_form" : "substantiel",
+    "other_forms" : [ "substantielle", "substantielles", "substantiels" ]
+  }, {
+    "canonical_form" : "radical",
+    "other_forms" : [ "radicale", "radicales", "radicaux" ]
+  }, {
+    "canonical_form" : "nécessaire",
+    "other_forms" : [ "nécessaires" ]
+  }, {
+    "canonical_form" : "inné",
+    "other_forms" : [ "innée", "innées", "innés" ]
+  }, {
+    "canonical_form" : "primaire",
+    "other_forms" : [ "primaires" ]
+  }, {
+    "canonical_form" : "maître",
+    "other_forms" : [ "maîtres", "maîtresse", "maîtresses" ]
+  }, {
+    "canonical_form" : "constitutif",
+    "other_forms" : [ "constitutifs", "constitutive", "constitutives" ]
+  }, {
+    "canonical_form" : "central",
+    "other_forms" : [ "centrale", "centrales", "centraux" ]
+  }, {
+    "canonical_form" : "cardinal",
+    "other_forms" : [ "cardinale", "cardinales", "cardinaux" ]
+  }, {
+    "canonical_form" : "basique",
+    "other_forms" : [ "basiques" ]
+  }, {
+    "canonical_form" : "basal",
+    "other_forms" : [ "basale", "basales", "basaux" ]
+  }, {
+    "canonical_form" : "spéculatif",
+    "other_forms" : [ "spéculatifs", "spéculative", "spéculatives" ]
+  } ]
+}

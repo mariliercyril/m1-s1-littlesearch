@@ -1,0 +1,130 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "observation",
+    "other_forms" : [ "observations" ]
+  }, {
+    "canonical_form" : "remarque",
+    "other_forms" : [ "remarques" ]
+  }, {
+    "canonical_form" : "examen",
+    "other_forms" : [ "examens" ]
+  }, {
+    "canonical_form" : "note",
+    "other_forms" : [ "notes" ]
+  }, {
+    "canonical_form" : "remontrance",
+    "other_forms" : [ "remontrances" ]
+  }, {
+    "canonical_form" : "reproche",
+    "other_forms" : [ "reproches" ]
+  }, {
+    "canonical_form" : "recherche",
+    "other_forms" : [ "recherches" ]
+  }, {
+    "canonical_form" : "réprimande",
+    "other_forms" : [ "réprimandes" ]
+  }, {
+    "canonical_form" : "représentation",
+    "other_forms" : [ "représentations" ]
+  }, {
+    "canonical_form" : "semonce",
+    "other_forms" : [ "semonces" ]
+  }, {
+    "canonical_form" : "étude",
+    "other_forms" : [ "études" ]
+  }, {
+    "canonical_form" : "réflexion",
+    "other_forms" : [ "réflexions" ]
+  }, {
+    "canonical_form" : "expérience",
+    "other_forms" : [ "expériences" ]
+  }, {
+    "canonical_form" : "avertissement",
+    "other_forms" : [ "avertissements" ]
+  }, {
+    "canonical_form" : "analyse",
+    "other_forms" : [ "analyses" ]
+  }, {
+    "canonical_form" : "appréciation",
+    "other_forms" : [ "appréciations" ]
+  }, {
+    "canonical_form" : "notation",
+    "other_forms" : [ "notations" ]
+  }, {
+    "canonical_form" : "objection",
+    "other_forms" : [ "objections" ]
+  }, {
+    "canonical_form" : "spéculation",
+    "other_forms" : [ "spéculations" ]
+  }, {
+    "canonical_form" : "objurgation",
+    "other_forms" : [ "objurgations" ]
+  }, {
+    "canonical_form" : "expérimentation",
+    "other_forms" : [ "expérimentations" ]
+  }, {
+    "canonical_form" : "constatation",
+    "other_forms" : [ "constatations" ]
+  }, {
+    "canonical_form" : "annotation",
+    "other_forms" : [ "annotations" ]
+  }, {
+    "canonical_form" : "admonition",
+    "other_forms" : [ "admonitions" ]
+  }, {
+    "canonical_form" : "réquisitoire",
+    "other_forms" : [ "réquisitoires" ]
+  }, {
+    "canonical_form" : "réplique",
+    "other_forms" : [ "répliques" ]
+  }, {
+    "canonical_form" : "raisonnement",
+    "other_forms" : [ "raisonnements" ]
+  }, {
+    "canonical_form" : "propos",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "parole",
+    "other_forms" : [ "paroles" ]
+  }, {
+    "canonical_form" : "investigation",
+    "other_forms" : [ "investigations" ]
+  }, {
+    "canonical_form" : "introspection",
+    "other_forms" : [ "introspections" ]
+  }, {
+    "canonical_form" : "gronderie",
+    "other_forms" : [ "gronderies" ]
+  }, {
+    "canonical_form" : "enquête",
+    "other_forms" : [ "enquêtes" ]
+  }, {
+    "canonical_form" : "considération",
+    "other_forms" : [ "considérations" ]
+  }, {
+    "canonical_form" : "commentaire",
+    "other_forms" : [ "commentaires" ]
+  }, {
+    "canonical_form" : "sortie",
+    "other_forms" : [ "sorties" ]
+  }, {
+    "canonical_form" : "scrutation",
+    "other_forms" : [ "scrutations" ]
+  }, {
+    "canonical_form" : "reconnaissance",
+    "other_forms" : [ "reconnaissances" ]
+  }, {
+    "canonical_form" : "obéissance",
+    "other_forms" : [ "obéissances" ]
+  }, {
+    "canonical_form" : "observance",
+    "other_forms" : [ "observances" ]
+  }, {
+    "canonical_form" : "contemplation",
+    "other_forms" : [ "contemplations" ]
+  }, {
+    "canonical_form" : "surveillance",
+    "other_forms" : [ "surveillances" ]
+  } ]
+}

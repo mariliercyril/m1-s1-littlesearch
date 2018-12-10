@@ -1,0 +1,127 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "école",
+    "other_forms" : [ "écoles" ]
+  }, {
+    "canonical_form" : "groupe",
+    "other_forms" : [ "groupes" ]
+  }, {
+    "canonical_form" : "lycée",
+    "other_forms" : [ "lycées" ]
+  }, {
+    "canonical_form" : "collège",
+    "other_forms" : [ "collèges" ]
+  }, {
+    "canonical_form" : "cour",
+    "other_forms" : [ "cours" ]
+  }, {
+    "canonical_form" : "institut",
+    "other_forms" : [ "instituts" ]
+  }, {
+    "canonical_form" : "institution",
+    "other_forms" : [ "institutions" ]
+  }, {
+    "canonical_form" : "cénacle",
+    "other_forms" : [ "cénacles" ]
+  }, {
+    "canonical_form" : "coterie",
+    "other_forms" : [ "coteries" ]
+  }, {
+    "canonical_form" : "académie",
+    "other_forms" : [ "académies" ]
+  }, {
+    "canonical_form" : "boîte",
+    "other_forms" : [ "boîtes" ]
+  }, {
+    "canonical_form" : "établissement",
+    "other_forms" : [ "établissements" ]
+  }, {
+    "canonical_form" : "tendance",
+    "other_forms" : [ "tendances" ]
+  }, {
+    "canonical_form" : "séminaire",
+    "other_forms" : [ "séminaires" ]
+  }, {
+    "canonical_form" : "système",
+    "other_forms" : [ "systèmes" ]
+  }, {
+    "canonical_form" : "réunion",
+    "other_forms" : [ "réunions" ]
+  }, {
+    "canonical_form" : "philosophie",
+    "other_forms" : [ "philosophies" ]
+  }, {
+    "canonical_form" : "pension",
+    "other_forms" : [ "pensions" ]
+  }, {
+    "canonical_form" : "famille",
+    "other_forms" : [ "familles" ]
+  }, {
+    "canonical_form" : "doctrine",
+    "other_forms" : [ "doctrines" ]
+  }, {
+    "canonical_form" : "colonie",
+    "other_forms" : [ "colonies" ]
+  }, {
+    "canonical_form" : "cercle",
+    "other_forms" : [ "cercles" ]
+  }, {
+    "canonical_form" : "secte",
+    "other_forms" : [ "sectes" ]
+  }, {
+    "canonical_form" : "mouvement",
+    "other_forms" : [ "mouvements" ]
+  }, {
+    "canonical_form" : "leçon",
+    "other_forms" : [ "leçons" ]
+  }, {
+    "canonical_form" : "gymnase",
+    "other_forms" : [ "gymnases" ]
+  }, {
+    "canonical_form" : "classe",
+    "other_forms" : [ "classes" ]
+  }, {
+    "canonical_form" : "chapelle",
+    "other_forms" : [ "chapelles" ]
+  }, {
+    "canonical_form" : "bahut",
+    "other_forms" : [ "bahuts" ]
+  }, {
+    "canonical_form" : "maternelle",
+    "other_forms" : [ "maternelles" ]
+  }, {
+    "canonical_form" : "orthodoxie",
+    "other_forms" : [ "orthodoxies" ]
+  }, {
+    "canonical_form" : "pléiade",
+    "other_forms" : [ "pléiades" ]
+  }, {
+    "canonical_form" : "pépinière",
+    "other_forms" : [ "pépinières" ]
+  }, {
+    "canonical_form" : "université",
+    "other_forms" : [ "universités" ]
+  }, {
+    "canonical_form" : "manécanterie",
+    "other_forms" : [ "manécanteries" ]
+  }, {
+    "canonical_form" : "faculté",
+    "other_forms" : [ "facultés" ]
+  }, {
+    "canonical_form" : "club",
+    "other_forms" : [ "clubs" ]
+  }, {
+    "canonical_form" : "centre",
+    "other_forms" : [ "centres" ]
+  }, {
+    "canonical_form" : "bazar",
+    "other_forms" : [ "bazars" ]
+  }, {
+    "canonical_form" : "autorité",
+    "other_forms" : [ "autorités" ]
+  }, {
+    "canonical_form" : "étude",
+    "other_forms" : [ "études" ]
+  } ]
+}

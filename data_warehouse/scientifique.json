@@ -1,0 +1,31 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "scientifique",
+    "other_forms" : [ "scientifiques" ]
+  }, {
+    "canonical_form" : "rationnel",
+    "other_forms" : [ "rationnelle", "rationnelles", "rationnels" ]
+  }, {
+    "canonical_form" : "chercheur",
+    "other_forms" : [ "chercheurs", "chercheuse", "chercheuses" ]
+  }, {
+    "canonical_form" : "critique",
+    "other_forms" : [ "critiques" ]
+  }, {
+    "canonical_form" : "méthodique",
+    "other_forms" : [ "méthodiques" ]
+  }, {
+    "canonical_form" : "objectif",
+    "other_forms" : [ "objectifs", "objective", "objectives" ]
+  }, {
+    "canonical_form" : "positif",
+    "other_forms" : [ "positifs", "positive", "positives" ]
+  }, {
+    "canonical_form" : "savant",
+    "other_forms" : [ "savante", "savantes", "savants" ]
+  }, {
+    "canonical_form" : "théorique",
+    "other_forms" : [ "théoriques" ]
+  } ]
+}

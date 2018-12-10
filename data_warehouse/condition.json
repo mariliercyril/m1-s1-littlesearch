@@ -1,0 +1,133 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "condition",
+    "other_forms" : [ "conditions" ]
+  }, {
+    "canonical_form" : "état",
+    "other_forms" : [ "états" ]
+  }, {
+    "canonical_form" : "situation",
+    "other_forms" : [ "situations" ]
+  }, {
+    "canonical_form" : "position",
+    "other_forms" : [ "positions" ]
+  }, {
+    "canonical_form" : "disposition",
+    "other_forms" : [ "dispositions" ]
+  }, {
+    "canonical_form" : "convention",
+    "other_forms" : [ "conventions" ]
+  }, {
+    "canonical_form" : "rang",
+    "other_forms" : [ "rangs" ]
+  }, {
+    "canonical_form" : "modalité",
+    "other_forms" : [ "modalités" ]
+  }, {
+    "canonical_form" : "qualité",
+    "other_forms" : [ "qualités" ]
+  }, {
+    "canonical_form" : "circonstance",
+    "other_forms" : [ "circonstances" ]
+  }, {
+    "canonical_form" : "cause",
+    "other_forms" : [ "causes" ]
+  }, {
+    "canonical_form" : "clause",
+    "other_forms" : [ "clauses" ]
+  }, {
+    "canonical_form" : "conjoncture",
+    "other_forms" : [ "conjonctures" ]
+  }, {
+    "canonical_form" : "élément",
+    "other_forms" : [ "éléments" ]
+  }, {
+    "canonical_form" : "stipulation",
+    "other_forms" : [ "stipulations" ]
+  }, {
+    "canonical_form" : "statut",
+    "other_forms" : [ "statuts" ]
+  }, {
+    "canonical_form" : "sorte",
+    "other_forms" : [ "sortes" ]
+  }, {
+    "canonical_form" : "sort",
+    "other_forms" : [ "sorts" ]
+  }, {
+    "canonical_form" : "place",
+    "other_forms" : [ "places" ]
+  }, {
+    "canonical_form" : "forme",
+    "other_forms" : [ "formes" ]
+  }, {
+    "canonical_form" : "destin",
+    "other_forms" : [ "destins" ]
+  }, {
+    "canonical_form" : "classe",
+    "other_forms" : [ "classes" ]
+  }, {
+    "canonical_form" : "événement",
+    "other_forms" : [ "événements" ]
+  }, {
+    "canonical_form" : "supposition",
+    "other_forms" : [ "suppositions" ]
+  }, {
+    "canonical_form" : "nature",
+    "other_forms" : [ "natures" ]
+  }, {
+    "canonical_form" : "métier",
+    "other_forms" : [ "métiers" ]
+  }, {
+    "canonical_form" : "milieu",
+    "other_forms" : [ "milieux" ]
+  }, {
+    "canonical_form" : "espèce",
+    "other_forms" : [ "espèces" ]
+  }, {
+    "canonical_form" : "posture",
+    "other_forms" : [ "postures" ]
+  }, {
+    "canonical_form" : "prix",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "prédisposition",
+    "other_forms" : [ "prédispositions" ]
+  }, {
+    "canonical_form" : "prétention",
+    "other_forms" : [ "prétentions" ]
+  }, {
+    "canonical_form" : "tarif",
+    "other_forms" : [ "tarifs" ]
+  }, {
+    "canonical_form" : "niveau",
+    "other_forms" : [ "niveaux" ]
+  }, {
+    "canonical_form" : "hypothèse",
+    "other_forms" : [ "hypothèses" ]
+  }, {
+    "canonical_form" : "fondement",
+    "other_forms" : [ "fondements" ]
+  }, {
+    "canonical_form" : "extraction",
+    "other_forms" : [ "extractions" ]
+  }, {
+    "canonical_form" : "exigence",
+    "other_forms" : [ "exigences" ]
+  }, {
+    "canonical_form" : "conditionnement",
+    "other_forms" : [ "conditionnements" ]
+  }, {
+    "canonical_form" : "chose",
+    "other_forms" : [ "choses" ]
+  }, {
+    "canonical_form" : "base",
+    "other_forms" : [ "bases" ]
+  }, {
+    "canonical_form" : "auspice",
+    "other_forms" : [ "auspices" ]
+  }, {
+    "canonical_form" : "être",
+    "other_forms" : [ "êtres" ]
+  } ]
+}

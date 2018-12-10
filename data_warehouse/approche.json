@@ -1,0 +1,73 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "approche",
+    "other_forms" : [ "approches" ]
+  }, {
+    "canonical_form" : "abord",
+    "other_forms" : [ "abords" ]
+  }, {
+    "canonical_form" : "apparition",
+    "other_forms" : [ "apparitions" ]
+  }, {
+    "canonical_form" : "attaque",
+    "other_forms" : [ "attaques" ]
+  }, {
+    "canonical_form" : "contact",
+    "other_forms" : [ "contacts" ]
+  }, {
+    "canonical_form" : "proximité",
+    "other_forms" : [ "proximités" ]
+  }, {
+    "canonical_form" : "fréquentation",
+    "other_forms" : [ "fréquentations" ]
+  }, {
+    "canonical_form" : "rapprochement",
+    "other_forms" : [ "rapprochements" ]
+  }, {
+    "canonical_form" : "rencontre",
+    "other_forms" : [ "rencontres" ]
+  }, {
+    "canonical_form" : "environ",
+    "other_forms" : [ "environs" ]
+  }, {
+    "canonical_form" : "cheminement",
+    "other_forms" : [ "cheminements" ]
+  }, {
+    "canonical_form" : "avance",
+    "other_forms" : [ "avances" ]
+  }, {
+    "canonical_form" : "alentours",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "accès",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "parage",
+    "other_forms" : [ "parages" ]
+  }, {
+    "canonical_form" : "sape",
+    "other_forms" : [ "sapes" ]
+  }, {
+    "canonical_form" : "voisinage",
+    "other_forms" : [ "voisinages" ]
+  }, {
+    "canonical_form" : "ombre",
+    "other_forms" : [ "ombres" ]
+  }, {
+    "canonical_form" : "manoeuvre",
+    "other_forms" : [ "manoeuvres" ]
+  }, {
+    "canonical_form" : "imminence",
+    "other_forms" : [ "imminences" ]
+  }, {
+    "canonical_form" : "démarche",
+    "other_forms" : [ "démarches" ]
+  }, {
+    "canonical_form" : "approchement",
+    "other_forms" : [ "approchements" ]
+  }, {
+    "canonical_form" : "accouplement",
+    "other_forms" : [ "accouplements" ]
+  } ]
+}

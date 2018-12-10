@@ -1,0 +1,235 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "travail",
+    "other_forms" : [ "travaux" ]
+  }, {
+    "canonical_form" : "besogne",
+    "other_forms" : [ "besognes" ]
+  }, {
+    "canonical_form" : "tâche",
+    "other_forms" : [ "tâches" ]
+  }, {
+    "canonical_form" : "affaire",
+    "other_forms" : [ "affaires" ]
+  }, {
+    "canonical_form" : "occupation",
+    "other_forms" : [ "occupations" ]
+  }, {
+    "canonical_form" : "fonction",
+    "other_forms" : [ "fonctions" ]
+  }, {
+    "canonical_form" : "activité",
+    "other_forms" : [ "activités" ]
+  }, {
+    "canonical_form" : "métier",
+    "other_forms" : [ "métiers" ]
+  }, {
+    "canonical_form" : "oeuvre",
+    "other_forms" : [ "oeuvres" ]
+  }, {
+    "canonical_form" : "ouvrage",
+    "other_forms" : [ "ouvrages" ]
+  }, {
+    "canonical_form" : "emploi",
+    "other_forms" : [ "emplois" ]
+  }, {
+    "canonical_form" : "effort",
+    "other_forms" : [ "efforts" ]
+  }, {
+    "canonical_form" : "action",
+    "other_forms" : [ "actions" ]
+  }, {
+    "canonical_form" : "devoir",
+    "other_forms" : [ "devoirs" ]
+  }, {
+    "canonical_form" : "labeur",
+    "other_forms" : [ "labeurs" ]
+  }, {
+    "canonical_form" : "peine",
+    "other_forms" : [ "peines" ]
+  }, {
+    "canonical_form" : "application",
+    "other_forms" : [ "applications" ]
+  }, {
+    "canonical_form" : "mission",
+    "other_forms" : [ "missions" ]
+  }, {
+    "canonical_form" : "situation",
+    "other_forms" : [ "situations" ]
+  }, {
+    "canonical_form" : "soin",
+    "other_forms" : [ "soins" ]
+  }, {
+    "canonical_form" : "profession",
+    "other_forms" : [ "professions" ]
+  }, {
+    "canonical_form" : "exercice",
+    "other_forms" : [ "exercices" ]
+  }, {
+    "canonical_form" : "art",
+    "other_forms" : [ "arts" ]
+  }, {
+    "canonical_form" : "étude",
+    "other_forms" : [ "études" ]
+  }, {
+    "canonical_form" : "état",
+    "other_forms" : [ "états" ]
+  }, {
+    "canonical_form" : "service",
+    "other_forms" : [ "services" ]
+  }, {
+    "canonical_form" : "production",
+    "other_forms" : [ "productions" ]
+  }, {
+    "canonical_form" : "job",
+    "other_forms" : [ "jobs" ]
+  }, {
+    "canonical_form" : "façon",
+    "other_forms" : [ "façons" ]
+  }, {
+    "canonical_form" : "rôle",
+    "other_forms" : [ "rôles" ]
+  }, {
+    "canonical_form" : "place",
+    "other_forms" : [ "places" ]
+  }, {
+    "canonical_form" : "exécution",
+    "other_forms" : [ "exécutions" ]
+  }, {
+    "canonical_form" : "corvée",
+    "other_forms" : [ "corvées" ]
+  }, {
+    "canonical_form" : "élaboration",
+    "other_forms" : [ "élaborations" ]
+  }, {
+    "canonical_form" : "sueur",
+    "other_forms" : [ "sueurs" ]
+  }, {
+    "canonical_form" : "opération",
+    "other_forms" : [ "opérations" ]
+  }, {
+    "canonical_form" : "marche",
+    "other_forms" : [ "marches" ]
+  }, {
+    "canonical_form" : "mal",
+    "other_forms" : [ "maux" ]
+  }, {
+    "canonical_form" : "industrie",
+    "other_forms" : [ "industries" ]
+  }, {
+    "canonical_form" : "bras",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "difficulté",
+    "other_forms" : [ "difficultés" ]
+  }, {
+    "canonical_form" : "enfantement",
+    "other_forms" : [ "enfantements" ]
+  }, {
+    "canonical_form" : "facture",
+    "other_forms" : [ "factures" ]
+  }, {
+    "canonical_form" : "fatigue",
+    "other_forms" : [ "fatigues" ]
+  }, {
+    "canonical_form" : "force",
+    "other_forms" : [ "forces" ]
+  }, {
+    "canonical_form" : "zèle",
+    "other_forms" : [ "zèles" ]
+  }, {
+    "canonical_form" : "veille",
+    "other_forms" : [ "veilles" ]
+  }, {
+    "canonical_form" : "poste",
+    "other_forms" : [ "postes" ]
+  }, {
+    "canonical_form" : "main-d'oeuvre",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "gagne-pain",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "forme",
+    "other_forms" : [ "formes" ]
+  }, {
+    "canonical_form" : "fonctionnement",
+    "other_forms" : [ "fonctionnements" ]
+  }, {
+    "canonical_form" : "cassement",
+    "other_forms" : [ "cassements" ]
+  }, {
+    "canonical_form" : "bricole",
+    "other_forms" : [ "bricoles" ]
+  }, {
+    "canonical_form" : "programme",
+    "other_forms" : [ "programmes" ]
+  }, {
+    "canonical_form" : "pensum",
+    "other_forms" : [ "pensums" ]
+  }, {
+    "canonical_form" : "livre",
+    "other_forms" : [ "livres" ]
+  }, {
+    "canonical_form" : "intérim",
+    "other_forms" : [ "intérims" ]
+  }, {
+    "canonical_form" : "recherche",
+    "other_forms" : [ "recherches" ]
+  }, {
+    "canonical_form" : "réparation",
+    "other_forms" : [ "réparations" ]
+  }, {
+    "canonical_form" : "sape",
+    "other_forms" : [ "sapes" ]
+  }, {
+    "canonical_form" : "spécialité",
+    "other_forms" : [ "spécialités" ]
+  }, {
+    "canonical_form" : "tintouin",
+    "other_forms" : [ "tintouins" ]
+  }, {
+    "canonical_form" : "turbin",
+    "other_forms" : [ "turbins" ]
+  }, {
+    "canonical_form" : "étude",
+    "other_forms" : [ "études" ]
+  }, {
+    "canonical_form" : "gésine",
+    "other_forms" : [ "gésines" ]
+  }, {
+    "canonical_form" : "gauchissement",
+    "other_forms" : [ "gauchissements" ]
+  }, {
+    "canonical_form" : "amortissement",
+    "other_forms" : [ "amortissements" ]
+  }, {
+    "canonical_form" : "bricolage",
+    "other_forms" : [ "bricolages" ]
+  }, {
+    "canonical_form" : "brocante",
+    "other_forms" : [ "brocantes" ]
+  }, {
+    "canonical_form" : "business",
+    "other_forms" : [ "bisness" ]
+  }, {
+    "canonical_form" : "canevas",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "casse-tête",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "cheminement",
+    "other_forms" : [ "cheminements" ]
+  }, {
+    "canonical_form" : "entraînement",
+    "other_forms" : [ "entraînements" ]
+  }, {
+    "canonical_form" : "fermentation",
+    "other_forms" : [ "fermentations" ]
+  }, {
+    "canonical_form" : "accouchement",
+    "other_forms" : [ "accouchements" ]
+  } ]
+}

@@ -1,0 +1,40 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "frère",
+    "other_forms" : [ "frères" ]
+  }, {
+    "canonical_form" : "camarade",
+    "other_forms" : [ "camarades" ]
+  }, {
+    "canonical_form" : "moine",
+    "other_forms" : [ "moines" ]
+  }, {
+    "canonical_form" : "cousin",
+    "other_forms" : [ "cousine", "cousines", "cousins" ]
+  }, {
+    "canonical_form" : "compagnon",
+    "other_forms" : [ "compagnons" ]
+  }, {
+    "canonical_form" : "ami",
+    "other_forms" : [ "amie", "amies", "amis" ]
+  }, {
+    "canonical_form" : "frérot",
+    "other_forms" : [ "frérots" ]
+  }, {
+    "canonical_form" : "frater",
+    "other_forms" : [ "fraters" ]
+  }, {
+    "canonical_form" : "frangin",
+    "other_forms" : [ "frangine", "frangines", "frangins" ]
+  }, {
+    "canonical_form" : "copain",
+    "other_forms" : [ "copains" ]
+  }, {
+    "canonical_form" : "convers",
+    "other_forms" : [ "converse", "converses" ]
+  }, {
+    "canonical_form" : "confrère",
+    "other_forms" : [ "confrères" ]
+  } ]
+}

@@ -1,0 +1,145 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "capacité",
+    "other_forms" : [ "capacités" ]
+  }, {
+    "canonical_form" : "talent",
+    "other_forms" : [ "talents" ]
+  }, {
+    "canonical_form" : "faculté",
+    "other_forms" : [ "facultés" ]
+  }, {
+    "canonical_form" : "disposition",
+    "other_forms" : [ "dispositions" ]
+  }, {
+    "canonical_form" : "don",
+    "other_forms" : [ "dons" ]
+  }, {
+    "canonical_form" : "aptitude",
+    "other_forms" : [ "aptitudes" ]
+  }, {
+    "canonical_form" : "pouvoir",
+    "other_forms" : [ "pouvoirs" ]
+  }, {
+    "canonical_form" : "habileté",
+    "other_forms" : [ "habiletés" ]
+  }, {
+    "canonical_form" : "force",
+    "other_forms" : [ "forces" ]
+  }, {
+    "canonical_form" : "vertu",
+    "other_forms" : [ "vertus" ]
+  }, {
+    "canonical_form" : "qualité",
+    "other_forms" : [ "qualités" ]
+  }, {
+    "canonical_form" : "adresse",
+    "other_forms" : [ "adresses" ]
+  }, {
+    "canonical_form" : "intelligence",
+    "other_forms" : [ "intelligences" ]
+  }, {
+    "canonical_form" : "génie",
+    "other_forms" : [ "génies" ]
+  }, {
+    "canonical_form" : "dimension",
+    "other_forms" : [ "dimensions" ]
+  }, {
+    "canonical_form" : "volume",
+    "other_forms" : [ "volumes" ]
+  }, {
+    "canonical_form" : "valeur",
+    "other_forms" : [ "valeurs" ]
+  }, {
+    "canonical_form" : "science",
+    "other_forms" : [ "sciences" ]
+  }, {
+    "canonical_form" : "puissance",
+    "other_forms" : [ "puissances" ]
+  }, {
+    "canonical_form" : "mesure",
+    "other_forms" : [ "mesures" ]
+  }, {
+    "canonical_form" : "esprit",
+    "other_forms" : [ "esprits" ]
+  }, {
+    "canonical_form" : "compétence",
+    "other_forms" : [ "compétences" ]
+  }, {
+    "canonical_form" : "savoir",
+    "other_forms" : [ "savoirs" ]
+  }, {
+    "canonical_form" : "profondeur",
+    "other_forms" : [ "profondeurs" ]
+  }, {
+    "canonical_form" : "possibilité",
+    "other_forms" : [ "possibilités" ]
+  }, {
+    "canonical_form" : "ingéniosité",
+    "other_forms" : [ "ingéniosités" ]
+  }, {
+    "canonical_form" : "quantité",
+    "other_forms" : [ "quantités" ]
+  }, {
+    "canonical_form" : "mérite",
+    "other_forms" : [ "mérites" ]
+  }, {
+    "canonical_form" : "contenance",
+    "other_forms" : [ "contenances" ]
+  }, {
+    "canonical_form" : "charge",
+    "other_forms" : [ "charges" ]
+  }, {
+    "canonical_form" : "vocation",
+    "other_forms" : [ "vocations" ]
+  }, {
+    "canonical_form" : "industrie",
+    "other_forms" : [ "industries" ]
+  }, {
+    "canonical_form" : "grosseur",
+    "other_forms" : [ "grosseurs" ]
+  }, {
+    "canonical_form" : "expérience",
+    "other_forms" : [ "expériences" ]
+  }, {
+    "canonical_form" : "étoffe",
+    "other_forms" : [ "étoffes" ]
+  }, {
+    "canonical_form" : "épaisseur",
+    "other_forms" : [ "épaisseurs" ]
+  }, {
+    "canonical_form" : "métier",
+    "other_forms" : [ "métiers" ]
+  }, {
+    "canonical_form" : "inclination",
+    "other_forms" : [ "inclinations" ]
+  }, {
+    "canonical_form" : "bosse",
+    "other_forms" : [ "bosses" ]
+  }, {
+    "canonical_form" : "borne",
+    "other_forms" : [ "bornes" ]
+  }, {
+    "canonical_form" : "avantage",
+    "other_forms" : [ "avantages" ]
+  }, {
+    "canonical_form" : "tonnage",
+    "other_forms" : [ "tonnages" ]
+  }, {
+    "canonical_form" : "suffisance",
+    "other_forms" : [ "suffisances" ]
+  }, {
+    "canonical_form" : "fret",
+    "other_forms" : [ "frets" ]
+  }, {
+    "canonical_form" : "fonctionnalité",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "débit",
+    "other_forms" : [ "débits" ]
+  }, {
+    "canonical_form" : "cubage",
+    "other_forms" : [ "cubages" ]
+  } ]
+}

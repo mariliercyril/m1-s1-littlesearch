@@ -1,0 +1,55 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "majeur",
+    "other_forms" : [ "majeure", "majeures", "majeurs" ]
+  }, {
+    "canonical_form" : "important",
+    "other_forms" : [ "importante", "importantes", "importants" ]
+  }, {
+    "canonical_form" : "primordial",
+    "other_forms" : [ "primordiale", "primordiales", "primordiaux" ]
+  }, {
+    "canonical_form" : "principal",
+    "other_forms" : [ "principale", "principales", "principaux" ]
+  }, {
+    "canonical_form" : "essentiel",
+    "other_forms" : [ "essentielle", "essentielles", "essentiels" ]
+  }, {
+    "canonical_form" : "grand",
+    "other_forms" : [ "grande", "grandes", "grands" ]
+  }, {
+    "canonical_form" : "premier",
+    "other_forms" : [ "premiers", "première", "premières" ]
+  }, {
+    "canonical_form" : "substantiel",
+    "other_forms" : [ "substantielle", "substantielles", "substantiels" ]
+  }, {
+    "canonical_form" : "prédominant",
+    "other_forms" : [ "prédominante", "prédominantes", "prédominants" ]
+  }, {
+    "canonical_form" : "considérable",
+    "other_forms" : [ "considérables" ]
+  }, {
+    "canonical_form" : "capital",
+    "other_forms" : [ "capitale", "capitales", "capitaux" ]
+  }, {
+    "canonical_form" : "adulte",
+    "other_forms" : [ "adultes" ]
+  }, {
+    "canonical_form" : "exceptionnel",
+    "other_forms" : [ "exceptionnelle", "exceptionnelles", "exceptionnels" ]
+  }, {
+    "canonical_form" : "maître",
+    "other_forms" : [ "maîtres", "maîtresse", "maîtresses" ]
+  }, {
+    "canonical_form" : "profond",
+    "other_forms" : [ "profonde", "profondes", "profonds" ]
+  }, {
+    "canonical_form" : "prééminent",
+    "other_forms" : [ "prééminente", "prééminentes", "prééminents" ]
+  }, {
+    "canonical_form" : "âgé",
+    "other_forms" : [ "âgée", "âgées", "âgés" ]
+  } ]
+}

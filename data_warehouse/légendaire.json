@@ -1,0 +1,43 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "légendaire",
+    "other_forms" : [ "légendaires" ]
+  }, {
+    "canonical_form" : "célèbre",
+    "other_forms" : [ "célèbres" ]
+  }, {
+    "canonical_form" : "fabuleux",
+    "other_forms" : [ "fabuleuse", "fabuleuses" ]
+  }, {
+    "canonical_form" : "fameux",
+    "other_forms" : [ "fameuse", "fameuses" ]
+  }, {
+    "canonical_form" : "glorieux",
+    "other_forms" : [ "glorieuse", "glorieuses" ]
+  }, {
+    "canonical_form" : "illustre",
+    "other_forms" : [ "illustres" ]
+  }, {
+    "canonical_form" : "proverbial",
+    "other_forms" : [ "proverbiale", "proverbiales", "proverbiaux" ]
+  }, {
+    "canonical_form" : "mythique",
+    "other_forms" : [ "mythiques" ]
+  }, {
+    "canonical_form" : "grand",
+    "other_forms" : [ "grande", "grandes", "grands" ]
+  }, {
+    "canonical_form" : "imaginaire",
+    "other_forms" : [ "imaginaires" ]
+  }, {
+    "canonical_form" : "immortel",
+    "other_forms" : [ "immortelle", "immortelles", "immortels" ]
+  }, {
+    "canonical_form" : "mythologique",
+    "other_forms" : [ "mythologiques" ]
+  }, {
+    "canonical_form" : "traditionnel",
+    "other_forms" : [ "traditionnelle", "traditionnelles", "traditionnels" ]
+  } ]
+}

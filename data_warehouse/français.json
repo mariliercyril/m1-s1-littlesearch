@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "français",
+    "other_forms" : [ "française", "françaises" ]
+  }, {
+    "canonical_form" : "hexagonal",
+    "other_forms" : [ "hexagonale", "hexagonales", "hexagonaux" ]
+  }, {
+    "canonical_form" : "tricolore",
+    "other_forms" : [ "tricolores" ]
+  } ]
+}

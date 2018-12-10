@@ -1,0 +1,48 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "caractériser"
+  }, {
+    "canonical_form" : "préciser"
+  }, {
+    "canonical_form" : "désigner"
+  }, {
+    "canonical_form" : "spécifier"
+  }, {
+    "canonical_form" : "signaler"
+  }, {
+    "canonical_form" : "particulariser"
+  }, {
+    "canonical_form" : "montrer"
+  }, {
+    "canonical_form" : "marquer"
+  }, {
+    "canonical_form" : "indiquer"
+  }, {
+    "canonical_form" : "déterminer"
+  }, {
+    "canonical_form" : "distinguer"
+  }, {
+    "canonical_form" : "souligner"
+  }, {
+    "canonical_form" : "singulariser"
+  }, {
+    "canonical_form" : "individualiser"
+  }, {
+    "canonical_form" : "analyser"
+  }, {
+    "canonical_form" : "circonstancier"
+  }, {
+    "canonical_form" : "constituer"
+  }, {
+    "canonical_form" : "définir"
+  }, {
+    "canonical_form" : "dépeindre"
+  }, {
+    "canonical_form" : "expliciter"
+  }, {
+    "canonical_form" : "peindre"
+  }, {
+    "canonical_form" : "qualifier"
+  } ]
+}

@@ -1,0 +1,67 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "nombre",
+    "other_forms" : [ "nombres" ]
+  }, {
+    "canonical_form" : "quantité",
+    "other_forms" : [ "quantités" ]
+  }, {
+    "canonical_form" : "rythme",
+    "other_forms" : [ "rythmes" ]
+  }, {
+    "canonical_form" : "rang",
+    "other_forms" : [ "rangs" ]
+  }, {
+    "canonical_form" : "masse",
+    "other_forms" : [ "masses" ]
+  }, {
+    "canonical_form" : "harmonie",
+    "other_forms" : [ "harmonies" ]
+  }, {
+    "canonical_form" : "foule",
+    "other_forms" : [ "foules" ]
+  }, {
+    "canonical_form" : "chiffre",
+    "other_forms" : [ "chiffres" ]
+  }, {
+    "canonical_form" : "cadence",
+    "other_forms" : [ "cadences" ]
+  }, {
+    "canonical_form" : "unité",
+    "other_forms" : [ "unités" ]
+  }, {
+    "canonical_form" : "symbole",
+    "other_forms" : [ "symboles" ]
+  }, {
+    "canonical_form" : "quorum",
+    "other_forms" : [ "quorums" ]
+  }, {
+    "canonical_form" : "quantième",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "peuple",
+    "other_forms" : [ "peuples" ]
+  }, {
+    "canonical_form" : "numéro",
+    "other_forms" : [ "numéros" ]
+  }, {
+    "canonical_form" : "multitude",
+    "other_forms" : [ "multitudes" ]
+  }, {
+    "canonical_form" : "liste",
+    "other_forms" : [ "listes" ]
+  }, {
+    "canonical_form" : "fréquence",
+    "other_forms" : [ "fréquences" ]
+  }, {
+    "canonical_form" : "compte",
+    "other_forms" : [ "comptes" ]
+  }, {
+    "canonical_form" : "collection",
+    "other_forms" : [ "collections" ]
+  }, {
+    "canonical_form" : "ver",
+    "other_forms" : [ "vers" ]
+  } ]
+}

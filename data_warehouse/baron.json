@@ -1,0 +1,31 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "baron",
+    "other_forms" : [ "baronne", "baronnes", "barons" ]
+  }, {
+    "canonical_form" : "magnat",
+    "other_forms" : [ "magnats" ]
+  }, {
+    "canonical_form" : "sommité",
+    "other_forms" : [ "sommités" ]
+  }, {
+    "canonical_form" : "seigneur",
+    "other_forms" : [ "seigneurs" ]
+  }, {
+    "canonical_form" : "personnalité",
+    "other_forms" : [ "personnalités" ]
+  }, {
+    "canonical_form" : "notabilité",
+    "other_forms" : [ "notabilités" ]
+  }, {
+    "canonical_form" : "cuisse",
+    "other_forms" : [ "cuisses" ]
+  }, {
+    "canonical_form" : "compère",
+    "other_forms" : [ "compères" ]
+  }, {
+    "canonical_form" : "verre",
+    "other_forms" : [ "verres" ]
+  } ]
+}

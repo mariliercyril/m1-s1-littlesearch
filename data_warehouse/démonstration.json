@@ -1,0 +1,136 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "démonstration",
+    "other_forms" : [ "démonstrations" ]
+  }, {
+    "canonical_form" : "manifestation",
+    "other_forms" : [ "manifestations" ]
+  }, {
+    "canonical_form" : "témoignage",
+    "other_forms" : [ "témoignages" ]
+  }, {
+    "canonical_form" : "preuve",
+    "other_forms" : [ "preuves" ]
+  }, {
+    "canonical_form" : "proposition",
+    "other_forms" : [ "propositions" ]
+  }, {
+    "canonical_form" : "affirmation",
+    "other_forms" : [ "affirmations" ]
+  }, {
+    "canonical_form" : "argument",
+    "other_forms" : [ "arguments" ]
+  }, {
+    "canonical_form" : "justification",
+    "other_forms" : [ "justifications" ]
+  }, {
+    "canonical_form" : "signe",
+    "other_forms" : [ "signes" ]
+  }, {
+    "canonical_form" : "raisonnement",
+    "other_forms" : [ "raisonnements" ]
+  }, {
+    "canonical_form" : "principe",
+    "other_forms" : [ "principes" ]
+  }, {
+    "canonical_form" : "raison",
+    "other_forms" : [ "raisons" ]
+  }, {
+    "canonical_form" : "hypothèse",
+    "other_forms" : [ "hypothèses" ]
+  }, {
+    "canonical_form" : "expression",
+    "other_forms" : [ "expressions" ]
+  }, {
+    "canonical_form" : "conclusion",
+    "other_forms" : [ "conclusions" ]
+  }, {
+    "canonical_form" : "axiome",
+    "other_forms" : [ "axiomes" ]
+  }, {
+    "canonical_form" : "étalage",
+    "other_forms" : [ "étalages" ]
+  }, {
+    "canonical_form" : "transport",
+    "other_forms" : [ "transports" ]
+  }, {
+    "canonical_form" : "théorème",
+    "other_forms" : [ "théorèmes" ]
+  }, {
+    "canonical_form" : "prémisse",
+    "other_forms" : [ "prémisses" ]
+  }, {
+    "canonical_form" : "montre",
+    "other_forms" : [ "montres" ]
+  }, {
+    "canonical_form" : "marque",
+    "other_forms" : [ "marques" ]
+  }, {
+    "canonical_form" : "exposition",
+    "other_forms" : [ "expositions" ]
+  }, {
+    "canonical_form" : "déploiement",
+    "other_forms" : [ "déploiements" ]
+  }, {
+    "canonical_form" : "déduction",
+    "other_forms" : [ "déductions" ]
+  }, {
+    "canonical_form" : "illustration",
+    "other_forms" : [ "illustrations" ]
+  }, {
+    "canonical_form" : "induction",
+    "other_forms" : [ "inductions" ]
+  }, {
+    "canonical_form" : "investigation",
+    "other_forms" : [ "investigations" ]
+  }, {
+    "canonical_form" : "leçon",
+    "other_forms" : [ "leçons" ]
+  }, {
+    "canonical_form" : "postulat",
+    "other_forms" : [ "postulats" ]
+  }, {
+    "canonical_form" : "protestation",
+    "other_forms" : [ "protestations" ]
+  }, {
+    "canonical_form" : "syllogisme",
+    "other_forms" : [ "syllogismes" ]
+  }, {
+    "canonical_form" : "échantillon",
+    "other_forms" : [ "échantillons" ]
+  }, {
+    "canonical_form" : "geste",
+    "other_forms" : [ "gestes" ]
+  }, {
+    "canonical_form" : "festival",
+    "other_forms" : [ "festivals" ]
+  }, {
+    "canonical_form" : "affiche",
+    "other_forms" : [ "affiches" ]
+  }, {
+    "canonical_form" : "agitation",
+    "other_forms" : [ "agitations" ]
+  }, {
+    "canonical_form" : "civilité",
+    "other_forms" : [ "civilités" ]
+  }, {
+    "canonical_form" : "définition",
+    "other_forms" : [ "définitions" ]
+  }, {
+    "canonical_form" : "expansion",
+    "other_forms" : [ "expansions" ]
+  }, {
+    "canonical_form" : "expérience",
+    "other_forms" : [ "expériences" ]
+  }, {
+    "canonical_form" : "expérimentation",
+    "other_forms" : [ "expérimentations" ]
+  }, {
+    "canonical_form" : "fanfare",
+    "other_forms" : [ "fanfares" ]
+  }, {
+    "canonical_form" : "établissement",
+    "other_forms" : [ "établissements" ]
+  } ]
+}

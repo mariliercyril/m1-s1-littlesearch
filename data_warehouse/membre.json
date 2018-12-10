@@ -1,0 +1,31 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "membre",
+    "other_forms" : [ "membres" ]
+  }, {
+    "canonical_form" : "organe",
+    "other_forms" : [ "organes" ]
+  }, {
+    "canonical_form" : "ramification",
+    "other_forms" : [ "ramifications" ]
+  }, {
+    "canonical_form" : "soutien",
+    "other_forms" : [ "soutiens" ]
+  }, {
+    "canonical_form" : "morceau",
+    "other_forms" : [ "morceaux" ]
+  }, {
+    "canonical_form" : "jambe",
+    "other_forms" : [ "jambes" ]
+  }, {
+    "canonical_form" : "division",
+    "other_forms" : [ "divisions" ]
+  }, {
+    "canonical_form" : "bras",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "actionnaire",
+    "other_forms" : [ "actionnaires" ]
+  } ]
+}

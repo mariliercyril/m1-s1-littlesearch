@@ -1,0 +1,253 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "groupe",
+    "other_forms" : [ "groupes" ]
+  }, {
+    "canonical_form" : "réunion",
+    "other_forms" : [ "réunions" ]
+  }, {
+    "canonical_form" : "clan",
+    "other_forms" : [ "clans" ]
+  }, {
+    "canonical_form" : "société",
+    "other_forms" : [ "sociétés" ]
+  }, {
+    "canonical_form" : "troupe",
+    "other_forms" : [ "troupes" ]
+  }, {
+    "canonical_form" : "association",
+    "other_forms" : [ "associations" ]
+  }, {
+    "canonical_form" : "coterie",
+    "other_forms" : [ "coteries" ]
+  }, {
+    "canonical_form" : "assemblage",
+    "other_forms" : [ "assemblages" ]
+  }, {
+    "canonical_form" : "bande",
+    "other_forms" : [ "bandes" ]
+  }, {
+    "canonical_form" : "colonie",
+    "other_forms" : [ "colonies" ]
+  }, {
+    "canonical_form" : "famille",
+    "other_forms" : [ "familles" ]
+  }, {
+    "canonical_form" : "bloc",
+    "other_forms" : [ "blocs" ]
+  }, {
+    "canonical_form" : "compagnie",
+    "other_forms" : [ "compagnies" ]
+  }, {
+    "canonical_form" : "école",
+    "other_forms" : [ "écoles" ]
+  }, {
+    "canonical_form" : "cercle",
+    "other_forms" : [ "cercles" ]
+  }, {
+    "canonical_form" : "masse",
+    "other_forms" : [ "masses" ]
+  }, {
+    "canonical_form" : "tribu",
+    "other_forms" : [ "tribus" ]
+  }, {
+    "canonical_form" : "unité",
+    "other_forms" : [ "unités" ]
+  }, {
+    "canonical_form" : "cénacle",
+    "other_forms" : [ "cénacles" ]
+  }, {
+    "canonical_form" : "amas",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "chapelle",
+    "other_forms" : [ "chapelles" ]
+  }, {
+    "canonical_form" : "classe",
+    "other_forms" : [ "classes" ]
+  }, {
+    "canonical_form" : "équipe",
+    "other_forms" : [ "équipes" ]
+  }, {
+    "canonical_form" : "groupement",
+    "other_forms" : [ "groupements" ]
+  }, {
+    "canonical_form" : "essaim",
+    "other_forms" : [ "essaims" ]
+  }, {
+    "canonical_form" : "division",
+    "other_forms" : [ "divisions" ]
+  }, {
+    "canonical_form" : "communauté",
+    "other_forms" : [ "communautés" ]
+  }, {
+    "canonical_form" : "bataillon",
+    "other_forms" : [ "bataillons" ]
+  }, {
+    "canonical_form" : "secte",
+    "other_forms" : [ "sectes" ]
+  }, {
+    "canonical_form" : "paquet",
+    "other_forms" : [ "paquets" ]
+  }, {
+    "canonical_form" : "formation",
+    "other_forms" : [ "formations" ]
+  }, {
+    "canonical_form" : "faisceau",
+    "other_forms" : [ "faisceaux" ]
+  }, {
+    "canonical_form" : "clique",
+    "other_forms" : [ "cliques" ]
+  }, {
+    "canonical_form" : "cellule",
+    "other_forms" : [ "cellules" ]
+  }, {
+    "canonical_form" : "sorte",
+    "other_forms" : [ "sortes" ]
+  }, {
+    "canonical_form" : "race",
+    "other_forms" : [ "races" ]
+  }, {
+    "canonical_form" : "pool",
+    "other_forms" : [ "pools" ]
+  }, {
+    "canonical_form" : "pléiade",
+    "other_forms" : [ "pléiades" ]
+  }, {
+    "canonical_form" : "ordre",
+    "other_forms" : [ "ordres" ]
+  }, {
+    "canonical_form" : "collection",
+    "other_forms" : [ "collections" ]
+  }, {
+    "canonical_form" : "camp",
+    "other_forms" : [ "camps" ]
+  }, {
+    "canonical_form" : "brigade",
+    "other_forms" : [ "brigades" ]
+  }, {
+    "canonical_form" : "section",
+    "other_forms" : [ "sections" ]
+  }, {
+    "canonical_form" : "trust",
+    "other_forms" : [ "trusts" ]
+  }, {
+    "canonical_form" : "église",
+    "other_forms" : [ "églises" ]
+  }, {
+    "canonical_form" : "îlot",
+    "other_forms" : [ "îlots" ]
+  }, {
+    "canonical_form" : "orchestre",
+    "other_forms" : [ "orchestres" ]
+  }, {
+    "canonical_form" : "nation",
+    "other_forms" : [ "nations" ]
+  }, {
+    "canonical_form" : "attroupement",
+    "other_forms" : [ "attroupements" ]
+  }, {
+    "canonical_form" : "club",
+    "other_forms" : [ "clubs" ]
+  }, {
+    "canonical_form" : "cohorte",
+    "other_forms" : [ "cohortes" ]
+  }, {
+    "canonical_form" : "espèce",
+    "other_forms" : [ "espèces" ]
+  }, {
+    "canonical_form" : "grappe",
+    "other_forms" : [ "grappes" ]
+  }, {
+    "canonical_form" : "gang",
+    "other_forms" : [ "gangs" ]
+  }, {
+    "canonical_form" : "loge",
+    "other_forms" : [ "loges" ]
+  }, {
+    "canonical_form" : "noyau",
+    "other_forms" : [ "noyaux" ]
+  }, {
+    "canonical_form" : "peloton",
+    "other_forms" : [ "pelotons" ]
+  }, {
+    "canonical_form" : "poignée",
+    "other_forms" : [ "poignées" ]
+  }, {
+    "canonical_form" : "pâté",
+    "other_forms" : [ "pâtés" ]
+  }, {
+    "canonical_form" : "quarteron",
+    "other_forms" : [ "quarterons" ]
+  }, {
+    "canonical_form" : "tendance",
+    "other_forms" : [ "tendances" ]
+  }, {
+    "canonical_form" : "escouade",
+    "other_forms" : [ "escouades" ]
+  }, {
+    "canonical_form" : "assortiment",
+    "other_forms" : [ "assortiments" ]
+  }, {
+    "canonical_form" : "bouquet",
+    "other_forms" : [ "bouquets" ]
+  }, {
+    "canonical_form" : "camarilla",
+    "other_forms" : [ "camarillas" ]
+  }, {
+    "canonical_form" : "caravane",
+    "other_forms" : [ "caravanes" ]
+  }, {
+    "canonical_form" : "catégorie",
+    "other_forms" : [ "catégories" ]
+  }, {
+    "canonical_form" : "collectivité",
+    "other_forms" : [ "collectivités" ]
+  }, {
+    "canonical_form" : "comité",
+    "other_forms" : [ "comités" ]
+  }, {
+    "canonical_form" : "lobby",
+    "other_forms" : [ "lobbys" ]
+  }, {
+    "canonical_form" : "manécanterie",
+    "other_forms" : [ "manécanteries" ]
+  }, {
+    "canonical_form" : "musique",
+    "other_forms" : [ "musiques" ]
+  }, {
+    "canonical_form" : "peuplade",
+    "other_forms" : [ "peuplades" ]
+  }, {
+    "canonical_form" : "phratrie",
+    "other_forms" : [ "phratries" ]
+  }, {
+    "canonical_form" : "régiment",
+    "other_forms" : [ "régiments" ]
+  }, {
+    "canonical_form" : "gruppetto",
+    "other_forms" : [ "gruppettos" ]
+  }, {
+    "canonical_form" : "fournée",
+    "other_forms" : [ "fournées" ]
+  }, {
+    "canonical_form" : "escadron",
+    "other_forms" : [ "escadrons" ]
+  }, {
+    "canonical_form" : "escadrille",
+    "other_forms" : [ "escadrilles" ]
+  }, {
+    "canonical_form" : "constellation",
+    "other_forms" : [ "constellations" ]
+  }, {
+    "canonical_form" : "confrérie",
+    "other_forms" : [ "confréries" ]
+  }, {
+    "canonical_form" : "commission",
+    "other_forms" : [ "commissions" ]
+  }, {
+    "canonical_form" : "atelier",
+    "other_forms" : [ "ateliers" ]
+  } ]
+}

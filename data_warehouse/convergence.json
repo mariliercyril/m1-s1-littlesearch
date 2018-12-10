@@ -1,0 +1,25 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "convergence",
+    "other_forms" : [ "convergences" ]
+  }, {
+    "canonical_form" : "concentration",
+    "other_forms" : [ "concentrations" ]
+  }, {
+    "canonical_form" : "afflux",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "confluence",
+    "other_forms" : [ "confluences" ]
+  }, {
+    "canonical_form" : "focalisation",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "réunion",
+    "other_forms" : [ "réunions" ]
+  }, {
+    "canonical_form" : "vergence",
+    "other_forms" : [ "vergences" ]
+  } ]
+}

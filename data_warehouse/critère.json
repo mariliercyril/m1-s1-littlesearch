@@ -1,0 +1,43 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "critère",
+    "other_forms" : [ "critères" ]
+  }, {
+    "canonical_form" : "signe",
+    "other_forms" : [ "signes" ]
+  }, {
+    "canonical_form" : "critérium",
+    "other_forms" : [ "critériums" ]
+  }, {
+    "canonical_form" : "indice",
+    "other_forms" : [ "indices" ]
+  }, {
+    "canonical_form" : "marque",
+    "other_forms" : [ "marques" ]
+  }, {
+    "canonical_form" : "preuve",
+    "other_forms" : [ "preuves" ]
+  }, {
+    "canonical_form" : "témoignage",
+    "other_forms" : [ "témoignages" ]
+  }, {
+    "canonical_form" : "caractère",
+    "other_forms" : [ "caractères" ]
+  }, {
+    "canonical_form" : "catégorie",
+    "other_forms" : [ "catégories" ]
+  }, {
+    "canonical_form" : "indication",
+    "other_forms" : [ "indications" ]
+  }, {
+    "canonical_form" : "référence",
+    "other_forms" : [ "références" ]
+  }, {
+    "canonical_form" : "élément",
+    "other_forms" : [ "éléments" ]
+  }, {
+    "canonical_form" : "épreuve",
+    "other_forms" : [ "épreuves" ]
+  } ]
+}

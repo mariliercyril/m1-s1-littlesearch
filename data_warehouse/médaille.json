@@ -1,0 +1,37 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "médaille",
+    "other_forms" : [ "médailles" ]
+  }, {
+    "canonical_form" : "décoration",
+    "other_forms" : [ "décorations" ]
+  }, {
+    "canonical_form" : "récompense",
+    "other_forms" : [ "récompenses" ]
+  }, {
+    "canonical_form" : "diplôme",
+    "other_forms" : [ "diplômes" ]
+  }, {
+    "canonical_form" : "prix",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "plaque",
+    "other_forms" : [ "plaques" ]
+  }, {
+    "canonical_form" : "pièce",
+    "other_forms" : [ "pièces" ]
+  }, {
+    "canonical_form" : "médaillon",
+    "other_forms" : [ "médaillons" ]
+  }, {
+    "canonical_form" : "monnaie",
+    "other_forms" : [ "monnaies" ]
+  }, {
+    "canonical_form" : "distinction",
+    "other_forms" : [ "distinctions" ]
+  }, {
+    "canonical_form" : "trophée",
+    "other_forms" : [ "trophées" ]
+  } ]
+}

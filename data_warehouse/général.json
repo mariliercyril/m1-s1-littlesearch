@@ -1,0 +1,79 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "général",
+    "other_forms" : [ "générale", "générales", "généraux" ]
+  }, {
+    "canonical_form" : "commun",
+    "other_forms" : [ "commune", "communes", "communs" ]
+  }, {
+    "canonical_form" : "collectif",
+    "other_forms" : [ "collectifs", "collective", "collectives" ]
+  }, {
+    "canonical_form" : "unanime",
+    "other_forms" : [ "unanimes" ]
+  }, {
+    "canonical_form" : "universel",
+    "other_forms" : [ "universelle", "universelles", "universels" ]
+  }, {
+    "canonical_form" : "vague",
+    "other_forms" : [ "vagues" ]
+  }, {
+    "canonical_form" : "total",
+    "other_forms" : [ "totale", "totales", "totaux" ]
+  }, {
+    "canonical_form" : "supérieur",
+    "other_forms" : [ "supérieure", "supérieures", "supérieurs" ]
+  }, {
+    "canonical_form" : "public",
+    "other_forms" : [ "publics", "publique", "publiques" ]
+  }, {
+    "canonical_form" : "global",
+    "other_forms" : [ "globale", "globales", "globaux" ]
+  }, {
+    "canonical_form" : "imprécis",
+    "other_forms" : [ "imprécise", "imprécises" ]
+  }, {
+    "canonical_form" : "indécis",
+    "other_forms" : [ "indécise", "indécises" ]
+  }, {
+    "canonical_form" : "international",
+    "other_forms" : [ "internationale", "internationales", "internationaux" ]
+  }, {
+    "canonical_form" : "large",
+    "other_forms" : [ "larges" ]
+  }, {
+    "canonical_form" : "ordinaire",
+    "other_forms" : [ "ordinaires" ]
+  }, {
+    "canonical_form" : "habituel",
+    "other_forms" : [ "habituelle", "habituelles", "habituels" ]
+  }, {
+    "canonical_form" : "générique",
+    "other_forms" : [ "génériques" ]
+  }, {
+    "canonical_form" : "généralissime",
+    "other_forms" : [ "généralissimes" ]
+  }, {
+    "canonical_form" : "dominant",
+    "other_forms" : [ "dominante", "dominantes", "dominants" ]
+  }, {
+    "canonical_form" : "courant",
+    "other_forms" : [ "courante", "courantes", "courants" ]
+  }, {
+    "canonical_form" : "constant",
+    "other_forms" : [ "constante", "constantes", "constants" ]
+  }, {
+    "canonical_form" : "conducteur",
+    "other_forms" : [ "conducteurs", "conductrice", "conductrices" ]
+  }, {
+    "canonical_form" : "commandant",
+    "other_forms" : [ "commandante", "commandantes", "commandants" ]
+  }, {
+    "canonical_form" : "amiral",
+    "other_forms" : [ "amirale", "amirales", "amiraux" ]
+  }, {
+    "canonical_form" : "synoptique",
+    "other_forms" : [ "synoptiques" ]
+  } ]
+}

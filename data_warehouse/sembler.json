@@ -1,0 +1,16 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "sembler"
+  }, {
+    "canonical_form" : "apparaître"
+  }, {
+    "canonical_form" : "imiter"
+  }, {
+    "canonical_form" : "simuler"
+  }, {
+    "canonical_form" : "ressembler"
+  }, {
+    "canonical_form" : "croire"
+  } ]
+}

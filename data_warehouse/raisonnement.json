@@ -1,0 +1,61 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "raisonnement",
+    "other_forms" : [ "raisonnements" ]
+  }, {
+    "canonical_form" : "démonstration",
+    "other_forms" : [ "démonstrations" ]
+  }, {
+    "canonical_form" : "raison",
+    "other_forms" : [ "raisons" ]
+  }, {
+    "canonical_form" : "argument",
+    "other_forms" : [ "arguments" ]
+  }, {
+    "canonical_form" : "déduction",
+    "other_forms" : [ "déductions" ]
+  }, {
+    "canonical_form" : "induction",
+    "other_forms" : [ "inductions" ]
+  }, {
+    "canonical_form" : "observation",
+    "other_forms" : [ "observations" ]
+  }, {
+    "canonical_form" : "jugement",
+    "other_forms" : [ "jugements" ]
+  }, {
+    "canonical_form" : "inférence",
+    "other_forms" : [ "inférences" ]
+  }, {
+    "canonical_form" : "analyse",
+    "other_forms" : [ "analyses" ]
+  }, {
+    "canonical_form" : "synthèse",
+    "other_forms" : [ "synthèses" ]
+  }, {
+    "canonical_form" : "syllogisme",
+    "other_forms" : [ "syllogismes" ]
+  }, {
+    "canonical_form" : "spéculation",
+    "other_forms" : [ "spéculations" ]
+  }, {
+    "canonical_form" : "sorite",
+    "other_forms" : [ "sorites" ]
+  }, {
+    "canonical_form" : "sens",
+    "other_forms" : [ "sen" ]
+  }, {
+    "canonical_form" : "preuve",
+    "other_forms" : [ "preuves" ]
+  }, {
+    "canonical_form" : "méthode",
+    "other_forms" : [ "méthodes" ]
+  }, {
+    "canonical_form" : "dilemme",
+    "other_forms" : [ "dilemmes" ]
+  }, {
+    "canonical_form" : "échafaudage",
+    "other_forms" : [ "échafaudages" ]
+  } ]
+}

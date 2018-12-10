@@ -1,0 +1,78 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "considérer"
+  }, {
+    "canonical_form" : "estimer"
+  }, {
+    "canonical_form" : "examiner"
+  }, {
+    "canonical_form" : "regarder"
+  }, {
+    "canonical_form" : "voir"
+  }, {
+    "canonical_form" : "juger"
+  }, {
+    "canonical_form" : "prendre"
+  }, {
+    "canonical_form" : "peser"
+  }, {
+    "canonical_form" : "compter"
+  }, {
+    "canonical_form" : "apprécier"
+  }, {
+    "canonical_form" : "étudier"
+  }, {
+    "canonical_form" : "envisager"
+  }, {
+    "canonical_form" : "croire"
+  }, {
+    "canonical_form" : "réputer"
+  }, {
+    "canonical_form" : "réfléchir"
+  }, {
+    "canonical_form" : "observer"
+  }, {
+    "canonical_form" : "contempler"
+  }, {
+    "canonical_form" : "traiter"
+  }, {
+    "canonical_form" : "trouver"
+  }, {
+    "canonical_form" : "connaître"
+  }, {
+    "canonical_form" : "écouter"
+  }, {
+    "canonical_form" : "vénérer"
+  }, {
+    "canonical_form" : "sonder"
+  }, {
+    "canonical_form" : "honorer"
+  }, {
+    "canonical_form" : "analyser"
+  }, {
+    "canonical_form" : "tourner"
+  }, {
+    "canonical_form" : "songer"
+  }, {
+    "canonical_form" : "respecter"
+  }, {
+    "canonical_form" : "mettre"
+  }, {
+    "canonical_form" : "discuter"
+  }, {
+    "canonical_form" : "approfondir"
+  }, {
+    "canonical_form" : "admirer"
+  }, {
+    "canonical_form" : "révérer"
+  }, {
+    "canonical_form" : "repenser"
+  }, {
+    "canonical_form" : "entrer"
+  }, {
+    "canonical_form" : "balancer"
+  }, {
+    "canonical_form" : "toiser"
+  } ]
+}

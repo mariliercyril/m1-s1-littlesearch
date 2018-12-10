@@ -1,0 +1,352 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "extraordinaire",
+    "other_forms" : [ "extraordinaires" ]
+  }, {
+    "canonical_form" : "étonnant",
+    "other_forms" : [ "étonnante", "étonnantes", "étonnants" ]
+  }, {
+    "canonical_form" : "sensationnel",
+    "other_forms" : [ "sensationnelle", "sensationnelles", "sensationnels" ]
+  }, {
+    "canonical_form" : "fantastique",
+    "other_forms" : [ "fantastiques" ]
+  }, {
+    "canonical_form" : "prodigieux",
+    "other_forms" : [ "prodigieuse", "prodigieuses" ]
+  }, {
+    "canonical_form" : "formidable",
+    "other_forms" : [ "formidables" ]
+  }, {
+    "canonical_form" : "surprenant",
+    "other_forms" : [ "surprenante", "surprenantes", "surprenants" ]
+  }, {
+    "canonical_form" : "inouï",
+    "other_forms" : [ "inouïe", "inouïes", "inouïs" ]
+  }, {
+    "canonical_form" : "incroyable",
+    "other_forms" : [ "incroyables" ]
+  }, {
+    "canonical_form" : "fabuleux",
+    "other_forms" : [ "fabuleuse", "fabuleuses" ]
+  }, {
+    "canonical_form" : "bizarre",
+    "other_forms" : [ "bizarres" ]
+  }, {
+    "canonical_form" : "énorme",
+    "other_forms" : [ "énormes" ]
+  }, {
+    "canonical_form" : "grand",
+    "other_forms" : [ "grande", "grandes", "grands" ]
+  }, {
+    "canonical_form" : "singulier",
+    "other_forms" : [ "singuliers", "singulière", "singulières" ]
+  }, {
+    "canonical_form" : "invraisemblable",
+    "other_forms" : [ "invraisemblables" ]
+  }, {
+    "canonical_form" : "étrange",
+    "other_forms" : [ "étranges" ]
+  }, {
+    "canonical_form" : "remarquable",
+    "other_forms" : [ "remarquables" ]
+  }, {
+    "canonical_form" : "original",
+    "other_forms" : [ "originale", "originales", "originaux" ]
+  }, {
+    "canonical_form" : "merveilleux",
+    "other_forms" : [ "merveilleuse", "merveilleuses" ]
+  }, {
+    "canonical_form" : "extravagant",
+    "other_forms" : [ "extravagante", "extravagantes", "extravagants" ]
+  }, {
+    "canonical_form" : "exceptionnel",
+    "other_forms" : [ "exceptionnelle", "exceptionnelles", "exceptionnels" ]
+  }, {
+    "canonical_form" : "stupéfiant",
+    "other_forms" : [ "stupéfiante", "stupéfiantes", "stupéfiants" ]
+  }, {
+    "canonical_form" : "excessif",
+    "other_forms" : [ "excessifs", "excessive", "excessives" ]
+  }, {
+    "canonical_form" : "supérieur",
+    "other_forms" : [ "supérieure", "supérieures", "supérieurs" ]
+  }, {
+    "canonical_form" : "monstrueux",
+    "other_forms" : [ "monstrueuse", "monstrueuses" ]
+  }, {
+    "canonical_form" : "terrible",
+    "other_forms" : [ "terribles" ]
+  }, {
+    "canonical_form" : "rocambolesque",
+    "other_forms" : [ "rocambolesques" ]
+  }, {
+    "canonical_form" : "rare",
+    "other_forms" : [ "rares" ]
+  }, {
+    "canonical_form" : "phénoménal",
+    "other_forms" : [ "phénoménale", "phénoménales", "phénoménaux" ]
+  }, {
+    "canonical_form" : "admirable",
+    "other_forms" : [ "admirables" ]
+  }, {
+    "canonical_form" : "gigantesque",
+    "other_forms" : [ "gigantesques" ]
+  }, {
+    "canonical_form" : "épatant",
+    "other_forms" : [ "épatante", "épatantes", "épatants" ]
+  }, {
+    "canonical_form" : "unique",
+    "other_forms" : [ "uniques" ]
+  }, {
+    "canonical_form" : "insolite",
+    "other_forms" : [ "insolites" ]
+  }, {
+    "canonical_form" : "gros",
+    "other_forms" : [ "grosse", "grosses" ]
+  }, {
+    "canonical_form" : "fou",
+    "other_forms" : [ "fol", "folle", "folles", "fous" ]
+  }, {
+    "canonical_form" : "abracadabrant",
+    "other_forms" : [ "abracadabrante", "abracadabrantes", "abracadabrants" ]
+  }, {
+    "canonical_form" : "inconcevable",
+    "other_forms" : [ "inconcevables" ]
+  }, {
+    "canonical_form" : "inusité",
+    "other_forms" : [ "inusitée", "inusitées", "inusités" ]
+  }, {
+    "canonical_form" : "impressionnant",
+    "other_forms" : [ "impressionnante", "impressionnantes", "impressionnants" ]
+  }, {
+    "canonical_form" : "fantasmagorique",
+    "other_forms" : [ "fantasmagoriques" ]
+  }, {
+    "canonical_form" : "curieux",
+    "other_forms" : [ "curieuse", "curieuses" ]
+  }, {
+    "canonical_form" : "colossal",
+    "other_forms" : [ "colossale", "colossales", "colossaux" ]
+  }, {
+    "canonical_form" : "anormal",
+    "other_forms" : [ "anormale", "anormales", "anormaux" ]
+  }, {
+    "canonical_form" : "éminent",
+    "other_forms" : [ "éminente", "éminentes", "éminents" ]
+  }, {
+    "canonical_form" : "notable",
+    "other_forms" : [ "notables" ]
+  }, {
+    "canonical_form" : "inimaginable",
+    "other_forms" : [ "inimaginables" ]
+  }, {
+    "canonical_form" : "immense",
+    "other_forms" : [ "immenses" ]
+  }, {
+    "canonical_form" : "renversant",
+    "other_forms" : [ "renversante", "renversantes", "renversants" ]
+  }, {
+    "canonical_form" : "incomparable",
+    "other_forms" : [ "incomparables" ]
+  }, {
+    "canonical_form" : "faramineux",
+    "other_forms" : [ "faramineuse", "faramineuses" ]
+  }, {
+    "canonical_form" : "extrême",
+    "other_forms" : [ "extrêmes" ]
+  }, {
+    "canonical_form" : "démesuré",
+    "other_forms" : [ "démesurée", "démesurées", "démesurés" ]
+  }, {
+    "canonical_form" : "considérable",
+    "other_forms" : [ "considérables" ]
+  }, {
+    "canonical_form" : "fort",
+    "other_forms" : [ "forte", "fortes", "forts" ]
+  }, {
+    "canonical_form" : "époustouflant",
+    "other_forms" : [ "époustouflante", "époustouflantes", "époustouflants" ]
+  }, {
+    "canonical_form" : "inhabituel",
+    "other_forms" : [ "inhabituelle", "inhabituelles", "inhabituels" ]
+  }, {
+    "canonical_form" : "génial",
+    "other_forms" : [ "géniale", "géniales", "géniaux" ]
+  }, {
+    "canonical_form" : "fameux",
+    "other_forms" : [ "fameuse", "fameuses" ]
+  }, {
+    "canonical_form" : "drôle",
+    "other_forms" : [ "drôles" ]
+  }, {
+    "canonical_form" : "sublime",
+    "other_forms" : [ "sublimes" ]
+  }, {
+    "canonical_form" : "paradoxal",
+    "other_forms" : [ "paradoxale", "paradoxales", "paradoxaux" ]
+  }, {
+    "canonical_form" : "effrayant",
+    "other_forms" : [ "effrayante", "effrayantes", "effrayants" ]
+  }, {
+    "canonical_form" : "truculent",
+    "other_forms" : [ "truculente", "truculentes", "truculents" ]
+  }, {
+    "canonical_form" : "transcendant",
+    "other_forms" : [ "transcendante", "transcendantes", "transcendants" ]
+  }, {
+    "canonical_form" : "suprême",
+    "other_forms" : [ "suprêmes" ]
+  }, {
+    "canonical_form" : "spécial",
+    "other_forms" : [ "spéciale", "spéciales", "spéciaux" ]
+  }, {
+    "canonical_form" : "prestigieux",
+    "other_forms" : [ "prestigieuse", "prestigieuses" ]
+  }, {
+    "canonical_form" : "particulier",
+    "other_forms" : [ "particuliers", "particulière", "particulières" ]
+  }, {
+    "canonical_form" : "furieux",
+    "other_forms" : [ "furieuse", "furieuses" ]
+  }, {
+    "canonical_form" : "épouvantable",
+    "other_forms" : [ "épouvantables" ]
+  }, {
+    "canonical_form" : "incalculable",
+    "other_forms" : [ "incalculables" ]
+  }, {
+    "canonical_form" : "exquis",
+    "other_forms" : [ "exquise", "exquises" ]
+  }, {
+    "canonical_form" : "émérite",
+    "other_forms" : [ "émérites" ]
+  }, {
+    "canonical_form" : "ébouriffant",
+    "other_forms" : [ "ébouriffante", "ébouriffantes", "ébouriffants" ]
+  }, {
+    "canonical_form" : "nouveau",
+    "other_forms" : [ "nouveaux", "nouvel", "nouvelle", "nouvelles" ]
+  }, {
+    "canonical_form" : "mirobolant",
+    "other_forms" : [ "mirobolante", "mirobolantes", "mirobolants" ]
+  }, {
+    "canonical_form" : "magique",
+    "other_forms" : [ "magiques" ]
+  }, {
+    "canonical_form" : "irrégulier",
+    "other_forms" : [ "irréguliers", "irrégulière", "irrégulières" ]
+  }, {
+    "canonical_form" : "horrible",
+    "other_forms" : [ "horribles" ]
+  }, {
+    "canonical_form" : "fantasque",
+    "other_forms" : [ "fantasques" ]
+  }, {
+    "canonical_form" : "exorbitant",
+    "other_forms" : [ "exorbitante", "exorbitantes", "exorbitants" ]
+  }, {
+    "canonical_form" : "excentrique",
+    "other_forms" : [ "excentriques" ]
+  }, {
+    "canonical_form" : "brillant",
+    "other_forms" : [ "brillante", "brillantes", "brillants" ]
+  }, {
+    "canonical_form" : "miraculeux",
+    "other_forms" : [ "miraculeuse", "miraculeuses" ]
+  }, {
+    "canonical_form" : "mirifique",
+    "other_forms" : [ "mirifiques" ]
+  }, {
+    "canonical_form" : "spectaculaire",
+    "other_forms" : [ "spectaculaires" ]
+  }, {
+    "canonical_form" : "surnaturel",
+    "other_forms" : [ "surnaturelle", "surnaturelles", "surnaturels" ]
+  }, {
+    "canonical_form" : "magnifique",
+    "other_forms" : [ "magnifiques" ]
+  }, {
+    "canonical_form" : "inexprimable",
+    "other_forms" : [ "inexprimables" ]
+  }, {
+    "canonical_form" : "affreux",
+    "other_forms" : [ "affreuse", "affreuses" ]
+  }, {
+    "canonical_form" : "extra",
+    "other_forms" : [ "extras" ]
+  }, {
+    "canonical_form" : "imprévu",
+    "other_forms" : [ "imprévue", "imprévues", "imprévus" ]
+  }, {
+    "canonical_form" : "ineffable",
+    "other_forms" : [ "ineffables" ]
+  }, {
+    "canonical_form" : "insolent",
+    "other_forms" : [ "insolente", "insolentes", "insolents" ]
+  }, {
+    "canonical_form" : "intense",
+    "other_forms" : [ "intenses" ]
+  }, {
+    "canonical_form" : "pittoresque",
+    "other_forms" : [ "pittoresques" ]
+  }, {
+    "canonical_form" : "romanesque",
+    "other_forms" : [ "romanesques" ]
+  }, {
+    "canonical_form" : "sidérant",
+    "other_forms" : [ "sidérante", "sidérantes", "sidérants" ]
+  }, {
+    "canonical_form" : "thaumaturgique",
+    "other_forms" : [ "thaumaturgiques" ]
+  }, {
+    "canonical_form" : "épique",
+    "other_forms" : [ "épiques" ]
+  }, {
+    "canonical_form" : "inexplicable",
+    "other_forms" : [ "inexplicables" ]
+  }, {
+    "canonical_form" : "inespéré",
+    "other_forms" : [ "inespérée", "inespérées", "inespérés" ]
+  }, {
+    "canonical_form" : "indescriptible",
+    "other_forms" : [ "indescriptibles" ]
+  }, {
+    "canonical_form" : "accidentel",
+    "other_forms" : [ "accidentelle", "accidentelles", "accidentels" ]
+  }, {
+    "canonical_form" : "funambulesque",
+    "other_forms" : [ "funambulesques" ]
+  }, {
+    "canonical_form" : "féerique",
+    "other_forms" : [ "féeriques" ]
+  }, {
+    "canonical_form" : "grotesque",
+    "other_forms" : [ "grotesques" ]
+  }, {
+    "canonical_form" : "hallucinant",
+    "other_forms" : [ "hallucinante", "hallucinantes", "hallucinants" ]
+  }, {
+    "canonical_form" : "inappréciable",
+    "other_forms" : [ "inappréciables" ]
+  }, {
+    "canonical_form" : "surabondant",
+    "other_forms" : [ "surabondante", "surabondantes", "surabondants" ]
+  }, {
+    "canonical_form" : "supplémentaire",
+    "other_forms" : [ "supplémentaires" ]
+  }, {
+    "canonical_form" : "superlatif",
+    "other_forms" : [ "superlatifs", "superlative", "superlatives" ]
+  }, {
+    "canonical_form" : "pyramidal",
+    "other_forms" : [ "pyramidale", "pyramidales", "pyramidaux" ]
+  }, {
+    "canonical_form" : "indicible",
+    "other_forms" : [ "indicibles" ]
+  }, {
+    "canonical_form" : "anomal",
+    "other_forms" : [ "anomale", "anomales", "anomaux" ]
+  } ]
+}

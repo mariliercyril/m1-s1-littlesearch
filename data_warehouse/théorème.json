@@ -1,0 +1,22 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "théorème",
+    "other_forms" : [ "théorèmes" ]
+  }, {
+    "canonical_form" : "axiome",
+    "other_forms" : [ "axiomes" ]
+  }, {
+    "canonical_form" : "démonstration",
+    "other_forms" : [ "démonstrations" ]
+  }, {
+    "canonical_form" : "proposition",
+    "other_forms" : [ "propositions" ]
+  }, {
+    "canonical_form" : "affirmation",
+    "other_forms" : [ "affirmations" ]
+  }, {
+    "canonical_form" : "vérité",
+    "other_forms" : [ "vérités" ]
+  } ]
+}

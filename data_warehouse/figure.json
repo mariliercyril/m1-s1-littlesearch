@@ -1,0 +1,259 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "figure",
+    "other_forms" : [ "figures" ]
+  }, {
+    "canonical_form" : "visage",
+    "other_forms" : [ "visages" ]
+  }, {
+    "canonical_form" : "air",
+    "other_forms" : [ "airs" ]
+  }, {
+    "canonical_form" : "image",
+    "other_forms" : [ "images" ]
+  }, {
+    "canonical_form" : "apparence",
+    "other_forms" : [ "apparences" ]
+  }, {
+    "canonical_form" : "tournure",
+    "other_forms" : [ "tournures" ]
+  }, {
+    "canonical_form" : "tête",
+    "other_forms" : [ "têtes" ]
+  }, {
+    "canonical_form" : "physionomie",
+    "other_forms" : [ "physionomies" ]
+  }, {
+    "canonical_form" : "aspect",
+    "other_forms" : [ "aspects" ]
+  }, {
+    "canonical_form" : "mine",
+    "other_forms" : [ "mines" ]
+  }, {
+    "canonical_form" : "face",
+    "other_forms" : [ "faces" ]
+  }, {
+    "canonical_form" : "expression",
+    "other_forms" : [ "expressions" ]
+  }, {
+    "canonical_form" : "attitude",
+    "other_forms" : [ "attitudes" ]
+  }, {
+    "canonical_form" : "dessin",
+    "other_forms" : [ "dessins" ]
+  }, {
+    "canonical_form" : "forme",
+    "other_forms" : [ "formes" ]
+  }, {
+    "canonical_form" : "portrait",
+    "other_forms" : [ "portraits" ]
+  }, {
+    "canonical_form" : "représentation",
+    "other_forms" : [ "représentations" ]
+  }, {
+    "canonical_form" : "caractère",
+    "other_forms" : [ "caractères" ]
+  }, {
+    "canonical_form" : "symbole",
+    "other_forms" : [ "symboles" ]
+  }, {
+    "canonical_form" : "semblance",
+    "other_forms" : [ "semblances" ]
+  }, {
+    "canonical_form" : "type",
+    "other_forms" : [ "types" ]
+  }, {
+    "canonical_form" : "signe",
+    "other_forms" : [ "signes" ]
+  }, {
+    "canonical_form" : "maintien",
+    "other_forms" : [ "maintiens" ]
+  }, {
+    "canonical_form" : "dehors",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "contenance",
+    "other_forms" : [ "contenances" ]
+  }, {
+    "canonical_form" : "bouille",
+    "other_forms" : [ "bouilles" ]
+  }, {
+    "canonical_form" : "binette",
+    "other_forms" : [ "binettes" ]
+  }, {
+    "canonical_form" : "masque",
+    "other_forms" : [ "masques" ]
+  }, {
+    "canonical_form" : "illustration",
+    "other_forms" : [ "illustrations" ]
+  }, {
+    "canonical_form" : "faciès",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "bille",
+    "other_forms" : [ "billes" ]
+  }, {
+    "canonical_form" : "disposition",
+    "other_forms" : [ "dispositions" ]
+  }, {
+    "canonical_form" : "effigie",
+    "other_forms" : [ "effigies" ]
+  }, {
+    "canonical_form" : "front",
+    "other_forms" : [ "fronts" ]
+  }, {
+    "canonical_form" : "tableau",
+    "other_forms" : [ "tableaux" ]
+  }, {
+    "canonical_form" : "personnage",
+    "other_forms" : [ "personnages" ]
+  }, {
+    "canonical_form" : "gravure",
+    "other_forms" : [ "gravures" ]
+  }, {
+    "canonical_form" : "façade",
+    "other_forms" : [ "façades" ]
+  }, {
+    "canonical_form" : "structure",
+    "other_forms" : [ "structures" ]
+  }, {
+    "canonical_form" : "statue",
+    "other_forms" : [ "statues" ]
+  }, {
+    "canonical_form" : "gueule",
+    "other_forms" : [ "gueules" ]
+  }, {
+    "canonical_form" : "frimousse",
+    "other_forms" : [ "frimousses" ]
+  }, {
+    "canonical_form" : "configuration",
+    "other_forms" : [ "configurations" ]
+  }, {
+    "canonical_form" : "allégorie",
+    "other_forms" : [ "allégories" ]
+  }, {
+    "canonical_form" : "personnalité",
+    "other_forms" : [ "personnalités" ]
+  }, {
+    "canonical_form" : "paysage",
+    "other_forms" : [ "paysages" ]
+  }, {
+    "canonical_form" : "emblème",
+    "other_forms" : [ "emblèmes" ]
+  }, {
+    "canonical_form" : "caricature",
+    "other_forms" : [ "caricatures" ]
+  }, {
+    "canonical_form" : "poire",
+    "other_forms" : [ "poires" ]
+  }, {
+    "canonical_form" : "pomme",
+    "other_forms" : [ "pommes" ]
+  }, {
+    "canonical_form" : "profil",
+    "other_forms" : [ "profils" ]
+  }, {
+    "canonical_form" : "rôle",
+    "other_forms" : [ "rôles" ]
+  }, {
+    "canonical_form" : "sommité",
+    "other_forms" : [ "sommités" ]
+  }, {
+    "canonical_form" : "trombine",
+    "other_forms" : [ "trombines" ]
+  }, {
+    "canonical_form" : "planche",
+    "other_forms" : [ "planches" ]
+  }, {
+    "canonical_form" : "métaphore",
+    "other_forms" : [ "métaphores" ]
+  }, {
+    "canonical_form" : "balle",
+    "other_forms" : [ "balles" ]
+  }, {
+    "canonical_form" : "bobine",
+    "other_forms" : [ "bobines" ]
+  }, {
+    "canonical_form" : "bosse",
+    "other_forms" : [ "bosses" ]
+  }, {
+    "canonical_form" : "conformation",
+    "other_forms" : [ "conformations" ]
+  }, {
+    "canonical_form" : "estampe",
+    "other_forms" : [ "estampes" ]
+  }, {
+    "canonical_form" : "fiole",
+    "other_forms" : [ "fioles" ]
+  }, {
+    "canonical_form" : "minois",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "margoulette",
+    "other_forms" : [ "margoulettes" ]
+  }, {
+    "canonical_form" : "notabilité",
+    "other_forms" : [ "notabilités" ]
+  }, {
+    "canonical_form" : "ornement",
+    "other_forms" : [ "ornements" ]
+  }, {
+    "canonical_form" : "reproduction",
+    "other_forms" : [ "reproductions" ]
+  }, {
+    "canonical_form" : "schéma",
+    "other_forms" : [ "schémas" ]
+  }, {
+    "canonical_form" : "totem",
+    "other_forms" : [ "totems" ]
+  }, {
+    "canonical_form" : "trogne",
+    "other_forms" : [ "trognes" ]
+  }, {
+    "canonical_form" : "vignette",
+    "other_forms" : [ "vignettes" ]
+  }, {
+    "canonical_form" : "mannequin",
+    "other_forms" : [ "mannequins" ]
+  }, {
+    "canonical_form" : "lithographie",
+    "other_forms" : [ "lithographies" ]
+  }, {
+    "canonical_form" : "buste",
+    "other_forms" : [ "bustes" ]
+  }, {
+    "canonical_form" : "cafetière",
+    "other_forms" : [ "cafetières" ]
+  }, {
+    "canonical_form" : "caillou",
+    "other_forms" : [ "cailloux" ]
+  }, {
+    "canonical_form" : "chiffre",
+    "other_forms" : [ "chiffres" ]
+  }, {
+    "canonical_form" : "couleur",
+    "other_forms" : [ "couleurs" ]
+  }, {
+    "canonical_form" : "enseigne",
+    "other_forms" : [ "enseignes" ]
+  }, {
+    "canonical_form" : "figurine",
+    "other_forms" : [ "figurines" ]
+  }, {
+    "canonical_form" : "gestalt",
+    "other_forms" : [ "gestalts" ]
+  }, {
+    "canonical_form" : "hiéroglyphe",
+    "other_forms" : [ "hiéroglyphes" ]
+  }, {
+    "canonical_form" : "hure",
+    "other_forms" : [ "hures" ]
+  }, {
+    "canonical_form" : "idole",
+    "other_forms" : [ "idoles" ]
+  }, {
+    "canonical_form" : "bouillotte",
+    "other_forms" : [ "bouillottes" ]
+  } ]
+}

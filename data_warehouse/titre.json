@@ -1,0 +1,154 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "titre",
+    "other_forms" : [ "titres" ]
+  }, {
+    "canonical_form" : "billet",
+    "other_forms" : [ "billets" ]
+  }, {
+    "canonical_form" : "qualité",
+    "other_forms" : [ "qualités" ]
+  }, {
+    "canonical_form" : "valeur",
+    "other_forms" : [ "valeurs" ]
+  }, {
+    "canonical_form" : "acte",
+    "other_forms" : [ "actes" ]
+  }, {
+    "canonical_form" : "diplôme",
+    "other_forms" : [ "diplômes" ]
+  }, {
+    "canonical_form" : "certificat",
+    "other_forms" : [ "certificats" ]
+  }, {
+    "canonical_form" : "papier",
+    "other_forms" : [ "papiers" ]
+  }, {
+    "canonical_form" : "pièce",
+    "other_forms" : [ "pièces" ]
+  }, {
+    "canonical_form" : "rang",
+    "other_forms" : [ "rangs" ]
+  }, {
+    "canonical_form" : "loi",
+    "other_forms" : [ "lois" ]
+  }, {
+    "canonical_form" : "fonction",
+    "other_forms" : [ "fonctions" ]
+  }, {
+    "canonical_form" : "brevet",
+    "other_forms" : [ "brevets" ]
+  }, {
+    "canonical_form" : "qualification",
+    "other_forms" : [ "qualifications" ]
+  }, {
+    "canonical_form" : "obligation",
+    "other_forms" : [ "obligations" ]
+  }, {
+    "canonical_form" : "nom",
+    "other_forms" : [ "noms" ]
+  }, {
+    "canonical_form" : "grade",
+    "other_forms" : [ "grades" ]
+  }, {
+    "canonical_form" : "effet",
+    "other_forms" : [ "effets" ]
+  }, {
+    "canonical_form" : "article",
+    "other_forms" : [ "articles" ]
+  }, {
+    "canonical_form" : "caractère",
+    "other_forms" : [ "caractères" ]
+  }, {
+    "canonical_form" : "degré",
+    "other_forms" : [ "degrés" ]
+  }, {
+    "canonical_form" : "dignité",
+    "other_forms" : [ "dignités" ]
+  }, {
+    "canonical_form" : "reconnaissance",
+    "other_forms" : [ "reconnaissances" ]
+  }, {
+    "canonical_form" : "portefeuille",
+    "other_forms" : [ "portefeuilles" ]
+  }, {
+    "canonical_form" : "poids",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "désignation",
+    "other_forms" : [ "désignations" ]
+  }, {
+    "canonical_form" : "document",
+    "other_forms" : [ "documents" ]
+  }, {
+    "canonical_form" : "aloi",
+    "other_forms" : [ "alois" ]
+  }, {
+    "canonical_form" : "action",
+    "other_forms" : [ "actions" ]
+  }, {
+    "canonical_form" : "manchette",
+    "other_forms" : [ "manchettes" ]
+  }, {
+    "canonical_form" : "parchemin",
+    "other_forms" : [ "parchemins" ]
+  }, {
+    "canonical_form" : "particularité",
+    "other_forms" : [ "particularités" ]
+  }, {
+    "canonical_form" : "propriété",
+    "other_forms" : [ "propriétés" ]
+  }, {
+    "canonical_form" : "raison",
+    "other_forms" : [ "raisons" ]
+  }, {
+    "canonical_form" : "rubrique",
+    "other_forms" : [ "rubriques" ]
+  }, {
+    "canonical_form" : "spécification",
+    "other_forms" : [ "spécifications" ]
+  }, {
+    "canonical_form" : "teneur",
+    "other_forms" : [ "teneurs" ]
+  }, {
+    "canonical_form" : "titrage",
+    "other_forms" : [ "titrages" ]
+  }, {
+    "canonical_form" : "instrument",
+    "other_forms" : [ "instruments" ]
+  }, {
+    "canonical_form" : "appellation",
+    "other_forms" : [ "appellations" ]
+  }, {
+    "canonical_form" : "blason",
+    "other_forms" : [ "blasons" ]
+  }, {
+    "canonical_form" : "carte",
+    "other_forms" : [ "cartes" ]
+  }, {
+    "canonical_form" : "chapitre",
+    "other_forms" : [ "chapitres" ]
+  }, {
+    "canonical_form" : "charte",
+    "other_forms" : [ "chartes" ]
+  }, {
+    "canonical_form" : "commission",
+    "other_forms" : [ "commissions" ]
+  }, {
+    "canonical_form" : "cédule",
+    "other_forms" : [ "cédules" ]
+  }, {
+    "canonical_form" : "en-tête",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "frontispice",
+    "other_forms" : [ "frontispices" ]
+  }, {
+    "canonical_form" : "inscription",
+    "other_forms" : [ "inscriptions" ]
+  }, {
+    "canonical_form" : "warrant",
+    "other_forms" : [ "warrants" ]
+  } ]
+}

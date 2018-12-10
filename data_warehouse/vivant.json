@@ -1,0 +1,91 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "vivant",
+    "other_forms" : [ "vivante", "vivantes", "vivants" ]
+  }, {
+    "canonical_form" : "vif",
+    "other_forms" : [ "vifs", "vive", "vives" ]
+  }, {
+    "canonical_form" : "actif",
+    "other_forms" : [ "actifs", "active", "actives" ]
+  }, {
+    "canonical_form" : "fort",
+    "other_forms" : [ "forte", "fortes", "forts" ]
+  }, {
+    "canonical_form" : "énergique",
+    "other_forms" : [ "énergiques" ]
+  }, {
+    "canonical_form" : "fringant",
+    "other_forms" : [ "fringante", "fringantes", "fringants" ]
+  }, {
+    "canonical_form" : "expressif",
+    "other_forms" : [ "expressifs", "expressive", "expressives" ]
+  }, {
+    "canonical_form" : "vigoureux",
+    "other_forms" : [ "vigoureuse", "vigoureuses" ]
+  }, {
+    "canonical_form" : "vivace",
+    "other_forms" : [ "vivaces" ]
+  }, {
+    "canonical_form" : "résistant",
+    "other_forms" : [ "résistante", "résistantes", "résistants" ]
+  }, {
+    "canonical_form" : "remuant",
+    "other_forms" : [ "remuante", "remuantes", "remuants" ]
+  }, {
+    "canonical_form" : "dynamique",
+    "other_forms" : [ "dynamiques" ]
+  }, {
+    "canonical_form" : "durable",
+    "other_forms" : [ "durables" ]
+  }, {
+    "canonical_form" : "ardent",
+    "other_forms" : [ "ardente", "ardentes", "ardents" ]
+  }, {
+    "canonical_form" : "turbulent",
+    "other_forms" : [ "turbulente", "turbulentes", "turbulents" ]
+  }, {
+    "canonical_form" : "tenace",
+    "other_forms" : [ "tenaces" ]
+  }, {
+    "canonical_form" : "sémillant",
+    "other_forms" : [ "sémillante", "sémillantes", "sémillants" ]
+  }, {
+    "canonical_form" : "présent",
+    "other_forms" : [ "présente", "présentes", "présents" ]
+  }, {
+    "canonical_form" : "parlant",
+    "other_forms" : [ "parlante", "parlantes", "parlants" ]
+  }, {
+    "canonical_form" : "débordant",
+    "other_forms" : [ "débordante", "débordantes", "débordants" ]
+  }, {
+    "canonical_form" : "pittoresque",
+    "other_forms" : [ "pittoresques" ]
+  }, {
+    "canonical_form" : "ressemblant",
+    "other_forms" : [ "ressemblante", "ressemblantes", "ressemblants" ]
+  }, {
+    "canonical_form" : "survivant",
+    "other_forms" : [ "survivante", "survivantes", "survivants" ]
+  }, {
+    "canonical_form" : "valide",
+    "other_forms" : [ "valides" ]
+  }, {
+    "canonical_form" : "viable",
+    "other_forms" : [ "viables" ]
+  }, {
+    "canonical_form" : "passant",
+    "other_forms" : [ "passante", "passantes", "passants" ]
+  }, {
+    "canonical_form" : "biologique",
+    "other_forms" : [ "biologiques" ]
+  }, {
+    "canonical_form" : "existant",
+    "other_forms" : [ "existante", "existantes", "existants" ]
+  }, {
+    "canonical_form" : "vital",
+    "other_forms" : [ "vitale", "vitales", "vitaux" ]
+  } ]
+}

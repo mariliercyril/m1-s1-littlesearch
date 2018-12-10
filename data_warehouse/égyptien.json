@@ -1,0 +1,16 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "égyptien",
+    "other_forms" : [ "égyptienne", "égyptiennes", "égyptiens" ]
+  }, {
+    "canonical_form" : "bohémien",
+    "other_forms" : [ "bohémienne", "bohémiennes", "bohémiens" ]
+  }, {
+    "canonical_form" : "gitan",
+    "other_forms" : [ "gitane", "gitanes", "gitans" ]
+  }, {
+    "canonical_form" : "tzigane",
+    "other_forms" : [ "tziganes" ]
+  } ]
+}

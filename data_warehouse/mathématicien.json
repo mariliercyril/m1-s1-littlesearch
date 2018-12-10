@@ -1,17 +1,8 @@
 {
-  "part_of_speech" : "substantif",
+  "part_of_speech" : "adjectif",
   "synonyms" : [ {
     "canonical_form" : "mathématicien",
     "other_forms" : [ "mathématicienne", "mathématiciennes", "mathématiciens" ]
-  }, {
-    "canonical_form" : "algébriste",
-    "other_forms" : [ "algébristes" ]
-  }, {
-    "canonical_form" : "analyste",
-    "other_forms" : [ "analystes" ]
-  }, {
-    "canonical_form" : "arithméticien",
-    "other_forms" : [ "arithméticienne", "arithméticiennes", "arithméticiens" ]
   }, {
     "canonical_form" : "calculateur",
     "other_forms" : [ "calculateurs", "calculatrice", "calculatrices" ]

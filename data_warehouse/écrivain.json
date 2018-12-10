@@ -1,0 +1,91 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "écrivain",
+    "other_forms" : [ "écrivains" ]
+  }, {
+    "canonical_form" : "auteur",
+    "other_forms" : [ "auteurs" ]
+  }, {
+    "canonical_form" : "plumitif",
+    "other_forms" : [ "plumitifs" ]
+  }, {
+    "canonical_form" : "scribe",
+    "other_forms" : [ "scribes" ]
+  }, {
+    "canonical_form" : "journaliste",
+    "other_forms" : [ "journalistes" ]
+  }, {
+    "canonical_form" : "gratte-papier",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "barbouilleur",
+    "other_forms" : [ "barbouilleurs", "barbouilleuse", "barbouilleuses" ]
+  }, {
+    "canonical_form" : "rédacteur",
+    "other_forms" : [ "rédacteurs", "rédactrice", "rédactrices" ]
+  }, {
+    "canonical_form" : "publiciste",
+    "other_forms" : [ "publicistes" ]
+  }, {
+    "canonical_form" : "pisse-copie",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "nouvelliste",
+    "other_forms" : [ "nouvellistes" ]
+  }, {
+    "canonical_form" : "gendelettre",
+    "other_forms" : [ "gendelettres" ]
+  }, {
+    "canonical_form" : "historien",
+    "other_forms" : [ "historienne", "historiennes", "historiens" ]
+  }, {
+    "canonical_form" : "littérateur",
+    "other_forms" : [ "littérateurs" ]
+  }, {
+    "canonical_form" : "logographe",
+    "other_forms" : [ "logographes" ]
+  }, {
+    "canonical_form" : "polygraphe",
+    "other_forms" : [ "polygraphes" ]
+  }, {
+    "canonical_form" : "poète",
+    "other_forms" : [ "poètes" ]
+  }, {
+    "canonical_form" : "prosateur",
+    "other_forms" : [ "prosateurs" ]
+  }, {
+    "canonical_form" : "scribouillard",
+    "other_forms" : [ "scribouillards" ]
+  }, {
+    "canonical_form" : "scripteur",
+    "other_forms" : [ "scripteurs" ]
+  }, {
+    "canonical_form" : "styliste",
+    "other_forms" : [ "stylistes" ]
+  }, {
+    "canonical_form" : "vaudevilliste",
+    "other_forms" : [ "vaudevillistes" ]
+  }, {
+    "canonical_form" : "épistolier",
+    "other_forms" : [ "épistoliers", "épistolière", "épistolières" ]
+  }, {
+    "canonical_form" : "plume",
+    "other_forms" : [ "plumes" ]
+  }, {
+    "canonical_form" : "bas-bleu",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "calligraphe",
+    "other_forms" : [ "calligraphes" ]
+  }, {
+    "canonical_form" : "copiste",
+    "other_forms" : [ "copistes" ]
+  }, {
+    "canonical_form" : "dramaturge",
+    "other_forms" : [ "dramaturges" ]
+  }, {
+    "canonical_form" : "annaliste",
+    "other_forms" : [ "annalistes" ]
+  } ]
+}

@@ -1,0 +1,67 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "intuition",
+    "other_forms" : [ "intuitions" ]
+  }, {
+    "canonical_form" : "sentiment",
+    "other_forms" : [ "sentiments" ]
+  }, {
+    "canonical_form" : "conscience",
+    "other_forms" : [ "consciences" ]
+  }, {
+    "canonical_form" : "instinct",
+    "other_forms" : [ "instincts" ]
+  }, {
+    "canonical_form" : "pressentiment",
+    "other_forms" : [ "pressentiments" ]
+  }, {
+    "canonical_form" : "prescience",
+    "other_forms" : [ "presciences" ]
+  }, {
+    "canonical_form" : "sens",
+    "other_forms" : [ "sen" ]
+  }, {
+    "canonical_form" : "prémonition",
+    "other_forms" : [ "prémonitions" ]
+  }, {
+    "canonical_form" : "inspiration",
+    "other_forms" : [ "inspirations" ]
+  }, {
+    "canonical_form" : "divination",
+    "other_forms" : [ "divinations" ]
+  }, {
+    "canonical_form" : "tact",
+    "other_forms" : [ "tacts" ]
+  }, {
+    "canonical_form" : "notion",
+    "other_forms" : [ "notions" ]
+  }, {
+    "canonical_form" : "flair",
+    "other_forms" : [ "flairs" ]
+  }, {
+    "canonical_form" : "finesse",
+    "other_forms" : [ "finesses" ]
+  }, {
+    "canonical_form" : "connaissance",
+    "other_forms" : [ "connaissances" ]
+  }, {
+    "canonical_form" : "aperception",
+    "other_forms" : [ "aperceptions" ]
+  }, {
+    "canonical_form" : "instigation",
+    "other_forms" : [ "instigations" ]
+  }, {
+    "canonical_form" : "psychologie",
+    "other_forms" : [ "psychologies" ]
+  }, {
+    "canonical_form" : "sensation",
+    "other_forms" : [ "sensations" ]
+  }, {
+    "canonical_form" : "vision",
+    "other_forms" : [ "visions" ]
+  }, {
+    "canonical_form" : "âme",
+    "other_forms" : [ "âmes" ]
+  } ]
+}

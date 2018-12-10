@@ -1,0 +1,229 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "important",
+    "other_forms" : [ "importante", "importantes", "importants" ]
+  }, {
+    "canonical_form" : "gros",
+    "other_forms" : [ "grosse", "grosses" ]
+  }, {
+    "canonical_form" : "grand",
+    "other_forms" : [ "grande", "grandes", "grands" ]
+  }, {
+    "canonical_form" : "considérable",
+    "other_forms" : [ "considérables" ]
+  }, {
+    "canonical_form" : "beau",
+    "other_forms" : [ "beaux", "bel", "belle", "belles" ]
+  }, {
+    "canonical_form" : "notable",
+    "other_forms" : [ "notables" ]
+  }, {
+    "canonical_form" : "éminent",
+    "other_forms" : [ "éminente", "éminentes", "éminents" ]
+  }, {
+    "canonical_form" : "fort",
+    "other_forms" : [ "forte", "fortes", "forts" ]
+  }, {
+    "canonical_form" : "bon",
+    "other_forms" : [ "bonne", "bonnes", "bons" ]
+  }, {
+    "canonical_form" : "haut",
+    "other_forms" : [ "haute", "hautes", "hauts" ]
+  }, {
+    "canonical_form" : "remarquable",
+    "other_forms" : [ "remarquables" ]
+  }, {
+    "canonical_form" : "superbe",
+    "other_forms" : [ "superbes" ]
+  }, {
+    "canonical_form" : "orgueilleux",
+    "other_forms" : [ "orgueilleuse", "orgueilleuses" ]
+  }, {
+    "canonical_form" : "puissant",
+    "other_forms" : [ "puissante", "puissantes", "puissants" ]
+  }, {
+    "canonical_form" : "prétentieux",
+    "other_forms" : [ "prétentieuse", "prétentieuses" ]
+  }, {
+    "canonical_form" : "principal",
+    "other_forms" : [ "principale", "principales", "principaux" ]
+  }, {
+    "canonical_form" : "supérieur",
+    "other_forms" : [ "supérieure", "supérieures", "supérieurs" ]
+  }, {
+    "canonical_form" : "avantageux",
+    "other_forms" : [ "avantageuse", "avantageuses" ]
+  }, {
+    "canonical_form" : "fat",
+    "other_forms" : [ "fate", "fates", "fats" ]
+  }, {
+    "canonical_form" : "vaniteux",
+    "other_forms" : [ "vaniteuse", "vaniteuses" ]
+  }, {
+    "canonical_form" : "essentiel",
+    "other_forms" : [ "essentielle", "essentielles", "essentiels" ]
+  }, {
+    "canonical_form" : "imposant",
+    "other_forms" : [ "imposante", "imposantes", "imposants" ]
+  }, {
+    "canonical_form" : "marquant",
+    "other_forms" : [ "marquante", "marquantes", "marquants" ]
+  }, {
+    "canonical_form" : "grave",
+    "other_forms" : [ "graves" ]
+  }, {
+    "canonical_form" : "glorieux",
+    "other_forms" : [ "glorieuse", "glorieuses" ]
+  }, {
+    "canonical_form" : "illustre",
+    "other_forms" : [ "illustres" ]
+  }, {
+    "canonical_form" : "mémorable",
+    "other_forms" : [ "mémorables" ]
+  }, {
+    "canonical_form" : "profond",
+    "other_forms" : [ "profonde", "profondes", "profonds" ]
+  }, {
+    "canonical_form" : "vaste",
+    "other_forms" : [ "vastes" ]
+  }, {
+    "canonical_form" : "sérieux",
+    "other_forms" : [ "sérieuse", "sérieuses" ]
+  }, {
+    "canonical_form" : "précieux",
+    "other_forms" : [ "précieuse", "précieuses" ]
+  }, {
+    "canonical_form" : "massif",
+    "other_forms" : [ "massifs", "massive", "massives" ]
+  }, {
+    "canonical_form" : "large",
+    "other_forms" : [ "larges" ]
+  }, {
+    "canonical_form" : "substantiel",
+    "other_forms" : [ "substantielle", "substantielles", "substantiels" ]
+  }, {
+    "canonical_form" : "primordial",
+    "other_forms" : [ "primordiale", "primordiales", "primordiaux" ]
+  }, {
+    "canonical_form" : "poseur",
+    "other_forms" : [ "poseurs", "poseuse", "poseuses" ]
+  }, {
+    "canonical_form" : "majeur",
+    "other_forms" : [ "majeure", "majeures", "majeurs" ]
+  }, {
+    "canonical_form" : "lourd",
+    "other_forms" : [ "lourde", "lourdes", "lourds" ]
+  }, {
+    "canonical_form" : "fondamental",
+    "other_forms" : [ "fondamentale", "fondamentales", "fondamentaux" ]
+  }, {
+    "canonical_form" : "célèbre",
+    "other_forms" : [ "célèbres" ]
+  }, {
+    "canonical_form" : "capital",
+    "other_forms" : [ "capitale", "capitales", "capitaux" ]
+  }, {
+    "canonical_form" : "solide",
+    "other_forms" : [ "solides" ]
+  }, {
+    "canonical_form" : "rondelet",
+    "other_forms" : [ "rondelets", "rondelette", "rondelettes" ]
+  }, {
+    "canonical_form" : "pesant",
+    "other_forms" : [ "pesante", "pesantes", "pesants" ]
+  }, {
+    "canonical_form" : "outrecuidant",
+    "other_forms" : [ "outrecuidante", "outrecuidantes", "outrecuidants" ]
+  }, {
+    "canonical_form" : "joli",
+    "other_forms" : [ "jolie", "jolies", "jolis" ]
+  }, {
+    "canonical_form" : "arrogant",
+    "other_forms" : [ "arrogante", "arrogantes", "arrogants" ]
+  }, {
+    "canonical_form" : "appréciable",
+    "other_forms" : [ "appréciables" ]
+  }, {
+    "canonical_form" : "vital",
+    "other_forms" : [ "vitale", "vitales", "vitaux" ]
+  }, {
+    "canonical_form" : "valable",
+    "other_forms" : [ "valables" ]
+  }, {
+    "canonical_form" : "intéressant",
+    "other_forms" : [ "intéressante", "intéressantes", "intéressants" ]
+  }, {
+    "canonical_form" : "crâneur",
+    "other_forms" : [ "crâneurs", "crâneuse", "crâneuses" ]
+  }, {
+    "canonical_form" : "coquet",
+    "other_forms" : [ "coquets", "coquette", "coquettes" ]
+  }, {
+    "canonical_form" : "volumineux",
+    "other_forms" : [ "volumineuse", "volumineuses" ]
+  }, {
+    "canonical_form" : "sensible",
+    "other_forms" : [ "sensibles" ]
+  }, {
+    "canonical_form" : "pressant",
+    "other_forms" : [ "pressante", "pressantes", "pressants" ]
+  }, {
+    "canonical_form" : "nécessaire",
+    "other_forms" : [ "nécessaires" ]
+  }, {
+    "canonical_form" : "décisif",
+    "other_forms" : [ "décisifs", "décisive", "décisives" ]
+  }, {
+    "canonical_form" : "dominant",
+    "other_forms" : [ "dominante", "dominantes", "dominants" ]
+  }, {
+    "canonical_form" : "copieux",
+    "other_forms" : [ "copieur", "copieurs", "copieuse", "copieuses" ]
+  }, {
+    "canonical_form" : "insigne",
+    "other_forms" : [ "insignes" ]
+  }, {
+    "canonical_form" : "nombreux",
+    "other_forms" : [ "nombreuse", "nombreuses" ]
+  }, {
+    "canonical_form" : "puant",
+    "other_forms" : [ "puante", "puantes", "puants" ]
+  }, {
+    "canonical_form" : "utile",
+    "other_forms" : [ "utiles" ]
+  }, {
+    "canonical_form" : "vain",
+    "other_forms" : [ "vaine", "vaines", "vains" ]
+  }, {
+    "canonical_form" : "écrasant",
+    "other_forms" : [ "écrasante", "écrasantes", "écrasants" ]
+  }, {
+    "canonical_form" : "influent",
+    "other_forms" : [ "influente", "influentes", "influents" ]
+  }, {
+    "canonical_form" : "inestimable",
+    "other_forms" : [ "inestimables" ]
+  }, {
+    "canonical_form" : "incalculable",
+    "other_forms" : [ "incalculables" ]
+  }, {
+    "canonical_form" : "bêcheur",
+    "other_forms" : [ "bêcheurs", "bêcheuse", "bêcheuses" ]
+  }, {
+    "canonical_form" : "conquérant",
+    "other_forms" : [ "conquérante", "conquérantes", "conquérants" ]
+  }, {
+    "canonical_form" : "crucial",
+    "other_forms" : [ "cruciale", "cruciales", "cruciaux" ]
+  }, {
+    "canonical_form" : "impressionnant",
+    "other_forms" : [ "impressionnante", "impressionnantes", "impressionnants" ]
+  }, {
+    "canonical_form" : "urgent",
+    "other_forms" : [ "urgente", "urgentes", "urgents" ]
+  }, {
+    "canonical_form" : "conséquent",
+    "other_forms" : [ "conséquente", "conséquentes", "conséquents" ]
+  } ]
+}

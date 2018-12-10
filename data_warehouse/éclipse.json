@@ -1,0 +1,76 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "éclipse",
+    "other_forms" : [ "éclipses" ]
+  }, {
+    "canonical_form" : "chute",
+    "other_forms" : [ "chutes" ]
+  }, {
+    "canonical_form" : "disparition",
+    "other_forms" : [ "disparitions" ]
+  }, {
+    "canonical_form" : "obscurcissement",
+    "other_forms" : [ "obscurcissements" ]
+  }, {
+    "canonical_form" : "échec",
+    "other_forms" : [ "échecs" ]
+  }, {
+    "canonical_form" : "occultation",
+    "other_forms" : [ "occultations" ]
+  }, {
+    "canonical_form" : "fiasco",
+    "other_forms" : [ "fiascos" ]
+  }, {
+    "canonical_form" : "faillite",
+    "other_forms" : [ "faillites" ]
+  }, {
+    "canonical_form" : "effacement",
+    "other_forms" : [ "effacements" ]
+  }, {
+    "canonical_form" : "défaut",
+    "other_forms" : [ "défauts" ]
+  }, {
+    "canonical_form" : "décadence",
+    "other_forms" : [ "décadences" ]
+  }, {
+    "canonical_form" : "absence",
+    "other_forms" : [ "absences" ]
+  }, {
+    "canonical_form" : "manque",
+    "other_forms" : [ "manques" ]
+  }, {
+    "canonical_form" : "obnubilation",
+    "other_forms" : [ "obnubilations" ]
+  }, {
+    "canonical_form" : "obscuration",
+    "other_forms" : [ "obscurations" ]
+  }, {
+    "canonical_form" : "ratage",
+    "other_forms" : [ "ratages" ]
+  }, {
+    "canonical_form" : "sommeil",
+    "other_forms" : [ "sommeils" ]
+  }, {
+    "canonical_form" : "interposition",
+    "other_forms" : [ "interpositions" ]
+  }, {
+    "canonical_form" : "immersion",
+    "other_forms" : [ "immersions" ]
+  }, {
+    "canonical_form" : "défaveur",
+    "other_forms" : [ "défaveurs" ]
+  }, {
+    "canonical_form" : "défaillance",
+    "other_forms" : [ "défaillances" ]
+  }, {
+    "canonical_form" : "déchéance",
+    "other_forms" : [ "déchéances" ]
+  }, {
+    "canonical_form" : "affaissement",
+    "other_forms" : [ "affaissements" ]
+  }, {
+    "canonical_form" : "éloignement",
+    "other_forms" : [ "éloignements" ]
+  } ]
+}

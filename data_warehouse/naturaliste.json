@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "naturaliste",
+    "other_forms" : [ "naturalistes" ]
+  }, {
+    "canonical_form" : "réaliste",
+    "other_forms" : [ "réalistes" ]
+  }, {
+    "canonical_form" : "vériste",
+    "other_forms" : [ "véristes" ]
+  } ]
+}

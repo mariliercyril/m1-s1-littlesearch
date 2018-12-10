@@ -1,0 +1,31 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "avant",
+    "other_forms" : [ "avants" ]
+  }, {
+    "canonical_form" : "devant",
+    "other_forms" : [ "devants" ]
+  }, {
+    "canonical_form" : "front",
+    "other_forms" : [ "fronts" ]
+  }, {
+    "canonical_form" : "proue",
+    "other_forms" : [ "proues" ]
+  }, {
+    "canonical_form" : "façade",
+    "other_forms" : [ "façades" ]
+  }, {
+    "canonical_form" : "nez",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "tête",
+    "other_forms" : [ "têtes" ]
+  }, {
+    "canonical_form" : "avant-centre",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "étrave",
+    "other_forms" : [ "étraves" ]
+  } ]
+}

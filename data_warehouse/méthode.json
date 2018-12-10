@@ -1,0 +1,106 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "méthode",
+    "other_forms" : [ "méthodes" ]
+  }, {
+    "canonical_form" : "truc",
+    "other_forms" : [ "trucs" ]
+  }, {
+    "canonical_form" : "système",
+    "other_forms" : [ "systèmes" ]
+  }, {
+    "canonical_form" : "manière",
+    "other_forms" : [ "manières" ]
+  }, {
+    "canonical_form" : "façon",
+    "other_forms" : [ "façons" ]
+  }, {
+    "canonical_form" : "ordre",
+    "other_forms" : [ "ordres" ]
+  }, {
+    "canonical_form" : "mode",
+    "other_forms" : [ "modes" ]
+  }, {
+    "canonical_form" : "art",
+    "other_forms" : [ "arts" ]
+  }, {
+    "canonical_form" : "règle",
+    "other_forms" : [ "règles" ]
+  }, {
+    "canonical_form" : "voie",
+    "other_forms" : [ "voies" ]
+  }, {
+    "canonical_form" : "recette",
+    "other_forms" : [ "recettes" ]
+  }, {
+    "canonical_form" : "marche",
+    "other_forms" : [ "marches" ]
+  }, {
+    "canonical_form" : "habitude",
+    "other_forms" : [ "habitudes" ]
+  }, {
+    "canonical_form" : "formule",
+    "other_forms" : [ "formules" ]
+  }, {
+    "canonical_form" : "combinaison",
+    "other_forms" : [ "combinaisons" ]
+  }, {
+    "canonical_form" : "théorie",
+    "other_forms" : [ "théories" ]
+  }, {
+    "canonical_form" : "discipline",
+    "other_forms" : [ "disciplines" ]
+  }, {
+    "canonical_form" : "chemin",
+    "other_forms" : [ "chemins" ]
+  }, {
+    "canonical_form" : "stratégie",
+    "other_forms" : [ "stratégies" ]
+  }, {
+    "canonical_form" : "ressource",
+    "other_forms" : [ "ressources" ]
+  }, {
+    "canonical_form" : "procédure",
+    "other_forms" : [ "procédures" ]
+  }, {
+    "canonical_form" : "organisation",
+    "other_forms" : [ "organisations" ]
+  }, {
+    "canonical_form" : "itinéraire",
+    "other_forms" : [ "itinéraires" ]
+  }, {
+    "canonical_form" : "démarche",
+    "other_forms" : [ "démarches" ]
+  }, {
+    "canonical_form" : "classification",
+    "other_forms" : [ "classifications" ]
+  }, {
+    "canonical_form" : "taxinomie",
+    "other_forms" : [ "taxinomies", "taxonomie", "taxonomies" ]
+  }, {
+    "canonical_form" : "rubrique",
+    "other_forms" : [ "rubriques" ]
+  }, {
+    "canonical_form" : "raisonnement",
+    "other_forms" : [ "raisonnements" ]
+  }, {
+    "canonical_form" : "raison",
+    "other_forms" : [ "raisons" ]
+  }, {
+    "canonical_form" : "ordonnancement",
+    "other_forms" : [ "ordonnancements" ]
+  }, {
+    "canonical_form" : "errements",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "dispositif",
+    "other_forms" : [ "dispositifs" ]
+  }, {
+    "canonical_form" : "code",
+    "other_forms" : [ "codes" ]
+  }, {
+    "canonical_form" : "éclectisme",
+    "other_forms" : [ "éclectismes" ]
+  } ]
+}

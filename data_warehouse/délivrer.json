@@ -1,0 +1,48 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "délivrer"
+  }, {
+    "canonical_form" : "libérer"
+  }, {
+    "canonical_form" : "affranchir"
+  }, {
+    "canonical_form" : "décharger"
+  }, {
+    "canonical_form" : "dégager"
+  }, {
+    "canonical_form" : "débarrasser"
+  }, {
+    "canonical_form" : "soulager"
+  }, {
+    "canonical_form" : "guérir"
+  }, {
+    "canonical_form" : "délier"
+  }, {
+    "canonical_form" : "défaire"
+  }, {
+    "canonical_form" : "tirer"
+  }, {
+    "canonical_form" : "remettre"
+  }, {
+    "canonical_form" : "dépêtrer"
+  }, {
+    "canonical_form" : "dispenser"
+  }, {
+    "canonical_form" : "émanciper"
+  }, {
+    "canonical_form" : "racheter"
+  }, {
+    "canonical_form" : "livrer"
+  }, {
+    "canonical_form" : "extérioriser"
+  }, {
+    "canonical_form" : "appliquer"
+  }, {
+    "canonical_form" : "apaiser"
+  }, {
+    "canonical_form" : "accoucher"
+  }, {
+    "canonical_form" : "éviter"
+  } ]
+}

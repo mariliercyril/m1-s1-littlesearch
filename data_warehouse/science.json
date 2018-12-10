@@ -1,0 +1,64 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "science",
+    "other_forms" : [ "sciences" ]
+  }, {
+    "canonical_form" : "savoir",
+    "other_forms" : [ "savoirs" ]
+  }, {
+    "canonical_form" : "capacité",
+    "other_forms" : [ "capacités" ]
+  }, {
+    "canonical_form" : "habileté",
+    "other_forms" : [ "habiletés" ]
+  }, {
+    "canonical_form" : "art",
+    "other_forms" : [ "arts" ]
+  }, {
+    "canonical_form" : "compétence",
+    "other_forms" : [ "compétences" ]
+  }, {
+    "canonical_form" : "instruction",
+    "other_forms" : [ "instructions" ]
+  }, {
+    "canonical_form" : "expérience",
+    "other_forms" : [ "expériences" ]
+  }, {
+    "canonical_form" : "connaissance",
+    "other_forms" : [ "connaissances" ]
+  }, {
+    "canonical_form" : "bagage",
+    "other_forms" : [ "bagages" ]
+  }, {
+    "canonical_form" : "adresse",
+    "other_forms" : [ "adresses" ]
+  }, {
+    "canonical_form" : "érudition",
+    "other_forms" : [ "éruditions" ]
+  }, {
+    "canonical_form" : "sagesse",
+    "other_forms" : [ "sagesses" ]
+  }, {
+    "canonical_form" : "profondeur",
+    "other_forms" : [ "profondeurs" ]
+  }, {
+    "canonical_form" : "connaissance",
+    "other_forms" : [ "connaissances" ]
+  }, {
+    "canonical_form" : "culture",
+    "other_forms" : [ "cultures" ]
+  }, {
+    "canonical_form" : "discipline",
+    "other_forms" : [ "disciplines" ]
+  }, {
+    "canonical_form" : "omniscience",
+    "other_forms" : [ "omnisciences" ]
+  }, {
+    "canonical_form" : "vérité",
+    "other_forms" : [ "vérités" ]
+  }, {
+    "canonical_form" : "étude",
+    "other_forms" : [ "études" ]
+  } ]
+}

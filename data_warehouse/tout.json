@@ -1,0 +1,22 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "tout",
+    "other_forms" : [ "touts" ]
+  }, {
+    "canonical_form" : "bien",
+    "other_forms" : [ "biens" ]
+  }, {
+    "canonical_form" : "totalité",
+    "other_forms" : [ "totalités" ]
+  }, {
+    "canonical_form" : "bloc",
+    "other_forms" : [ "blocs" ]
+  }, {
+    "canonical_form" : "unité",
+    "other_forms" : [ "unités" ]
+  }, {
+    "canonical_form" : "univers",
+    "other_forms" : [ ]
+  } ]
+}

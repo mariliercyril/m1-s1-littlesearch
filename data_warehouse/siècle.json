@@ -1,0 +1,52 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "siècle",
+    "other_forms" : [ "siècles" ]
+  }, {
+    "canonical_form" : "temps",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "époque",
+    "other_forms" : [ "époques" ]
+  }, {
+    "canonical_form" : "période",
+    "other_forms" : [ "périodes" ]
+  }, {
+    "canonical_form" : "âge",
+    "other_forms" : [ "âges" ]
+  }, {
+    "canonical_form" : "ère",
+    "other_forms" : [ "ères" ]
+  }, {
+    "canonical_form" : "saison",
+    "other_forms" : [ "saisons" ]
+  }, {
+    "canonical_form" : "moment",
+    "other_forms" : [ "moments" ]
+  }, {
+    "canonical_form" : "étape",
+    "other_forms" : [ "étapes" ]
+  }, {
+    "canonical_form" : "monde",
+    "other_forms" : [ "mondes" ]
+  }, {
+    "canonical_form" : "lustre",
+    "other_forms" : [ "lustres" ]
+  }, {
+    "canonical_form" : "jour",
+    "other_forms" : [ "jours" ]
+  }, {
+    "canonical_form" : "hégire",
+    "other_forms" : [ "hégires" ]
+  }, {
+    "canonical_form" : "cycle",
+    "other_forms" : [ "cycles" ]
+  }, {
+    "canonical_form" : "an",
+    "other_forms" : [ "ans" ]
+  }, {
+    "canonical_form" : "éternité",
+    "other_forms" : [ "éternités" ]
+  } ]
+}

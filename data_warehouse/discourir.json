@@ -1,0 +1,56 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "discourir"
+  }, {
+    "canonical_form" : "palabrer"
+  }, {
+    "canonical_form" : "pérorer"
+  }, {
+    "canonical_form" : "bavarder"
+  }, {
+    "canonical_form" : "jaboter"
+  }, {
+    "canonical_form" : "pontifier"
+  }, {
+    "canonical_form" : "haranguer"
+  }, {
+    "canonical_form" : "disserter"
+  }, {
+    "canonical_form" : "débiter"
+  }, {
+    "canonical_form" : "ergoter"
+  }, {
+    "canonical_form" : "prêcher"
+  }, {
+    "canonical_form" : "épiloguer"
+  }, {
+    "canonical_form" : "traiter"
+  }, {
+    "canonical_form" : "sermonner"
+  }, {
+    "canonical_form" : "parlementer"
+  }, {
+    "canonical_form" : "laïusser"
+  }, {
+    "canonical_form" : "disputer"
+  }, {
+    "canonical_form" : "causer"
+  }, {
+    "canonical_form" : "baratiner"
+  }, {
+    "canonical_form" : "patrociner"
+  }, {
+    "canonical_form" : "lantiponner"
+  }, {
+    "canonical_form" : "déconner"
+  }, {
+    "canonical_form" : "déclamer"
+  }, {
+    "canonical_form" : "bavasser"
+  }, {
+    "canonical_form" : "allocutionner"
+  }, {
+    "canonical_form" : "tartiner"
+  } ]
+}

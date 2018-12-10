@@ -1,0 +1,55 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "séjour",
+    "other_forms" : [ "séjours" ]
+  }, {
+    "canonical_form" : "passage",
+    "other_forms" : [ "passages" ]
+  }, {
+    "canonical_form" : "stage",
+    "other_forms" : [ "stages" ]
+  }, {
+    "canonical_form" : "résidence",
+    "other_forms" : [ "résidences" ]
+  }, {
+    "canonical_form" : "maison",
+    "other_forms" : [ "maisons" ]
+  }, {
+    "canonical_form" : "lieu",
+    "other_forms" : [ "lieus", "lieux" ]
+  }, {
+    "canonical_form" : "domicile",
+    "other_forms" : [ "domiciles" ]
+  }, {
+    "canonical_form" : "arrêt",
+    "other_forms" : [ "arrêts" ]
+  }, {
+    "canonical_form" : "villégiature",
+    "other_forms" : [ "villégiatures" ]
+  }, {
+    "canonical_form" : "pause",
+    "other_forms" : [ "pauses" ]
+  }, {
+    "canonical_form" : "logement",
+    "other_forms" : [ "logements" ]
+  }, {
+    "canonical_form" : "living-room",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "living",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "habitation",
+    "other_forms" : [ "habitations" ]
+  }, {
+    "canonical_form" : "endroit",
+    "other_forms" : [ "endroits" ]
+  }, {
+    "canonical_form" : "demeure",
+    "other_forms" : [ "demeures" ]
+  }, {
+    "canonical_form" : "voyage",
+    "other_forms" : [ "voyages" ]
+  } ]
+}

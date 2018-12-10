@@ -1,0 +1,115 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "sage",
+    "other_forms" : [ "sages" ]
+  }, {
+    "canonical_form" : "bon",
+    "other_forms" : [ "bonne", "bonnes", "bons" ]
+  }, {
+    "canonical_form" : "calme",
+    "other_forms" : [ "calmes" ]
+  }, {
+    "canonical_form" : "prudent",
+    "other_forms" : [ "prudente", "prudentes", "prudents" ]
+  }, {
+    "canonical_form" : "sérieux",
+    "other_forms" : [ "sérieuse", "sérieuses" ]
+  }, {
+    "canonical_form" : "raisonnable",
+    "other_forms" : [ "raisonnables" ]
+  }, {
+    "canonical_form" : "réfléchi",
+    "other_forms" : [ "réfléchie", "réfléchies", "réfléchis" ]
+  }, {
+    "canonical_form" : "honnête",
+    "other_forms" : [ "honnêtes" ]
+  }, {
+    "canonical_form" : "vertueux",
+    "other_forms" : [ "vertueuse", "vertueuses" ]
+  }, {
+    "canonical_form" : "judicieux",
+    "other_forms" : [ "judicieuse", "judicieuses" ]
+  }, {
+    "canonical_form" : "doux",
+    "other_forms" : [ "douce", "douces" ]
+  }, {
+    "canonical_form" : "grave",
+    "other_forms" : [ "graves" ]
+  }, {
+    "canonical_form" : "tranquille",
+    "other_forms" : [ "tranquilles" ]
+  }, {
+    "canonical_form" : "sensé",
+    "other_forms" : [ "sensée", "sensées", "sensés" ]
+  }, {
+    "canonical_form" : "pur",
+    "other_forms" : [ "pure", "pures", "purs" ]
+  }, {
+    "canonical_form" : "pudique",
+    "other_forms" : [ "pudiques" ]
+  }, {
+    "canonical_form" : "juste",
+    "other_forms" : [ "justes" ]
+  }, {
+    "canonical_form" : "décent",
+    "other_forms" : [ "décente", "décentes", "décents" ]
+  }, {
+    "canonical_form" : "circonspect",
+    "other_forms" : [ "circonspecte", "circonspectes", "circonspects" ]
+  }, {
+    "canonical_form" : "chaste",
+    "other_forms" : [ "chastes" ]
+  }, {
+    "canonical_form" : "sain",
+    "other_forms" : [ "saine", "saines", "sains" ]
+  }, {
+    "canonical_form" : "modeste",
+    "other_forms" : [ "modestes" ]
+  }, {
+    "canonical_form" : "intelligent",
+    "other_forms" : [ "intelligente", "intelligentes", "intelligents" ]
+  }, {
+    "canonical_form" : "sûr",
+    "other_forms" : [ "sûre", "sûres", "sûrs" ]
+  }, {
+    "canonical_form" : "serein",
+    "other_forms" : [ "sereine", "sereines", "sereins" ]
+  }, {
+    "canonical_form" : "savant",
+    "other_forms" : [ "savante", "savantes", "savants" ]
+  }, {
+    "canonical_form" : "continent",
+    "other_forms" : [ "continente", "continentes", "continents" ]
+  }, {
+    "canonical_form" : "averti",
+    "other_forms" : [ "avertie", "averties", "avertis" ]
+  }, {
+    "canonical_form" : "sévère",
+    "other_forms" : [ "sévères" ]
+  }, {
+    "canonical_form" : "silencieux",
+    "other_forms" : [ "silencieuse", "silencieuses" ]
+  }, {
+    "canonical_form" : "sagace",
+    "other_forms" : [ "sagaces" ]
+  }, {
+    "canonical_form" : "logique",
+    "other_forms" : [ "logiques" ]
+  }, {
+    "canonical_form" : "gentil",
+    "other_forms" : [ "gentille", "gentilles", "gentils" ]
+  }, {
+    "canonical_form" : "docile",
+    "other_forms" : [ "dociles" ]
+  }, {
+    "canonical_form" : "politique",
+    "other_forms" : [ "politiques" ]
+  }, {
+    "canonical_form" : "pacifique",
+    "other_forms" : [ "pacifiques" ]
+  }, {
+    "canonical_form" : "mage",
+    "other_forms" : [ "mages" ]
+  } ]
+}

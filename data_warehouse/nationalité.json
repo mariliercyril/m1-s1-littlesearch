@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "nationalité",
+    "other_forms" : [ "nationalités" ]
+  }, {
+    "canonical_form" : "allégeance",
+    "other_forms" : [ "allégeances" ]
+  }, {
+    "canonical_form" : "nation",
+    "other_forms" : [ "nations" ]
+  } ]
+}

@@ -1,0 +1,37 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "antique",
+    "other_forms" : [ "antiques" ]
+  }, {
+    "canonical_form" : "vieux",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "ancien",
+    "other_forms" : [ "ancienne", "anciennes", "anciens" ]
+  }, {
+    "canonical_form" : "vieillot",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "passé",
+    "other_forms" : [ "passés" ]
+  }, {
+    "canonical_form" : "arriéré",
+    "other_forms" : [ "arriérée", "arriérées", "arriérés" ]
+  }, {
+    "canonical_form" : "rococo",
+    "other_forms" : [ "rococos" ]
+  }, {
+    "canonical_form" : "millénaire",
+    "other_forms" : [ "millénaires" ]
+  }, {
+    "canonical_form" : "vénérable",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "centenaire",
+    "other_forms" : [ "centenaires" ]
+  }, {
+    "canonical_form" : "long",
+    "other_forms" : [ "longs" ]
+  } ]
+}

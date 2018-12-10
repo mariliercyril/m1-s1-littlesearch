@@ -1,0 +1,25 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "même",
+    "other_forms" : [ "mêmes" ]
+  }, {
+    "canonical_form" : "identique",
+    "other_forms" : [ "identiques" ]
+  }, {
+    "canonical_form" : "uniforme",
+    "other_forms" : [ "uniformes" ]
+  }, {
+    "canonical_form" : "homogène",
+    "other_forms" : [ "homogènes" ]
+  }, {
+    "canonical_form" : "tel",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "constant",
+    "other_forms" : [ "constante", "constantes", "constants" ]
+  }, {
+    "canonical_form" : "commun",
+    "other_forms" : [ "commune", "communes", "communs" ]
+  } ]
+}

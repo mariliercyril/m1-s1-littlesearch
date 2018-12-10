@@ -1,0 +1,16 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "grec",
+    "other_forms" : [ "grecque", "grecques", "grecs" ]
+  }, {
+    "canonical_form" : "athénien",
+    "other_forms" : [ "athénienne", "athéniennes", "athéniens" ]
+  }, {
+    "canonical_form" : "baron",
+    "other_forms" : [ "baronne", "baronnes", "barons" ]
+  }, {
+    "canonical_form" : "hellène",
+    "other_forms" : [ "hellènes" ]
+  } ]
+}

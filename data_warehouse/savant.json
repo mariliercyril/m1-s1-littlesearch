@@ -1,0 +1,64 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "savant",
+    "other_forms" : [ "savante", "savantes", "savants" ]
+  }, {
+    "canonical_form" : "expert",
+    "other_forms" : [ "experts" ]
+  }, {
+    "canonical_form" : "maître",
+    "other_forms" : [ "maîtres", "maîtresse", "maîtresses" ]
+  }, {
+    "canonical_form" : "chercheur",
+    "other_forms" : [ "chercheurs", "chercheuse", "chercheuses" ]
+  }, {
+    "canonical_form" : "sage",
+    "other_forms" : [ "sages" ]
+  }, {
+    "canonical_form" : "profond",
+    "other_forms" : [ "profonde", "profondes", "profonds" ]
+  }, {
+    "canonical_form" : "lettré",
+    "other_forms" : [ "lettrée", "lettrées", "lettrés" ]
+  }, {
+    "canonical_form" : "théoricien",
+    "other_forms" : [ "théoricienne", "théoriciennes", "théoriciens" ]
+  }, {
+    "canonical_form" : "pédant",
+    "other_forms" : [ "pédante", "pédantes", "pédants" ]
+  }, {
+    "canonical_form" : "philosophe",
+    "other_forms" : [ "philosophes" ]
+  }, {
+    "canonical_form" : "informé",
+    "other_forms" : [ "informés" ]
+  }, {
+    "canonical_form" : "dur",
+    "other_forms" : [ "dure", "dures", "durs" ]
+  }, {
+    "canonical_form" : "clerc",
+    "other_forms" : [ "clercs" ]
+  }, {
+    "canonical_form" : "humaniste",
+    "other_forms" : [ "humanistes" ]
+  }, {
+    "canonical_form" : "lumière",
+    "other_forms" : [ "lumières" ]
+  }, {
+    "canonical_form" : "scientifique",
+    "other_forms" : [ "scientifiques" ]
+  }, {
+    "canonical_form" : "scientiste",
+    "other_forms" : [ "scientistes" ]
+  }, {
+    "canonical_form" : "découvreur",
+    "other_forms" : [ "découvreurs" ]
+  }, {
+    "canonical_form" : "docteur",
+    "other_forms" : [ "docteurs" ]
+  }, {
+    "canonical_form" : "spécialiste",
+    "other_forms" : [ "spécialistes" ]
+  } ]
+}

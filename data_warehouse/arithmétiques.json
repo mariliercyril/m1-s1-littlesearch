@@ -1,0 +1,22 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "arithmétiques",
+    "other_forms" : [ "arithmétique" ]
+  }, {
+    "canonical_form" : "calcul",
+    "other_forms" : [ "calculs" ]
+  }, {
+    "canonical_form" : "algorithme",
+    "other_forms" : [ "algorithmes" ]
+  }, {
+    "canonical_form" : "chiffre",
+    "other_forms" : [ "chiffres" ]
+  }, {
+    "canonical_form" : "mathématique",
+    "other_forms" : [ "mathématiques" ]
+  }, {
+    "canonical_form" : "opération",
+    "other_forms" : [ "opérations" ]
+  } ]
+}

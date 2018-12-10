@@ -1,0 +1,37 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "ville",
+    "other_forms" : [ "villes" ]
+  }, {
+    "canonical_form" : "agglomération",
+    "other_forms" : [ "agglomérations" ]
+  }, {
+    "canonical_form" : "centre",
+    "other_forms" : [ "centres" ]
+  }, {
+    "canonical_form" : "cité",
+    "other_forms" : [ "cités" ]
+  }, {
+    "canonical_form" : "village",
+    "other_forms" : [ "villages" ]
+  }, {
+    "canonical_form" : "municipe",
+    "other_forms" : [ "municipes" ]
+  }, {
+    "canonical_form" : "municipalité",
+    "other_forms" : [ "municipalités" ]
+  }, {
+    "canonical_form" : "localité",
+    "other_forms" : [ "localités" ]
+  }, {
+    "canonical_form" : "bourg",
+    "other_forms" : [ "bourgs" ]
+  }, {
+    "canonical_form" : "acropole",
+    "other_forms" : [ "acropoles", "acropolis" ]
+  }, {
+    "canonical_form" : "métropole",
+    "other_forms" : [ "métropoles" ]
+  } ]
+}

@@ -1,0 +1,193 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "nature",
+    "other_forms" : [ "natures" ]
+  }, {
+    "canonical_form" : "tempérament",
+    "other_forms" : [ "tempéraments" ]
+  }, {
+    "canonical_form" : "caractère",
+    "other_forms" : [ "caractères" ]
+  }, {
+    "canonical_form" : "esprit",
+    "other_forms" : [ "esprits" ]
+  }, {
+    "canonical_form" : "naturel",
+    "other_forms" : [ "naturelle", "naturelles", "naturels" ]
+  }, {
+    "canonical_form" : "disposition",
+    "other_forms" : [ "dispositions" ]
+  }, {
+    "canonical_form" : "qualité",
+    "other_forms" : [ "qualités" ]
+  }, {
+    "canonical_form" : "type",
+    "other_forms" : [ "types" ]
+  }, {
+    "canonical_form" : "sorte",
+    "other_forms" : [ "sortes" ]
+  }, {
+    "canonical_form" : "espèce",
+    "other_forms" : [ "espèces" ]
+  }, {
+    "canonical_form" : "constitution",
+    "other_forms" : [ "constitutions" ]
+  }, {
+    "canonical_form" : "classe",
+    "other_forms" : [ "classes" ]
+  }, {
+    "canonical_form" : "genre",
+    "other_forms" : [ "genres" ]
+  }, {
+    "canonical_form" : "organisation",
+    "other_forms" : [ "organisations" ]
+  }, {
+    "canonical_form" : "trempe",
+    "other_forms" : [ "trempes" ]
+  }, {
+    "canonical_form" : "fond",
+    "other_forms" : [ "fonds" ]
+  }, {
+    "canonical_form" : "complexion",
+    "other_forms" : [ "complexions" ]
+  }, {
+    "canonical_form" : "acabit",
+    "other_forms" : [ "acabits" ]
+  }, {
+    "canonical_form" : "catégorie",
+    "other_forms" : [ "catégories" ]
+  }, {
+    "canonical_form" : "essence",
+    "other_forms" : [ "essences" ]
+  }, {
+    "canonical_form" : "état",
+    "other_forms" : [ "états" ]
+  }, {
+    "canonical_form" : "âme",
+    "other_forms" : [ "âmes" ]
+  }, {
+    "canonical_form" : "réalité",
+    "other_forms" : [ "réalités" ]
+  }, {
+    "canonical_form" : "propriété",
+    "other_forms" : [ "propriétés" ]
+  }, {
+    "canonical_form" : "personnalité",
+    "other_forms" : [ "personnalités" ]
+  }, {
+    "canonical_form" : "ordre",
+    "other_forms" : [ "ordres" ]
+  }, {
+    "canonical_form" : "monde",
+    "other_forms" : [ "mondes" ]
+  }, {
+    "canonical_form" : "humeur",
+    "other_forms" : [ "humeurs" ]
+  }, {
+    "canonical_form" : "génie",
+    "other_forms" : [ "génies" ]
+  }, {
+    "canonical_form" : "coeur",
+    "other_forms" : [ "c?ur", "c?urs" ]
+  }, {
+    "canonical_form" : "vérité",
+    "other_forms" : [ "vérités" ]
+  }, {
+    "canonical_form" : "univers",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "substance",
+    "other_forms" : [ "substances" ]
+  }, {
+    "canonical_form" : "propre",
+    "other_forms" : [ "propres" ]
+  }, {
+    "canonical_form" : "inclination",
+    "other_forms" : [ "inclinations" ]
+  }, {
+    "canonical_form" : "gabarit",
+    "other_forms" : [ "gabarits" ]
+  }, {
+    "canonical_form" : "champ",
+    "other_forms" : [ "champs" ]
+  }, {
+    "canonical_form" : "manière",
+    "other_forms" : [ "manières" ]
+  }, {
+    "canonical_form" : "existence",
+    "other_forms" : [ "existences" ]
+  }, {
+    "canonical_form" : "création",
+    "other_forms" : [ "créations" ]
+  }, {
+    "canonical_form" : "condition",
+    "other_forms" : [ "conditions" ]
+  }, {
+    "canonical_form" : "caractéristique",
+    "other_forms" : [ "caractéristiques" ]
+  }, {
+    "canonical_form" : "campagne",
+    "other_forms" : [ "campagnes" ]
+  }, {
+    "canonical_form" : "macrocosme",
+    "other_forms" : [ "macrocosmes" ]
+  }, {
+    "canonical_form" : "modèle",
+    "other_forms" : [ "modèles" ]
+  }, {
+    "canonical_form" : "physique",
+    "other_forms" : [ "physiques" ]
+  }, {
+    "canonical_form" : "pâte",
+    "other_forms" : [ "pâtes" ]
+  }, {
+    "canonical_form" : "quiddité",
+    "other_forms" : [ "quiddités" ]
+  }, {
+    "canonical_form" : "sang",
+    "other_forms" : [ "sangs" ]
+  }, {
+    "canonical_form" : "santé",
+    "other_forms" : [ "santés" ]
+  }, {
+    "canonical_form" : "sexe",
+    "other_forms" : [ "sexes" ]
+  }, {
+    "canonical_form" : "individualité",
+    "other_forms" : [ "individualités" ]
+  }, {
+    "canonical_form" : "idiosyncrasie",
+    "other_forms" : [ "idiosyncrasies" ]
+  }, {
+    "canonical_form" : "entité",
+    "other_forms" : [ "entités" ]
+  }, {
+    "canonical_form" : "attribut",
+    "other_forms" : [ "attributs" ]
+  }, {
+    "canonical_form" : "bas-ventre",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "carcasse",
+    "other_forms" : [ "carcasses" ]
+  }, {
+    "canonical_form" : "chair",
+    "other_forms" : [ "chairs" ]
+  }, {
+    "canonical_form" : "cosmos",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "dessin",
+    "other_forms" : [ "dessins" ]
+  }, {
+    "canonical_form" : "diathèse",
+    "other_forms" : [ "diathèses" ]
+  }, {
+    "canonical_form" : "détour",
+    "other_forms" : [ "détours" ]
+  }, {
+    "canonical_form" : "vitalité",
+    "other_forms" : [ "vitalités" ]
+  } ]
+}

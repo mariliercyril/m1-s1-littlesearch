@@ -1,0 +1,40 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "présumer"
+  }, {
+    "canonical_form" : "compter"
+  }, {
+    "canonical_form" : "conjecturer"
+  }, {
+    "canonical_form" : "croire"
+  }, {
+    "canonical_form" : "prévoir"
+  }, {
+    "canonical_form" : "supposer"
+  }, {
+    "canonical_form" : "pressentir"
+  }, {
+    "canonical_form" : "espérer"
+  }, {
+    "canonical_form" : "estimer"
+  }, {
+    "canonical_form" : "soupçonner"
+  }, {
+    "canonical_form" : "présager"
+  }, {
+    "canonical_form" : "augurer"
+  }, {
+    "canonical_form" : "attendre"
+  }, {
+    "canonical_form" : "préjuger"
+  }, {
+    "canonical_form" : "regarder"
+  }, {
+    "canonical_form" : "réputer"
+  }, {
+    "canonical_form" : "présupposer"
+  }, {
+    "canonical_form" : "prétendre"
+  } ]
+}

@@ -1,0 +1,52 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "mathématique",
+    "other_forms" : [ "mathématiques" ]
+  }, {
+    "canonical_form" : "exact",
+    "other_forms" : [ "exacte", "exactes", "exacts" ]
+  }, {
+    "canonical_form" : "logique",
+    "other_forms" : [ "logiques" ]
+  }, {
+    "canonical_form" : "précis",
+    "other_forms" : [ "précise", "précises" ]
+  }, {
+    "canonical_form" : "rigoureux",
+    "other_forms" : [ "rigoureuse", "rigoureuses" ]
+  }, {
+    "canonical_form" : "vrai",
+    "other_forms" : [ "vraie", "vraies", "vrais" ]
+  }, {
+    "canonical_form" : "solide",
+    "other_forms" : [ "solides" ]
+  }, {
+    "canonical_form" : "certain",
+    "other_forms" : [ "certaine", "certaines", "certains" ]
+  }, {
+    "canonical_form" : "statistique",
+    "other_forms" : [ "statistiques" ]
+  }, {
+    "canonical_form" : "mécanique",
+    "other_forms" : [ "mécaniques" ]
+  }, {
+    "canonical_form" : "géométrique",
+    "other_forms" : [ "géométriques" ]
+  }, {
+    "canonical_form" : "déductif",
+    "other_forms" : [ "déductifs", "déductive", "déductives" ]
+  }, {
+    "canonical_form" : "automatique",
+    "other_forms" : [ "automatiques" ]
+  }, {
+    "canonical_form" : "arithmétique",
+    "other_forms" : [ "arithmétiques" ]
+  }, {
+    "canonical_form" : "algébrique",
+    "other_forms" : [ "algébriques" ]
+  }, {
+    "canonical_form" : "algorithmique",
+    "other_forms" : [ "algorithmiques" ]
+  } ]
+}

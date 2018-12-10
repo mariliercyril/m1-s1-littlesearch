@@ -1,0 +1,19 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "babylonien",
+    "other_forms" : [ "babylonienne", "babyloniennes", "babyloniens" ]
+  }, {
+    "canonical_form" : "colossal",
+    "other_forms" : [ "colossale", "colossales", "colossaux" ]
+  }, {
+    "canonical_form" : "gigantesque",
+    "other_forms" : [ "gigantesques" ]
+  }, {
+    "canonical_form" : "sardanapalesque",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "titanesque",
+    "other_forms" : [ "titanesques", "titanique", "titaniques" ]
+  } ]
+}

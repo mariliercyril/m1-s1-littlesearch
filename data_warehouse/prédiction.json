@@ -1,0 +1,49 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "prédiction",
+    "other_forms" : [ "prédictions" ]
+  }, {
+    "canonical_form" : "divination",
+    "other_forms" : [ "divinations" ]
+  }, {
+    "canonical_form" : "présage",
+    "other_forms" : [ "présages" ]
+  }, {
+    "canonical_form" : "oracle",
+    "other_forms" : [ "oracles" ]
+  }, {
+    "canonical_form" : "prophétie",
+    "other_forms" : [ "prophéties" ]
+  }, {
+    "canonical_form" : "pronostic",
+    "other_forms" : [ "pronostics" ]
+  }, {
+    "canonical_form" : "destin",
+    "other_forms" : [ "destins" ]
+  }, {
+    "canonical_form" : "augure",
+    "other_forms" : [ "augures" ]
+  }, {
+    "canonical_form" : "annonce",
+    "other_forms" : [ "annonces" ]
+  }, {
+    "canonical_form" : "horoscope",
+    "other_forms" : [ "horoscopes" ]
+  }, {
+    "canonical_form" : "avenir",
+    "other_forms" : [ "avenirs" ]
+  }, {
+    "canonical_form" : "conjecture",
+    "other_forms" : [ "conjectures" ]
+  }, {
+    "canonical_form" : "promesse",
+    "other_forms" : [ "promesses" ]
+  }, {
+    "canonical_form" : "prévision",
+    "other_forms" : [ "prévisions" ]
+  }, {
+    "canonical_form" : "vaticination",
+    "other_forms" : [ "vaticinations" ]
+  } ]
+}

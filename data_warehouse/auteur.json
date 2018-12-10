@@ -1,0 +1,256 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "auteur",
+    "other_forms" : [ "auteurs" ]
+  }, {
+    "canonical_form" : "écrivain",
+    "other_forms" : [ "écrivains" ]
+  }, {
+    "canonical_form" : "créateur",
+    "other_forms" : [ "créateurs", "créatrice", "créatrices" ]
+  }, {
+    "canonical_form" : "promoteur",
+    "other_forms" : [ "promoteurs", "promotrice", "promotrices" ]
+  }, {
+    "canonical_form" : "barbouilleur",
+    "other_forms" : [ "barbouilleurs", "barbouilleuse", "barbouilleuses" ]
+  }, {
+    "canonical_form" : "père",
+    "other_forms" : [ "pères" ]
+  }, {
+    "canonical_form" : "cause",
+    "other_forms" : [ "causes" ]
+  }, {
+    "canonical_form" : "premier",
+    "other_forms" : [ "premiers", "première", "premières" ]
+  }, {
+    "canonical_form" : "inventeur",
+    "other_forms" : [ "inventeurs", "inventrice", "inventrices" ]
+  }, {
+    "canonical_form" : "historien",
+    "other_forms" : [ "historienne", "historiennes", "historiens" ]
+  }, {
+    "canonical_form" : "chroniqueur",
+    "other_forms" : [ "chroniqueurs", "chroniqueuse", "chroniqueuses" ]
+  }, {
+    "canonical_form" : "artisan",
+    "other_forms" : [ "artisane", "artisanes", "artisans" ]
+  }, {
+    "canonical_form" : "agent",
+    "other_forms" : [ "agents" ]
+  }, {
+    "canonical_form" : "plumitif",
+    "other_forms" : [ "plumitifs" ]
+  }, {
+    "canonical_form" : "poète",
+    "other_forms" : [ "poètes" ]
+  }, {
+    "canonical_form" : "principe",
+    "other_forms" : [ "principes" ]
+  }, {
+    "canonical_form" : "producteur",
+    "other_forms" : [ "producteurs", "productrice", "productrices" ]
+  }, {
+    "canonical_form" : "responsable",
+    "other_forms" : [ "responsables" ]
+  }, {
+    "canonical_form" : "moraliste",
+    "other_forms" : [ "moralistes" ]
+  }, {
+    "canonical_form" : "initiateur",
+    "other_forms" : [ "initiateurs", "initiatrice", "initiatrices" ]
+  }, {
+    "canonical_form" : "chansonnier",
+    "other_forms" : [ "chansonniers" ]
+  }, {
+    "canonical_form" : "commentateur",
+    "other_forms" : [ "commentateurs", "commentatrice", "commentatrices" ]
+  }, {
+    "canonical_form" : "fabricant",
+    "other_forms" : [ "fabricante", "fabricantes", "fabricants" ]
+  }, {
+    "canonical_form" : "feuilletoniste",
+    "other_forms" : [ "feuilletonistes" ]
+  }, {
+    "canonical_form" : "gratte-papier",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "littérateur",
+    "other_forms" : [ "littérateurs" ]
+  }, {
+    "canonical_form" : "mémorialiste",
+    "other_forms" : [ "mémorialistes" ]
+  }, {
+    "canonical_form" : "ouvrier",
+    "other_forms" : [ "ouvriers", "ouvrière", "ouvrières" ]
+  }, {
+    "canonical_form" : "pamphlétaire",
+    "other_forms" : [ "pamphlétaires" ]
+  }, {
+    "canonical_form" : "parodiste",
+    "other_forms" : [ "parodistes" ]
+  }, {
+    "canonical_form" : "parolier",
+    "other_forms" : [ "paroliers" ]
+  }, {
+    "canonical_form" : "pasticheur",
+    "other_forms" : [ "pasticheurs" ]
+  }, {
+    "canonical_form" : "romancier",
+    "other_forms" : [ "romanciers", "romancière", "romancières" ]
+  }, {
+    "canonical_form" : "rédacteur",
+    "other_forms" : [ "rédacteurs", "rédactrice", "rédactrices" ]
+  }, {
+    "canonical_form" : "satiriste",
+    "other_forms" : [ "satiristes" ]
+  }, {
+    "canonical_form" : "librettiste",
+    "other_forms" : [ "librettistes" ]
+  }, {
+    "canonical_form" : "instaurateur",
+    "other_forms" : [ "instaurateurs", "instauratrice", "instauratrices" ]
+  }, {
+    "canonical_form" : "ancêtre",
+    "other_forms" : [ "ancêtres" ]
+  }, {
+    "canonical_form" : "anecdotier",
+    "other_forms" : [ "anecdotiers" ]
+  }, {
+    "canonical_form" : "biographe",
+    "other_forms" : [ "biographes" ]
+  }, {
+    "canonical_form" : "cacographe",
+    "other_forms" : [ "cacographes" ]
+  }, {
+    "canonical_form" : "compilateur",
+    "other_forms" : [ "compilateurs", "compilatrice", "compilatrices" ]
+  }, {
+    "canonical_form" : "conteur",
+    "other_forms" : [ "conteurs", "conteuse", "conteuses" ]
+  }, {
+    "canonical_form" : "fabuliste",
+    "other_forms" : [ "fabulistes" ]
+  }, {
+    "canonical_form" : "facteur",
+    "other_forms" : [ "facteurs" ]
+  }, {
+    "canonical_form" : "gendelettre",
+    "other_forms" : [ "gendelettres" ]
+  }, {
+    "canonical_form" : "générateur",
+    "other_forms" : [ "générateurs", "génératrice", "génératrices" ]
+  }, {
+    "canonical_form" : "polygraphe",
+    "other_forms" : [ "polygraphes" ]
+  }, {
+    "canonical_form" : "plume",
+    "other_forms" : [ "plumes" ]
+  }, {
+    "canonical_form" : "pisse-copie",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "opérateur",
+    "other_forms" : [ "opérateurs", "opératrice", "opératrices" ]
+  }, {
+    "canonical_form" : "nègre",
+    "other_forms" : [ "nègres" ]
+  }, {
+    "canonical_form" : "nouvelliste",
+    "other_forms" : [ "nouvellistes" ]
+  }, {
+    "canonical_form" : "mythographe",
+    "other_forms" : [ "mythographes" ]
+  }, {
+    "canonical_form" : "musicographe",
+    "other_forms" : [ "musicographes" ]
+  }, {
+    "canonical_form" : "polémiste",
+    "other_forms" : [ "polémistes" ]
+  }, {
+    "canonical_form" : "prosateur",
+    "other_forms" : [ "prosateurs" ]
+  }, {
+    "canonical_form" : "préfacier",
+    "other_forms" : [ "préfaciers" ]
+  }, {
+    "canonical_form" : "épistolier",
+    "other_forms" : [ "épistoliers", "épistolière", "épistolières" ]
+  }, {
+    "canonical_form" : "échotier",
+    "other_forms" : [ "échotiers" ]
+  }, {
+    "canonical_form" : "vaudevilliste",
+    "other_forms" : [ "vaudevillistes" ]
+  }, {
+    "canonical_form" : "sermonnaire",
+    "other_forms" : [ "sermonnaires" ]
+  }, {
+    "canonical_form" : "scénariste",
+    "other_forms" : [ "scénaristes" ]
+  }, {
+    "canonical_form" : "rhétoriqueur",
+    "other_forms" : [ "rhétoriqueurs" ]
+  }, {
+    "canonical_form" : "revuiste",
+    "other_forms" : [ "revuistes" ]
+  }, {
+    "canonical_form" : "publiciste",
+    "other_forms" : [ "publicistes" ]
+  }, {
+    "canonical_form" : "mimographe",
+    "other_forms" : [ "mimographes" ]
+  }, {
+    "canonical_form" : "logographe",
+    "other_forms" : [ "logographes" ]
+  }, {
+    "canonical_form" : "libelliste",
+    "other_forms" : [ "libellistes" ]
+  }, {
+    "canonical_form" : "encyclopédiste",
+    "other_forms" : [ "encyclopédistes" ]
+  }, {
+    "canonical_form" : "dramaturge",
+    "other_forms" : [ "dramaturges" ]
+  }, {
+    "canonical_form" : "compositeur",
+    "other_forms" : [ "compositeurs", "compositrice", "compositrices" ]
+  }, {
+    "canonical_form" : "cerveau",
+    "other_forms" : [ "cerveaux" ]
+  }, {
+    "canonical_form" : "bas-bleu",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "aïeul",
+    "other_forms" : [ "aïeule", "aïeules", "aïeuls" ]
+  }, {
+    "canonical_form" : "fondateur",
+    "other_forms" : [ "fondateurs", "fondatrice", "fondatrices" ]
+  }, {
+    "canonical_form" : "lexicographe",
+    "other_forms" : [ "lexicographes" ]
+  }, {
+    "canonical_form" : "historiographe",
+    "other_forms" : [ "historiographes" ]
+  }, {
+    "canonical_form" : "hagiographe",
+    "other_forms" : [ "hagiographes" ]
+  }, {
+    "canonical_form" : "gâte-papier",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "grimaud",
+    "other_forms" : [ "grimauds" ]
+  }, {
+    "canonical_form" : "gribouilleur",
+    "other_forms" : [ "gribouilleurs", "gribouilleuse", "gribouilleuses" ]
+  }, {
+    "canonical_form" : "glossateur",
+    "other_forms" : [ "glossateurs" ]
+  }, {
+    "canonical_form" : "gazetier",
+    "other_forms" : [ "gazetiers", "gazetière", "gazetières" ]
+  } ]
+}

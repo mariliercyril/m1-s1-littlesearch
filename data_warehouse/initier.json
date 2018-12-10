@@ -1,0 +1,48 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "initier"
+  }, {
+    "canonical_form" : "instruire"
+  }, {
+    "canonical_form" : "apprendre"
+  }, {
+    "canonical_form" : "enseigner"
+  }, {
+    "canonical_form" : "styler"
+  }, {
+    "canonical_form" : "former"
+  }, {
+    "canonical_form" : "éclairer"
+  }, {
+    "canonical_form" : "introduire"
+  }, {
+    "canonical_form" : "révéler"
+  }, {
+    "canonical_form" : "renseigner"
+  }, {
+    "canonical_form" : "exercer"
+  }, {
+    "canonical_form" : "commencer"
+  }, {
+    "canonical_form" : "affilier"
+  }, {
+    "canonical_form" : "acclimater"
+  }, {
+    "canonical_form" : "débuter"
+  }, {
+    "canonical_form" : "conduire"
+  }, {
+    "canonical_form" : "catéchiser"
+  }, {
+    "canonical_form" : "baptiser"
+  }, {
+    "canonical_form" : "associer"
+  }, {
+    "canonical_form" : "alphabétiser"
+  }, {
+    "canonical_form" : "affranchir"
+  }, {
+    "canonical_form" : "recevoir"
+  } ]
+}

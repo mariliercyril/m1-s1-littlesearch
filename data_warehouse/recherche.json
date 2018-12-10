@@ -1,0 +1,154 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "recherche",
+    "other_forms" : [ "recherches" ]
+  }, {
+    "canonical_form" : "affectation",
+    "other_forms" : [ "affectations" ]
+  }, {
+    "canonical_form" : "étude",
+    "other_forms" : [ "études" ]
+  }, {
+    "canonical_form" : "examen",
+    "other_forms" : [ "examens" ]
+  }, {
+    "canonical_form" : "enquête",
+    "other_forms" : [ "enquêtes" ]
+  }, {
+    "canonical_form" : "observation",
+    "other_forms" : [ "observations" ]
+  }, {
+    "canonical_form" : "reconnaissance",
+    "other_forms" : [ "reconnaissances" ]
+  }, {
+    "canonical_form" : "investigation",
+    "other_forms" : [ "investigations" ]
+  }, {
+    "canonical_form" : "apprêt",
+    "other_forms" : [ "apprêts" ]
+  }, {
+    "canonical_form" : "exploration",
+    "other_forms" : [ "explorations" ]
+  }, {
+    "canonical_form" : "perquisition",
+    "other_forms" : [ "perquisitions" ]
+  }, {
+    "canonical_form" : "préciosité",
+    "other_forms" : [ "préciosités" ]
+  }, {
+    "canonical_form" : "maniérisme",
+    "other_forms" : [ "maniérismes" ]
+  }, {
+    "canonical_form" : "afféterie",
+    "other_forms" : [ "afféteries" ]
+  }, {
+    "canonical_form" : "spéculation",
+    "other_forms" : [ "spéculations" ]
+  }, {
+    "canonical_form" : "quête",
+    "other_forms" : [ "quêtes" ]
+  }, {
+    "canonical_form" : "méditation",
+    "other_forms" : [ "méditations" ]
+  }, {
+    "canonical_form" : "mignardise",
+    "other_forms" : [ "mignardises" ]
+  }, {
+    "canonical_form" : "information",
+    "other_forms" : [ "informations" ]
+  }, {
+    "canonical_form" : "expérimentation",
+    "other_forms" : [ "expérimentations" ]
+  }, {
+    "canonical_form" : "expérience",
+    "other_forms" : [ "expériences" ]
+  }, {
+    "canonical_form" : "art",
+    "other_forms" : [ "arts" ]
+  }, {
+    "canonical_form" : "soif",
+    "other_forms" : [ "soifs" ]
+  }, {
+    "canonical_form" : "singularité",
+    "other_forms" : [ "singularités" ]
+  }, {
+    "canonical_form" : "raffinement",
+    "other_forms" : [ "raffinements" ]
+  }, {
+    "canonical_form" : "pose",
+    "other_forms" : [ "poses" ]
+  }, {
+    "canonical_form" : "curiosité",
+    "other_forms" : [ "curiosités" ]
+  }, {
+    "canonical_form" : "chasse",
+    "other_forms" : [ "chasses" ]
+  }, {
+    "canonical_form" : "approfondissement",
+    "other_forms" : [ "approfondissements" ]
+  }, {
+    "canonical_form" : "gongorisme",
+    "other_forms" : [ "gongorismes" ]
+  }, {
+    "canonical_form" : "inquisition",
+    "other_forms" : [ "inquisitions" ]
+  }, {
+    "canonical_form" : "instruction",
+    "other_forms" : [ "instructions" ]
+  }, {
+    "canonical_form" : "mièvrerie",
+    "other_forms" : [ "mièvreries" ]
+  }, {
+    "canonical_form" : "poursuite",
+    "other_forms" : [ "poursuites" ]
+  }, {
+    "canonical_form" : "prospection",
+    "other_forms" : [ "prospections" ]
+  }, {
+    "canonical_form" : "tentative",
+    "other_forms" : [ "tentatives" ]
+  }, {
+    "canonical_form" : "théorie",
+    "other_forms" : [ "théories" ]
+  }, {
+    "canonical_form" : "travail",
+    "other_forms" : [ "travaux" ]
+  }, {
+    "canonical_form" : "tâtonnement",
+    "other_forms" : [ "tâtonnements" ]
+  }, {
+    "canonical_form" : "fouille",
+    "other_forms" : [ "fouilles" ]
+  }, {
+    "canonical_form" : "esbroufe",
+    "other_forms" : [ "esbroufes" ]
+  }, {
+    "canonical_form" : "ambition",
+    "other_forms" : [ "ambitions" ]
+  }, {
+    "canonical_form" : "cambrure",
+    "other_forms" : [ "cambrures" ]
+  }, {
+    "canonical_form" : "concentration",
+    "other_forms" : [ "concentrations" ]
+  }, {
+    "canonical_form" : "cultisme",
+    "other_forms" : [ "cultismes" ]
+  }, {
+    "canonical_form" : "dandysme",
+    "other_forms" : [ "dandysmes" ]
+  }, {
+    "canonical_form" : "disquisition",
+    "other_forms" : [ "disquisitions" ]
+  }, {
+    "canonical_form" : "délicatesse",
+    "other_forms" : [ "délicatesses" ]
+  }, {
+    "canonical_form" : "dépistage",
+    "other_forms" : [ "dépistages" ]
+  }, {
+    "canonical_form" : "xénophilie",
+    "other_forms" : [ "xénophilies" ]
+  } ]
+}

@@ -1,0 +1,19 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "pyramide",
+    "other_forms" : [ "pyramides" ]
+  }, {
+    "canonical_form" : "amas",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "entassement",
+    "other_forms" : [ "entassements" ]
+  }, {
+    "canonical_form" : "tétraèdre",
+    "other_forms" : [ "tétraèdres" ]
+  }, {
+    "canonical_form" : "échafaudage",
+    "other_forms" : [ "échafaudages" ]
+  } ]
+}

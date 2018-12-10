@@ -1,0 +1,10 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "arithmétique",
+    "other_forms" : [ "arithmétiques" ]
+  }, {
+    "canonical_form" : "mathématique",
+    "other_forms" : [ "mathématiques" ]
+  } ]
+}

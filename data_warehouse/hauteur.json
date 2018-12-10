@@ -1,0 +1,154 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "hauteur",
+    "other_forms" : [ "hauteurs" ]
+  }, {
+    "canonical_form" : "éminence",
+    "other_forms" : [ "éminences" ]
+  }, {
+    "canonical_form" : "élévation",
+    "other_forms" : [ "élévations" ]
+  }, {
+    "canonical_form" : "arrogance",
+    "other_forms" : [ "arrogances" ]
+  }, {
+    "canonical_form" : "butte",
+    "other_forms" : [ "buttes" ]
+  }, {
+    "canonical_form" : "fierté",
+    "other_forms" : [ "fiertés" ]
+  }, {
+    "canonical_form" : "mont",
+    "other_forms" : [ "monts" ]
+  }, {
+    "canonical_form" : "morgue",
+    "other_forms" : [ "morgues" ]
+  }, {
+    "canonical_form" : "monticule",
+    "other_forms" : [ "monticules" ]
+  }, {
+    "canonical_form" : "dédain",
+    "other_forms" : [ "dédains" ]
+  }, {
+    "canonical_form" : "orgueil",
+    "other_forms" : [ "orgueils" ]
+  }, {
+    "canonical_form" : "sommet",
+    "other_forms" : [ "sommets" ]
+  }, {
+    "canonical_form" : "colline",
+    "other_forms" : [ "collines" ]
+  }, {
+    "canonical_form" : "grandeur",
+    "other_forms" : [ "grandeurs" ]
+  }, {
+    "canonical_form" : "supériorité",
+    "other_forms" : [ "supériorités" ]
+  }, {
+    "canonical_form" : "outrecuidance",
+    "other_forms" : [ "outrecuidances" ]
+  }, {
+    "canonical_form" : "sublimité",
+    "other_forms" : [ "sublimités" ]
+  }, {
+    "canonical_form" : "noblesse",
+    "other_forms" : [ "noblesses" ]
+  }, {
+    "canonical_form" : "niveau",
+    "other_forms" : [ "niveaux" ]
+  }, {
+    "canonical_form" : "mamelon",
+    "other_forms" : [ "mamelons" ]
+  }, {
+    "canonical_form" : "coteau",
+    "other_forms" : [ "coteaux" ]
+  }, {
+    "canonical_form" : "piton",
+    "other_forms" : [ "pitons" ]
+  }, {
+    "canonical_form" : "profondeur",
+    "other_forms" : [ "profondeurs" ]
+  }, {
+    "canonical_form" : "promontoire",
+    "other_forms" : [ "promontoires" ]
+  }, {
+    "canonical_form" : "roguerie",
+    "other_forms" : [ "rogueries" ]
+  }, {
+    "canonical_form" : "stature",
+    "other_forms" : [ "statures" ]
+  }, {
+    "canonical_form" : "taille",
+    "other_forms" : [ "tailles" ]
+  }, {
+    "canonical_form" : "tertre",
+    "other_forms" : [ "tertres" ]
+  }, {
+    "canonical_form" : "motte",
+    "other_forms" : [ "mottes" ]
+  }, {
+    "canonical_form" : "montagne",
+    "other_forms" : [ "montagnes" ]
+  }, {
+    "canonical_form" : "belvédère",
+    "other_forms" : [ "belvédères" ]
+  }, {
+    "canonical_form" : "condescendance",
+    "other_forms" : [ "condescendances" ]
+  }, {
+    "canonical_form" : "crête",
+    "other_forms" : [ "crêtes" ]
+  }, {
+    "canonical_form" : "côte",
+    "other_forms" : [ "côtes" ]
+  }, {
+    "canonical_form" : "dimension",
+    "other_forms" : [ "dimensions" ]
+  }, {
+    "canonical_form" : "falaise",
+    "other_forms" : [ "falaises" ]
+  }, {
+    "canonical_form" : "insolence",
+    "other_forms" : [ "insolences" ]
+  }, {
+    "canonical_form" : "pic",
+    "other_forms" : [ "pics" ]
+  }, {
+    "canonical_form" : "plateau",
+    "other_forms" : [ "plateaux" ]
+  }, {
+    "canonical_form" : "surplomb",
+    "other_forms" : [ "surplombs" ]
+  }, {
+    "canonical_form" : "talus",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "taupinière",
+    "other_forms" : [ "taupinières" ]
+  }, {
+    "canonical_form" : "hypsométrie",
+    "other_forms" : [ "hypsométries" ]
+  }, {
+    "canonical_form" : "dune",
+    "other_forms" : [ "dunes" ]
+  }, {
+    "canonical_form" : "côtière",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "chaîne",
+    "other_forms" : [ "chaînes" ]
+  }, {
+    "canonical_form" : "bosse",
+    "other_forms" : [ "bosses" ]
+  }, {
+    "canonical_form" : "ballon",
+    "other_forms" : [ "ballons" ]
+  }, {
+    "canonical_form" : "altitude",
+    "other_forms" : [ "altitudes" ]
+  }, {
+    "canonical_form" : "étage",
+    "other_forms" : [ "étages" ]
+  } ]
+}

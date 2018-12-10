@@ -1,0 +1,232 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "grand",
+    "other_forms" : [ "grande", "grandes", "grands" ]
+  }, {
+    "canonical_form" : "gros",
+    "other_forms" : [ "grosse", "grosses" ]
+  }, {
+    "canonical_form" : "énorme",
+    "other_forms" : [ "énormes" ]
+  }, {
+    "canonical_form" : "fort",
+    "other_forms" : [ "forte", "fortes", "forts" ]
+  }, {
+    "canonical_form" : "immense",
+    "other_forms" : [ "immenses" ]
+  }, {
+    "canonical_form" : "considérable",
+    "other_forms" : [ "considérables" ]
+  }, {
+    "canonical_form" : "excessif",
+    "other_forms" : [ "excessifs", "excessive", "excessives" ]
+  }, {
+    "canonical_form" : "éminent",
+    "other_forms" : [ "éminente", "éminentes", "éminents" ]
+  }, {
+    "canonical_form" : "vaste",
+    "other_forms" : [ "vastes" ]
+  }, {
+    "canonical_form" : "démesuré",
+    "other_forms" : [ "démesurée", "démesurées", "démesurés" ]
+  }, {
+    "canonical_form" : "imposant",
+    "other_forms" : [ "imposante", "imposantes", "imposants" ]
+  }, {
+    "canonical_form" : "terrible",
+    "other_forms" : [ "terribles" ]
+  }, {
+    "canonical_form" : "gigantesque",
+    "other_forms" : [ "gigantesques" ]
+  }, {
+    "canonical_form" : "fabuleux",
+    "other_forms" : [ "fabuleuse", "fabuleuses" ]
+  }, {
+    "canonical_form" : "colossal",
+    "other_forms" : [ "colossale", "colossales", "colossaux" ]
+  }, {
+    "canonical_form" : "fameux",
+    "other_forms" : [ "fameuse", "fameuses" ]
+  }, {
+    "canonical_form" : "noble",
+    "other_forms" : [ "nobles" ]
+  }, {
+    "canonical_form" : "puissant",
+    "other_forms" : [ "puissante", "puissantes", "puissants" ]
+  }, {
+    "canonical_form" : "violent",
+    "other_forms" : [ "violente", "violentes", "violents" ]
+  }, {
+    "canonical_form" : "intense",
+    "other_forms" : [ "intenses" ]
+  }, {
+    "canonical_form" : "magnifique",
+    "other_forms" : [ "magnifiques" ]
+  }, {
+    "canonical_form" : "monstrueux",
+    "other_forms" : [ "monstrueuse", "monstrueuses" ]
+  }, {
+    "canonical_form" : "sensationnel",
+    "other_forms" : [ "sensationnelle", "sensationnelles", "sensationnels" ]
+  }, {
+    "canonical_form" : "monumental",
+    "other_forms" : [ "monumentale", "monumentales", "monumentaux" ]
+  }, {
+    "canonical_form" : "abondant",
+    "other_forms" : [ "abondante", "abondantes", "abondants" ]
+  }, {
+    "canonical_form" : "grandiose",
+    "other_forms" : [ "grandioses" ]
+  }, {
+    "canonical_form" : "illustre",
+    "other_forms" : [ "illustres" ]
+  }, {
+    "canonical_form" : "marquant",
+    "other_forms" : [ "marquante", "marquantes", "marquants" ]
+  }, {
+    "canonical_form" : "génial",
+    "other_forms" : [ "géniale", "géniales", "géniaux" ]
+  }, {
+    "canonical_form" : "glorieux",
+    "other_forms" : [ "glorieuse", "glorieuses" ]
+  }, {
+    "canonical_form" : "furieux",
+    "other_forms" : [ "furieuse", "furieuses" ]
+  }, {
+    "canonical_form" : "ample",
+    "other_forms" : [ "amples" ]
+  }, {
+    "canonical_form" : "titanesque",
+    "other_forms" : [ "titanesques", "titanique", "titaniques" ]
+  }, {
+    "canonical_form" : "prestigieux",
+    "other_forms" : [ "prestigieuse", "prestigieuses" ]
+  }, {
+    "canonical_form" : "mémorable",
+    "other_forms" : [ "mémorables" ]
+  }, {
+    "canonical_form" : "magistral",
+    "other_forms" : [ "magistrale", "magistrales", "magistraux" ]
+  }, {
+    "canonical_form" : "incommensurable",
+    "other_forms" : [ "incommensurables" ]
+  }, {
+    "canonical_form" : "effrayant",
+    "other_forms" : [ "effrayante", "effrayantes", "effrayants" ]
+  }, {
+    "canonical_form" : "architectural",
+    "other_forms" : [ "architecturale", "architecturales", "architecturaux" ]
+  }, {
+    "canonical_form" : "épouvantable",
+    "other_forms" : [ "épouvantables" ]
+  }, {
+    "canonical_form" : "interminable",
+    "other_forms" : [ "interminables" ]
+  }, {
+    "canonical_form" : "transcendant",
+    "other_forms" : [ "transcendante", "transcendantes", "transcendants" ]
+  }, {
+    "canonical_form" : "rude",
+    "other_forms" : [ "rudes" ]
+  }, {
+    "canonical_form" : "incomparable",
+    "other_forms" : [ "incomparables" ]
+  }, {
+    "canonical_form" : "essentiel",
+    "other_forms" : [ "essentielle", "essentielles", "essentiels" ]
+  }, {
+    "canonical_form" : "spacieux",
+    "other_forms" : [ "spacieuse", "spacieuses" ]
+  }, {
+    "canonical_form" : "nombreux",
+    "other_forms" : [ "nombreuse", "nombreuses" ]
+  }, {
+    "canonical_form" : "excellent",
+    "other_forms" : [ "excellente", "excellentes", "excellents" ]
+  }, {
+    "canonical_form" : "effroyable",
+    "other_forms" : [ "effroyables" ]
+  }, {
+    "canonical_form" : "astronomique",
+    "other_forms" : [ "astronomiques" ]
+  }, {
+    "canonical_form" : "rondelet",
+    "other_forms" : [ "rondelets", "rondelette", "rondelettes" ]
+  }, {
+    "canonical_form" : "âgé",
+    "other_forms" : [ "âgée", "âgées", "âgés" ]
+  }, {
+    "canonical_form" : "illimité",
+    "other_forms" : [ "illimitée", "illimitées", "illimités" ]
+  }, {
+    "canonical_form" : "cyclopéen",
+    "other_forms" : [ "cyclopéenne", "cyclopéennes", "cyclopéens" ]
+  }, {
+    "canonical_form" : "emphatique",
+    "other_forms" : [ "emphatiques" ]
+  }, {
+    "canonical_form" : "glacial",
+    "other_forms" : [ "glaciale", "glaciales", "glaciaux" ]
+  }, {
+    "canonical_form" : "grandiloquent",
+    "other_forms" : [ "grandiloquente", "grandiloquentes", "grandiloquents" ]
+  }, {
+    "canonical_form" : "mûr",
+    "other_forms" : [ "mûre", "mûres", "mûrs" ]
+  }, {
+    "canonical_form" : "robuste",
+    "other_forms" : [ "robustes" ]
+  }, {
+    "canonical_form" : "surprenant",
+    "other_forms" : [ "surprenante", "surprenantes", "surprenants" ]
+  }, {
+    "canonical_form" : "appréciable",
+    "other_forms" : [ "appréciables" ]
+  }, {
+    "canonical_form" : "aristocratique",
+    "other_forms" : [ "aristocratiques" ]
+  }, {
+    "canonical_form" : "auguste",
+    "other_forms" : [ "augustes" ]
+  }, {
+    "canonical_form" : "influent",
+    "other_forms" : [ "influente", "influentes", "influents" ]
+  }, {
+    "canonical_form" : "invétéré",
+    "other_forms" : [ "invétérée", "invétérées", "invétérés" ]
+  }, {
+    "canonical_form" : "longiligne",
+    "other_forms" : [ "longilignes" ]
+  }, {
+    "canonical_form" : "magnanime",
+    "other_forms" : [ "magnanimes" ]
+  }, {
+    "canonical_form" : "talentueux",
+    "other_forms" : [ "talentueuse", "talentueuses" ]
+  }, {
+    "canonical_form" : "trapu",
+    "other_forms" : [ "trapue", "trapues", "trapus" ]
+  }, {
+    "canonical_form" : "immensurable",
+    "other_forms" : [ "immensurables" ]
+  }, {
+    "canonical_form" : "alarmant",
+    "other_forms" : [ "alarmante", "alarmantes", "alarmants" ]
+  }, {
+    "canonical_form" : "atroce",
+    "other_forms" : [ "atroces" ]
+  }, {
+    "canonical_form" : "béant",
+    "other_forms" : [ "béante", "béantes", "béants" ]
+  }, {
+    "canonical_form" : "caniculaire",
+    "other_forms" : [ "caniculaires" ]
+  }, {
+    "canonical_form" : "fieffé",
+    "other_forms" : [ "fieffée", "fieffées", "fieffés" ]
+  }, {
+    "canonical_form" : "étouffant",
+    "other_forms" : [ "étouffante", "étouffantes", "étouffants" ]
+  } ]
+}

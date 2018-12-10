@@ -1,0 +1,49 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "passe",
+    "other_forms" : [ "passes" ]
+  }, {
+    "canonical_form" : "passage",
+    "other_forms" : [ "passages" ]
+  }, {
+    "canonical_form" : "canal",
+    "other_forms" : [ "canaux" ]
+  }, {
+    "canonical_form" : "gorge",
+    "other_forms" : [ "gorges" ]
+  }, {
+    "canonical_form" : "détroit",
+    "other_forms" : [ "détroits" ]
+  }, {
+    "canonical_form" : "chenal",
+    "other_forms" : [ "chenaux" ]
+  }, {
+    "canonical_form" : "port",
+    "other_forms" : [ "ports" ]
+  }, {
+    "canonical_form" : "passe-partout",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "passavant",
+    "other_forms" : [ "passavants" ]
+  }, {
+    "canonical_form" : "lourdeur",
+    "other_forms" : [ "lourdeurs" ]
+  }, {
+    "canonical_form" : "laissez-passer",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "goulet",
+    "other_forms" : [ "goulets" ]
+  }, {
+    "canonical_form" : "couloir",
+    "other_forms" : [ "couloirs" ]
+  }, {
+    "canonical_form" : "clef",
+    "other_forms" : [ "clefs", "clé", "clés" ]
+  }, {
+    "canonical_form" : "rossignol",
+    "other_forms" : [ "rossignols" ]
+  } ]
+}

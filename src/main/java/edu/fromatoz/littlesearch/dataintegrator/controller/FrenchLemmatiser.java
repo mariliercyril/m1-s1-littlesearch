@@ -144,10 +144,12 @@ public class FrenchLemmatiser {
 		String url = String.format(DataIntegrator.MORPHOLOGY_FORMAT, singularForm + (Separator.SLASH).getValue() + partOfSpeech.getValue());
 		Elements pluralForms = cnrtlParser.getHTMLElements(url, "span[class*=morf_sound]");
 
-		ListIterator<Element> pluralFormsListIterator = pluralForms.listIterator();
-		while (pluralFormsListIterator.hasNext()) {
-			Element pluralForm = pluralFormsListIterator.next();
-			otherForms.add(pluralForm.text());
+		if (pluralForms != null) {
+			ListIterator<Element> pluralFormsListIterator = pluralForms.listIterator();
+			while (pluralFormsListIterator.hasNext()) {
+				Element pluralForm = pluralFormsListIterator.next();
+				otherForms.add(pluralForm.text());
+			}
 		}
 	}
 

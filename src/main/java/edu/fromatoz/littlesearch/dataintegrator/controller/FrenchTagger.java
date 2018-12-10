@@ -59,7 +59,7 @@ public class FrenchTagger {
 	 */
 	private String getHTMLElementTextForPartOfSpeech(String word) {
 
-		String url = String.format(DataIntegrator.DEFINITION_FORMAT, word + Separator.SLASH.getValue());
+		String url = String.format(DataIntegrator.SYNONYMY_FORMAT, word + Separator.SLASH.getValue());
 		Element htmlElement = cnrtlParser.getFirstHTMLElement(url, "li[id=vitemselected]");
 
 		return ((htmlElement != null) ? htmlElement.text() : null);
@@ -95,24 +95,22 @@ public class FrenchTagger {
 		/**
 		 * The singleton instance for a <b>verb</b>.
 		 */
-		VERB(Separator.COMMA.getValue() + Separator.SPACE.getValue() + "verbe", "verbe"),
+		VERB("verbe"),
 
 		/**
 		 * The singleton instance for a <b>noun</b>.
 		 */
-		NOUN(Separator.SPACE.getValue() + "subst" + Separator.POINT.getValue(), "substantif"),
+		NOUN("substantif"),
 
 		/**
 		 * The singleton instance for a <b>adjective</b>.
 		 */
-		ADJECTIVE(Separator.SPACE.getValue() + "adj" + Separator.POINT.getValue(), "adjectif");
+		ADJECTIVE("adjectif");
 
-		private final String cnrtlValue;
 		private final String value;
 
-		private PartOfSpeech(String cnrtlValue, String value) {
+		private PartOfSpeech(String value) {
 
-			this.cnrtlValue = cnrtlValue;
 			this.value = value;
 		}
 
@@ -123,7 +121,7 @@ public class FrenchTagger {
 		 */
 		public String getCNRTLValue() {
 
-			return cnrtlValue;
+			return Separator.COMMA.getValue() + Separator.SPACE.getValue() + value;
 		}
 
 		/**

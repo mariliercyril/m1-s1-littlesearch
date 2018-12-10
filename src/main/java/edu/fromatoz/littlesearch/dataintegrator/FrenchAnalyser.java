@@ -50,9 +50,11 @@ public class FrenchAnalyser {
 		// Does the task 5: Filters the proper nouns
 		// TODO: POSSIBLE FEATURE: To develop a NER (Named-Entity Recognition) for proper noun.
 		tokens = filterProperNouns(tokens);
-		// Does the task 6: Disambiguates the verb "avoir"
+		// Does the task 6: Disambiguates the verb "être"
+		tokens = disambiguate(tokens, "est", "être");
+		// Does the task 7: Disambiguates the verb "avoir"
 		tokens = disambiguate(tokens, "a", "avoir");
-		// Does the task 7: Disambiguates the word "aujourd'hui"
+		// Does the task 8: Disambiguates the word "aujourd'hui"
 		tokens = disambiguate(tokens, "aujourd", "aujourd'hui");
 		tokens = disambiguate(tokens, "hui", "aujourd'hui");
 
@@ -165,7 +167,15 @@ public class FrenchAnalyser {
 	private enum StopFrenchWords {
 
 		/**
-		 * The singleton instance for the <b>Coordination conjunctions</b>.
+		 * The singleton instance for the <b>subject personal pronouns</b>.
+		 */
+		SUBJECT_PERSONAL_PRONOUNS("je", "j", "tu", "il", "elle", "on", "nous", "vous", "ils", "elles"),
+		/**
+		 * The singleton instance for the <b>relative pronouns</b>.
+		 */
+		RELATIVE_PRONOUNS("que", "qu", "qui", "quoi", "dont", "où"),
+		/**
+		 * The singleton instance for the <b>coordination conjunctions</b>.
 		 */
 		COORDINATION_CONJUNCTIONS("mais", "ou", "et", "donc", "or", "ni", "car"),
 		/**
@@ -187,7 +197,11 @@ public class FrenchAnalyser {
 		/**
 		 * The singleton instance for <b>other stop words</b>.
 		 */
-		OTHER_STOP_WORDS("à", "ici", "là", "dans", "sur", "vers", "-", "est");
+		OTHER_STOP_WORDS("à", "où", "ici", "là", "dans", "en", "sur", "vers"),
+		/**
+		 * The singleton instance for <b>other signs</b>.
+		 */
+		OTHER_SIGNS("-");
 
 		private final String[] stopWords;
 

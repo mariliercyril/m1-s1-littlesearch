@@ -9,7 +9,7 @@ import java.io.InputStreamReader;
 import java.util.Set;
 
 import org.jsoup.Jsoup;
-
+import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 
 import org.jsoup.select.Elements;
@@ -140,7 +140,13 @@ public class DataIntegrator {
 		 */
 		public Element getFirstHTMLElement(String url, String cssQuery) {
 
-			return getHTMLElements(url, cssQuery).first();
+			Elements elements = getHTMLElements(url, cssQuery);
+
+			if (elements != null) {
+				return elements.first();
+			} else {
+				return null;
+			}
 		}
 
 		/**
@@ -155,7 +161,13 @@ public class DataIntegrator {
 		 */
 		public Element getLastHTMLElement(String url, String cssQuery) {
 
-			return getHTMLElements(url, cssQuery).last();
+			Elements elements = getHTMLElements(url, cssQuery);
+
+			if (elements != null) {
+				return elements.last();
+			} else {
+				return null;
+			}
 		}
 
 		/**
@@ -170,13 +182,17 @@ public class DataIntegrator {
 		 */
 		public Elements getHTMLElements(String url, String cssQuery) {
 
+			Elements elements = null;
+
 			try {
-				return (((Jsoup.connect(url)).get()).select(cssQuery));
+				Document document = (Jsoup.connect(url)).get();
+				if (document != null) {
+					elements = document.select(cssQuery);
+				}
 			} catch (IOException ioe) {
-				ioe.printStackTrace();
 			}
 
-			return null;
+			return elements;
 		}
 
 	}

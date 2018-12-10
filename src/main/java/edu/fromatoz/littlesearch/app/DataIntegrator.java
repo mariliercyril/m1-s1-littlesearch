@@ -80,7 +80,7 @@ public class DataIntegrator {
 	public static void main(String[] args) {
 
 		// Gives the text file name to the integrator...
-		String textFileName = "THALES";
+		String textFileName = "AUGUSTIN_LOUIS_CAUCHY";
 		if (args.length > 0) {
 			textFileName = args[0];
 		}
@@ -91,16 +91,20 @@ public class DataIntegrator {
 		BufferedReader bufferedReader = null;
 		try {
 			bufferedReader = new BufferedReader(new InputStreamReader(new FileInputStream(textFilePath)));
+			String text = "";
 			String paragraph;
 			while ((paragraph = bufferedReader.readLine()) != null) {
-				// Tokenizes the current paragraph...
-				FrenchAnalyser frenchAnalyser = new FrenchAnalyser(paragraph);
-				// Gets the token after analysing the current paragraph
+				text += paragraph + "\n";
+			}
+			if (!(text.isEmpty())) {
+				// Injects the text in question to the French analyser...
+				FrenchAnalyser frenchAnalyser = new FrenchAnalyser(text);
+				// Then gets the tokens after analysing the text in question
 				Set<String> words = frenchAnalyser.getTokens();
 				for (String word : words) {
 					// For monitoring...
 					System.out.println(word);
-					// Loads the word data into the warehouse
+					// Loads the word data into the warehouse (as a JSON file)
 					jsonWriter.load(word);
 				}
 			}

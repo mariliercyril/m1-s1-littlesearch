@@ -38,7 +38,7 @@ public class FrenchAnalyser {
 	 * <li><b>disambiguate the token "aujourd"</b> (by the method "{@link #disambiguate()}");</li>
 	 * <li><b>disambiguate the token "hui"</b> (by the method "{@link #disambiguate()}")...</li>
 	 * </ol>
-	 * <p>(See the official page on the <a href="http://www.cnrtl.fr">Language Analysis</a>
+	 * <p>(See the official page on the <a href="https://lucene.apache.org/solr/guide/7_5/language-analysis.html">Language Analysis</a>
 	 * for the <i>search platform</i> <b>Solr</b>, for example.)
 	 * 
 	 * @return a set of tokens from the text which is as a parameter of the constructor

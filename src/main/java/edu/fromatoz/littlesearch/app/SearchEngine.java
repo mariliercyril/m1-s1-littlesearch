@@ -60,7 +60,7 @@ public class SearchEngine {
 			words = wordsBuilder.toString();
 			words = words.substring(0, words.lastIndexOf(" "));
 		} else {
-			System.out.println("Use: ./searchOf \"<words>\"");
+			System.out.println("Use: ./searchOf <word>...");
 			System.exit(0);
 		}
 

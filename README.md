@@ -34,31 +34,31 @@ Pour exécuter le programme du *moteur de recherche*, **l'utilisateur** lance le
 Par exemple, on souhaite rechercher le nom "Riemann" :
 
 ```sh
-./searchFor "Riemann".
+./searchFor "Riemann"
 ```
 
 Il est aussi possible d'écrire :
 
 ```sh
-./searchFor Riemann.
+./searchFor Riemann
 ```
 
 Au cas où l'on souhaite rechercher plusieurs mots :
 
 ```sh
-./searchFor "Riemann" "travail".
+./searchFor "Riemann" "travail"
 ```
 
 Il est aussi possible d'écrire :
 
 ```sh
-./searchFor "Riemann travail".
+./searchFor "Riemann travail"
 ```
 
 Ou encore :
 
 ```sh
-./searchFor Riemann travail.
+./searchFor Riemann travail
 ```
 
 Documentation

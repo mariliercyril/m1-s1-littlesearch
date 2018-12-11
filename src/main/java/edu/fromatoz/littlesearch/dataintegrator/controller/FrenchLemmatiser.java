@@ -5,6 +5,7 @@ import java.util.Set;
 import java.util.TreeSet;
 
 import org.jsoup.nodes.Element;
+
 import org.jsoup.select.Elements;
 
 import edu.fromatoz.littlesearch.app.DataIntegrator;
@@ -19,7 +20,7 @@ import edu.fromatoz.littlesearch.tool.Separator;
 
 /**
  * The {@code FrenchLemmatiser} class defines a lemmatiser for French words:
- * it joins the lemmas of a term from the canonical form.
+ * it joins the lemmas of a French word from the canonical form.
  * 
  * @author Andrei Zabolotnîi
  * @author Cyril Marilier

@@ -27,16 +27,16 @@ public class FrenchAnalyser {
 	 * <p>
 	 * The <i>tokens</i> are returned after performing the following scheduling of tasks:
 	 * <ol>
-	 * <li><b>discard the punctuation</b> (by the method "{@link #discardPunctuation()}");</li>
-	 * <li><b>discard the digits</b> (by the method "{@link #discardDigits()}");</li>
-	 * <li><b>tokenize the text</b> (by the method "{@link #tokenizeByWhitespace()}"), task which returns a first set of <i>tokens</i>;</li>
-	 * <li><b>filter the stop words</b> (by the method "{@link #filterStopWords()}");</li>
-	 * <li><b>filter the proper nouns</b> (by the method "{@link #filterProperNouns()}");</li>
-	 * <li><b>disambiguate the token "été"</b> (by the method "{@link #disambiguate()}");</li>
-	 * <li><b>disambiguate the token "est"</b> (by the method "{@link #disambiguate()}");</li>
-	 * <li><b>disambiguate the token "a"</b> (by the method "{@link #disambiguate()}");</li>
-	 * <li><b>disambiguate the token "aujourd"</b> (by the method "{@link #disambiguate()}");</li>
-	 * <li><b>disambiguate the token "hui"</b> (by the method "{@link #disambiguate()}")...</li>
+	 * <li><b>discard the punctuation</b> (by the method "{@link #discardPunctuation}");</li>
+	 * <li><b>discard the digits</b> (by the method "{@link #discardDigits}");</li>
+	 * <li><b>tokenize the text</b> (by the method "{@link #tokenizeByWhitespace}"), task which returns a first set of <i>tokens</i>;</li>
+	 * <li><b>filter the stop words</b> (by the method "{@link #filterStopWords}");</li>
+	 * <li><b>filter the proper nouns</b> (by the method "{@link #filterProperNouns}");</li>
+	 * <li><b>disambiguate the token "été"</b> (by the method "{@link #disambiguate}");</li>
+	 * <li><b>disambiguate the token "est"</b> (by the method "{@link #disambiguate}");</li>
+	 * <li><b>disambiguate the token "a"</b> (by the method "{@link #disambiguate}");</li>
+	 * <li><b>disambiguate the token "aujourd"</b> (by the method "{@link #disambiguate}");</li>
+	 * <li><b>disambiguate the token "hui"</b> (by the method "{@link #disambiguate}")...</li>
 	 * </ol>
 	 * <p>(See the official page on the <a href="https://lucene.apache.org/solr/guide/7_5/language-analysis.html">Language Analysis</a>
 	 * for the <i>search platform</i> <b>Solr</b>, for example.)

@@ -1,0 +1,61 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "époque",
+    "other_forms" : [ "époques" ]
+  }, {
+    "canonical_form" : "temps",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "période",
+    "other_forms" : [ "périodes" ]
+  }, {
+    "canonical_form" : "siècle",
+    "other_forms" : [ "siècles" ]
+  }, {
+    "canonical_form" : "moment",
+    "other_forms" : [ "moments" ]
+  }, {
+    "canonical_form" : "événement",
+    "other_forms" : [ "événements" ]
+  }, {
+    "canonical_form" : "ère",
+    "other_forms" : [ "ères" ]
+  }, {
+    "canonical_form" : "âge",
+    "other_forms" : [ "âges" ]
+  }, {
+    "canonical_form" : "heure",
+    "other_forms" : [ "heures" ]
+  }, {
+    "canonical_form" : "date",
+    "other_forms" : [ "dates" ]
+  }, {
+    "canonical_form" : "épisode",
+    "other_forms" : [ "épisodes" ]
+  }, {
+    "canonical_form" : "saison",
+    "other_forms" : [ "saisons" ]
+  }, {
+    "canonical_form" : "page",
+    "other_forms" : [ "pages" ]
+  }, {
+    "canonical_form" : "jour",
+    "other_forms" : [ "jours" ]
+  }, {
+    "canonical_form" : "jour",
+    "other_forms" : [ "jours" ]
+  }, {
+    "canonical_form" : "division",
+    "other_forms" : [ "divisions" ]
+  }, {
+    "canonical_form" : "cycle",
+    "other_forms" : [ "cycles" ]
+  }, {
+    "canonical_form" : "règne",
+    "other_forms" : [ "règnes" ]
+  }, {
+    "canonical_form" : "étape",
+    "other_forms" : [ "étapes" ]
+  } ]
+}

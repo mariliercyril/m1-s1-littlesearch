@@ -234,7 +234,7 @@ public class FrenchAnalyser {
 		/**
 		 * The singleton instance for <b>other stop words</b>.
 		 */
-		OTHER_STOP_WORDS("ici", "là", "vers", "sur", "dans", "en", "ne", "n", "pas", "plus", "moins"),
+		OTHER_STOP_WORDS("ici", "là", "vers", "sur", "sous", "dans", "en", "ne", "n", "pas", "plus", "moins"),
 		/**
 		 * The singleton instance for <b>others</b>.
 		 */

@@ -1,8 +1,8 @@
-package edu.fromatoz.littlesearch.app;
+package edu.fromatoz.littlesearch;
 
 import org.tartarus.snowball.ext.FrenchStemmer;
 
-public class FrenchStemmerTest {
+public class StandardFrenchStemmerTest {
 
 	public static void main(String[] args) {
 

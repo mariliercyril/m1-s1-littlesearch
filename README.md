@@ -7,7 +7,7 @@ Toutefois, la comparaison s'arrête là, Littlesearch étant un tout *petit* pro
 
 Dès lors, quel intérêt pouvait-il y avoir, au-delà de l'intérêt de savoir comment fonctionne un moteur de recherche, à développer un moteur de recherche aussi modeste que Littlesearch mais basé sur les mêmes outils que certains de ceux mis en œuvre au cœur d'Elasticsearch ?  
 
-Littlesearch a été conçu pour traiter du texte en français ; or, en développant le projet, nous avons découvert une faiblesse de certains outils proposés par Lucene : par exemple, le [FrenchStemmer](https://lucene.apache.org/core/7_5_0/analyzers-common/org/tartarus/snowball/ext/FrenchStemmer.html) ne permet pas toujours d'obtenir une valeur satisfaisante. (Nous avons écrit une classe pour voir un peu ce que l'outil en question nous retourne : la classe "**FrenchStemmerTest**".)  
+Littlesearch a été conçu pour traiter du texte en français ; or, en développant le projet, nous avons découvert une faiblesse de certains des outils proposés par Lucene pour le français : par exemple, le [FrenchStemmer](https://lucene.apache.org/core/7_5_0/analyzers-common/org/tartarus/snowball/ext/FrenchStemmer.html) ne permet pas toujours d'obtenir une valeur satisfaisante. (Nous avons écrit une classe pour voir un peu ce que l'outil en question nous retourne : la classe "**FrenchStemmerTest**".)  
 
 ...  
 

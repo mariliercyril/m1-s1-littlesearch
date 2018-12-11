@@ -1,0 +1,66 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "consacrer"
+  }, {
+    "canonical_form" : "appliquer"
+  }, {
+    "canonical_form" : "donner"
+  }, {
+    "canonical_form" : "employer"
+  }, {
+    "canonical_form" : "vouer"
+  }, {
+    "canonical_form" : "mettre"
+  }, {
+    "canonical_form" : "destiner"
+  }, {
+    "canonical_form" : "bénir"
+  }, {
+    "canonical_form" : "attribuer"
+  }, {
+    "canonical_form" : "asseoir"
+  }, {
+    "canonical_form" : "sceller"
+  }, {
+    "canonical_form" : "sacrer"
+  }, {
+    "canonical_form" : "oindre"
+  }, {
+    "canonical_form" : "inaugurer"
+  }, {
+    "canonical_form" : "dévouer"
+  }, {
+    "canonical_form" : "confirmer"
+  }, {
+    "canonical_form" : "baptiser"
+  }, {
+    "canonical_form" : "affermir"
+  }, {
+    "canonical_form" : "affecter"
+  }, {
+    "canonical_form" : "accorder"
+  }, {
+    "canonical_form" : "ratifier"
+  }, {
+    "canonical_form" : "sacrifier"
+  }, {
+    "canonical_form" : "sanctifier"
+  }, {
+    "canonical_form" : "sanctionner"
+  }, {
+    "canonical_form" : "ordonner"
+  }, {
+    "canonical_form" : "fêter"
+  }, {
+    "canonical_form" : "entériner"
+  }, {
+    "canonical_form" : "dédier"
+  }, {
+    "canonical_form" : "consumer"
+  }, {
+    "canonical_form" : "bâtir"
+  }, {
+    "canonical_form" : "utiliser"
+  } ]
+}

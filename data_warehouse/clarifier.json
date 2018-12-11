@@ -1,0 +1,40 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "clarifier"
+  }, {
+    "canonical_form" : "éclaircir"
+  }, {
+    "canonical_form" : "filtrer"
+  }, {
+    "canonical_form" : "purifier"
+  }, {
+    "canonical_form" : "élucider"
+  }, {
+    "canonical_form" : "épurer"
+  }, {
+    "canonical_form" : "soutirer"
+  }, {
+    "canonical_form" : "illustrer"
+  }, {
+    "canonical_form" : "décanter"
+  }, {
+    "canonical_form" : "débrouiller"
+  }, {
+    "canonical_form" : "couler"
+  }, {
+    "canonical_form" : "éclairer"
+  }, {
+    "canonical_form" : "tamiser"
+  }, {
+    "canonical_form" : "préciser"
+  }, {
+    "canonical_form" : "glorifier"
+  }, {
+    "canonical_form" : "désembrouiller"
+  }, {
+    "canonical_form" : "démêler"
+  }, {
+    "canonical_form" : "déféquer"
+  } ]
+}

@@ -1,0 +1,31 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "exemplaire",
+    "other_forms" : [ "exemplaires" ]
+  }, {
+    "canonical_form" : "idéal",
+    "other_forms" : [ "idéale", "idéales", "idéals", "idéaux" ]
+  }, {
+    "canonical_form" : "édifiant",
+    "other_forms" : [ "édifiante", "édifiantes", "édifiants" ]
+  }, {
+    "canonical_form" : "moral",
+    "other_forms" : [ "morale", "morales", "moraux" ]
+  }, {
+    "canonical_form" : "bon",
+    "other_forms" : [ "bonne", "bonnes", "bons" ]
+  }, {
+    "canonical_form" : "irréprochable",
+    "other_forms" : [ "irréprochables" ]
+  }, {
+    "canonical_form" : "haut",
+    "other_forms" : [ "haute", "hautes", "hauts" ]
+  }, {
+    "canonical_form" : "sévère",
+    "other_forms" : [ "sévères" ]
+  }, {
+    "canonical_form" : "illustratif",
+    "other_forms" : [ "illustratifs", "illustrative", "illustratives" ]
+  } ]
+}

@@ -1,0 +1,61 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "abord",
+    "other_forms" : [ "abords" ]
+  }, {
+    "canonical_form" : "accueil",
+    "other_forms" : [ "accueils" ]
+  }, {
+    "canonical_form" : "approche",
+    "other_forms" : [ "approches" ]
+  }, {
+    "canonical_form" : "réception",
+    "other_forms" : [ "réceptions" ]
+  }, {
+    "canonical_form" : "maintien",
+    "other_forms" : [ "maintiens" ]
+  }, {
+    "canonical_form" : "environ",
+    "other_forms" : [ "environs" ]
+  }, {
+    "canonical_form" : "entour",
+    "other_forms" : [ "entours" ]
+  }, {
+    "canonical_form" : "dehors",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "comportement",
+    "other_forms" : [ "comportements" ]
+  }, {
+    "canonical_form" : "caractère",
+    "other_forms" : [ "caractères" ]
+  }, {
+    "canonical_form" : "aspect",
+    "other_forms" : [ "aspects" ]
+  }, {
+    "canonical_form" : "apparence",
+    "other_forms" : [ "apparences" ]
+  }, {
+    "canonical_form" : "alentours",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "accès",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "environ",
+    "other_forms" : [ "environs" ]
+  }, {
+    "canonical_form" : "bord",
+    "other_forms" : [ "bords" ]
+  }, {
+    "canonical_form" : "arrivage",
+    "other_forms" : [ "arrivages" ]
+  }, {
+    "canonical_form" : "accostage",
+    "other_forms" : [ "accostages" ]
+  }, {
+    "canonical_form" : "fréquentation",
+    "other_forms" : [ "fréquentations" ]
+  } ]
+}

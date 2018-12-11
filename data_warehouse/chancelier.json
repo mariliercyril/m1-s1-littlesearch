@@ -1,0 +1,19 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "chancelier",
+    "other_forms" : [ "chanceliers" ]
+  }, {
+    "canonical_form" : "archichancelier",
+    "other_forms" : [ "archichanceliers" ]
+  }, {
+    "canonical_form" : "connétable",
+    "other_forms" : [ "connétables" ]
+  }, {
+    "canonical_form" : "consul",
+    "other_forms" : [ "consuls" ]
+  }, {
+    "canonical_form" : "secrétaire",
+    "other_forms" : [ "secrétaires" ]
+  } ]
+}

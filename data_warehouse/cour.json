@@ -1,0 +1,64 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "cour",
+    "other_forms" : [ "cours" ]
+  }, {
+    "canonical_form" : "conseil",
+    "other_forms" : [ "conseils" ]
+  }, {
+    "canonical_form" : "tribunal",
+    "other_forms" : [ "tribunaux" ]
+  }, {
+    "canonical_form" : "galanterie",
+    "other_forms" : [ "galanteries" ]
+  }, {
+    "canonical_form" : "gouvernement",
+    "other_forms" : [ "gouvernements" ]
+  }, {
+    "canonical_form" : "parlement",
+    "other_forms" : [ "parlements" ]
+  }, {
+    "canonical_form" : "patio",
+    "other_forms" : [ "patios" ]
+  }, {
+    "canonical_form" : "préau",
+    "other_forms" : [ "préaux" ]
+  }, {
+    "canonical_form" : "prétoire",
+    "other_forms" : [ "prétoires" ]
+  }, {
+    "canonical_form" : "flatterie",
+    "other_forms" : [ "flatteries" ]
+  }, {
+    "canonical_form" : "cortège",
+    "other_forms" : [ "cortèges" ]
+  }, {
+    "canonical_form" : "cloître",
+    "other_forms" : [ "cloîtres" ]
+  }, {
+    "canonical_form" : "cercle",
+    "other_forms" : [ "cercles" ]
+  }, {
+    "canonical_form" : "cassation",
+    "other_forms" : [ "cassations" ]
+  }, {
+    "canonical_form" : "avant-cour",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "aula",
+    "other_forms" : [ "aulas" ]
+  }, {
+    "canonical_form" : "atrium",
+    "other_forms" : [ "atriums" ]
+  }, {
+    "canonical_form" : "assiduité",
+    "other_forms" : [ "assiduités" ]
+  }, {
+    "canonical_form" : "adulation",
+    "other_forms" : [ "adulations" ]
+  }, {
+    "canonical_form" : "suite",
+    "other_forms" : [ "suites" ]
+  } ]
+}

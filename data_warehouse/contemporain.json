@@ -1,0 +1,22 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "contemporain",
+    "other_forms" : [ "contemporaine", "contemporaines", "contemporains" ]
+  }, {
+    "canonical_form" : "actuel",
+    "other_forms" : [ "actuelle", "actuelles", "actuels" ]
+  }, {
+    "canonical_form" : "moderne",
+    "other_forms" : [ "modernes" ]
+  }, {
+    "canonical_form" : "présent",
+    "other_forms" : [ "présente", "présentes", "présents" ]
+  }, {
+    "canonical_form" : "simultané",
+    "other_forms" : [ "simultanée", "simultanées", "simultanés" ]
+  }, {
+    "canonical_form" : "synchronique",
+    "other_forms" : [ "synchroniques" ]
+  } ]
+}

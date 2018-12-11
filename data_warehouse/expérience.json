@@ -1,0 +1,97 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "expérience",
+    "other_forms" : [ "expériences" ]
+  }, {
+    "canonical_form" : "expérimentation",
+    "other_forms" : [ "expérimentations" ]
+  }, {
+    "canonical_form" : "connaissance",
+    "other_forms" : [ "connaissances" ]
+  }, {
+    "canonical_form" : "observation",
+    "other_forms" : [ "observations" ]
+  }, {
+    "canonical_form" : "usage",
+    "other_forms" : [ "usages" ]
+  }, {
+    "canonical_form" : "épreuve",
+    "other_forms" : [ "épreuves" ]
+  }, {
+    "canonical_form" : "vérification",
+    "other_forms" : [ "vérifications" ]
+  }, {
+    "canonical_form" : "savoir",
+    "other_forms" : [ "savoirs" ]
+  }, {
+    "canonical_form" : "métier",
+    "other_forms" : [ "métiers" ]
+  }, {
+    "canonical_form" : "habileté",
+    "other_forms" : [ "habiletés" ]
+  }, {
+    "canonical_form" : "examen",
+    "other_forms" : [ "examens" ]
+  }, {
+    "canonical_form" : "essai",
+    "other_forms" : [ "essais" ]
+  }, {
+    "canonical_form" : "science",
+    "other_forms" : [ "sciences" ]
+  }, {
+    "canonical_form" : "recherche",
+    "other_forms" : [ "recherches" ]
+  }, {
+    "canonical_form" : "fréquentation",
+    "other_forms" : [ "fréquentations" ]
+  }, {
+    "canonical_form" : "capacité",
+    "other_forms" : [ "capacités" ]
+  }, {
+    "canonical_form" : "événement",
+    "other_forms" : [ "événements" ]
+  }, {
+    "canonical_form" : "test",
+    "other_forms" : [ "tests" ]
+  }, {
+    "canonical_form" : "tentative",
+    "other_forms" : [ "tentatives" ]
+  }, {
+    "canonical_form" : "sagesse",
+    "other_forms" : [ "sagesses" ]
+  }, {
+    "canonical_form" : "routine",
+    "other_forms" : [ "routines" ]
+  }, {
+    "canonical_form" : "habitude",
+    "other_forms" : [ "habitudes" ]
+  }, {
+    "canonical_form" : "contrôle",
+    "other_forms" : [ "contrôles" ]
+  }, {
+    "canonical_form" : "constatation",
+    "other_forms" : [ "constatations" ]
+  }, {
+    "canonical_form" : "apprentissage",
+    "other_forms" : [ "apprentissages" ]
+  }, {
+    "canonical_form" : "réalité",
+    "other_forms" : [ "réalités" ]
+  }, {
+    "canonical_form" : "qualification",
+    "other_forms" : [ "qualifications" ]
+  }, {
+    "canonical_form" : "pragmatisme",
+    "other_forms" : [ "pragmatismes" ]
+  }, {
+    "canonical_form" : "familiarité",
+    "other_forms" : [ "familiarités" ]
+  }, {
+    "canonical_form" : "empirisme",
+    "other_forms" : [ "empirismes" ]
+  }, {
+    "canonical_form" : "démonstration",
+    "other_forms" : [ "démonstrations" ]
+  } ]
+}

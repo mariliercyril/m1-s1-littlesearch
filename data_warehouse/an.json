@@ -1,0 +1,37 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "an",
+    "other_forms" : [ "ans" ]
+  }, {
+    "canonical_form" : "période",
+    "other_forms" : [ "périodes" ]
+  }, {
+    "canonical_form" : "temps",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "année",
+    "other_forms" : [ "années" ]
+  }, {
+    "canonical_form" : "berge",
+    "other_forms" : [ "berges" ]
+  }, {
+    "canonical_form" : "date",
+    "other_forms" : [ "dates" ]
+  }, {
+    "canonical_form" : "printemps",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "pige",
+    "other_forms" : [ "piges" ]
+  }, {
+    "canonical_form" : "hiver",
+    "other_forms" : [ "hivers" ]
+  }, {
+    "canonical_form" : "cycle",
+    "other_forms" : [ "cycles" ]
+  }, {
+    "canonical_form" : "âge",
+    "other_forms" : [ "âges" ]
+  } ]
+}

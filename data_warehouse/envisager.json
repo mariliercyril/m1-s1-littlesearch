@@ -1,0 +1,42 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "envisager"
+  }, {
+    "canonical_form" : "considérer"
+  }, {
+    "canonical_form" : "regarder"
+  }, {
+    "canonical_form" : "songer"
+  }, {
+    "canonical_form" : "voir"
+  }, {
+    "canonical_form" : "examiner"
+  }, {
+    "canonical_form" : "prendre"
+  }, {
+    "canonical_form" : "imaginer"
+  }, {
+    "canonical_form" : "fixer"
+  }, {
+    "canonical_form" : "estimer"
+  }, {
+    "canonical_form" : "compter"
+  }, {
+    "canonical_form" : "juger"
+  }, {
+    "canonical_form" : "contempler"
+  }, {
+    "canonical_form" : "concevoir"
+  }, {
+    "canonical_form" : "projeter"
+  }, {
+    "canonical_form" : "réfléchir"
+  }, {
+    "canonical_form" : "dévisager"
+  }, {
+    "canonical_form" : "découvrir"
+  }, {
+    "canonical_form" : "tenir"
+  } ]
+}

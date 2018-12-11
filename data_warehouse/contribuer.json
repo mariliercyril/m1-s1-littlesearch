@@ -1,0 +1,26 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "contribuer"
+  }, {
+    "canonical_form" : "aider"
+  }, {
+    "canonical_form" : "concourir"
+  }, {
+    "canonical_form" : "participer"
+  }, {
+    "canonical_form" : "collaborer"
+  }, {
+    "canonical_form" : "servir"
+  }, {
+    "canonical_form" : "seconder"
+  }, {
+    "canonical_form" : "coopérer"
+  }, {
+    "canonical_form" : "agir"
+  }, {
+    "canonical_form" : "apporter"
+  }, {
+    "canonical_form" : "favoriser"
+  } ]
+}

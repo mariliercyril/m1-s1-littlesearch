@@ -1,0 +1,166 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "champ",
+    "other_forms" : [ "champs" ]
+  }, {
+    "canonical_form" : "domaine",
+    "other_forms" : [ "domaines" ]
+  }, {
+    "canonical_form" : "terrain",
+    "other_forms" : [ "terrains" ]
+  }, {
+    "canonical_form" : "terre",
+    "other_forms" : [ "terres" ]
+  }, {
+    "canonical_form" : "sphère",
+    "other_forms" : [ "sphères" ]
+  }, {
+    "canonical_form" : "pâturage",
+    "other_forms" : [ "pâturages" ]
+  }, {
+    "canonical_form" : "matière",
+    "other_forms" : [ "matières" ]
+  }, {
+    "canonical_form" : "fond",
+    "other_forms" : [ "fonds" ]
+  }, {
+    "canonical_form" : "nature",
+    "other_forms" : [ "natures" ]
+  }, {
+    "canonical_form" : "carrière",
+    "other_forms" : [ "carrières" ]
+  }, {
+    "canonical_form" : "campagne",
+    "other_forms" : [ "campagnes" ]
+  }, {
+    "canonical_form" : "état",
+    "other_forms" : [ "états" ]
+  }, {
+    "canonical_form" : "stade",
+    "other_forms" : [ "stades" ]
+  }, {
+    "canonical_form" : "spécialité",
+    "other_forms" : [ "spécialités" ]
+  }, {
+    "canonical_form" : "profession",
+    "other_forms" : [ "professions" ]
+  }, {
+    "canonical_form" : "prairie",
+    "other_forms" : [ "prairies" ]
+  }, {
+    "canonical_form" : "plantation",
+    "other_forms" : [ "plantations" ]
+  }, {
+    "canonical_form" : "perspective",
+    "other_forms" : [ "perspectives" ]
+  }, {
+    "canonical_form" : "aire",
+    "other_forms" : [ "aires" ]
+  }, {
+    "canonical_form" : "espace",
+    "other_forms" : [ "espaces" ]
+  }, {
+    "canonical_form" : "friche",
+    "other_forms" : [ "friches" ]
+  }, {
+    "canonical_form" : "horizon",
+    "other_forms" : [ "horizons" ]
+  }, {
+    "canonical_form" : "labour",
+    "other_forms" : [ "labours" ]
+  }, {
+    "canonical_form" : "lice",
+    "other_forms" : [ "lices" ]
+  }, {
+    "canonical_form" : "influence",
+    "other_forms" : [ "influences" ]
+  }, {
+    "canonical_form" : "houblonnière",
+    "other_forms" : [ "houblonnières" ]
+  }, {
+    "canonical_form" : "herbe",
+    "other_forms" : [ "herbes" ]
+  }, {
+    "canonical_form" : "guéret",
+    "other_forms" : [ "guérets" ]
+  }, {
+    "canonical_form" : "glèbe",
+    "other_forms" : [ "glèbes" ]
+  }, {
+    "canonical_form" : "genêtière",
+    "other_forms" : [ "genêtières" ]
+  }, {
+    "canonical_form" : "genévrière",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "lopin",
+    "other_forms" : [ "lopins" ]
+  }, {
+    "canonical_form" : "luzernière",
+    "other_forms" : [ "luzernières" ]
+  }, {
+    "canonical_form" : "melonnière",
+    "other_forms" : [ "melonnières" ]
+  }, {
+    "canonical_form" : "objet",
+    "other_forms" : [ "objets" ]
+  }, {
+    "canonical_form" : "occasion",
+    "other_forms" : [ "occasions" ]
+  }, {
+    "canonical_form" : "pré",
+    "other_forms" : [ "prés" ]
+  }, {
+    "canonical_form" : "terroir",
+    "other_forms" : [ "terroirs" ]
+  }, {
+    "canonical_form" : "verger",
+    "other_forms" : [ "vergers" ]
+  }, {
+    "canonical_form" : "garenne",
+    "other_forms" : [ "garennes" ]
+  }, {
+    "canonical_form" : "fourragère",
+    "other_forms" : [ "fourragères" ]
+  }, {
+    "canonical_form" : "barrage",
+    "other_forms" : [ "barrages" ]
+  }, {
+    "canonical_form" : "batterie",
+    "other_forms" : [ "batteries" ]
+  }, {
+    "canonical_form" : "brûlis",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "camp",
+    "other_forms" : [ "camps" ]
+  }, {
+    "canonical_form" : "cercle",
+    "other_forms" : [ "cercles" ]
+  }, {
+    "canonical_form" : "champagne",
+    "other_forms" : [ "champagnes" ]
+  }, {
+    "canonical_form" : "chaume",
+    "other_forms" : [ "chaumes" ]
+  }, {
+    "canonical_form" : "chènevière",
+    "other_forms" : [ "chènevières" ]
+  }, {
+    "canonical_form" : "culture",
+    "other_forms" : [ "cultures" ]
+  }, {
+    "canonical_form" : "emblavure",
+    "other_forms" : [ "emblavures" ]
+  }, {
+    "canonical_form" : "essart",
+    "other_forms" : [ "essarts" ]
+  }, {
+    "canonical_form" : "fougeraie",
+    "other_forms" : [ "fougeraies" ]
+  }, {
+    "canonical_form" : "arène",
+    "other_forms" : [ "arènes" ]
+  } ]
+}

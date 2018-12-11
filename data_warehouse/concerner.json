@@ -1,0 +1,22 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "concerner"
+  }, {
+    "canonical_form" : "intéresser"
+  }, {
+    "canonical_form" : "regarder"
+  }, {
+    "canonical_form" : "viser"
+  }, {
+    "canonical_form" : "appartenir"
+  }, {
+    "canonical_form" : "ressortir"
+  }, {
+    "canonical_form" : "impliquer"
+  }, {
+    "canonical_form" : "dépendre"
+  }, {
+    "canonical_form" : "aller"
+  } ]
+}

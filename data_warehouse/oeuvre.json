@@ -1,0 +1,88 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "oeuvre",
+    "other_forms" : [ "oeuvres" ]
+  }, {
+    "canonical_form" : "travail",
+    "other_forms" : [ "travaux" ]
+  }, {
+    "canonical_form" : "ouvrage",
+    "other_forms" : [ "ouvrages" ]
+  }, {
+    "canonical_form" : "action",
+    "other_forms" : [ "actions" ]
+  }, {
+    "canonical_form" : "besogne",
+    "other_forms" : [ "besognes" ]
+  }, {
+    "canonical_form" : "production",
+    "other_forms" : [ "productions" ]
+  }, {
+    "canonical_form" : "tâche",
+    "other_forms" : [ "tâches" ]
+  }, {
+    "canonical_form" : "création",
+    "other_forms" : [ "créations" ]
+  }, {
+    "canonical_form" : "bâtiment",
+    "other_forms" : [ "bâtiments" ]
+  }, {
+    "canonical_form" : "affaire",
+    "other_forms" : [ "affaires" ]
+  }, {
+    "canonical_form" : "acte",
+    "other_forms" : [ "actes" ]
+  }, {
+    "canonical_form" : "édifice",
+    "other_forms" : [ "édifices" ]
+  }, {
+    "canonical_form" : "réalisation",
+    "other_forms" : [ "réalisations" ]
+  }, {
+    "canonical_form" : "poème",
+    "other_forms" : [ "poèmes" ]
+  }, {
+    "canonical_form" : "mission",
+    "other_forms" : [ "missions" ]
+  }, {
+    "canonical_form" : "geste",
+    "other_forms" : [ "gestes" ]
+  }, {
+    "canonical_form" : "conception",
+    "other_forms" : [ "conceptions" ]
+  }, {
+    "canonical_form" : "opus",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "maçonnerie",
+    "other_forms" : [ "maçonneries" ]
+  }, {
+    "canonical_form" : "main",
+    "other_forms" : [ "mains" ]
+  }, {
+    "canonical_form" : "livre",
+    "other_forms" : [ "livres" ]
+  }, {
+    "canonical_form" : "labeur",
+    "other_forms" : [ "labeurs" ]
+  }, {
+    "canonical_form" : "devoir",
+    "other_forms" : [ "devoirs" ]
+  }, {
+    "canonical_form" : "dessin",
+    "other_forms" : [ "dessins" ]
+  }, {
+    "canonical_form" : "bienfaisance",
+    "other_forms" : [ "bienfaisances" ]
+  }, {
+    "canonical_form" : "assistance",
+    "other_forms" : [ "assistances" ]
+  }, {
+    "canonical_form" : "allégorie",
+    "other_forms" : [ "allégories" ]
+  }, {
+    "canonical_form" : "théâtre",
+    "other_forms" : [ "théâtres" ]
+  } ]
+}

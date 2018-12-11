@@ -1,0 +1,70 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "entretien",
+    "other_forms" : [ "entretiens" ]
+  }, {
+    "canonical_form" : "conversation",
+    "other_forms" : [ "conversations" ]
+  }, {
+    "canonical_form" : "conférence",
+    "other_forms" : [ "conférences" ]
+  }, {
+    "canonical_form" : "dialogue",
+    "other_forms" : [ "dialogues" ]
+  }, {
+    "canonical_form" : "tête-à-tête",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "conciliabule",
+    "other_forms" : [ "conciliabules" ]
+  }, {
+    "canonical_form" : "causerie",
+    "other_forms" : [ "causeries" ]
+  }, {
+    "canonical_form" : "palabre",
+    "other_forms" : [ "palabres" ]
+  }, {
+    "canonical_form" : "parlote",
+    "other_forms" : [ "parlotes", "parlotte", "parlottes" ]
+  }, {
+    "canonical_form" : "discussion",
+    "other_forms" : [ "discussions" ]
+  }, {
+    "canonical_form" : "colloque",
+    "other_forms" : [ "colloques" ]
+  }, {
+    "canonical_form" : "abouchement",
+    "other_forms" : [ "abouchements" ]
+  }, {
+    "canonical_form" : "subsistance",
+    "other_forms" : [ "subsistances" ]
+  }, {
+    "canonical_form" : "propos",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "interview",
+    "other_forms" : [ "interviews" ]
+  }, {
+    "canonical_form" : "financement",
+    "other_forms" : [ "financements" ]
+  }, {
+    "canonical_form" : "conservation",
+    "other_forms" : [ "conservations" ]
+  }, {
+    "canonical_form" : "causette",
+    "other_forms" : [ "causettes" ]
+  }, {
+    "canonical_form" : "besoin",
+    "other_forms" : [ "besoins" ]
+  }, {
+    "canonical_form" : "audience",
+    "other_forms" : [ "audiences" ]
+  }, {
+    "canonical_form" : "aparté",
+    "other_forms" : [ "apartés" ]
+  }, {
+    "canonical_form" : "voirie",
+    "other_forms" : [ "voiries" ]
+  } ]
+}

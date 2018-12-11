@@ -1,0 +1,61 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "fluide",
+    "other_forms" : [ "fluides" ]
+  }, {
+    "canonical_form" : "flottant",
+    "other_forms" : [ "flottante", "flottantes", "flottants" ]
+  }, {
+    "canonical_form" : "indécis",
+    "other_forms" : [ "indécise", "indécises" ]
+  }, {
+    "canonical_form" : "liquide",
+    "other_forms" : [ "liquides" ]
+  }, {
+    "canonical_form" : "inconsistant",
+    "other_forms" : [ "inconsistante", "inconsistantes", "inconsistants" ]
+  }, {
+    "canonical_form" : "humide",
+    "other_forms" : [ "humides" ]
+  }, {
+    "canonical_form" : "fluctuant",
+    "other_forms" : [ "fluctuante", "fluctuantes", "fluctuants" ]
+  }, {
+    "canonical_form" : "coulant",
+    "other_forms" : [ "coulante", "coulantes", "coulants" ]
+  }, {
+    "canonical_form" : "clair",
+    "other_forms" : [ "claire", "claires", "clairs" ]
+  }, {
+    "canonical_form" : "aisé",
+    "other_forms" : [ "aisée", "aisées", "aisés" ]
+  }, {
+    "canonical_form" : "insinuant",
+    "other_forms" : [ "insinuante", "insinuantes", "insinuants" ]
+  }, {
+    "canonical_form" : "instable",
+    "other_forms" : [ "instables" ]
+  }, {
+    "canonical_form" : "limpide",
+    "other_forms" : [ "limpides" ]
+  }, {
+    "canonical_form" : "mouvant",
+    "other_forms" : [ "mouvante", "mouvantes", "mouvants" ]
+  }, {
+    "canonical_form" : "mélodieux",
+    "other_forms" : [ "mélodieuse", "mélodieuses" ]
+  }, {
+    "canonical_form" : "insaisissable",
+    "other_forms" : [ "insaisissables" ]
+  }, {
+    "canonical_form" : "flou",
+    "other_forms" : [ "floue", "floues", "flous" ]
+  }, {
+    "canonical_form" : "courant",
+    "other_forms" : [ "courante", "courantes", "courants" ]
+  }, {
+    "canonical_form" : "aqueux",
+    "other_forms" : [ "aqueuse", "aqueuses" ]
+  } ]
+}

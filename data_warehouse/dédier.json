@@ -1,0 +1,20 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "dédier"
+  }, {
+    "canonical_form" : "donner"
+  }, {
+    "canonical_form" : "vouer"
+  }, {
+    "canonical_form" : "dévouer"
+  }, {
+    "canonical_form" : "adresser"
+  }, {
+    "canonical_form" : "consacrer"
+  }, {
+    "canonical_form" : "dédicacer"
+  }, {
+    "canonical_form" : "offrir"
+  } ]
+}

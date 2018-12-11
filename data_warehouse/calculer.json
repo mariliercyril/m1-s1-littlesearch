@@ -1,0 +1,68 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "calculer"
+  }, {
+    "canonical_form" : "arranger"
+  }, {
+    "canonical_form" : "combiner"
+  }, {
+    "canonical_form" : "préparer"
+  }, {
+    "canonical_form" : "mesurer"
+  }, {
+    "canonical_form" : "réfléchir"
+  }, {
+    "canonical_form" : "évaluer"
+  }, {
+    "canonical_form" : "établir"
+  }, {
+    "canonical_form" : "régler"
+  }, {
+    "canonical_form" : "proportionner"
+  }, {
+    "canonical_form" : "peser"
+  }, {
+    "canonical_form" : "méditer"
+  }, {
+    "canonical_form" : "adapter"
+  }, {
+    "canonical_form" : "résoudre"
+  }, {
+    "canonical_form" : "préméditer"
+  }, {
+    "canonical_form" : "estimer"
+  }, {
+    "canonical_form" : "déterminer"
+  }, {
+    "canonical_form" : "compter"
+  }, {
+    "canonical_form" : "supputer"
+  }, {
+    "canonical_form" : "prévoir"
+  }, {
+    "canonical_form" : "planifier"
+  }, {
+    "canonical_form" : "délibérer"
+  }, {
+    "canonical_form" : "concerter"
+  }, {
+    "canonical_form" : "apprêter"
+  }, {
+    "canonical_form" : "apprécier"
+  }, {
+    "canonical_form" : "ajuster"
+  }, {
+    "canonical_form" : "agencer"
+  }, {
+    "canonical_form" : "chercher"
+  }, {
+    "canonical_form" : "chiffrer"
+  }, {
+    "canonical_form" : "coordonner"
+  }, {
+    "canonical_form" : "minuter"
+  }, {
+    "canonical_form" : "raisonner"
+  } ]
+}

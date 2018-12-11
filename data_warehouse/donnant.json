@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "donnant",
+    "other_forms" : [ "donnante", "donnantes", "donnants" ]
+  }, {
+    "canonical_form" : "généreux",
+    "other_forms" : [ "généreuse", "généreuses" ]
+  }, {
+    "canonical_form" : "large",
+    "other_forms" : [ "larges" ]
+  } ]
+}

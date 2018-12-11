@@ -1,0 +1,94 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "annoncer"
+  }, {
+    "canonical_form" : "révéler"
+  }, {
+    "canonical_form" : "signaler"
+  }, {
+    "canonical_form" : "indiquer"
+  }, {
+    "canonical_form" : "montrer"
+  }, {
+    "canonical_form" : "signifier"
+  }, {
+    "canonical_form" : "déclarer"
+  }, {
+    "canonical_form" : "apprendre"
+  }, {
+    "canonical_form" : "avertir"
+  }, {
+    "canonical_form" : "publier"
+  }, {
+    "canonical_form" : "manifester"
+  }, {
+    "canonical_form" : "informer"
+  }, {
+    "canonical_form" : "exposer"
+  }, {
+    "canonical_form" : "communiquer"
+  }, {
+    "canonical_form" : "expliquer"
+  }, {
+    "canonical_form" : "instruire"
+  }, {
+    "canonical_form" : "dénoncer"
+  }, {
+    "canonical_form" : "notifier"
+  }, {
+    "canonical_form" : "afficher"
+  }, {
+    "canonical_form" : "présager"
+  }, {
+    "canonical_form" : "marquer"
+  }, {
+    "canonical_form" : "présenter"
+  }, {
+    "canonical_form" : "prévenir"
+  }, {
+    "canonical_form" : "divulguer"
+  }, {
+    "canonical_form" : "crier"
+  }, {
+    "canonical_form" : "aviser"
+  }, {
+    "canonical_form" : "proclamer"
+  }, {
+    "canonical_form" : "prouver"
+  }, {
+    "canonical_form" : "préparer"
+  }, {
+    "canonical_form" : "préluder"
+  }, {
+    "canonical_form" : "promettre"
+  }, {
+    "canonical_form" : "dénoter"
+  }, {
+    "canonical_form" : "augurer"
+  }, {
+    "canonical_form" : "attester"
+  }, {
+    "canonical_form" : "prêcher"
+  }, {
+    "canonical_form" : "prédire"
+  }, {
+    "canonical_form" : "précéder"
+  }, {
+    "canonical_form" : "pronostiquer"
+  }, {
+    "canonical_form" : "pressentir"
+  }, {
+    "canonical_form" : "déceler"
+  }, {
+    "canonical_form" : "préfigurer"
+  }, {
+    "canonical_form" : "prophétiser"
+  }, {
+    "canonical_form" : "clamer"
+  }, {
+    "canonical_form" : "claironner"
+  }, {
+    "canonical_form" : "apporter"
+  } ]
+}

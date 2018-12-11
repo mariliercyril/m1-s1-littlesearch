@@ -1,0 +1,80 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "construire"
+  }, {
+    "canonical_form" : "former"
+  }, {
+    "canonical_form" : "composer"
+  }, {
+    "canonical_form" : "créer"
+  }, {
+    "canonical_form" : "bâtir"
+  }, {
+    "canonical_form" : "faire"
+  }, {
+    "canonical_form" : "constituer"
+  }, {
+    "canonical_form" : "organiser"
+  }, {
+    "canonical_form" : "fabriquer"
+  }, {
+    "canonical_form" : "édifier"
+  }, {
+    "canonical_form" : "arranger"
+  }, {
+    "canonical_form" : "établir"
+  }, {
+    "canonical_form" : "façonner"
+  }, {
+    "canonical_form" : "imaginer"
+  }, {
+    "canonical_form" : "élaborer"
+  }, {
+    "canonical_form" : "combiner"
+  }, {
+    "canonical_form" : "forger"
+  }, {
+    "canonical_form" : "inventer"
+  }, {
+    "canonical_form" : "élever"
+  }, {
+    "canonical_form" : "fonder"
+  }, {
+    "canonical_form" : "agencer"
+  }, {
+    "canonical_form" : "disposer"
+  }, {
+    "canonical_form" : "assembler"
+  }, {
+    "canonical_form" : "échafauder"
+  }, {
+    "canonical_form" : "structurer"
+  }, {
+    "canonical_form" : "harmoniser"
+  }, {
+    "canonical_form" : "charpenter"
+  }, {
+    "canonical_form" : "articuler"
+  }, {
+    "canonical_form" : "aménager"
+  }, {
+    "canonical_form" : "ériger"
+  }, {
+    "canonical_form" : "modeler"
+  }, {
+    "canonical_form" : "jeter"
+  }, {
+    "canonical_form" : "architecturer"
+  }, {
+    "canonical_form" : "conduire"
+  }, {
+    "canonical_form" : "maçonner"
+  }, {
+    "canonical_form" : "reconstruire"
+  }, {
+    "canonical_form" : "tracer"
+  }, {
+    "canonical_form" : "élucubrer"
+  } ]
+}

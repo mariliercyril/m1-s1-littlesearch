@@ -1,0 +1,136 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "introduction",
+    "other_forms" : [ "introductions" ]
+  }, {
+    "canonical_form" : "commencement",
+    "other_forms" : [ "commencements" ]
+  }, {
+    "canonical_form" : "préambule",
+    "other_forms" : [ "préambules" ]
+  }, {
+    "canonical_form" : "préface",
+    "other_forms" : [ "préfaces" ]
+  }, {
+    "canonical_form" : "apparition",
+    "other_forms" : [ "apparitions" ]
+  }, {
+    "canonical_form" : "prélude",
+    "other_forms" : [ "préludes" ]
+  }, {
+    "canonical_form" : "début",
+    "other_forms" : [ "débuts" ]
+  }, {
+    "canonical_form" : "avis",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "établissement",
+    "other_forms" : [ "établissements" ]
+  }, {
+    "canonical_form" : "prologue",
+    "other_forms" : [ "prologues" ]
+  }, {
+    "canonical_form" : "ouverture",
+    "other_forms" : [ "ouvertures" ]
+  }, {
+    "canonical_form" : "irruption",
+    "other_forms" : [ "irruptions" ]
+  }, {
+    "canonical_form" : "implantation",
+    "other_forms" : [ "implantations" ]
+  }, {
+    "canonical_form" : "exposition",
+    "other_forms" : [ "expositions" ]
+  }, {
+    "canonical_form" : "exorde",
+    "other_forms" : [ "exordes" ]
+  }, {
+    "canonical_form" : "avertissement",
+    "other_forms" : [ "avertissements" ]
+  }, {
+    "canonical_form" : "apprentissage",
+    "other_forms" : [ "apprentissages" ]
+  }, {
+    "canonical_form" : "notice",
+    "other_forms" : [ "notices" ]
+  }, {
+    "canonical_form" : "préparation",
+    "other_forms" : [ "préparations" ]
+  }, {
+    "canonical_form" : "présentation",
+    "other_forms" : [ "présentations" ]
+  }, {
+    "canonical_form" : "pénétration",
+    "other_forms" : [ "pénétrations" ]
+  }, {
+    "canonical_form" : "intrusion",
+    "other_forms" : [ "intrusions" ]
+  }, {
+    "canonical_form" : "installation",
+    "other_forms" : [ "installations" ]
+  }, {
+    "canonical_form" : "insertion",
+    "other_forms" : [ "insertions" ]
+  }, {
+    "canonical_form" : "initiation",
+    "other_forms" : [ "initiations" ]
+  }, {
+    "canonical_form" : "infiltration",
+    "other_forms" : [ "infiltrations" ]
+  }, {
+    "canonical_form" : "avènement",
+    "other_forms" : [ "avènements" ]
+  }, {
+    "canonical_form" : "avant-propos",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "admission",
+    "other_forms" : [ "admissions" ]
+  }, {
+    "canonical_form" : "intussusception",
+    "other_forms" : [ "intussusceptions" ]
+  }, {
+    "canonical_form" : "note",
+    "other_forms" : [ "notes" ]
+  }, {
+    "canonical_form" : "prodrome",
+    "other_forms" : [ "prodromes" ]
+  }, {
+    "canonical_form" : "prolégomènes",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "protase",
+    "other_forms" : [ "protases" ]
+  }, {
+    "canonical_form" : "intronisation",
+    "other_forms" : [ "intronisations" ]
+  }, {
+    "canonical_form" : "intromission",
+    "other_forms" : [ "intromissions" ]
+  }, {
+    "canonical_form" : "insinuation",
+    "other_forms" : [ "insinuations" ]
+  }, {
+    "canonical_form" : "importation",
+    "other_forms" : [ "importations" ]
+  }, {
+    "canonical_form" : "frontispice",
+    "other_forms" : [ "frontispices" ]
+  }, {
+    "canonical_form" : "clef",
+    "other_forms" : [ "clefs", "clé", "clés" ]
+  }, {
+    "canonical_form" : "cathétérisme",
+    "other_forms" : [ "cathétérismes" ]
+  }, {
+    "canonical_form" : "accès",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "acclimatation",
+    "other_forms" : [ "acclimatations" ]
+  }, {
+    "canonical_form" : "recommandation",
+    "other_forms" : [ "recommandations" ]
+  } ]
+}

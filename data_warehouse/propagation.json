@@ -1,0 +1,94 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "propagation",
+    "other_forms" : [ "propagations" ]
+  }, {
+    "canonical_form" : "transmission",
+    "other_forms" : [ "transmissions" ]
+  }, {
+    "canonical_form" : "diffusion",
+    "other_forms" : [ "diffusions" ]
+  }, {
+    "canonical_form" : "développement",
+    "other_forms" : [ "développements" ]
+  }, {
+    "canonical_form" : "progression",
+    "other_forms" : [ "progressions" ]
+  }, {
+    "canonical_form" : "progrès",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "contagion",
+    "other_forms" : [ "contagions" ]
+  }, {
+    "canonical_form" : "extension",
+    "other_forms" : [ "extensions" ]
+  }, {
+    "canonical_form" : "expansion",
+    "other_forms" : [ "expansions" ]
+  }, {
+    "canonical_form" : "augmentation",
+    "other_forms" : [ "augmentations" ]
+  }, {
+    "canonical_form" : "vulgarisation",
+    "other_forms" : [ "vulgarisations" ]
+  }, {
+    "canonical_form" : "rayonnement",
+    "other_forms" : [ "rayonnements" ]
+  }, {
+    "canonical_form" : "prosélytisme",
+    "other_forms" : [ "prosélytismes" ]
+  }, {
+    "canonical_form" : "multiplication",
+    "other_forms" : [ "multiplications" ]
+  }, {
+    "canonical_form" : "marche",
+    "other_forms" : [ "marches" ]
+  }, {
+    "canonical_form" : "irradiation",
+    "other_forms" : [ "irradiations" ]
+  }, {
+    "canonical_form" : "divulgation",
+    "other_forms" : [ "divulgations" ]
+  }, {
+    "canonical_form" : "communication",
+    "other_forms" : [ "communications" ]
+  }, {
+    "canonical_form" : "invasion",
+    "other_forms" : [ "invasions" ]
+  }, {
+    "canonical_form" : "propagande",
+    "other_forms" : [ "propagandes" ]
+  }, {
+    "canonical_form" : "reproduction",
+    "other_forms" : [ "reproductions" ]
+  }, {
+    "canonical_form" : "transmissibilité",
+    "other_forms" : [ "transmissibilités" ]
+  }, {
+    "canonical_form" : "dissémination",
+    "other_forms" : [ "disséminations" ]
+  }, {
+    "canonical_form" : "contamination",
+    "other_forms" : [ "contaminations" ]
+  }, {
+    "canonical_form" : "colportage",
+    "other_forms" : [ "colportages" ]
+  }, {
+    "canonical_form" : "circulation",
+    "other_forms" : [ "circulations" ]
+  }, {
+    "canonical_form" : "avancement",
+    "other_forms" : [ "avancements" ]
+  }, {
+    "canonical_form" : "apostolat",
+    "other_forms" : [ "apostolats" ]
+  }, {
+    "canonical_form" : "aggravation",
+    "other_forms" : [ "aggravations" ]
+  }, {
+    "canonical_form" : "épidémie",
+    "other_forms" : [ "épidémies" ]
+  } ]
+}

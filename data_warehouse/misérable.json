@@ -1,0 +1,160 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "misérable",
+    "other_forms" : [ "misérables" ]
+  }, {
+    "canonical_form" : "pauvre",
+    "other_forms" : [ "pauvres" ]
+  }, {
+    "canonical_form" : "malheureux",
+    "other_forms" : [ "malheureuse", "malheureuses" ]
+  }, {
+    "canonical_form" : "déplorable",
+    "other_forms" : [ "déplorables" ]
+  }, {
+    "canonical_form" : "nécessiteux",
+    "other_forms" : [ "nécessiteuse", "nécessiteuses" ]
+  }, {
+    "canonical_form" : "méchant",
+    "other_forms" : [ "méchante", "méchantes", "méchants" ]
+  }, {
+    "canonical_form" : "mauvais",
+    "other_forms" : [ "mauvaise", "mauvaises" ]
+  }, {
+    "canonical_form" : "piètre",
+    "other_forms" : [ "piètres" ]
+  }, {
+    "canonical_form" : "triste",
+    "other_forms" : [ "tristes" ]
+  }, {
+    "canonical_form" : "insignifiant",
+    "other_forms" : [ "insignifiante", "insignifiantes", "insignifiants" ]
+  }, {
+    "canonical_form" : "pitoyable",
+    "other_forms" : [ "pitoyables" ]
+  }, {
+    "canonical_form" : "miséreux",
+    "other_forms" : [ "miséreuse", "miséreuses" ]
+  }, {
+    "canonical_form" : "besogneux",
+    "other_forms" : [ "besogneuse", "besogneuses" ]
+  }, {
+    "canonical_form" : "lamentable",
+    "other_forms" : [ "lamentables" ]
+  }, {
+    "canonical_form" : "piteux",
+    "other_forms" : [ "piteuse", "piteuses" ]
+  }, {
+    "canonical_form" : "minable",
+    "other_forms" : [ "minables" ]
+  }, {
+    "canonical_form" : "miteux",
+    "other_forms" : [ "miteuse", "miteuses" ]
+  }, {
+    "canonical_form" : "chétif",
+    "other_forms" : [ "chétifs", "chétive", "chétives" ]
+  }, {
+    "canonical_form" : "vil",
+    "other_forms" : [ "vile", "viles", "vils" ]
+  }, {
+    "canonical_form" : "mesquin",
+    "other_forms" : [ "mesquine", "mesquines", "mesquins" ]
+  }, {
+    "canonical_form" : "cruel",
+    "other_forms" : [ "cruelle", "cruelles", "cruels" ]
+  }, {
+    "canonical_form" : "pouilleux",
+    "other_forms" : [ "pouilleuse", "pouilleuses" ]
+  }, {
+    "canonical_form" : "mince",
+    "other_forms" : [ "minces" ]
+  }, {
+    "canonical_form" : "mendiant",
+    "other_forms" : [ "mendiante", "mendiantes", "mendiants" ]
+  }, {
+    "canonical_form" : "maigre",
+    "other_forms" : [ "maigres" ]
+  }, {
+    "canonical_form" : "indigent",
+    "other_forms" : [ "indigente", "indigentes", "indigents" ]
+  }, {
+    "canonical_form" : "funeste",
+    "other_forms" : [ "funestes" ]
+  }, {
+    "canonical_form" : "dérisoire",
+    "other_forms" : [ "dérisoires" ]
+  }, {
+    "canonical_form" : "coquin",
+    "other_forms" : [ "coquine", "coquines", "coquins" ]
+  }, {
+    "canonical_form" : "vagabond",
+    "other_forms" : [ "vagabonde", "vagabondes", "vagabonds" ]
+  }, {
+    "canonical_form" : "scélérat",
+    "other_forms" : [ "scélérate", "scélérates", "scélérats" ]
+  }, {
+    "canonical_form" : "méprisable",
+    "other_forms" : [ "méprisables" ]
+  }, {
+    "canonical_form" : "infime",
+    "other_forms" : [ "infimes" ]
+  }, {
+    "canonical_form" : "horrible",
+    "other_forms" : [ "horribles" ]
+  }, {
+    "canonical_form" : "affreux",
+    "other_forms" : [ "affreuse", "affreuses" ]
+  }, {
+    "canonical_form" : "fâcheux",
+    "other_forms" : [ "fâcheuse", "fâcheuses" ]
+  }, {
+    "canonical_form" : "déguenillé",
+    "other_forms" : [ "déguenillée", "déguenillées", "déguenillés" ]
+  }, {
+    "canonical_form" : "canaille",
+    "other_forms" : [ "canailles" ]
+  }, {
+    "canonical_form" : "marmiteux",
+    "other_forms" : [ "marmiteuse", "marmiteuses" ]
+  }, {
+    "canonical_form" : "minime",
+    "other_forms" : [ "minimes" ]
+  }, {
+    "canonical_form" : "panné",
+    "other_forms" : [ "pannée", "pannées", "pannés" ]
+  }, {
+    "canonical_form" : "regrettable",
+    "other_forms" : [ "regrettables" ]
+  }, {
+    "canonical_form" : "malhonnête",
+    "other_forms" : [ "malhonnêtes" ]
+  }, {
+    "canonical_form" : "infortuné",
+    "other_forms" : [ "infortunée", "infortunées", "infortunés" ]
+  }, {
+    "canonical_form" : "abject",
+    "other_forms" : [ "abjecte", "abjectes", "abjects" ]
+  }, {
+    "canonical_form" : "abominable",
+    "other_forms" : [ "abominables" ]
+  }, {
+    "canonical_form" : "calamiteux",
+    "other_forms" : [ "calamiteuse", "calamiteuses" ]
+  }, {
+    "canonical_form" : "impécunieux",
+    "other_forms" : [ "impécunieuse", "impécunieuses" ]
+  }, {
+    "canonical_form" : "jeune",
+    "other_forms" : [ "jeunes" ]
+  }, {
+    "canonical_form" : "honteux",
+    "other_forms" : [ "honteuse", "honteuses" ]
+  }, {
+    "canonical_form" : "guenilleux",
+    "other_forms" : [ "guenilleuse", "guenilleuses" ]
+  }, {
+    "canonical_form" : "croquant",
+    "other_forms" : [ "croquante", "croquantes", "croquants" ]
+  } ]
+}

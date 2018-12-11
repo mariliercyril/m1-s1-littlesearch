@@ -1,0 +1,229 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "opposition",
+    "other_forms" : [ "oppositions" ]
+  }, {
+    "canonical_form" : "désaccord",
+    "other_forms" : [ "désaccords" ]
+  }, {
+    "canonical_form" : "conflit",
+    "other_forms" : [ "conflits" ]
+  }, {
+    "canonical_form" : "contradiction",
+    "other_forms" : [ "contradictions" ]
+  }, {
+    "canonical_form" : "différence",
+    "other_forms" : [ "différences" ]
+  }, {
+    "canonical_form" : "contraste",
+    "other_forms" : [ "contrastes" ]
+  }, {
+    "canonical_form" : "lutte",
+    "other_forms" : [ "luttes" ]
+  }, {
+    "canonical_form" : "divergence",
+    "other_forms" : [ "divergences" ]
+  }, {
+    "canonical_form" : "difficulté",
+    "other_forms" : [ "difficultés" ]
+  }, {
+    "canonical_form" : "dispute",
+    "other_forms" : [ "disputes" ]
+  }, {
+    "canonical_form" : "résistance",
+    "other_forms" : [ "résistances" ]
+  }, {
+    "canonical_form" : "obstacle",
+    "other_forms" : [ "obstacles" ]
+  }, {
+    "canonical_form" : "discordance",
+    "other_forms" : [ "discordances" ]
+  }, {
+    "canonical_form" : "antagonisme",
+    "other_forms" : [ "antagonismes" ]
+  }, {
+    "canonical_form" : "contestation",
+    "other_forms" : [ "contestations" ]
+  }, {
+    "canonical_form" : "dissonance",
+    "other_forms" : [ "dissonances" ]
+  }, {
+    "canonical_form" : "heurt",
+    "other_forms" : [ "heurts" ]
+  }, {
+    "canonical_form" : "objection",
+    "other_forms" : [ "objections" ]
+  }, {
+    "canonical_form" : "disparité",
+    "other_forms" : [ "disparités" ]
+  }, {
+    "canonical_form" : "combat",
+    "other_forms" : [ "combats" ]
+  }, {
+    "canonical_form" : "révolte",
+    "other_forms" : [ "révoltes" ]
+  }, {
+    "canonical_form" : "rébellion",
+    "other_forms" : [ "rébellions" ]
+  }, {
+    "canonical_form" : "incompatibilité",
+    "other_forms" : [ "incompatibilités" ]
+  }, {
+    "canonical_form" : "divorce",
+    "other_forms" : [ "divorces" ]
+  }, {
+    "canonical_form" : "division",
+    "other_forms" : [ "divisions" ]
+  }, {
+    "canonical_form" : "dissension",
+    "other_forms" : [ "dissensions" ]
+  }, {
+    "canonical_form" : "traverse",
+    "other_forms" : [ "traverses" ]
+  }, {
+    "canonical_form" : "protestation",
+    "other_forms" : [ "protestations" ]
+  }, {
+    "canonical_form" : "dissemblance",
+    "other_forms" : [ "dissemblances" ]
+  }, {
+    "canonical_form" : "discorde",
+    "other_forms" : [ "discordes" ]
+  }, {
+    "canonical_form" : "choc",
+    "other_forms" : [ "chocs" ]
+  }, {
+    "canonical_form" : "antithèse",
+    "other_forms" : [ "antithèses" ]
+  }, {
+    "canonical_form" : "antipathie",
+    "other_forms" : [ "antipathies" ]
+  }, {
+    "canonical_form" : "refus",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "empêchement",
+    "other_forms" : [ "empêchements" ]
+  }, {
+    "canonical_form" : "dissentiment",
+    "other_forms" : [ "dissentiments" ]
+  }, {
+    "canonical_form" : "contrariété",
+    "other_forms" : [ "contrariétés" ]
+  }, {
+    "canonical_form" : "tirage",
+    "other_forms" : [ "tirages" ]
+  }, {
+    "canonical_form" : "soulèvement",
+    "other_forms" : [ "soulèvements" ]
+  }, {
+    "canonical_form" : "répugnance",
+    "other_forms" : [ "répugnances" ]
+  }, {
+    "canonical_form" : "réaction",
+    "other_forms" : [ "réactions" ]
+  }, {
+    "canonical_form" : "guerre",
+    "other_forms" : [ "guerres" ]
+  }, {
+    "canonical_form" : "duel",
+    "other_forms" : [ "duels" ]
+  }, {
+    "canonical_form" : "dissidence",
+    "other_forms" : [ "dissidences" ]
+  }, {
+    "canonical_form" : "discord",
+    "other_forms" : [ "discords" ]
+  }, {
+    "canonical_form" : "contre-pied",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "affrontement",
+    "other_forms" : [ "affrontements" ]
+  }, {
+    "canonical_form" : "obstruction",
+    "other_forms" : [ "obstructions" ]
+  }, {
+    "canonical_form" : "rivalité",
+    "other_forms" : [ "rivalités" ]
+  }, {
+    "canonical_form" : "réplique",
+    "other_forms" : [ "répliques" ]
+  }, {
+    "canonical_form" : "éloignement",
+    "other_forms" : [ "éloignements" ]
+  }, {
+    "canonical_form" : "hostilité",
+    "other_forms" : [ "hostilités" ]
+  }, {
+    "canonical_form" : "distance",
+    "other_forms" : [ "distances" ]
+  }, {
+    "canonical_form" : "disconvenance",
+    "other_forms" : [ "disconvenances" ]
+  }, {
+    "canonical_form" : "collision",
+    "other_forms" : [ "collisions" ]
+  }, {
+    "canonical_form" : "antinomie",
+    "other_forms" : [ "antinomies" ]
+  }, {
+    "canonical_form" : "adversité",
+    "other_forms" : [ "adversités" ]
+  }, {
+    "canonical_form" : "incohérence",
+    "other_forms" : [ "incohérences" ]
+  }, {
+    "canonical_form" : "inhibition",
+    "other_forms" : [ "inhibitions" ]
+  }, {
+    "canonical_form" : "minorité",
+    "other_forms" : [ "minorités" ]
+  }, {
+    "canonical_form" : "rejet",
+    "other_forms" : [ "rejets" ]
+  }, {
+    "canonical_form" : "riposte",
+    "other_forms" : [ "ripostes" ]
+  }, {
+    "canonical_form" : "réfutation",
+    "other_forms" : [ "réfutations" ]
+  }, {
+    "canonical_form" : "symétrie",
+    "other_forms" : [ "symétries" ]
+  }, {
+    "canonical_form" : "entrave",
+    "other_forms" : [ "entraves" ]
+  }, {
+    "canonical_form" : "désobéissance",
+    "other_forms" : [ "désobéissances" ]
+  }, {
+    "canonical_form" : "anticlimax",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "antonymie",
+    "other_forms" : [ "antonymies" ]
+  }, {
+    "canonical_form" : "asymétrie",
+    "other_forms" : [ "asymétries" ]
+  }, {
+    "canonical_form" : "barrage",
+    "other_forms" : [ "barrages" ]
+  }, {
+    "canonical_form" : "dissimilitude",
+    "other_forms" : [ "dissimilitudes" ]
+  }, {
+    "canonical_form" : "diversité",
+    "other_forms" : [ "diversités" ]
+  }, {
+    "canonical_form" : "défiance",
+    "other_forms" : [ "défiances" ]
+  }, {
+    "canonical_form" : "désapprobation",
+    "other_forms" : [ "désapprobations" ]
+  }, {
+    "canonical_form" : "veto",
+    "other_forms" : [ "vetos" ]
+  } ]
+}

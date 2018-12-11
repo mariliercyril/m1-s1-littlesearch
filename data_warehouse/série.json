@@ -1,0 +1,91 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "série",
+    "other_forms" : [ "séries" ]
+  }, {
+    "canonical_form" : "suite",
+    "other_forms" : [ "suites" ]
+  }, {
+    "canonical_form" : "ribambelle",
+    "other_forms" : [ "ribambelles" ]
+  }, {
+    "canonical_form" : "chapelet",
+    "other_forms" : [ "chapelets" ]
+  }, {
+    "canonical_form" : "succession",
+    "other_forms" : [ "successions" ]
+  }, {
+    "canonical_form" : "kyrielle",
+    "other_forms" : [ "kyrielles" ]
+  }, {
+    "canonical_form" : "rang",
+    "other_forms" : [ "rangs" ]
+  }, {
+    "canonical_form" : "quantité",
+    "other_forms" : [ "quantités" ]
+  }, {
+    "canonical_form" : "liste",
+    "other_forms" : [ "listes" ]
+  }, {
+    "canonical_form" : "file",
+    "other_forms" : [ "files" ]
+  }, {
+    "canonical_form" : "cortège",
+    "other_forms" : [ "cortèges" ]
+  }, {
+    "canonical_form" : "chaîne",
+    "other_forms" : [ "chaînes" ]
+  }, {
+    "canonical_form" : "cascade",
+    "other_forms" : [ "cascades" ]
+  }, {
+    "canonical_form" : "cour",
+    "other_forms" : [ "cours" ]
+  }, {
+    "canonical_form" : "collection",
+    "other_forms" : [ "collections" ]
+  }, {
+    "canonical_form" : "classe",
+    "other_forms" : [ "classes" ]
+  }, {
+    "canonical_form" : "catégorie",
+    "other_forms" : [ "catégories" ]
+  }, {
+    "canonical_form" : "tranche",
+    "other_forms" : [ "tranches" ]
+  }, {
+    "canonical_form" : "tirade",
+    "other_forms" : [ "tirades" ]
+  }, {
+    "canonical_form" : "séquence",
+    "other_forms" : [ "séquences" ]
+  }, {
+    "canonical_form" : "séquelle",
+    "other_forms" : [ "séquelles" ]
+  }, {
+    "canonical_form" : "sorte",
+    "other_forms" : [ "sortes" ]
+  }, {
+    "canonical_form" : "répertoire",
+    "other_forms" : [ "répertoires" ]
+  }, {
+    "canonical_form" : "qualification",
+    "other_forms" : [ "qualifications" ]
+  }, {
+    "canonical_form" : "procession",
+    "other_forms" : [ "processions" ]
+  }, {
+    "canonical_form" : "multitude",
+    "other_forms" : [ "multitudes" ]
+  }, {
+    "canonical_form" : "cycle",
+    "other_forms" : [ "cycles" ]
+  }, {
+    "canonical_form" : "continuité",
+    "other_forms" : [ "continuités" ]
+  }, {
+    "canonical_form" : "clavier",
+    "other_forms" : [ "claviers" ]
+  } ]
+}

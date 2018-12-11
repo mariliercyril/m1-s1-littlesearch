@@ -1,0 +1,52 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "onde",
+    "other_forms" : [ "ondes" ]
+  }, {
+    "canonical_form" : "ondulation",
+    "other_forms" : [ "ondulations" ]
+  }, {
+    "canonical_form" : "flot",
+    "other_forms" : [ "flots" ]
+  }, {
+    "canonical_form" : "remous",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "vibration",
+    "other_forms" : [ "vibrations" ]
+  }, {
+    "canonical_form" : "houle",
+    "other_forms" : [ "houles" ]
+  }, {
+    "canonical_form" : "frisson",
+    "other_forms" : [ "frissons" ]
+  }, {
+    "canonical_form" : "flux",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "sinuosité",
+    "other_forms" : [ "sinuosités" ]
+  }, {
+    "canonical_form" : "ride",
+    "other_forms" : [ "rides" ]
+  }, {
+    "canonical_form" : "mer",
+    "other_forms" : [ "mers" ]
+  }, {
+    "canonical_form" : "lame",
+    "other_forms" : [ "lames" ]
+  }, {
+    "canonical_form" : "flot",
+    "other_forms" : [ "flots" ]
+  }, {
+    "canonical_form" : "eau",
+    "other_forms" : [ "eaux" ]
+  }, {
+    "canonical_form" : "cercle",
+    "other_forms" : [ "cercles" ]
+  }, {
+    "canonical_form" : "son",
+    "other_forms" : [ "sons" ]
+  } ]
+}

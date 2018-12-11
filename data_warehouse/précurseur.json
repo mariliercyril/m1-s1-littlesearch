@@ -1,0 +1,34 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "précurseur",
+    "other_forms" : [ "précurseurs" ]
+  }, {
+    "canonical_form" : "avant-coureur",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "novateur",
+    "other_forms" : [ "novateurs", "novatrice", "novatrices" ]
+  }, {
+    "canonical_form" : "innovateur",
+    "other_forms" : [ "innovateurs", "innovatrice", "innovatrices" ]
+  }, {
+    "canonical_form" : "annonciateur",
+    "other_forms" : [ "annonciateurs", "annonciatrice", "annonciatrices" ]
+  }, {
+    "canonical_form" : "ancien",
+    "other_forms" : [ "ancienne", "anciennes", "anciens" ]
+  }, {
+    "canonical_form" : "prodromique",
+    "other_forms" : [ "prodromiques" ]
+  }, {
+    "canonical_form" : "inventeur",
+    "other_forms" : [ "inventeurs", "inventrice", "inventrices" ]
+  }, {
+    "canonical_form" : "initiateur",
+    "other_forms" : [ "initiateurs", "initiatrice", "initiatrices" ]
+  }, {
+    "canonical_form" : "précédent",
+    "other_forms" : [ "précédente", "précédentes", "précédents" ]
+  } ]
+}

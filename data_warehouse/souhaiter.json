@@ -1,0 +1,58 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "souhaiter"
+  }, {
+    "canonical_form" : "désirer"
+  }, {
+    "canonical_form" : "demander"
+  }, {
+    "canonical_form" : "rêver"
+  }, {
+    "canonical_form" : "prétendre"
+  }, {
+    "canonical_form" : "convoiter"
+  }, {
+    "canonical_form" : "revendiquer"
+  }, {
+    "canonical_form" : "exiger"
+  }, {
+    "canonical_form" : "viser"
+  }, {
+    "canonical_form" : "solliciter"
+  }, {
+    "canonical_form" : "lorgner"
+  }, {
+    "canonical_form" : "aspirer"
+  }, {
+    "canonical_form" : "ambitionner"
+  }, {
+    "canonical_form" : "appeler"
+  }, {
+    "canonical_form" : "requérir"
+  }, {
+    "canonical_form" : "réclamer"
+  }, {
+    "canonical_form" : "soupirer"
+  }, {
+    "canonical_form" : "rechercher"
+  }, {
+    "canonical_form" : "guigner"
+  }, {
+    "canonical_form" : "envier"
+  }, {
+    "canonical_form" : "appéter"
+  }, {
+    "canonical_form" : "attendre"
+  }, {
+    "canonical_form" : "espérer"
+  }, {
+    "canonical_form" : "loucher"
+  }, {
+    "canonical_form" : "exprimer"
+  }, {
+    "canonical_form" : "entendre"
+  }, {
+    "canonical_form" : "arrêter"
+  } ]
+}

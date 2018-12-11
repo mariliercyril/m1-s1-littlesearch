@@ -1,0 +1,28 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "entacher"
+  }, {
+    "canonical_form" : "flétrir"
+  }, {
+    "canonical_form" : "salir"
+  }, {
+    "canonical_form" : "souiller"
+  }, {
+    "canonical_form" : "ternir"
+  }, {
+    "canonical_form" : "tacher"
+  }, {
+    "canonical_form" : "profaner"
+  }, {
+    "canonical_form" : "gâter"
+  }, {
+    "canonical_form" : "déprécier"
+  }, {
+    "canonical_form" : "contaminer"
+  }, {
+    "canonical_form" : "compromettre"
+  }, {
+    "canonical_form" : "tarer"
+  } ]
+}

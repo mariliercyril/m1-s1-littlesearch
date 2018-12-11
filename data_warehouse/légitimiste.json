@@ -1,0 +1,19 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "légitimiste",
+    "other_forms" : [ "légitimistes" ]
+  }, {
+    "canonical_form" : "royaliste",
+    "other_forms" : [ "royalistes" ]
+  }, {
+    "canonical_form" : "monarchiste",
+    "other_forms" : [ "monarchistes" ]
+  }, {
+    "canonical_form" : "traditionaliste",
+    "other_forms" : [ "traditionalistes" ]
+  }, {
+    "canonical_form" : "ultra",
+    "other_forms" : [ "ultras" ]
+  } ]
+}

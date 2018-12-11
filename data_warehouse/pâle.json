@@ -1,0 +1,115 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "pâle",
+    "other_forms" : [ "pâles" ]
+  }, {
+    "canonical_form" : "terne",
+    "other_forms" : [ "ternes" ]
+  }, {
+    "canonical_form" : "blême",
+    "other_forms" : [ "blêmes" ]
+  }, {
+    "canonical_form" : "fade",
+    "other_forms" : [ "fades" ]
+  }, {
+    "canonical_form" : "faible",
+    "other_forms" : [ "faibles" ]
+  }, {
+    "canonical_form" : "falot",
+    "other_forms" : [ "falote", "falotes", "falots" ]
+  }, {
+    "canonical_form" : "blafard",
+    "other_forms" : [ "blafarde", "blafardes", "blafards" ]
+  }, {
+    "canonical_form" : "plat",
+    "other_forms" : [ "plate", "plates", "plats" ]
+  }, {
+    "canonical_form" : "livide",
+    "other_forms" : [ "livides" ]
+  }, {
+    "canonical_form" : "vitreux",
+    "other_forms" : [ "vitreuse", "vitreuses" ]
+  }, {
+    "canonical_form" : "pâlot",
+    "other_forms" : [ "pâlots", "pâlotte", "pâlottes" ]
+  }, {
+    "canonical_form" : "morne",
+    "other_forms" : [ "mornes" ]
+  }, {
+    "canonical_form" : "incolore",
+    "other_forms" : [ "incolores" ]
+  }, {
+    "canonical_form" : "blanc",
+    "other_forms" : [ "blanche", "blanches", "blancs" ]
+  }, {
+    "canonical_form" : "insipide",
+    "other_forms" : [ "insipides" ]
+  }, {
+    "canonical_form" : "inconsistant",
+    "other_forms" : [ "inconsistante", "inconsistantes", "inconsistants" ]
+  }, {
+    "canonical_form" : "fragile",
+    "other_forms" : [ "fragiles" ]
+  }, {
+    "canonical_form" : "doux",
+    "other_forms" : [ "douce", "douces" ]
+  }, {
+    "canonical_form" : "clair",
+    "other_forms" : [ "claire", "claires", "clairs" ]
+  }, {
+    "canonical_form" : "mat",
+    "other_forms" : [ "mate", "mates", "mats" ]
+  }, {
+    "canonical_form" : "médiocre",
+    "other_forms" : [ "médiocres" ]
+  }, {
+    "canonical_form" : "souffrant",
+    "other_forms" : [ "souffrante", "souffrantes", "souffrants" ]
+  }, {
+    "canonical_form" : "tendre",
+    "other_forms" : [ "tendres" ]
+  }, {
+    "canonical_form" : "terreux",
+    "other_forms" : [ "terreuse", "terreuses" ]
+  }, {
+    "canonical_form" : "hâve",
+    "other_forms" : [ "hâves" ]
+  }, {
+    "canonical_form" : "gris",
+    "other_forms" : [ "grise", "grises" ]
+  }, {
+    "canonical_form" : "flétri",
+    "other_forms" : [ "flétrie", "flétries", "flétris" ]
+  }, {
+    "canonical_form" : "blanchâtre",
+    "other_forms" : [ "blanchâtres" ]
+  }, {
+    "canonical_form" : "bleu",
+    "other_forms" : [ "bleue", "bleues", "bleus" ]
+  }, {
+    "canonical_form" : "cireux",
+    "other_forms" : [ "cireuse", "cireuses" ]
+  }, {
+    "canonical_form" : "exsangue",
+    "other_forms" : [ "exsangues" ]
+  }, {
+    "canonical_form" : "végétatif",
+    "other_forms" : [ "végétatifs", "végétative", "végétatives" ]
+  }, {
+    "canonical_form" : "vert",
+    "other_forms" : [ "verte", "vertes", "verts" ]
+  }, {
+    "canonical_form" : "pâlichon",
+    "other_forms" : [ "pâlichonne", "pâlichonnes", "pâlichons" ]
+  }, {
+    "canonical_form" : "opalin",
+    "other_forms" : [ "opaline", "opalines", "opalins" ]
+  }, {
+    "canonical_form" : "malade",
+    "other_forms" : [ "malades" ]
+  }, {
+    "canonical_form" : "affadi",
+    "other_forms" : [ "affadie", "affadies", "affadis" ]
+  } ]
+}

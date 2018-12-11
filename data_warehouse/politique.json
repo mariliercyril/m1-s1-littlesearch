@@ -1,0 +1,61 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "politique",
+    "other_forms" : [ "politiques" ]
+  }, {
+    "canonical_form" : "tactique",
+    "other_forms" : [ "tactiques" ]
+  }, {
+    "canonical_form" : "habile",
+    "other_forms" : [ "habiles" ]
+  }, {
+    "canonical_form" : "diplomate",
+    "other_forms" : [ "diplomates" ]
+  }, {
+    "canonical_form" : "adroit",
+    "other_forms" : [ "adroite", "adroites", "adroits" ]
+  }, {
+    "canonical_form" : "fin",
+    "other_forms" : [ "fine", "fines", "fins" ]
+  }, {
+    "canonical_form" : "souple",
+    "other_forms" : [ "souples" ]
+  }, {
+    "canonical_form" : "prudent",
+    "other_forms" : [ "prudente", "prudentes", "prudents" ]
+  }, {
+    "canonical_form" : "machiavélique",
+    "other_forms" : [ "machiavéliques" ]
+  }, {
+    "canonical_form" : "politicien",
+    "other_forms" : [ "politicienne", "politiciennes", "politiciens" ]
+  }, {
+    "canonical_form" : "policier",
+    "other_forms" : [ "policiers", "policière", "policières" ]
+  }, {
+    "canonical_form" : "patient",
+    "other_forms" : [ "patiente", "patientes", "patients" ]
+  }, {
+    "canonical_form" : "public",
+    "other_forms" : [ "publics", "publique", "publiques" ]
+  }, {
+    "canonical_form" : "sage",
+    "other_forms" : [ "sages" ]
+  }, {
+    "canonical_form" : "social",
+    "other_forms" : [ "sociale", "sociales", "sociaux" ]
+  }, {
+    "canonical_form" : "manoeuvrier",
+    "other_forms" : [ "manoeuvriers", "manoeuvrière", "manoeuvrières" ]
+  }, {
+    "canonical_form" : "calculateur",
+    "other_forms" : [ "calculateurs", "calculatrice", "calculatrices" ]
+  }, {
+    "canonical_form" : "civil",
+    "other_forms" : [ "civile", "civiles", "civils" ]
+  }, {
+    "canonical_form" : "civique",
+    "other_forms" : [ "civiques" ]
+  } ]
+}

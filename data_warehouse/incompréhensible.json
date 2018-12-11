@@ -1,0 +1,103 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "incompréhensible",
+    "other_forms" : [ "incompréhensibles" ]
+  }, {
+    "canonical_form" : "impénétrable",
+    "other_forms" : [ "impénétrables" ]
+  }, {
+    "canonical_form" : "obscur",
+    "other_forms" : [ "obscure", "obscures", "obscurs" ]
+  }, {
+    "canonical_form" : "sibyllin",
+    "other_forms" : [ "sibylline", "sibyllines", "sibyllins" ]
+  }, {
+    "canonical_form" : "inintelligible",
+    "other_forms" : [ "inintelligibles" ]
+  }, {
+    "canonical_form" : "ténébreux",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "mystérieux",
+    "other_forms" : [ "mystérieuse", "mystérieuses" ]
+  }, {
+    "canonical_form" : "nébuleux",
+    "other_forms" : [ "nébuleuse", "nébuleuses" ]
+  }, {
+    "canonical_form" : "énigmatique",
+    "other_forms" : [ "énigmatiques" ]
+  }, {
+    "canonical_form" : "inexplicable",
+    "other_forms" : [ "inexplicables" ]
+  }, {
+    "canonical_form" : "inconcevable",
+    "other_forms" : [ "inconcevables" ]
+  }, {
+    "canonical_form" : "étrange",
+    "other_forms" : [ "étranges" ]
+  }, {
+    "canonical_form" : "inconnaissable",
+    "other_forms" : [ "inconnaissables" ]
+  }, {
+    "canonical_form" : "insondable",
+    "other_forms" : [ "insondables" ]
+  }, {
+    "canonical_form" : "indéchiffrable",
+    "other_forms" : [ "indéchiffrables" ]
+  }, {
+    "canonical_form" : "inaccessible",
+    "other_forms" : [ "inaccessibles" ]
+  }, {
+    "canonical_form" : "hermétique",
+    "other_forms" : [ "hermétiques" ]
+  }, {
+    "canonical_form" : "abscons",
+    "other_forms" : [ "absconse", "absconses" ]
+  }, {
+    "canonical_form" : "cabalistique",
+    "other_forms" : [ "cabalistiques" ]
+  }, {
+    "canonical_form" : "déconcertant",
+    "other_forms" : [ "déconcertante", "déconcertantes", "déconcertants" ]
+  }, {
+    "canonical_form" : "opaque",
+    "other_forms" : [ "opaques" ]
+  }, {
+    "canonical_form" : "incognoscible",
+    "other_forms" : [ "incognoscibles" ]
+  }, {
+    "canonical_form" : "illisible",
+    "other_forms" : [ "illisibles" ]
+  }, {
+    "canonical_form" : "curieux",
+    "other_forms" : [ "curieuse", "curieuses" ]
+  }, {
+    "canonical_form" : "bizarre",
+    "other_forms" : [ "bizarres" ]
+  }, {
+    "canonical_form" : "abstrus",
+    "other_forms" : [ "abstruse", "abstruses" ]
+  }, {
+    "canonical_form" : "abracadabrant",
+    "other_forms" : [ "abracadabrante", "abracadabrantes", "abracadabrants" ]
+  }, {
+    "canonical_form" : "inscrutable",
+    "other_forms" : [ "inscrutables" ]
+  }, {
+    "canonical_form" : "incohérent",
+    "other_forms" : [ "incohérente", "incohérentes", "incohérents" ]
+  }, {
+    "canonical_form" : "inarticulé",
+    "other_forms" : [ "inarticulée", "inarticulées", "inarticulés" ]
+  }, {
+    "canonical_form" : "impensable",
+    "other_forms" : [ "impensables" ]
+  }, {
+    "canonical_form" : "amphigourique",
+    "other_forms" : [ "amphigouriques" ]
+  }, {
+    "canonical_form" : "vague",
+    "other_forms" : [ "vagues" ]
+  } ]
+}

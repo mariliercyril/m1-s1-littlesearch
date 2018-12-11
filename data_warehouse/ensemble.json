@@ -1,0 +1,28 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "ensemble",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "total",
+    "other_forms" : [ "totale", "totales", "totaux" ]
+  }, {
+    "canonical_form" : "entier",
+    "other_forms" : [ "entiers", "entière", "entières" ]
+  }, {
+    "canonical_form" : "commun",
+    "other_forms" : [ "commune", "communes", "communs" ]
+  }, {
+    "canonical_form" : "collectif",
+    "other_forms" : [ "collectifs", "collective", "collectives" ]
+  }, {
+    "canonical_form" : "réuni",
+    "other_forms" : [ "réunie", "réunies", "réunis" ]
+  }, {
+    "canonical_form" : "immeuble",
+    "other_forms" : [ "immeubles" ]
+  }, {
+    "canonical_form" : "complexe",
+    "other_forms" : [ "complexes" ]
+  } ]
+}

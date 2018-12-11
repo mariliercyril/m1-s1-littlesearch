@@ -1,0 +1,28 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "permutation",
+    "other_forms" : [ "permutations" ]
+  }, {
+    "canonical_form" : "changement",
+    "other_forms" : [ "changements" ]
+  }, {
+    "canonical_form" : "change",
+    "other_forms" : [ "changes" ]
+  }, {
+    "canonical_form" : "interversion",
+    "other_forms" : [ "interversions" ]
+  }, {
+    "canonical_form" : "inversion",
+    "other_forms" : [ "inversions" ]
+  }, {
+    "canonical_form" : "substitution",
+    "other_forms" : [ "substitutions" ]
+  }, {
+    "canonical_form" : "transposition",
+    "other_forms" : [ "transpositions" ]
+  }, {
+    "canonical_form" : "échange",
+    "other_forms" : [ "échanges" ]
+  } ]
+}

@@ -1,0 +1,19 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "optique",
+    "other_forms" : [ "optiques" ]
+  }, {
+    "canonical_form" : "visuel",
+    "other_forms" : [ "visuelle", "visuelles", "visuels" ]
+  }, {
+    "canonical_form" : "physique",
+    "other_forms" : [ "physiques" ]
+  }, {
+    "canonical_form" : "catadioptrique",
+    "other_forms" : [ "catadioptriques" ]
+  }, {
+    "canonical_form" : "auditif",
+    "other_forms" : [ "auditifs", "auditive", "auditives" ]
+  } ]
+}

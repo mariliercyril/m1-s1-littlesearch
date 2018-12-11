@@ -1,0 +1,124 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "fonction",
+    "other_forms" : [ "fonctions" ]
+  }, {
+    "canonical_form" : "emploi",
+    "other_forms" : [ "emplois" ]
+  }, {
+    "canonical_form" : "charge",
+    "other_forms" : [ "charges" ]
+  }, {
+    "canonical_form" : "travail",
+    "other_forms" : [ "travaux" ]
+  }, {
+    "canonical_form" : "situation",
+    "other_forms" : [ "situations" ]
+  }, {
+    "canonical_form" : "métier",
+    "other_forms" : [ "métiers" ]
+  }, {
+    "canonical_form" : "place",
+    "other_forms" : [ "places" ]
+  }, {
+    "canonical_form" : "position",
+    "other_forms" : [ "positions" ]
+  }, {
+    "canonical_form" : "rôle",
+    "other_forms" : [ "rôles" ]
+  }, {
+    "canonical_form" : "état",
+    "other_forms" : [ "états" ]
+  }, {
+    "canonical_form" : "occupation",
+    "other_forms" : [ "occupations" ]
+  }, {
+    "canonical_form" : "mission",
+    "other_forms" : [ "missions" ]
+  }, {
+    "canonical_form" : "office",
+    "other_forms" : [ "offices" ]
+  }, {
+    "canonical_form" : "poste",
+    "other_forms" : [ "postes" ]
+  }, {
+    "canonical_form" : "profession",
+    "other_forms" : [ "professions" ]
+  }, {
+    "canonical_form" : "service",
+    "other_forms" : [ "services" ]
+  }, {
+    "canonical_form" : "rang",
+    "other_forms" : [ "rangs" ]
+  }, {
+    "canonical_form" : "devoir",
+    "other_forms" : [ "devoirs" ]
+  }, {
+    "canonical_form" : "tâche",
+    "other_forms" : [ "tâches" ]
+  }, {
+    "canonical_form" : "usage",
+    "other_forms" : [ "usages" ]
+  }, {
+    "canonical_form" : "titre",
+    "other_forms" : [ "titres" ]
+  }, {
+    "canonical_form" : "qualité",
+    "other_forms" : [ "qualités" ]
+  }, {
+    "canonical_form" : "dignité",
+    "other_forms" : [ "dignités" ]
+  }, {
+    "canonical_form" : "activité",
+    "other_forms" : [ "activités" ]
+  }, {
+    "canonical_form" : "effet",
+    "other_forms" : [ "effets" ]
+  }, {
+    "canonical_form" : "mandat",
+    "other_forms" : [ "mandats" ]
+  }, {
+    "canonical_form" : "ministère",
+    "other_forms" : [ "ministères" ]
+  }, {
+    "canonical_form" : "sacerdoce",
+    "other_forms" : [ "sacerdoces" ]
+  }, {
+    "canonical_form" : "utilité",
+    "other_forms" : [ "utilités" ]
+  }, {
+    "canonical_form" : "portefeuille",
+    "other_forms" : [ "portefeuilles" ]
+  }, {
+    "canonical_form" : "faculté",
+    "other_forms" : [ "facultés" ]
+  }, {
+    "canonical_form" : "carrière",
+    "other_forms" : [ "carrières" ]
+  }, {
+    "canonical_form" : "relation",
+    "other_forms" : [ "relations" ]
+  }, {
+    "canonical_form" : "processus",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "forme",
+    "other_forms" : [ "formes" ]
+  }, {
+    "canonical_form" : "corrélation",
+    "other_forms" : [ "corrélations" ]
+  }, {
+    "canonical_form" : "correspondance",
+    "other_forms" : [ "correspondances" ]
+  }, {
+    "canonical_form" : "conséquence",
+    "other_forms" : [ "conséquences" ]
+  }, {
+    "canonical_form" : "attribution",
+    "other_forms" : [ "attributions" ]
+  }, {
+    "canonical_form" : "sinécure",
+    "other_forms" : [ "sinécures" ]
+  } ]
+}

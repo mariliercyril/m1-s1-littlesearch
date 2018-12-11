@@ -1,0 +1,10 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "parution",
+    "other_forms" : [ "parutions" ]
+  }, {
+    "canonical_form" : "publication",
+    "other_forms" : [ "publications" ]
+  } ]
+}

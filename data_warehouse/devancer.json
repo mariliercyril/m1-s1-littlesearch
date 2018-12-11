@@ -1,0 +1,50 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "devancer"
+  }, {
+    "canonical_form" : "surpasser"
+  }, {
+    "canonical_form" : "dépasser"
+  }, {
+    "canonical_form" : "distancer"
+  }, {
+    "canonical_form" : "passer"
+  }, {
+    "canonical_form" : "précéder"
+  }, {
+    "canonical_form" : "surclasser"
+  }, {
+    "canonical_form" : "prévenir"
+  }, {
+    "canonical_form" : "enfoncer"
+  }, {
+    "canonical_form" : "surmonter"
+  }, {
+    "canonical_form" : "escompter"
+  }, {
+    "canonical_form" : "battre"
+  }, {
+    "canonical_form" : "avancer"
+  }, {
+    "canonical_form" : "anticiper"
+  }, {
+    "canonical_form" : "aller"
+  }, {
+    "canonical_form" : "éviter"
+  }, {
+    "canonical_form" : "primer"
+  }, {
+    "canonical_form" : "griller"
+  }, {
+    "canonical_form" : "gratter"
+  }, {
+    "canonical_form" : "arriver"
+  }, {
+    "canonical_form" : "emporter"
+  }, {
+    "canonical_form" : "prévoir"
+  }, {
+    "canonical_form" : "semer"
+  } ]
+}

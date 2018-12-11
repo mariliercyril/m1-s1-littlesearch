@@ -1,0 +1,31 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "professeur",
+    "other_forms" : [ "professeurs" ]
+  }, {
+    "canonical_form" : "précepteur",
+    "other_forms" : [ "précepteurs" ]
+  }, {
+    "canonical_form" : "instituteur",
+    "other_forms" : [ "instituteurs", "institutrice", "institutrices" ]
+  }, {
+    "canonical_form" : "champion",
+    "other_forms" : [ "championne", "championnes", "champions" ]
+  }, {
+    "canonical_form" : "pédagogue",
+    "other_forms" : [ "pédagogues" ]
+  }, {
+    "canonical_form" : "prof",
+    "other_forms" : [ "profs" ]
+  }, {
+    "canonical_form" : "instructeur",
+    "other_forms" : [ "instructeurs" ]
+  }, {
+    "canonical_form" : "docteur",
+    "other_forms" : [ "docteurs" ]
+  }, {
+    "canonical_form" : "apôtre",
+    "other_forms" : [ "apôtres" ]
+  } ]
+}

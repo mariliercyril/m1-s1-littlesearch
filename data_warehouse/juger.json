@@ -1,0 +1,104 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "juger"
+  }, {
+    "canonical_form" : "estimer"
+  }, {
+    "canonical_form" : "considérer"
+  }, {
+    "canonical_form" : "voir"
+  }, {
+    "canonical_form" : "apprécier"
+  }, {
+    "canonical_form" : "examiner"
+  }, {
+    "canonical_form" : "trouver"
+  }, {
+    "canonical_form" : "trancher"
+  }, {
+    "canonical_form" : "évaluer"
+  }, {
+    "canonical_form" : "peser"
+  }, {
+    "canonical_form" : "imaginer"
+  }, {
+    "canonical_form" : "décider"
+  }, {
+    "canonical_form" : "reconnaître"
+  }, {
+    "canonical_form" : "regarder"
+  }, {
+    "canonical_form" : "classer"
+  }, {
+    "canonical_form" : "croire"
+  }, {
+    "canonical_form" : "jauger"
+  }, {
+    "canonical_form" : "entendre"
+  }, {
+    "canonical_form" : "discerner"
+  }, {
+    "canonical_form" : "deviner"
+  }, {
+    "canonical_form" : "connaître"
+  }, {
+    "canonical_form" : "vérifier"
+  }, {
+    "canonical_form" : "sonder"
+  }, {
+    "canonical_form" : "résoudre"
+  }, {
+    "canonical_form" : "noter"
+  }, {
+    "canonical_form" : "mesurer"
+  }, {
+    "canonical_form" : "déterminer"
+  }, {
+    "canonical_form" : "coter"
+  }, {
+    "canonical_form" : "statuer"
+  }, {
+    "canonical_form" : "réputer"
+  }, {
+    "canonical_form" : "régler"
+  }, {
+    "canonical_form" : "prendre"
+  }, {
+    "canonical_form" : "envisager"
+  }, {
+    "canonical_form" : "distinguer"
+  }, {
+    "canonical_form" : "contrôler"
+  }, {
+    "canonical_form" : "conjecturer"
+  }, {
+    "canonical_form" : "arbitrer"
+  }, {
+    "canonical_form" : "étiqueter"
+  }, {
+    "canonical_form" : "prononcer"
+  }, {
+    "canonical_form" : "expertiser"
+  }, {
+    "canonical_form" : "désapprouver"
+  }, {
+    "canonical_form" : "critiquer"
+  }, {
+    "canonical_form" : "conclure"
+  }, {
+    "canonical_form" : "cataloguer"
+  }, {
+    "canonical_form" : "soupeser"
+  }, {
+    "canonical_form" : "sentencier"
+  }, {
+    "canonical_form" : "raisonner"
+  }, {
+    "canonical_form" : "pronostiquer"
+  }, {
+    "canonical_form" : "départager"
+  }, {
+    "canonical_form" : "adjuger"
+  } ]
+}

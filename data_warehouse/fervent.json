@@ -1,0 +1,61 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "fervent",
+    "other_forms" : [ "fervente", "ferventes", "fervents" ]
+  }, {
+    "canonical_form" : "fanatique",
+    "other_forms" : [ "fanatiques" ]
+  }, {
+    "canonical_form" : "enthousiaste",
+    "other_forms" : [ "enthousiastes" ]
+  }, {
+    "canonical_form" : "ardent",
+    "other_forms" : [ "ardente", "ardentes", "ardents" ]
+  }, {
+    "canonical_form" : "amoureux",
+    "other_forms" : [ "amoureuse", "amoureuses" ]
+  }, {
+    "canonical_form" : "chaud",
+    "other_forms" : [ "chaude", "chaudes", "chauds" ]
+  }, {
+    "canonical_form" : "zélé",
+    "other_forms" : [ "zélée", "zélées", "zélés" ]
+  }, {
+    "canonical_form" : "mystique",
+    "other_forms" : [ "mystiques" ]
+  }, {
+    "canonical_form" : "dévot",
+    "other_forms" : [ "dévote", "dévotes", "dévots" ]
+  }, {
+    "canonical_form" : "adorateur",
+    "other_forms" : [ "adorateurs", "adoratrice", "adoratrices" ]
+  }, {
+    "canonical_form" : "féru",
+    "other_forms" : [ "férue", "férues", "férus" ]
+  }, {
+    "canonical_form" : "brûlant",
+    "other_forms" : [ "brûlante", "brûlantes", "brûlants" ]
+  }, {
+    "canonical_form" : "bouillonnant",
+    "other_forms" : [ "bouillonnante", "bouillonnantes", "bouillonnants" ]
+  }, {
+    "canonical_form" : "admirateur",
+    "other_forms" : [ "admirateurs", "admiratrice", "admiratrices" ]
+  }, {
+    "canonical_form" : "fidèle",
+    "other_forms" : [ "fidèles" ]
+  }, {
+    "canonical_form" : "chaleureux",
+    "other_forms" : [ "chaleureuse", "chaleureuses" ]
+  }, {
+    "canonical_form" : "adoratif",
+    "other_forms" : [ "adoratifs", "adorative", "adoratives" ]
+  }, {
+    "canonical_form" : "dévotieux",
+    "other_forms" : [ "dévotieuse", "dévotieuses" ]
+  }, {
+    "canonical_form" : "intense",
+    "other_forms" : [ "intenses" ]
+  } ]
+}

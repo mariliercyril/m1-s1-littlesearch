@@ -1,0 +1,31 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "prolifique",
+    "other_forms" : [ "prolifiques" ]
+  }, {
+    "canonical_form" : "abondant",
+    "other_forms" : [ "abondante", "abondantes", "abondants" ]
+  }, {
+    "canonical_form" : "fertile",
+    "other_forms" : [ "fertiles" ]
+  }, {
+    "canonical_form" : "fécond",
+    "other_forms" : [ "féconde", "fécondes", "féconds" ]
+  }, {
+    "canonical_form" : "foisonnant",
+    "other_forms" : [ "foisonnante", "foisonnantes", "foisonnants" ]
+  }, {
+    "canonical_form" : "générateur",
+    "other_forms" : [ "générateurs", "génératrice", "génératrices" ]
+  }, {
+    "canonical_form" : "productif",
+    "other_forms" : [ "productifs", "productive", "productives" ]
+  }, {
+    "canonical_form" : "prolifère",
+    "other_forms" : [ "prolifères" ]
+  }, {
+    "canonical_form" : "reproducteur",
+    "other_forms" : [ "reproducteurs", "reproductrice", "reproductrices" ]
+  } ]
+}

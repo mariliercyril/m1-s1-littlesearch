@@ -1,0 +1,142 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "mémoire",
+    "other_forms" : [ "mémoires" ]
+  }, {
+    "canonical_form" : "souvenir",
+    "other_forms" : [ "souvenirs" ]
+  }, {
+    "canonical_form" : "note",
+    "other_forms" : [ "notes" ]
+  }, {
+    "canonical_form" : "commémoration",
+    "other_forms" : [ "commémorations" ]
+  }, {
+    "canonical_form" : "mémento",
+    "other_forms" : [ "mémentos" ]
+  }, {
+    "canonical_form" : "rappel",
+    "other_forms" : [ "rappels" ]
+  }, {
+    "canonical_form" : "état",
+    "other_forms" : [ "états" ]
+  }, {
+    "canonical_form" : "carnet",
+    "other_forms" : [ "carnets" ]
+  }, {
+    "canonical_form" : "ressouvenir",
+    "other_forms" : [ "ressouvenirs" ]
+  }, {
+    "canonical_form" : "réminiscence",
+    "other_forms" : [ "réminiscences" ]
+  }, {
+    "canonical_form" : "répertoire",
+    "other_forms" : [ "répertoires" ]
+  }, {
+    "canonical_form" : "souvenance",
+    "other_forms" : [ "souvenances" ]
+  }, {
+    "canonical_form" : "trace",
+    "other_forms" : [ "traces" ]
+  }, {
+    "canonical_form" : "relation",
+    "other_forms" : [ "relations" ]
+  }, {
+    "canonical_form" : "reconnaissance",
+    "other_forms" : [ "reconnaissances" ]
+  }, {
+    "canonical_form" : "commentaire",
+    "other_forms" : [ "commentaires" ]
+  }, {
+    "canonical_form" : "célébration",
+    "other_forms" : [ "célébrations" ]
+  }, {
+    "canonical_form" : "essai",
+    "other_forms" : [ "essais" ]
+  }, {
+    "canonical_form" : "facture",
+    "other_forms" : [ "factures" ]
+  }, {
+    "canonical_form" : "recognition",
+    "other_forms" : [ "recognitions" ]
+  }, {
+    "canonical_form" : "rapport",
+    "other_forms" : [ "rapports" ]
+  }, {
+    "canonical_form" : "postérité",
+    "other_forms" : [ "postérités" ]
+  }, {
+    "canonical_form" : "mémoration",
+    "other_forms" : [ "mémorations" ]
+  }, {
+    "canonical_form" : "monographie",
+    "other_forms" : [ "monographies" ]
+  }, {
+    "canonical_form" : "remembrance",
+    "other_forms" : [ "remembrances" ]
+  }, {
+    "canonical_form" : "ressouvenance",
+    "other_forms" : [ "ressouvenances" ]
+  }, {
+    "canonical_form" : "réputation",
+    "other_forms" : [ "réputations" ]
+  }, {
+    "canonical_form" : "savoir",
+    "other_forms" : [ "savoirs" ]
+  }, {
+    "canonical_form" : "tableau",
+    "other_forms" : [ "tableaux" ]
+  }, {
+    "canonical_form" : "tradition",
+    "other_forms" : [ "traditions" ]
+  }, {
+    "canonical_form" : "tête",
+    "other_forms" : [ "têtes" ]
+  }, {
+    "canonical_form" : "étude",
+    "other_forms" : [ "études" ]
+  }, {
+    "canonical_form" : "mention",
+    "other_forms" : [ "mentions" ]
+  }, {
+    "canonical_form" : "liste",
+    "other_forms" : [ "listes" ]
+  }, {
+    "canonical_form" : "imagination",
+    "other_forms" : [ "imaginations" ]
+  }, {
+    "canonical_form" : "cahier",
+    "other_forms" : [ "cahiers" ]
+  }, {
+    "canonical_form" : "catalogue",
+    "other_forms" : [ "catalogues" ]
+  }, {
+    "canonical_form" : "commémoraison",
+    "other_forms" : [ "commémoraisons" ]
+  }, {
+    "canonical_form" : "compte",
+    "other_forms" : [ "comptes" ]
+  }, {
+    "canonical_form" : "confession",
+    "other_forms" : [ "confessions" ]
+  }, {
+    "canonical_form" : "conservation",
+    "other_forms" : [ "conservations" ]
+  }, {
+    "canonical_form" : "dissertation",
+    "other_forms" : [ "dissertations" ]
+  }, {
+    "canonical_form" : "factum",
+    "other_forms" : [ "factums" ]
+  }, {
+    "canonical_form" : "faculté",
+    "other_forms" : [ "facultés" ]
+  }, {
+    "canonical_form" : "faculté",
+    "other_forms" : [ "facultés" ]
+  }, {
+    "canonical_form" : "anamnèse",
+    "other_forms" : [ "anamnèses" ]
+  } ]
+}

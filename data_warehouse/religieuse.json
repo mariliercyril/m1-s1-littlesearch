@@ -1,0 +1,55 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "religieuse",
+    "other_forms" : [ "religieuses" ]
+  }, {
+    "canonical_form" : "nonne",
+    "other_forms" : [ "nonnes" ]
+  }, {
+    "canonical_form" : "moniale",
+    "other_forms" : [ "moniales" ]
+  }, {
+    "canonical_form" : "moinesse",
+    "other_forms" : [ "moinesses" ]
+  }, {
+    "canonical_form" : "mère",
+    "other_forms" : [ "mères" ]
+  }, {
+    "canonical_form" : "nonnain",
+    "other_forms" : [ "nonnains" ]
+  }, {
+    "canonical_form" : "nonnette",
+    "other_forms" : [ "nonnettes" ]
+  }, {
+    "canonical_form" : "professe",
+    "other_forms" : [ "professes" ]
+  }, {
+    "canonical_form" : "pâtisserie",
+    "other_forms" : [ "pâtisseries" ]
+  }, {
+    "canonical_form" : "visitandine",
+    "other_forms" : [ "visitandines" ]
+  }, {
+    "canonical_form" : "fille",
+    "other_forms" : [ "filles" ]
+  }, {
+    "canonical_form" : "abbesse",
+    "other_forms" : [ "abbesses" ]
+  }, {
+    "canonical_form" : "béguine",
+    "other_forms" : [ "béguines" ]
+  }, {
+    "canonical_form" : "capucine",
+    "other_forms" : [ "capucines" ]
+  }, {
+    "canonical_form" : "clarisse",
+    "other_forms" : [ "clarisses" ]
+  }, {
+    "canonical_form" : "converse",
+    "other_forms" : [ "converses" ]
+  }, {
+    "canonical_form" : "dame",
+    "other_forms" : [ "dames" ]
+  } ]
+}

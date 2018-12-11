@@ -1,0 +1,190 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "temps",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "époque",
+    "other_forms" : [ "époques" ]
+  }, {
+    "canonical_form" : "période",
+    "other_forms" : [ "périodes" ]
+  }, {
+    "canonical_form" : "occasion",
+    "other_forms" : [ "occasions" ]
+  }, {
+    "canonical_form" : "siècle",
+    "other_forms" : [ "siècles" ]
+  }, {
+    "canonical_form" : "moment",
+    "other_forms" : [ "moments" ]
+  }, {
+    "canonical_form" : "circonstance",
+    "other_forms" : [ "circonstances" ]
+  }, {
+    "canonical_form" : "âge",
+    "other_forms" : [ "âges" ]
+  }, {
+    "canonical_form" : "heure",
+    "other_forms" : [ "heures" ]
+  }, {
+    "canonical_form" : "date",
+    "other_forms" : [ "dates" ]
+  }, {
+    "canonical_form" : "climat",
+    "other_forms" : [ "climats" ]
+  }, {
+    "canonical_form" : "air",
+    "other_forms" : [ "airs" ]
+  }, {
+    "canonical_form" : "délai",
+    "other_forms" : [ "délais" ]
+  }, {
+    "canonical_form" : "vie",
+    "other_forms" : [ "vies" ]
+  }, {
+    "canonical_form" : "jour",
+    "other_forms" : [ "jours" ]
+  }, {
+    "canonical_form" : "possibilité",
+    "other_forms" : [ "possibilités" ]
+  }, {
+    "canonical_form" : "répit",
+    "other_forms" : [ "répits" ]
+  }, {
+    "canonical_form" : "étape",
+    "other_forms" : [ "étapes" ]
+  }, {
+    "canonical_form" : "hasard",
+    "other_forms" : [ "hasards" ]
+  }, {
+    "canonical_form" : "an",
+    "other_forms" : [ "ans" ]
+  }, {
+    "canonical_form" : "atmosphère",
+    "other_forms" : [ "atmosphères" ]
+  }, {
+    "canonical_form" : "cas",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "espace",
+    "other_forms" : [ "espaces" ]
+  }, {
+    "canonical_form" : "nuage",
+    "other_forms" : [ "nuages" ]
+  }, {
+    "canonical_form" : "orage",
+    "other_forms" : [ "orages" ]
+  }, {
+    "canonical_form" : "saison",
+    "other_forms" : [ "saisons" ]
+  }, {
+    "canonical_form" : "stade",
+    "other_forms" : [ "stades" ]
+  }, {
+    "canonical_form" : "vent",
+    "other_forms" : [ "vents" ]
+  }, {
+    "canonical_form" : "ère",
+    "other_forms" : [ "ères" ]
+  }, {
+    "canonical_form" : "éclaircie",
+    "other_forms" : [ "éclaircies" ]
+  }, {
+    "canonical_form" : "événement",
+    "other_forms" : [ "événements" ]
+  }, {
+    "canonical_form" : "mouvement",
+    "other_forms" : [ "mouvements" ]
+  }, {
+    "canonical_form" : "marge",
+    "other_forms" : [ "marges" ]
+  }, {
+    "canonical_form" : "jour",
+    "other_forms" : [ "jours" ]
+  }, {
+    "canonical_form" : "ancienneté",
+    "other_forms" : [ "anciennetés" ]
+  }, {
+    "canonical_form" : "chance",
+    "other_forms" : [ "chances" ]
+  }, {
+    "canonical_form" : "ciel",
+    "other_forms" : [ "ciels", "cieux" ]
+  }, {
+    "canonical_form" : "conjoncture",
+    "other_forms" : [ "conjonctures" ]
+  }, {
+    "canonical_form" : "cycle",
+    "other_forms" : [ "cycles" ]
+  }, {
+    "canonical_form" : "instant",
+    "other_forms" : [ "instants" ]
+  }, {
+    "canonical_form" : "intempérie",
+    "other_forms" : [ "intempéries" ]
+  }, {
+    "canonical_form" : "postériorité",
+    "other_forms" : [ "postériorités" ]
+  }, {
+    "canonical_form" : "palier",
+    "other_forms" : [ "paliers" ]
+  }, {
+    "canonical_form" : "opportunité",
+    "other_forms" : [ "opportunités" ]
+  }, {
+    "canonical_form" : "météorologie",
+    "other_forms" : [ "météorologies" ]
+  }, {
+    "canonical_form" : "rythme",
+    "other_forms" : [ "rythmes" ]
+  }, {
+    "canonical_form" : "régime",
+    "other_forms" : [ "régimes" ]
+  }, {
+    "canonical_form" : "silence",
+    "other_forms" : [ "silences" ]
+  }, {
+    "canonical_form" : "succession",
+    "other_forms" : [ "successions" ]
+  }, {
+    "canonical_form" : "temporalité",
+    "other_forms" : [ "temporalités" ]
+  }, {
+    "canonical_form" : "minute",
+    "other_forms" : [ "minutes" ]
+  }, {
+    "canonical_form" : "loisir",
+    "other_forms" : [ "loisirs" ]
+  }, {
+    "canonical_form" : "ambiance",
+    "other_forms" : [ "ambiances" ]
+  }, {
+    "canonical_form" : "antériorité",
+    "other_forms" : [ "antériorités" ]
+  }, {
+    "canonical_form" : "avenir",
+    "other_forms" : [ "avenirs" ]
+  }, {
+    "canonical_form" : "bruine",
+    "other_forms" : [ "bruines" ]
+  }, {
+    "canonical_form" : "brume",
+    "other_forms" : [ "brumes" ]
+  }, {
+    "canonical_form" : "catégorie",
+    "other_forms" : [ "catégories" ]
+  }, {
+    "canonical_form" : "conjugaison",
+    "other_forms" : [ "conjugaisons" ]
+  }, {
+    "canonical_form" : "embellie",
+    "other_forms" : [ "embellies" ]
+  }, {
+    "canonical_form" : "génération",
+    "other_forms" : [ "générations" ]
+  }, {
+    "canonical_form" : "température",
+    "other_forms" : [ "températures" ]
+  } ]
+}

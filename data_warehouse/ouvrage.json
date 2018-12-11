@@ -1,0 +1,124 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "ouvrage",
+    "other_forms" : [ "ouvrages" ]
+  }, {
+    "canonical_form" : "fortification",
+    "other_forms" : [ "fortifications" ]
+  }, {
+    "canonical_form" : "travail",
+    "other_forms" : [ "travaux" ]
+  }, {
+    "canonical_form" : "oeuvre",
+    "other_forms" : [ "oeuvres" ]
+  }, {
+    "canonical_form" : "forteresse",
+    "other_forms" : [ "forteresses" ]
+  }, {
+    "canonical_form" : "bastion",
+    "other_forms" : [ "bastions" ]
+  }, {
+    "canonical_form" : "production",
+    "other_forms" : [ "productions" ]
+  }, {
+    "canonical_form" : "citadelle",
+    "other_forms" : [ "citadelles" ]
+  }, {
+    "canonical_form" : "besogne",
+    "other_forms" : [ "besognes" ]
+  }, {
+    "canonical_form" : "livre",
+    "other_forms" : [ "livres" ]
+  }, {
+    "canonical_form" : "pièce",
+    "other_forms" : [ "pièces" ]
+  }, {
+    "canonical_form" : "recueil",
+    "other_forms" : [ "recueils" ]
+  }, {
+    "canonical_form" : "tâche",
+    "other_forms" : [ "tâches" ]
+  }, {
+    "canonical_form" : "façon",
+    "other_forms" : [ "façons" ]
+  }, {
+    "canonical_form" : "labeur",
+    "other_forms" : [ "labeurs" ]
+  }, {
+    "canonical_form" : "monument",
+    "other_forms" : [ "monuments" ]
+  }, {
+    "canonical_form" : "opuscule",
+    "other_forms" : [ "opuscules" ]
+  }, {
+    "canonical_form" : "poème",
+    "other_forms" : [ "poèmes" ]
+  }, {
+    "canonical_form" : "rempart",
+    "other_forms" : [ "remparts" ]
+  }, {
+    "canonical_form" : "édifice",
+    "other_forms" : [ "édifices" ]
+  }, {
+    "canonical_form" : "étude",
+    "other_forms" : [ "études" ]
+  }, {
+    "canonical_form" : "krak",
+    "other_forms" : [ "kraks" ]
+  }, {
+    "canonical_form" : "fortin",
+    "other_forms" : [ "fortins" ]
+  }, {
+    "canonical_form" : "bloc",
+    "other_forms" : [ "blocs" ]
+  }, {
+    "canonical_form" : "blockhaus",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "casemate",
+    "other_forms" : [ "casemates" ]
+  }, {
+    "canonical_form" : "composition",
+    "other_forms" : [ "compositions" ]
+  }, {
+    "canonical_form" : "construction",
+    "other_forms" : [ "constructions" ]
+  }, {
+    "canonical_form" : "création",
+    "other_forms" : [ "créations" ]
+  }, {
+    "canonical_form" : "défense",
+    "other_forms" : [ "défenses" ]
+  }, {
+    "canonical_form" : "essai",
+    "other_forms" : [ "essais" ]
+  }, {
+    "canonical_form" : "réalisation",
+    "other_forms" : [ "réalisations" ]
+  }, {
+    "canonical_form" : "redoute",
+    "other_forms" : [ "redoutes" ]
+  }, {
+    "canonical_form" : "publication",
+    "other_forms" : [ "publications" ]
+  }, {
+    "canonical_form" : "opus",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "occupation",
+    "other_forms" : [ "occupations" ]
+  }, {
+    "canonical_form" : "facture",
+    "other_forms" : [ "factures" ]
+  }, {
+    "canonical_form" : "dehors",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "bastille",
+    "other_forms" : [ "bastilles" ]
+  }, {
+    "canonical_form" : "volume",
+    "other_forms" : [ "volumes" ]
+  } ]
+}

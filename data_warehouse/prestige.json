@@ -1,0 +1,103 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "prestige",
+    "other_forms" : [ "prestiges" ]
+  }, {
+    "canonical_form" : "charme",
+    "other_forms" : [ "charmes" ]
+  }, {
+    "canonical_form" : "influence",
+    "other_forms" : [ "influences" ]
+  }, {
+    "canonical_form" : "fascination",
+    "other_forms" : [ "fascinations" ]
+  }, {
+    "canonical_form" : "gloire",
+    "other_forms" : [ "gloires" ]
+  }, {
+    "canonical_form" : "séduction",
+    "other_forms" : [ "séductions" ]
+  }, {
+    "canonical_form" : "éclat",
+    "other_forms" : [ "éclats" ]
+  }, {
+    "canonical_form" : "réputation",
+    "other_forms" : [ "réputations" ]
+  }, {
+    "canonical_form" : "lustre",
+    "other_forms" : [ "lustres" ]
+  }, {
+    "canonical_form" : "crédit",
+    "other_forms" : [ "crédits" ]
+  }, {
+    "canonical_form" : "autorité",
+    "other_forms" : [ "autorités" ]
+  }, {
+    "canonical_form" : "splendeur",
+    "other_forms" : [ "splendeurs" ]
+  }, {
+    "canonical_form" : "pouvoir",
+    "other_forms" : [ "pouvoirs" ]
+  }, {
+    "canonical_form" : "magie",
+    "other_forms" : [ "magies" ]
+  }, {
+    "canonical_form" : "enchantement",
+    "other_forms" : [ "enchantements" ]
+  }, {
+    "canonical_form" : "renom",
+    "other_forms" : [ "renoms" ]
+  }, {
+    "canonical_form" : "rayonnement",
+    "other_forms" : [ "rayonnements" ]
+  }, {
+    "canonical_form" : "poids",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "panache",
+    "other_forms" : [ "panaches" ]
+  }, {
+    "canonical_form" : "importance",
+    "other_forms" : [ "importances" ]
+  }, {
+    "canonical_form" : "envoûtement",
+    "other_forms" : [ "envoûtements" ]
+  }, {
+    "canonical_form" : "empire",
+    "other_forms" : [ "empires" ]
+  }, {
+    "canonical_form" : "attrait",
+    "other_forms" : [ "attraits" ]
+  }, {
+    "canonical_form" : "allure",
+    "other_forms" : [ "allures" ]
+  }, {
+    "canonical_form" : "règne",
+    "other_forms" : [ "règnes" ]
+  }, {
+    "canonical_form" : "relief",
+    "other_forms" : [ "reliefs" ]
+  }, {
+    "canonical_form" : "prodige",
+    "other_forms" : [ "prodiges" ]
+  }, {
+    "canonical_form" : "prestance",
+    "other_forms" : [ "prestances" ]
+  }, {
+    "canonical_form" : "majesté",
+    "other_forms" : [ "majestés" ]
+  }, {
+    "canonical_form" : "illusion",
+    "other_forms" : [ "illusions" ]
+  }, {
+    "canonical_form" : "distinction",
+    "other_forms" : [ "distinctions" ]
+  }, {
+    "canonical_form" : "auréole",
+    "other_forms" : [ "auréoles" ]
+  }, {
+    "canonical_form" : "sorcellerie",
+    "other_forms" : [ "sorcelleries" ]
+  } ]
+}

@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "découvert",
+    "other_forms" : [ "découverte", "découvertes", "découverts" ]
+  }, {
+    "canonical_form" : "ouvert",
+    "other_forms" : [ "ouverte", "ouvertes", "ouverts" ]
+  }, {
+    "canonical_form" : "nu",
+    "other_forms" : [ "nue", "nues", "nus" ]
+  } ]
+}

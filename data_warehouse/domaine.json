@@ -1,0 +1,136 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "domaine",
+    "other_forms" : [ "domaines" ]
+  }, {
+    "canonical_form" : "sphère",
+    "other_forms" : [ "sphères" ]
+  }, {
+    "canonical_form" : "terre",
+    "other_forms" : [ "terres" ]
+  }, {
+    "canonical_form" : "propriété",
+    "other_forms" : [ "propriétés" ]
+  }, {
+    "canonical_form" : "champ",
+    "other_forms" : [ "champs" ]
+  }, {
+    "canonical_form" : "terrain",
+    "other_forms" : [ "terrains" ]
+  }, {
+    "canonical_form" : "espace",
+    "other_forms" : [ "espaces" ]
+  }, {
+    "canonical_form" : "bien",
+    "other_forms" : [ "biens" ]
+  }, {
+    "canonical_form" : "pays",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "région",
+    "other_forms" : [ "régions" ]
+  }, {
+    "canonical_form" : "univers",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "spécialité",
+    "other_forms" : [ "spécialités" ]
+  }, {
+    "canonical_form" : "fief",
+    "other_forms" : [ "fiefs" ]
+  }, {
+    "canonical_form" : "département",
+    "other_forms" : [ "départements" ]
+  }, {
+    "canonical_form" : "campagne",
+    "other_forms" : [ "campagnes" ]
+  }, {
+    "canonical_form" : "secteur",
+    "other_forms" : [ "secteurs" ]
+  }, {
+    "canonical_form" : "royaume",
+    "other_forms" : [ "royaumes" ]
+  }, {
+    "canonical_form" : "rayon",
+    "other_forms" : [ "rayons" ]
+  }, {
+    "canonical_form" : "possession",
+    "other_forms" : [ "possessions" ]
+  }, {
+    "canonical_form" : "ordre",
+    "other_forms" : [ "ordres" ]
+  }, {
+    "canonical_form" : "matière",
+    "other_forms" : [ "matières" ]
+  }, {
+    "canonical_form" : "district",
+    "other_forms" : [ "districts" ]
+  }, {
+    "canonical_form" : "cercle",
+    "other_forms" : [ "cercles" ]
+  }, {
+    "canonical_form" : "aire",
+    "other_forms" : [ "aires" ]
+  }, {
+    "canonical_form" : "orbite",
+    "other_forms" : [ "orbites" ]
+  }, {
+    "canonical_form" : "patrimoine",
+    "other_forms" : [ "patrimoines" ]
+  }, {
+    "canonical_form" : "ressort",
+    "other_forms" : [ "ressorts" ]
+  }, {
+    "canonical_form" : "succession",
+    "other_forms" : [ "successions" ]
+  }, {
+    "canonical_form" : "surface",
+    "other_forms" : [ "surfaces" ]
+  }, {
+    "canonical_form" : "monde",
+    "other_forms" : [ "mondes" ]
+  }, {
+    "canonical_form" : "exploitation",
+    "other_forms" : [ "exploitations" ]
+  }, {
+    "canonical_form" : "apanage",
+    "other_forms" : [ "apanages" ]
+  }, {
+    "canonical_form" : "attribution",
+    "other_forms" : [ "attributions" ]
+  }, {
+    "canonical_form" : "cadre",
+    "other_forms" : [ "cadres" ]
+  }, {
+    "canonical_form" : "compétence",
+    "other_forms" : [ "compétences" ]
+  }, {
+    "canonical_form" : "intervalle",
+    "other_forms" : [ "intervalles" ]
+  }, {
+    "canonical_form" : "héritage",
+    "other_forms" : [ "héritages" ]
+  }, {
+    "canonical_form" : "hacienda",
+    "other_forms" : [ "haciendas" ]
+  }, {
+    "canonical_form" : "habitation",
+    "other_forms" : [ "habitations" ]
+  }, {
+    "canonical_form" : "genre",
+    "other_forms" : [ "genres" ]
+  }, {
+    "canonical_form" : "fazenda",
+    "other_forms" : [ "fazendas" ]
+  }, {
+    "canonical_form" : "estancia",
+    "other_forms" : [ "estancias" ]
+  }, {
+    "canonical_form" : "diagramme",
+    "other_forms" : [ "diagrammes" ]
+  }, {
+    "canonical_form" : "limite",
+    "other_forms" : [ "limites" ]
+  } ]
+}

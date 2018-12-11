@@ -1,0 +1,94 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "négligence",
+    "other_forms" : [ "négligences" ]
+  }, {
+    "canonical_form" : "insouciance",
+    "other_forms" : [ "insouciances" ]
+  }, {
+    "canonical_form" : "inattention",
+    "other_forms" : [ "inattentions" ]
+  }, {
+    "canonical_form" : "laisser-aller",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "étourderie",
+    "other_forms" : [ "étourderies" ]
+  }, {
+    "canonical_form" : "abandon",
+    "other_forms" : [ "abandons" ]
+  }, {
+    "canonical_form" : "nonchalance",
+    "other_forms" : [ "nonchalances" ]
+  }, {
+    "canonical_form" : "oubli",
+    "other_forms" : [ "oublis" ]
+  }, {
+    "canonical_form" : "irréflexion",
+    "other_forms" : [ "irréflexions" ]
+  }, {
+    "canonical_form" : "distraction",
+    "other_forms" : [ "distractions" ]
+  }, {
+    "canonical_form" : "inapplication",
+    "other_forms" : [ "inapplications" ]
+  }, {
+    "canonical_form" : "incurie",
+    "other_forms" : [ "incuries" ]
+  }, {
+    "canonical_form" : "indolence",
+    "other_forms" : [ "indolences" ]
+  }, {
+    "canonical_form" : "mollesse",
+    "other_forms" : [ "mollesses" ]
+  }, {
+    "canonical_form" : "relâchement",
+    "other_forms" : [ "relâchements" ]
+  }, {
+    "canonical_form" : "omission",
+    "other_forms" : [ "omissions" ]
+  }, {
+    "canonical_form" : "imprévoyance",
+    "other_forms" : [ "imprévoyances" ]
+  }, {
+    "canonical_form" : "imprudence",
+    "other_forms" : [ "imprudences" ]
+  }, {
+    "canonical_form" : "faute",
+    "other_forms" : [ "fautes" ]
+  }, {
+    "canonical_form" : "inadvertance",
+    "other_forms" : [ "inadvertances" ]
+  }, {
+    "canonical_form" : "paresse",
+    "other_forms" : [ "paresses" ]
+  }, {
+    "canonical_form" : "mégarde",
+    "other_forms" : [ "mégardes" ]
+  }, {
+    "canonical_form" : "nonchaloir",
+    "other_forms" : [ "nonchaloirs" ]
+  }, {
+    "canonical_form" : "relâche",
+    "other_forms" : [ "relâches" ]
+  }, {
+    "canonical_form" : "sans-souci",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "désinvolture",
+    "other_forms" : [ "désinvoltures" ]
+  }, {
+    "canonical_form" : "désintérêt",
+    "other_forms" : [ "désintérêts" ]
+  }, {
+    "canonical_form" : "désaffection",
+    "other_forms" : [ "désaffections" ]
+  }, {
+    "canonical_form" : "carence",
+    "other_forms" : [ "carences" ]
+  }, {
+    "canonical_form" : "éloignement",
+    "other_forms" : [ "éloignements" ]
+  } ]
+}

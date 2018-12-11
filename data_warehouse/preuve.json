@@ -1,0 +1,106 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "preuve",
+    "other_forms" : [ "preuves" ]
+  }, {
+    "canonical_form" : "témoignage",
+    "other_forms" : [ "témoignages" ]
+  }, {
+    "canonical_form" : "justification",
+    "other_forms" : [ "justifications" ]
+  }, {
+    "canonical_form" : "marque",
+    "other_forms" : [ "marques" ]
+  }, {
+    "canonical_form" : "signe",
+    "other_forms" : [ "signes" ]
+  }, {
+    "canonical_form" : "indice",
+    "other_forms" : [ "indices" ]
+  }, {
+    "canonical_form" : "démonstration",
+    "other_forms" : [ "démonstrations" ]
+  }, {
+    "canonical_form" : "certificat",
+    "other_forms" : [ "certificats" ]
+  }, {
+    "canonical_form" : "gage",
+    "other_forms" : [ "gages" ]
+  }, {
+    "canonical_form" : "critère",
+    "other_forms" : [ "critères" ]
+  }, {
+    "canonical_form" : "confirmation",
+    "other_forms" : [ "confirmations" ]
+  }, {
+    "canonical_form" : "assurance",
+    "other_forms" : [ "assurances" ]
+  }, {
+    "canonical_form" : "argument",
+    "other_forms" : [ "arguments" ]
+  }, {
+    "canonical_form" : "affirmation",
+    "other_forms" : [ "affirmations" ]
+  }, {
+    "canonical_form" : "établissement",
+    "other_forms" : [ "établissements" ]
+  }, {
+    "canonical_form" : "échantillon",
+    "other_forms" : [ "échantillons" ]
+  }, {
+    "canonical_form" : "témoin",
+    "other_forms" : [ "témoins" ]
+  }, {
+    "canonical_form" : "trace",
+    "other_forms" : [ "traces" ]
+  }, {
+    "canonical_form" : "pièce",
+    "other_forms" : [ "pièces" ]
+  }, {
+    "canonical_form" : "motif",
+    "other_forms" : [ "motifs" ]
+  }, {
+    "canonical_form" : "indication",
+    "other_forms" : [ "indications" ]
+  }, {
+    "canonical_form" : "illustration",
+    "other_forms" : [ "illustrations" ]
+  }, {
+    "canonical_form" : "exemple",
+    "other_forms" : [ "exemples" ]
+  }, {
+    "canonical_form" : "caution",
+    "other_forms" : [ "cautions" ]
+  }, {
+    "canonical_form" : "charge",
+    "other_forms" : [ "charges" ]
+  }, {
+    "canonical_form" : "constatation",
+    "other_forms" : [ "constatations" ]
+  }, {
+    "canonical_form" : "conviction",
+    "other_forms" : [ "convictions" ]
+  }, {
+    "canonical_form" : "document",
+    "other_forms" : [ "documents" ]
+  }, {
+    "canonical_form" : "raisonnement",
+    "other_forms" : [ "raisonnements" ]
+  }, {
+    "canonical_form" : "ordalie",
+    "other_forms" : [ "ordalies" ]
+  }, {
+    "canonical_form" : "fondement",
+    "other_forms" : [ "fondements" ]
+  }, {
+    "canonical_form" : "enseigne",
+    "other_forms" : [ "enseignes" ]
+  }, {
+    "canonical_form" : "critérium",
+    "other_forms" : [ "critériums" ]
+  }, {
+    "canonical_form" : "évidence",
+    "other_forms" : [ "évidences" ]
+  } ]
+}

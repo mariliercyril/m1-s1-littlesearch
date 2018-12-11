@@ -1,0 +1,109 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "entier",
+    "other_forms" : [ "entiers", "entière", "entières" ]
+  }, {
+    "canonical_form" : "absolu",
+    "other_forms" : [ "absolue", "absolues", "absolus" ]
+  }, {
+    "canonical_form" : "complet",
+    "other_forms" : [ "complets", "complète", "complètes" ]
+  }, {
+    "canonical_form" : "total",
+    "other_forms" : [ "totale", "totales", "totaux" ]
+  }, {
+    "canonical_form" : "franc",
+    "other_forms" : [ "franche", "franches", "francs" ]
+  }, {
+    "canonical_form" : "pur",
+    "other_forms" : [ "pure", "pures", "purs" ]
+  }, {
+    "canonical_form" : "catégorique",
+    "other_forms" : [ "catégoriques" ]
+  }, {
+    "canonical_form" : "intraitable",
+    "other_forms" : [ "intraitables" ]
+  }, {
+    "canonical_form" : "sincère",
+    "other_forms" : [ "sincères" ]
+  }, {
+    "canonical_form" : "plein",
+    "other_forms" : [ "pleine", "pleines", "pleins" ]
+  }, {
+    "canonical_form" : "intégral",
+    "other_forms" : [ "intégrale", "intégrales", "intégraux" ]
+  }, {
+    "canonical_form" : "intact",
+    "other_forms" : [ "intacte", "intactes", "intacts" ]
+  }, {
+    "canonical_form" : "exclusif",
+    "other_forms" : [ "exclusifs", "exclusive", "exclusives" ]
+  }, {
+    "canonical_form" : "têtu",
+    "other_forms" : [ "têtue", "têtues", "têtus" ]
+  }, {
+    "canonical_form" : "long",
+    "other_forms" : [ "longs", "longue", "longues" ]
+  }, {
+    "canonical_form" : "inflexible",
+    "other_forms" : [ "inflexibles" ]
+  }, {
+    "canonical_form" : "illimité",
+    "other_forms" : [ "illimitée", "illimitées", "illimités" ]
+  }, {
+    "canonical_form" : "fier",
+    "other_forms" : [ "fiers", "fière", "fières" ]
+  }, {
+    "canonical_form" : "ensemble",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "brutal",
+    "other_forms" : [ "brutale", "brutales", "brutaux" ]
+  }, {
+    "canonical_form" : "opiniâtre",
+    "other_forms" : [ "opiniâtres" ]
+  }, {
+    "canonical_form" : "orgueilleux",
+    "other_forms" : [ "orgueilleuse", "orgueilleuses" ]
+  }, {
+    "canonical_form" : "plénier",
+    "other_forms" : [ "pléniers", "plénière", "plénières" ]
+  }, {
+    "canonical_form" : "rigide",
+    "other_forms" : [ "rigides" ]
+  }, {
+    "canonical_form" : "unanime",
+    "other_forms" : [ "unanimes" ]
+  }, {
+    "canonical_form" : "obstiné",
+    "other_forms" : [ "obstinée", "obstinées", "obstinés" ]
+  }, {
+    "canonical_form" : "loyal",
+    "other_forms" : [ "loyale", "loyales", "loyaux" ]
+  }, {
+    "canonical_form" : "autoritaire",
+    "other_forms" : [ "autoritaires" ]
+  }, {
+    "canonical_form" : "aveugle",
+    "other_forms" : [ "aveugles" ]
+  }, {
+    "canonical_form" : "définitif",
+    "other_forms" : [ "définitifs", "définitive", "définitives" ]
+  }, {
+    "canonical_form" : "formel",
+    "other_forms" : [ "formelle", "formelles", "formels" ]
+  }, {
+    "canonical_form" : "global",
+    "other_forms" : [ "globale", "globales", "globaux" ]
+  }, {
+    "canonical_form" : "indemne",
+    "other_forms" : [ "indemnes" ]
+  }, {
+    "canonical_form" : "intègre",
+    "other_forms" : [ "intègres" ]
+  }, {
+    "canonical_form" : "égoïste",
+    "other_forms" : [ "égoïstes" ]
+  } ]
+}

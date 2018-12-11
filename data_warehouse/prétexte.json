@@ -1,0 +1,85 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "prétexte",
+    "other_forms" : [ "prétextes" ]
+  }, {
+    "canonical_form" : "cause",
+    "other_forms" : [ "causes" ]
+  }, {
+    "canonical_form" : "raison",
+    "other_forms" : [ "raisons" ]
+  }, {
+    "canonical_form" : "motif",
+    "other_forms" : [ "motifs" ]
+  }, {
+    "canonical_form" : "occasion",
+    "other_forms" : [ "occasions" ]
+  }, {
+    "canonical_form" : "échappatoire",
+    "other_forms" : [ "échappatoires" ]
+  }, {
+    "canonical_form" : "excuse",
+    "other_forms" : [ "excuses" ]
+  }, {
+    "canonical_form" : "apparence",
+    "other_forms" : [ "apparences" ]
+  }, {
+    "canonical_form" : "semblant",
+    "other_forms" : [ "semblants" ]
+  }, {
+    "canonical_form" : "manteau",
+    "other_forms" : [ "manteaux" ]
+  }, {
+    "canonical_form" : "voile",
+    "other_forms" : [ "voiles" ]
+  }, {
+    "canonical_form" : "subterfuge",
+    "other_forms" : [ "subterfuges" ]
+  }, {
+    "canonical_form" : "ombre",
+    "other_forms" : [ "ombres" ]
+  }, {
+    "canonical_form" : "matière",
+    "other_forms" : [ "matières" ]
+  }, {
+    "canonical_form" : "lieu",
+    "other_forms" : [ "lieus", "lieux" ]
+  }, {
+    "canonical_form" : "germe",
+    "other_forms" : [ "germes" ]
+  }, {
+    "canonical_form" : "faux-fuyant",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "couverture",
+    "other_forms" : [ "couvertures" ]
+  }, {
+    "canonical_form" : "couleur",
+    "other_forms" : [ "couleurs" ]
+  }, {
+    "canonical_form" : "refuite",
+    "other_forms" : [ "refuites" ]
+  }, {
+    "canonical_form" : "paravent",
+    "other_forms" : [ "paravents" ]
+  }, {
+    "canonical_form" : "mot",
+    "other_forms" : [ "mots" ]
+  }, {
+    "canonical_form" : "faux-semblant",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "brandon",
+    "other_forms" : [ "brandons" ]
+  }, {
+    "canonical_form" : "argument",
+    "other_forms" : [ "arguments" ]
+  }, {
+    "canonical_form" : "allégation",
+    "other_forms" : [ "allégations" ]
+  }, {
+    "canonical_form" : "supposition",
+    "other_forms" : [ "suppositions" ]
+  } ]
+}

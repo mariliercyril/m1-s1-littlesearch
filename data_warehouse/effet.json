@@ -1,0 +1,157 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "effet",
+    "other_forms" : [ "effets" ]
+  }, {
+    "canonical_form" : "conséquence",
+    "other_forms" : [ "conséquences" ]
+  }, {
+    "canonical_form" : "résultat",
+    "other_forms" : [ "résultats" ]
+  }, {
+    "canonical_form" : "action",
+    "other_forms" : [ "actions" ]
+  }, {
+    "canonical_form" : "contrecoup",
+    "other_forms" : [ "contrecoups" ]
+  }, {
+    "canonical_form" : "suite",
+    "other_forms" : [ "suites" ]
+  }, {
+    "canonical_form" : "choc",
+    "other_forms" : [ "chocs" ]
+  }, {
+    "canonical_form" : "fruit",
+    "other_forms" : [ "fruits" ]
+  }, {
+    "canonical_form" : "répercussion",
+    "other_forms" : [ "répercussions" ]
+  }, {
+    "canonical_form" : "valeur",
+    "other_forms" : [ "valeurs" ]
+  }, {
+    "canonical_form" : "réaction",
+    "other_forms" : [ "réactions" ]
+  }, {
+    "canonical_form" : "ricochet",
+    "other_forms" : [ "ricochets" ]
+  }, {
+    "canonical_form" : "rapport",
+    "other_forms" : [ "rapports" ]
+  }, {
+    "canonical_form" : "influence",
+    "other_forms" : [ "influences" ]
+  }, {
+    "canonical_form" : "accident",
+    "other_forms" : [ "accidents" ]
+  }, {
+    "canonical_form" : "retentissement",
+    "other_forms" : [ "retentissements" ]
+  }, {
+    "canonical_form" : "réalisation",
+    "other_forms" : [ "réalisations" ]
+  }, {
+    "canonical_form" : "sensation",
+    "other_forms" : [ "sensations" ]
+  }, {
+    "canonical_form" : "titre",
+    "other_forms" : [ "titres" ]
+  }, {
+    "canonical_form" : "événement",
+    "other_forms" : [ "événements" ]
+  }, {
+    "canonical_form" : "incidence",
+    "other_forms" : [ "incidences" ]
+  }, {
+    "canonical_form" : "impression",
+    "other_forms" : [ "impressions" ]
+  }, {
+    "canonical_form" : "billet",
+    "other_forms" : [ "billets" ]
+  }, {
+    "canonical_form" : "conclusion",
+    "other_forms" : [ "conclusions" ]
+  }, {
+    "canonical_form" : "dépendance",
+    "other_forms" : [ "dépendances" ]
+  }, {
+    "canonical_form" : "fonction",
+    "other_forms" : [ "fonctions" ]
+  }, {
+    "canonical_form" : "impact",
+    "other_forms" : [ "impacts" ]
+  }, {
+    "canonical_form" : "éclat",
+    "other_forms" : [ "éclats" ]
+  }, {
+    "canonical_form" : "vêtement",
+    "other_forms" : [ "vêtements" ]
+  }, {
+    "canonical_form" : "main",
+    "other_forms" : [ "mains" ]
+  }, {
+    "canonical_form" : "habit",
+    "other_forms" : [ "habits" ]
+  }, {
+    "canonical_form" : "exécution",
+    "other_forms" : [ "exécutions" ]
+  }, {
+    "canonical_form" : "application",
+    "other_forms" : [ "applications" ]
+  }, {
+    "canonical_form" : "papier",
+    "other_forms" : [ "papiers" ]
+  }, {
+    "canonical_form" : "plaisir",
+    "other_forms" : [ "plaisirs" ]
+  }, {
+    "canonical_form" : "rejaillissement",
+    "other_forms" : [ "rejaillissements" ]
+  }, {
+    "canonical_form" : "rendement",
+    "other_forms" : [ "rendements" ]
+  }, {
+    "canonical_form" : "sentiment",
+    "other_forms" : [ "sentiments" ]
+  }, {
+    "canonical_form" : "soulagement",
+    "other_forms" : [ "soulagements" ]
+  }, {
+    "canonical_form" : "trousseau",
+    "other_forms" : [ "trousseaux" ]
+  }, {
+    "canonical_form" : "montre",
+    "other_forms" : [ "montres" ]
+  }, {
+    "canonical_form" : "mandat",
+    "other_forms" : [ "mandats" ]
+  }, {
+    "canonical_form" : "amélioration",
+    "other_forms" : [ "améliorations" ]
+  }, {
+    "canonical_form" : "comportement",
+    "other_forms" : [ "comportements" ]
+  }, {
+    "canonical_form" : "corollaire",
+    "other_forms" : [ "corollaires" ]
+  }, {
+    "canonical_form" : "défroque",
+    "other_forms" : [ "défroques" ]
+  }, {
+    "canonical_form" : "empire",
+    "other_forms" : [ "empires" ]
+  }, {
+    "canonical_form" : "fille",
+    "other_forms" : [ "filles" ]
+  }, {
+    "canonical_form" : "fil",
+    "other_forms" : [ "fils" ]
+  }, {
+    "canonical_form" : "harde",
+    "other_forms" : [ "hardes" ]
+  }, {
+    "canonical_form" : "vertu",
+    "other_forms" : [ "vertus" ]
+  } ]
+}

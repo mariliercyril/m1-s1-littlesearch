@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "encre",
+    "other_forms" : [ "encres" ]
+  }, {
+    "canonical_form" : "ponce",
+    "other_forms" : [ "ponces" ]
+  }, {
+    "canonical_form" : "sépia",
+    "other_forms" : [ "sépias" ]
+  } ]
+}

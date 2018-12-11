@@ -1,0 +1,236 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "marquer"
+  }, {
+    "canonical_form" : "montrer"
+  }, {
+    "canonical_form" : "révéler"
+  }, {
+    "canonical_form" : "indiquer"
+  }, {
+    "canonical_form" : "signaler"
+  }, {
+    "canonical_form" : "afficher"
+  }, {
+    "canonical_form" : "manifester"
+  }, {
+    "canonical_form" : "signifier"
+  }, {
+    "canonical_form" : "inscrire"
+  }, {
+    "canonical_form" : "témoigner"
+  }, {
+    "canonical_form" : "noter"
+  }, {
+    "canonical_form" : "désigner"
+  }, {
+    "canonical_form" : "exprimer"
+  }, {
+    "canonical_form" : "graver"
+  }, {
+    "canonical_form" : "écrire"
+  }, {
+    "canonical_form" : "relever"
+  }, {
+    "canonical_form" : "produire"
+  }, {
+    "canonical_form" : "imprimer"
+  }, {
+    "canonical_form" : "fixer"
+  }, {
+    "canonical_form" : "déterminer"
+  }, {
+    "canonical_form" : "dénoter"
+  }, {
+    "canonical_form" : "annoncer"
+  }, {
+    "canonical_form" : "tracer"
+  }, {
+    "canonical_form" : "souligner"
+  }, {
+    "canonical_form" : "repérer"
+  }, {
+    "canonical_form" : "présenter"
+  }, {
+    "canonical_form" : "ponctuer"
+  }, {
+    "canonical_form" : "piqueter"
+  }, {
+    "canonical_form" : "mettre"
+  }, {
+    "canonical_form" : "percer"
+  }, {
+    "canonical_form" : "frapper"
+  }, {
+    "canonical_form" : "affecter"
+  }, {
+    "canonical_form" : "trahir"
+  }, {
+    "canonical_form" : "tacheter"
+  }, {
+    "canonical_form" : "prouver"
+  }, {
+    "canonical_form" : "poinçonner"
+  }, {
+    "canonical_form" : "mentionner"
+  }, {
+    "canonical_form" : "empreindre"
+  }, {
+    "canonical_form" : "accuser"
+  }, {
+    "canonical_form" : "assigner"
+  }, {
+    "canonical_form" : "baliser"
+  }, {
+    "canonical_form" : "briller"
+  }, {
+    "canonical_form" : "dénoncer"
+  }, {
+    "canonical_form" : "rendre"
+  }, {
+    "canonical_form" : "rayer"
+  }, {
+    "canonical_form" : "pénétrer"
+  }, {
+    "canonical_form" : "prononcer"
+  }, {
+    "canonical_form" : "observer"
+  }, {
+    "canonical_form" : "immatriculer"
+  }, {
+    "canonical_form" : "estampiller"
+  }, {
+    "canonical_form" : "estamper"
+  }, {
+    "canonical_form" : "colorer"
+  }, {
+    "canonical_form" : "jalonner"
+  }, {
+    "canonical_form" : "mander"
+  }, {
+    "canonical_form" : "pointer"
+  }, {
+    "canonical_form" : "pointiller"
+  }, {
+    "canonical_form" : "refléter"
+  }, {
+    "canonical_form" : "transcrire"
+  }, {
+    "canonical_form" : "émerger"
+  }, {
+    "canonical_form" : "étiqueter"
+  }, {
+    "canonical_form" : "imprégner"
+  }, {
+    "canonical_form" : "exceller"
+  }, {
+    "canonical_form" : "attester"
+  }, {
+    "canonical_form" : "battre"
+  }, {
+    "canonical_form" : "borner"
+  }, {
+    "canonical_form" : "buriner"
+  }, {
+    "canonical_form" : "caractériser"
+  }, {
+    "canonical_form" : "compter"
+  }, {
+    "canonical_form" : "consigner"
+  }, {
+    "canonical_form" : "délimiter"
+  }, {
+    "canonical_form" : "prodiguer"
+  }, {
+    "canonical_form" : "remarquer"
+  }, {
+    "canonical_form" : "respirer"
+  }, {
+    "canonical_form" : "sangler"
+  }, {
+    "canonical_form" : "scander"
+  }, {
+    "canonical_form" : "supposer"
+  }, {
+    "canonical_form" : "taveler"
+  }, {
+    "canonical_form" : "triompher"
+  }, {
+    "canonical_form" : "étamper"
+  }, {
+    "canonical_form" : "numéroter"
+  }, {
+    "canonical_form" : "matriculer"
+  }, {
+    "canonical_form" : "cacheter"
+  }, {
+    "canonical_form" : "copier"
+  }, {
+    "canonical_form" : "coter"
+  }, {
+    "canonical_form" : "déteindre"
+  }, {
+    "canonical_form" : "fêter"
+  }, {
+    "canonical_form" : "influencer"
+  }, {
+    "canonical_form" : "ligner"
+  }, {
+    "canonical_form" : "limiter"
+  }, {
+    "canonical_form" : "réagir"
+  }, {
+    "canonical_form" : "rider"
+  }, {
+    "canonical_form" : "rayonner"
+  }, {
+    "canonical_form" : "présager"
+  }, {
+    "canonical_form" : "prédestiner"
+  }, {
+    "canonical_form" : "signer"
+  }, {
+    "canonical_form" : "tacher"
+  }, {
+    "canonical_form" : "tatouer"
+  }, {
+    "canonical_form" : "timbrer"
+  }, {
+    "canonical_form" : "zébrer"
+  }, {
+    "canonical_form" : "étalonner"
+  }, {
+    "canonical_form" : "picoter"
+  }, {
+    "canonical_form" : "mouler"
+  }, {
+    "canonical_form" : "meurtrir"
+  }, {
+    "canonical_form" : "biseauter"
+  }, {
+    "canonical_form" : "créner"
+  }, {
+    "canonical_form" : "célébrer"
+  }, {
+    "canonical_form" : "dater"
+  }, {
+    "canonical_form" : "dégoter"
+  }, {
+    "canonical_form" : "farder"
+  }, {
+    "canonical_form" : "gainer"
+  }, {
+    "canonical_form" : "insculper"
+  }, {
+    "canonical_form" : "laisser"
+  }, {
+    "canonical_form" : "marbrer"
+  }, {
+    "canonical_form" : "marqueter"
+  }, {
+    "canonical_form" : "matérialiser"
+  }, {
+    "canonical_form" : "baguer"
+  } ]
+}

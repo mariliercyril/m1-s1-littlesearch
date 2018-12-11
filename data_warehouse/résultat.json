@@ -1,0 +1,100 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "résultat",
+    "other_forms" : [ "résultats" ]
+  }, {
+    "canonical_form" : "conséquence",
+    "other_forms" : [ "conséquences" ]
+  }, {
+    "canonical_form" : "effet",
+    "other_forms" : [ "effets" ]
+  }, {
+    "canonical_form" : "fruit",
+    "other_forms" : [ "fruits" ]
+  }, {
+    "canonical_form" : "conclusion",
+    "other_forms" : [ "conclusions" ]
+  }, {
+    "canonical_form" : "solution",
+    "other_forms" : [ "solutions" ]
+  }, {
+    "canonical_form" : "suite",
+    "other_forms" : [ "suites" ]
+  }, {
+    "canonical_form" : "dénouement",
+    "other_forms" : [ "dénouements", "dénoûment", "dénoûments" ]
+  }, {
+    "canonical_form" : "achèvement",
+    "other_forms" : [ "achèvements" ]
+  }, {
+    "canonical_form" : "aboutissement",
+    "other_forms" : [ "aboutissements" ]
+  }, {
+    "canonical_form" : "événement",
+    "other_forms" : [ "événements" ]
+  }, {
+    "canonical_form" : "résolution",
+    "other_forms" : [ "résolutions" ]
+  }, {
+    "canonical_form" : "reste",
+    "other_forms" : [ "restes" ]
+  }, {
+    "canonical_form" : "marque",
+    "other_forms" : [ "marques" ]
+  }, {
+    "canonical_form" : "terminaison",
+    "other_forms" : [ "terminaisons" ]
+  }, {
+    "canonical_form" : "succès",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "réponse",
+    "other_forms" : [ "réponses" ]
+  }, {
+    "canonical_form" : "contrecoup",
+    "other_forms" : [ "contrecoups" ]
+  }, {
+    "canonical_form" : "bénéfice",
+    "other_forms" : [ "bénéfices" ]
+  }, {
+    "canonical_form" : "accident",
+    "other_forms" : [ "accidents" ]
+  }, {
+    "canonical_form" : "quotient",
+    "other_forms" : [ "quotients" ]
+  }, {
+    "canonical_form" : "rançon",
+    "other_forms" : [ "rançons" ]
+  }, {
+    "canonical_form" : "réussite",
+    "other_forms" : [ "réussites" ]
+  }, {
+    "canonical_form" : "score",
+    "other_forms" : [ "scores" ]
+  }, {
+    "canonical_form" : "somme",
+    "other_forms" : [ "sommes" ]
+  }, {
+    "canonical_form" : "production",
+    "other_forms" : [ "productions" ]
+  }, {
+    "canonical_form" : "fil",
+    "other_forms" : [ "fils" ]
+  }, {
+    "canonical_form" : "fille",
+    "other_forms" : [ "filles" ]
+  }, {
+    "canonical_form" : "décision",
+    "other_forms" : [ "décisions" ]
+  }, {
+    "canonical_form" : "conquête",
+    "other_forms" : [ "conquêtes" ]
+  }, {
+    "canonical_form" : "bilan",
+    "other_forms" : [ "bilans" ]
+  }, {
+    "canonical_form" : "accompagnement",
+    "other_forms" : [ "accompagnements" ]
+  } ]
+}

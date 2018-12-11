@@ -1,0 +1,172 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "position",
+    "other_forms" : [ "positions" ]
+  }, {
+    "canonical_form" : "situation",
+    "other_forms" : [ "situations" ]
+  }, {
+    "canonical_form" : "état",
+    "other_forms" : [ "états" ]
+  }, {
+    "canonical_form" : "opinion",
+    "other_forms" : [ "opinions" ]
+  }, {
+    "canonical_form" : "place",
+    "other_forms" : [ "places" ]
+  }, {
+    "canonical_form" : "disposition",
+    "other_forms" : [ "dispositions" ]
+  }, {
+    "canonical_form" : "fonction",
+    "other_forms" : [ "fonctions" ]
+  }, {
+    "canonical_form" : "tendance",
+    "other_forms" : [ "tendances" ]
+  }, {
+    "canonical_form" : "rang",
+    "other_forms" : [ "rangs" ]
+  }, {
+    "canonical_form" : "condition",
+    "other_forms" : [ "conditions" ]
+  }, {
+    "canonical_form" : "attitude",
+    "other_forms" : [ "attitudes" ]
+  }, {
+    "canonical_form" : "emploi",
+    "other_forms" : [ "emplois" ]
+  }, {
+    "canonical_form" : "idée",
+    "other_forms" : [ "idées" ]
+  }, {
+    "canonical_form" : "théorie",
+    "other_forms" : [ "théories" ]
+  }, {
+    "canonical_form" : "sentiment",
+    "other_forms" : [ "sentiments" ]
+  }, {
+    "canonical_form" : "posture",
+    "other_forms" : [ "postures" ]
+  }, {
+    "canonical_form" : "philosophie",
+    "other_forms" : [ "philosophies" ]
+  }, {
+    "canonical_form" : "métier",
+    "other_forms" : [ "métiers" ]
+  }, {
+    "canonical_form" : "doctrine",
+    "other_forms" : [ "doctrines" ]
+  }, {
+    "canonical_form" : "lieu",
+    "other_forms" : [ "lieus", "lieux" ]
+  }, {
+    "canonical_form" : "orientation",
+    "other_forms" : [ "orientations" ]
+  }, {
+    "canonical_form" : "profession",
+    "other_forms" : [ "professions" ]
+  }, {
+    "canonical_form" : "poste",
+    "other_forms" : [ "postes" ]
+  }, {
+    "canonical_form" : "degré",
+    "other_forms" : [ "degrés" ]
+  }, {
+    "canonical_form" : "assiette",
+    "other_forms" : [ "assiettes" ]
+  }, {
+    "canonical_form" : "équilibre",
+    "other_forms" : [ "équilibres" ]
+  }, {
+    "canonical_form" : "pose",
+    "other_forms" : [ "poses" ]
+  }, {
+    "canonical_form" : "point de vue",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "occupation",
+    "other_forms" : [ "occupations" ]
+  }, {
+    "canonical_form" : "mouvement",
+    "other_forms" : [ "mouvements" ]
+  }, {
+    "canonical_form" : "jugement",
+    "other_forms" : [ "jugements" ]
+  }, {
+    "canonical_form" : "emplacement",
+    "other_forms" : [ "emplacements" ]
+  }, {
+    "canonical_form" : "charge",
+    "other_forms" : [ "charges" ]
+  }, {
+    "canonical_form" : "établissement",
+    "other_forms" : [ "établissements" ]
+  }, {
+    "canonical_form" : "échelon",
+    "other_forms" : [ "échelons" ]
+  }, {
+    "canonical_form" : "supposition",
+    "other_forms" : [ "suppositions" ]
+  }, {
+    "canonical_form" : "station",
+    "other_forms" : [ "stations" ]
+  }, {
+    "canonical_form" : "site",
+    "other_forms" : [ "sites" ]
+  }, {
+    "canonical_form" : "rôle",
+    "other_forms" : [ "rôles" ]
+  }, {
+    "canonical_form" : "résolution",
+    "other_forms" : [ "résolutions" ]
+  }, {
+    "canonical_form" : "idée",
+    "other_forms" : [ "idées" ]
+  }, {
+    "canonical_form" : "engagement",
+    "other_forms" : [ "engagements" ]
+  }, {
+    "canonical_form" : "croyance",
+    "other_forms" : [ "croyances" ]
+  }, {
+    "canonical_form" : "cas",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "localisation",
+    "other_forms" : [ "localisations" ]
+  }, {
+    "canonical_form" : "numéro",
+    "other_forms" : [ "numéros" ]
+  }, {
+    "canonical_form" : "sort",
+    "other_forms" : [ "sorts" ]
+  }, {
+    "canonical_form" : "standing",
+    "other_forms" : [ "standings" ]
+  }, {
+    "canonical_form" : "inclinaison",
+    "other_forms" : [ "inclinaisons" ]
+  }, {
+    "canonical_form" : "gisement",
+    "other_forms" : [ "gisements" ]
+  }, {
+    "canonical_form" : "formulation",
+    "other_forms" : [ "formulations" ]
+  }, {
+    "canonical_form" : "exposition",
+    "other_forms" : [ "expositions" ]
+  }, {
+    "canonical_form" : "appréciation",
+    "other_forms" : [ "appréciations" ]
+  }, {
+    "canonical_form" : "aplomb",
+    "other_forms" : [ "aplombs" ]
+  }, {
+    "canonical_form" : "allégation",
+    "other_forms" : [ "allégations" ]
+  }, {
+    "canonical_form" : "énonciation",
+    "other_forms" : [ "énonciations" ]
+  } ]
+}

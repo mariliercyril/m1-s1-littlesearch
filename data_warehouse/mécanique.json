@@ -1,0 +1,43 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "mécanique",
+    "other_forms" : [ "mécaniques" ]
+  }, {
+    "canonical_form" : "automatique",
+    "other_forms" : [ "automatiques" ]
+  }, {
+    "canonical_form" : "machinal",
+    "other_forms" : [ "machinale", "machinales", "machinaux" ]
+  }, {
+    "canonical_form" : "involontaire",
+    "other_forms" : [ "involontaires" ]
+  }, {
+    "canonical_form" : "instinctif",
+    "other_forms" : [ "instinctifs", "instinctive", "instinctives" ]
+  }, {
+    "canonical_form" : "physique",
+    "other_forms" : [ "physiques" ]
+  }, {
+    "canonical_form" : "moteur",
+    "other_forms" : [ "moteurs", "motrice", "motrices" ]
+  }, {
+    "canonical_form" : "mathématique",
+    "other_forms" : [ "mathématiques" ]
+  }, {
+    "canonical_form" : "irréfléchi",
+    "other_forms" : [ "irréfléchie", "irréfléchies", "irréfléchis" ]
+  }, {
+    "canonical_form" : "industriel",
+    "other_forms" : [ "industrielle", "industrielles", "industriels" ]
+  }, {
+    "canonical_form" : "inconscient",
+    "other_forms" : [ "inconsciente", "inconscientes", "inconscients" ]
+  }, {
+    "canonical_form" : "balistique",
+    "other_forms" : [ "balistiques" ]
+  }, {
+    "canonical_form" : "réflexe",
+    "other_forms" : [ "réflexes" ]
+  } ]
+}

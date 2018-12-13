@@ -1,0 +1,259 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "pièce",
+    "other_forms" : [ "pièces" ]
+  }, {
+    "canonical_form" : "morceau",
+    "other_forms" : [ "morceaux" ]
+  }, {
+    "canonical_form" : "poème",
+    "other_forms" : [ "poèmes" ]
+  }, {
+    "canonical_form" : "chambre",
+    "other_forms" : [ "chambres" ]
+  }, {
+    "canonical_form" : "fragment",
+    "other_forms" : [ "fragments" ]
+  }, {
+    "canonical_form" : "titre",
+    "other_forms" : [ "titres" ]
+  }, {
+    "canonical_form" : "débris",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "service",
+    "other_forms" : [ "services" ]
+  }, {
+    "canonical_form" : "pourboire",
+    "other_forms" : [ "pourboires" ]
+  }, {
+    "canonical_form" : "portion",
+    "other_forms" : [ "portions" ]
+  }, {
+    "canonical_form" : "ouvrage",
+    "other_forms" : [ "ouvrages" ]
+  }, {
+    "canonical_form" : "document",
+    "other_forms" : [ "documents" ]
+  }, {
+    "canonical_form" : "division",
+    "other_forms" : [ "divisions" ]
+  }, {
+    "canonical_form" : "comédie",
+    "other_forms" : [ "comédies" ]
+  }, {
+    "canonical_form" : "unité",
+    "other_forms" : [ "unités" ]
+  }, {
+    "canonical_form" : "taule",
+    "other_forms" : [ "taules" ]
+  }, {
+    "canonical_form" : "spectacle",
+    "other_forms" : [ "spectacles" ]
+  }, {
+    "canonical_form" : "papier",
+    "other_forms" : [ "papiers" ]
+  }, {
+    "canonical_form" : "louis",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "lambeau",
+    "other_forms" : [ "lambeaux" ]
+  }, {
+    "canonical_form" : "gratification",
+    "other_forms" : [ "gratifications" ]
+  }, {
+    "canonical_form" : "acte",
+    "other_forms" : [ "actes" ]
+  }, {
+    "canonical_form" : "bloc",
+    "other_forms" : [ "blocs" ]
+  }, {
+    "canonical_form" : "cabinet",
+    "other_forms" : [ "cabinets" ]
+  }, {
+    "canonical_form" : "certificat",
+    "other_forms" : [ "certificats" ]
+  }, {
+    "canonical_form" : "coupe",
+    "other_forms" : [ "coupes" ]
+  }, {
+    "canonical_form" : "pot-de-vin",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "poésie",
+    "other_forms" : [ "poésies" ]
+  }, {
+    "canonical_form" : "preuve",
+    "other_forms" : [ "preuves" ]
+  }, {
+    "canonical_form" : "production",
+    "other_forms" : [ "productions" ]
+  }, {
+    "canonical_form" : "ration",
+    "other_forms" : [ "rations" ]
+  }, {
+    "canonical_form" : "salle",
+    "other_forms" : [ "salles" ]
+  }, {
+    "canonical_form" : "sou",
+    "other_forms" : [ "sous" ]
+  }, {
+    "canonical_form" : "tragédie",
+    "other_forms" : [ "tragédies" ]
+  }, {
+    "canonical_form" : "éclat",
+    "other_forms" : [ "éclats" ]
+  }, {
+    "canonical_form" : "écu",
+    "other_forms" : [ "écus" ]
+  }, {
+    "canonical_form" : "plaisanterie",
+    "other_forms" : [ "plaisanteries" ]
+  }, {
+    "canonical_form" : "appartement",
+    "other_forms" : [ "appartements" ]
+  }, {
+    "canonical_form" : "bureau",
+    "other_forms" : [ "bureaux" ]
+  }, {
+    "canonical_form" : "cabine",
+    "other_forms" : [ "cabines" ]
+  }, {
+    "canonical_form" : "cadeau",
+    "other_forms" : [ "cadeaux" ]
+  }, {
+    "canonical_form" : "diplôme",
+    "other_forms" : [ "diplômes" ]
+  }, {
+    "canonical_form" : "drame",
+    "other_forms" : [ "drames" ]
+  }, {
+    "canonical_form" : "loge",
+    "other_forms" : [ "loges" ]
+  }, {
+    "canonical_form" : "opéra",
+    "other_forms" : [ "opéras" ]
+  }, {
+    "canonical_form" : "organe",
+    "other_forms" : [ "organes" ]
+  }, {
+    "canonical_form" : "piaule",
+    "other_forms" : [ "piaules" ]
+  }, {
+    "canonical_form" : "quartier",
+    "other_forms" : [ "quartiers" ]
+  }, {
+    "canonical_form" : "proverbe",
+    "other_forms" : [ "proverbes" ]
+  }, {
+    "canonical_form" : "opuscule",
+    "other_forms" : [ "opuscules" ]
+  }, {
+    "canonical_form" : "note",
+    "other_forms" : [ "notes" ]
+  }, {
+    "canonical_form" : "napoléon",
+    "other_forms" : [ "napoléons" ]
+  }, {
+    "canonical_form" : "mélodie",
+    "other_forms" : [ "mélodies" ]
+  }, {
+    "canonical_form" : "médaille",
+    "other_forms" : [ "médailles" ]
+  }, {
+    "canonical_form" : "miette",
+    "other_forms" : [ "miettes" ]
+  }, {
+    "canonical_form" : "quatrain",
+    "other_forms" : [ "quatrains" ]
+  }, {
+    "canonical_form" : "ramification",
+    "other_forms" : [ "ramifications" ]
+  }, {
+    "canonical_form" : "ristourne",
+    "other_forms" : [ "ristournes" ]
+  }, {
+    "canonical_form" : "tôle",
+    "other_forms" : [ "tôles" ]
+  }, {
+    "canonical_form" : "tête",
+    "other_forms" : [ "têtes" ]
+  }, {
+    "canonical_form" : "turne",
+    "other_forms" : [ "turnes" ]
+  }, {
+    "canonical_form" : "tour",
+    "other_forms" : [ "tours" ]
+  }, {
+    "canonical_form" : "tonneau",
+    "other_forms" : [ "tonneaux" ]
+  }, {
+    "canonical_form" : "thune",
+    "other_forms" : [ "thunes" ]
+  }, {
+    "canonical_form" : "tesson",
+    "other_forms" : [ "tessons" ]
+  }, {
+    "canonical_form" : "saynète",
+    "other_forms" : [ "saynètes" ]
+  }, {
+    "canonical_form" : "salon",
+    "other_forms" : [ "salons" ]
+  }, {
+    "canonical_form" : "matériau",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "loque",
+    "other_forms" : [ "loques" ]
+  }, {
+    "canonical_form" : "coupon",
+    "other_forms" : [ "coupons" ]
+  }, {
+    "canonical_form" : "canon",
+    "other_forms" : [ "canons" ]
+  }, {
+    "canonical_form" : "canfouine",
+    "other_forms" : [ "cafouine", "cafouines", "canfouines" ]
+  }, {
+    "canonical_form" : "cambriole",
+    "other_forms" : [ "cambrioles" ]
+  }, {
+    "canonical_form" : "barrique",
+    "other_forms" : [ "barriques" ]
+  }, {
+    "canonical_form" : "baril",
+    "other_forms" : [ "barils" ]
+  }, {
+    "canonical_form" : "crèche",
+    "other_forms" : [ "crèches" ]
+  }, {
+    "canonical_form" : "gracieuseté",
+    "other_forms" : [ "gracieusetés" ]
+  }, {
+    "canonical_form" : "galerie",
+    "other_forms" : [ "galeries" ]
+  }, {
+    "canonical_form" : "fût",
+    "other_forms" : [ "fûts" ]
+  }, {
+    "canonical_form" : "féerie",
+    "other_forms" : [ "féeries" ]
+  }, {
+    "canonical_form" : "futaille",
+    "other_forms" : [ "futailles" ]
+  }, {
+    "canonical_form" : "empiècement",
+    "other_forms" : [ "empiècements" ]
+  }, {
+    "canonical_form" : "découpe",
+    "other_forms" : [ "découpes" ]
+  }, {
+    "canonical_form" : "douzain",
+    "other_forms" : [ "douzains" ]
+  }, {
+    "canonical_form" : "dizain",
+    "other_forms" : [ "dizains" ]
+  } ]
+}

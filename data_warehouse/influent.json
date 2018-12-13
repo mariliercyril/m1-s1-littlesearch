@@ -1,0 +1,34 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "influent",
+    "other_forms" : [ "influente", "influentes", "influents" ]
+  }, {
+    "canonical_form" : "puissant",
+    "other_forms" : [ "puissante", "puissantes", "puissants" ]
+  }, {
+    "canonical_form" : "fort",
+    "other_forms" : [ "forte", "fortes", "forts" ]
+  }, {
+    "canonical_form" : "efficace",
+    "other_forms" : [ "efficaces" ]
+  }, {
+    "canonical_form" : "important",
+    "other_forms" : [ "importante", "importantes", "importants" ]
+  }, {
+    "canonical_form" : "irrésistible",
+    "other_forms" : [ "irrésistibles" ]
+  }, {
+    "canonical_form" : "gros",
+    "other_forms" : [ "grosse", "grosses" ]
+  }, {
+    "canonical_form" : "grand",
+    "other_forms" : [ "grande", "grandes", "grands" ]
+  }, {
+    "canonical_form" : "actif",
+    "other_forms" : [ "actifs", "active", "actives" ]
+  }, {
+    "canonical_form" : "tout-puissant",
+    "other_forms" : [ ]
+  } ]
+}

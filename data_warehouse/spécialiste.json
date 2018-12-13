@@ -1,0 +1,25 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "spécialiste",
+    "other_forms" : [ "spécialistes" ]
+  }, {
+    "canonical_form" : "technicien",
+    "other_forms" : [ "technicienne", "techniciennes", "techniciens" ]
+  }, {
+    "canonical_form" : "savant",
+    "other_forms" : [ "savante", "savantes", "savants" ]
+  }, {
+    "canonical_form" : "professionnel",
+    "other_forms" : [ "professionnelle", "professionnelles", "professionnels" ]
+  }, {
+    "canonical_form" : "mécanicien",
+    "other_forms" : [ "mécanicienne", "mécaniciennes", "mécaniciens" ]
+  }, {
+    "canonical_form" : "familier",
+    "other_forms" : [ "familiers", "familière", "familières" ]
+  }, {
+    "canonical_form" : "travailleur",
+    "other_forms" : [ "travailleurs", "travailleuse", "travailleuses" ]
+  } ]
+}

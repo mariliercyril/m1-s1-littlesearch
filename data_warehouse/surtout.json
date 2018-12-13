@@ -1,0 +1,34 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "surtout",
+    "other_forms" : [ "surtouts" ]
+  }, {
+    "canonical_form" : "souquenille",
+    "other_forms" : [ "souquenilles" ]
+  }, {
+    "canonical_form" : "blouse",
+    "other_forms" : [ "blouses" ]
+  }, {
+    "canonical_form" : "cache-poussière",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "cotte",
+    "other_forms" : [ "cottes" ]
+  }, {
+    "canonical_form" : "casaque",
+    "other_forms" : [ "casaques" ]
+  }, {
+    "canonical_form" : "tablier",
+    "other_forms" : [ "tabliers" ]
+  }, {
+    "canonical_form" : "sarrau",
+    "other_forms" : [ "sarraux" ]
+  }, {
+    "canonical_form" : "charrette",
+    "other_forms" : [ "charrettes" ]
+  }, {
+    "canonical_form" : "caban",
+    "other_forms" : [ "cabans" ]
+  } ]
+}

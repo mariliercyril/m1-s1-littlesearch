@@ -1,0 +1,66 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "renoncer"
+  }, {
+    "canonical_form" : "abandonner"
+  }, {
+    "canonical_form" : "quitter"
+  }, {
+    "canonical_form" : "céder"
+  }, {
+    "canonical_form" : "laisser"
+  }, {
+    "canonical_form" : "donner"
+  }, {
+    "canonical_form" : "abdiquer"
+  }, {
+    "canonical_form" : "délaisser"
+  }, {
+    "canonical_form" : "capituler"
+  }, {
+    "canonical_form" : "déposer"
+  }, {
+    "canonical_form" : "rompre"
+  }, {
+    "canonical_form" : "renier"
+  }, {
+    "canonical_form" : "reculer"
+  }, {
+    "canonical_form" : "résigner"
+  }, {
+    "canonical_form" : "remettre"
+  }, {
+    "canonical_form" : "perdre"
+  }, {
+    "canonical_form" : "mourir"
+  }, {
+    "canonical_form" : "sacrifier"
+  }, {
+    "canonical_form" : "répudier"
+  }, {
+    "canonical_form" : "plier"
+  }, {
+    "canonical_form" : "immoler"
+  }, {
+    "canonical_form" : "abjurer"
+  }, {
+    "canonical_form" : "caler"
+  }, {
+    "canonical_form" : "divorcer"
+  }, {
+    "canonical_form" : "démissionner"
+  }, {
+    "canonical_form" : "démordre"
+  }, {
+    "canonical_form" : "dénoncer"
+  }, {
+    "canonical_form" : "désavouer"
+  }, {
+    "canonical_form" : "délier"
+  }, {
+    "canonical_form" : "changer"
+  }, {
+    "canonical_form" : "apostasier"
+  } ]
+}

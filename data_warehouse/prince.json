@@ -1,0 +1,100 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "prince",
+    "other_forms" : [ "princes" ]
+  }, {
+    "canonical_form" : "roi",
+    "other_forms" : [ "rois" ]
+  }, {
+    "canonical_form" : "chef",
+    "other_forms" : [ "chefs" ]
+  }, {
+    "canonical_form" : "empereur",
+    "other_forms" : [ "empereurs" ]
+  }, {
+    "canonical_form" : "évêque",
+    "other_forms" : [ "évêques" ]
+  }, {
+    "canonical_form" : "émir",
+    "other_forms" : [ "émirs" ]
+  }, {
+    "canonical_form" : "sultan",
+    "other_forms" : [ "sultans" ]
+  }, {
+    "canonical_form" : "seigneur",
+    "other_forms" : [ "seigneurs" ]
+  }, {
+    "canonical_form" : "monarque",
+    "other_forms" : [ "monarques" ]
+  }, {
+    "canonical_form" : "majesté",
+    "other_forms" : [ "majestés" ]
+  }, {
+    "canonical_form" : "gloire",
+    "other_forms" : [ "gloires" ]
+  }, {
+    "canonical_form" : "célébrité",
+    "other_forms" : [ "célébrités" ]
+  }, {
+    "canonical_form" : "infant",
+    "other_forms" : [ "infante", "infantes", "infants" ]
+  }, {
+    "canonical_form" : "kronprinz",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "landgrave",
+    "other_forms" : [ "landgraves" ]
+  }, {
+    "canonical_form" : "maharajah",
+    "other_forms" : [ "maharajahs" ]
+  }, {
+    "canonical_form" : "margrave",
+    "other_forms" : [ "margraves" ]
+  }, {
+    "canonical_form" : "monseigneur",
+    "other_forms" : [ "monseigneurs" ]
+  }, {
+    "canonical_form" : "principicule",
+    "other_forms" : [ "principicules" ]
+  }, {
+    "canonical_form" : "rajah",
+    "other_forms" : [ "rajahs" ]
+  }, {
+    "canonical_form" : "rhingrave",
+    "other_forms" : [ "rhingraves" ]
+  }, {
+    "canonical_form" : "hospodar",
+    "other_forms" : [ "hospodars" ]
+  }, {
+    "canonical_form" : "grand-duc",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "diadoque",
+    "other_forms" : [ "diadoques" ]
+  }, {
+    "canonical_form" : "monsieur",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "altesse",
+    "other_forms" : [ "altesses" ]
+  }, {
+    "canonical_form" : "archiduc",
+    "other_forms" : [ "archiduchesse", "archiduchesses", "archiducs" ]
+  }, {
+    "canonical_form" : "autorité",
+    "other_forms" : [ "autorités" ]
+  }, {
+    "canonical_form" : "biquet",
+    "other_forms" : [ "biquets", "biquette", "biquettes" ]
+  }, {
+    "canonical_form" : "chérif",
+    "other_forms" : [ "chérifs" ]
+  }, {
+    "canonical_form" : "dauphin",
+    "other_forms" : [ "dauphins" ]
+  }, {
+    "canonical_form" : "sommité",
+    "other_forms" : [ "sommités" ]
+  } ]
+}

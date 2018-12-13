@@ -1,0 +1,25 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "elliptique",
+    "other_forms" : [ "elliptiques" ]
+  }, {
+    "canonical_form" : "laconique",
+    "other_forms" : [ "laconiques" ]
+  }, {
+    "canonical_form" : "concis",
+    "other_forms" : [ "concise", "concises" ]
+  }, {
+    "canonical_form" : "ellipsoïde",
+    "other_forms" : [ "ellipsoïdes" ]
+  }, {
+    "canonical_form" : "ovale",
+    "other_forms" : [ "ovales" ]
+  }, {
+    "canonical_form" : "succinct",
+    "other_forms" : [ "succincte", "succinctes", "succincts" ]
+  }, {
+    "canonical_form" : "télégraphique",
+    "other_forms" : [ "télégraphiques" ]
+  } ]
+}

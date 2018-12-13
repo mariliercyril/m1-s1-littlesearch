@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "astronome",
+    "other_forms" : [ "astronomes" ]
+  }, {
+    "canonical_form" : "astrologue",
+    "other_forms" : [ "astrologues" ]
+  }, {
+    "canonical_form" : "astrophysicien",
+    "other_forms" : [ "astrophysiciens" ]
+  } ]
+}

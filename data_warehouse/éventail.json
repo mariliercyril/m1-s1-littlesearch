@@ -1,0 +1,34 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "éventail",
+    "other_forms" : [ "éventails" ]
+  }, {
+    "canonical_form" : "gamme",
+    "other_forms" : [ "gammes" ]
+  }, {
+    "canonical_form" : "ventilateur",
+    "other_forms" : [ "ventilateurs" ]
+  }, {
+    "canonical_form" : "sélection",
+    "other_forms" : [ "sélections" ]
+  }, {
+    "canonical_form" : "registre",
+    "other_forms" : [ "registres" ]
+  }, {
+    "canonical_form" : "panka",
+    "other_forms" : [ "pankas" ]
+  }, {
+    "canonical_form" : "hiérarchie",
+    "other_forms" : [ "hiérarchies" ]
+  }, {
+    "canonical_form" : "flabellum",
+    "other_forms" : [ "flabellums" ]
+  }, {
+    "canonical_form" : "choix",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "écran",
+    "other_forms" : [ "écrans" ]
+  } ]
+}

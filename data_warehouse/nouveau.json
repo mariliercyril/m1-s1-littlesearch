@@ -1,0 +1,118 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "nouveau",
+    "other_forms" : [ "nouveaux", "nouvel", "nouvelle", "nouvelles" ]
+  }, {
+    "canonical_form" : "neuf",
+    "other_forms" : [ "neufs", "neuve", "neuves" ]
+  }, {
+    "canonical_form" : "original",
+    "other_forms" : [ "originale", "originales", "originaux" ]
+  }, {
+    "canonical_form" : "inusité",
+    "other_forms" : [ "inusitée", "inusitées", "inusités" ]
+  }, {
+    "canonical_form" : "inédit",
+    "other_forms" : [ "inédite", "inédites", "inédits" ]
+  }, {
+    "canonical_form" : "moderne",
+    "other_forms" : [ "modernes" ]
+  }, {
+    "canonical_form" : "extraordinaire",
+    "other_forms" : [ "extraordinaires" ]
+  }, {
+    "canonical_form" : "novice",
+    "other_forms" : [ "novices" ]
+  }, {
+    "canonical_form" : "insolite",
+    "other_forms" : [ "insolites" ]
+  }, {
+    "canonical_form" : "inouï",
+    "other_forms" : [ "inouïe", "inouïes", "inouïs" ]
+  }, {
+    "canonical_form" : "inconnu",
+    "other_forms" : [ "inconnue", "inconnues", "inconnus" ]
+  }, {
+    "canonical_form" : "hardi",
+    "other_forms" : [ "hardie", "hardies", "hardis" ]
+  }, {
+    "canonical_form" : "truculent",
+    "other_forms" : [ "truculente", "truculentes", "truculents" ]
+  }, {
+    "canonical_form" : "récent",
+    "other_forms" : [ "récente", "récentes", "récents" ]
+  }, {
+    "canonical_form" : "jeune",
+    "other_forms" : [ "jeunes" ]
+  }, {
+    "canonical_form" : "inexpérimenté",
+    "other_forms" : [ "inexpérimentée", "inexpérimentées", "inexpérimentés" ]
+  }, {
+    "canonical_form" : "vert",
+    "other_forms" : [ "verte", "vertes", "verts" ]
+  }, {
+    "canonical_form" : "surprenant",
+    "other_forms" : [ "surprenante", "surprenantes", "surprenants" ]
+  }, {
+    "canonical_form" : "inhabituel",
+    "other_forms" : [ "inhabituelle", "inhabituelles", "inhabituels" ]
+  }, {
+    "canonical_form" : "inattendu",
+    "other_forms" : [ "inattendue", "inattendues", "inattendus" ]
+  }, {
+    "canonical_form" : "inaccoutumé",
+    "other_forms" : [ "inaccoutumée", "inaccoutumées", "inaccoutumés" ]
+  }, {
+    "canonical_form" : "frais",
+    "other_forms" : [ "fraîche", "fraîches" ]
+  }, {
+    "canonical_form" : "débutant",
+    "other_forms" : [ "débutante", "débutantes", "débutants" ]
+  }, {
+    "canonical_form" : "différent",
+    "other_forms" : [ "différente", "différentes", "différents" ]
+  }, {
+    "canonical_form" : "audacieux",
+    "other_forms" : [ "audacieuse", "audacieuses" ]
+  }, {
+    "canonical_form" : "insoupçonné",
+    "other_forms" : [ "insoupçonnée", "insoupçonnées", "insoupçonnés" ]
+  }, {
+    "canonical_form" : "ultramoderne",
+    "other_forms" : [ "ultramodernes" ]
+  }, {
+    "canonical_form" : "inexploré",
+    "other_forms" : [ "inexplorée", "inexplorées", "inexplorés" ]
+  }, {
+    "canonical_form" : "in",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "bleu",
+    "other_forms" : [ "bleue", "bleues", "bleus" ]
+  }, {
+    "canonical_form" : "autre",
+    "other_forms" : [ "autres" ]
+  }, {
+    "canonical_form" : "actuel",
+    "other_forms" : [ "actuelle", "actuelles", "actuels" ]
+  }, {
+    "canonical_form" : "personnel",
+    "other_forms" : [ "personnelle", "personnelles", "personnels" ]
+  }, {
+    "canonical_form" : "printanier",
+    "other_forms" : [ "printaniers", "printanière", "printanières" ]
+  }, {
+    "canonical_form" : "second",
+    "other_forms" : [ "seconde", "secondes", "seconds" ]
+  }, {
+    "canonical_form" : "néophyte",
+    "other_forms" : [ "néophytes" ]
+  }, {
+    "canonical_form" : "novateur",
+    "other_forms" : [ "novateurs", "novatrice", "novatrices" ]
+  }, {
+    "canonical_form" : "dernier",
+    "other_forms" : [ "derniers", "dernière", "dernières" ]
+  } ]
+}

@@ -1,0 +1,43 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "présentation",
+    "other_forms" : [ "présentations" ]
+  }, {
+    "canonical_form" : "exhibition",
+    "other_forms" : [ "exhibitions" ]
+  }, {
+    "canonical_form" : "représentation",
+    "other_forms" : [ "représentations" ]
+  }, {
+    "canonical_form" : "séance",
+    "other_forms" : [ "séances" ]
+  }, {
+    "canonical_form" : "maintien",
+    "other_forms" : [ "maintiens" ]
+  }, {
+    "canonical_form" : "introduction",
+    "other_forms" : [ "introductions" ]
+  }, {
+    "canonical_form" : "exposition",
+    "other_forms" : [ "expositions" ]
+  }, {
+    "canonical_form" : "visualisation",
+    "other_forms" : [ "visualisations" ]
+  }, {
+    "canonical_form" : "purification",
+    "other_forms" : [ "purifications" ]
+  }, {
+    "canonical_form" : "préface",
+    "other_forms" : [ "préfaces" ]
+  }, {
+    "canonical_form" : "production",
+    "other_forms" : [ "productions" ]
+  }, {
+    "canonical_form" : "festival",
+    "other_forms" : [ "festivals" ]
+  }, {
+    "canonical_form" : "développement",
+    "other_forms" : [ "développements" ]
+  } ]
+}

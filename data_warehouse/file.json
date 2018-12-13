@@ -1,0 +1,64 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "file",
+    "other_forms" : [ "files" ]
+  }, {
+    "canonical_form" : "suite",
+    "other_forms" : [ "suites" ]
+  }, {
+    "canonical_form" : "cortège",
+    "other_forms" : [ "cortèges" ]
+  }, {
+    "canonical_form" : "succession",
+    "other_forms" : [ "successions" ]
+  }, {
+    "canonical_form" : "chapelet",
+    "other_forms" : [ "chapelets" ]
+  }, {
+    "canonical_form" : "ligne",
+    "other_forms" : [ "lignes" ]
+  }, {
+    "canonical_form" : "ribambelle",
+    "other_forms" : [ "ribambelles" ]
+  }, {
+    "canonical_form" : "série",
+    "other_forms" : [ "séries" ]
+  }, {
+    "canonical_form" : "rang",
+    "other_forms" : [ "rangs" ]
+  }, {
+    "canonical_form" : "procession",
+    "other_forms" : [ "processions" ]
+  }, {
+    "canonical_form" : "enfilade",
+    "other_forms" : [ "enfilades" ]
+  }, {
+    "canonical_form" : "train",
+    "other_forms" : [ "trains" ]
+  }, {
+    "canonical_form" : "théorie",
+    "other_forms" : [ "théories" ]
+  }, {
+    "canonical_form" : "queue",
+    "other_forms" : [ "queues" ]
+  }, {
+    "canonical_form" : "convoi",
+    "other_forms" : [ "convois" ]
+  }, {
+    "canonical_form" : "allongement",
+    "other_forms" : [ "allongements" ]
+  }, {
+    "canonical_form" : "caravane",
+    "other_forms" : [ "caravanes" ]
+  }, {
+    "canonical_form" : "colonne",
+    "other_forms" : [ "colonnes" ]
+  }, {
+    "canonical_form" : "cordon",
+    "other_forms" : [ "cordons" ]
+  }, {
+    "canonical_form" : "haie",
+    "other_forms" : [ "haies" ]
+  } ]
+}

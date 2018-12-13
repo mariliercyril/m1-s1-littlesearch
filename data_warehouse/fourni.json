@@ -1,0 +1,43 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "fourni",
+    "other_forms" : [ "fournie", "fournies", "fournis" ]
+  }, {
+    "canonical_form" : "garni",
+    "other_forms" : [ "garnie", "garnies", "garnis" ]
+  }, {
+    "canonical_form" : "touffu",
+    "other_forms" : [ "touffue", "touffues", "touffus" ]
+  }, {
+    "canonical_form" : "abondant",
+    "other_forms" : [ "abondante", "abondantes", "abondants" ]
+  }, {
+    "canonical_form" : "épais",
+    "other_forms" : [ "épaisse", "épaisses" ]
+  }, {
+    "canonical_form" : "nanti",
+    "other_forms" : [ "nantie", "nanties", "nantis" ]
+  }, {
+    "canonical_form" : "muni",
+    "other_forms" : [ "munie", "munies", "munis" ]
+  }, {
+    "canonical_form" : "dense",
+    "other_forms" : [ "denses" ]
+  }, {
+    "canonical_form" : "broussailleux",
+    "other_forms" : [ "broussailleuse", "broussailleuses" ]
+  }, {
+    "canonical_form" : "assorti",
+    "other_forms" : [ "assortie", "assorties", "assortis" ]
+  }, {
+    "canonical_form" : "achalandé",
+    "other_forms" : [ "achalandée", "achalandées", "achalandés" ]
+  }, {
+    "canonical_form" : "dru",
+    "other_forms" : [ "drue", "drues", "drus" ]
+  }, {
+    "canonical_form" : "buissonneux",
+    "other_forms" : [ "buissonneuse", "buissonneuses" ]
+  } ]
+}

@@ -1,0 +1,16 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "fonctionnel",
+    "other_forms" : [ "fonctionnelle", "fonctionnelles", "fonctionnels" ]
+  }, {
+    "canonical_form" : "inorganique",
+    "other_forms" : [ "inorganiques" ]
+  }, {
+    "canonical_form" : "pertinent",
+    "other_forms" : [ "pertinente", "pertinentes", "pertinents" ]
+  }, {
+    "canonical_form" : "pratique",
+    "other_forms" : [ "pratiques" ]
+  } ]
+}

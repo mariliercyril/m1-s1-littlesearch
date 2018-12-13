@@ -1,0 +1,28 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "mériter"
+  }, {
+    "canonical_form" : "commander"
+  }, {
+    "canonical_form" : "demander"
+  }, {
+    "canonical_form" : "requérir"
+  }, {
+    "canonical_form" : "réclamer"
+  }, {
+    "canonical_form" : "valoir"
+  }, {
+    "canonical_form" : "procurer"
+  }, {
+    "canonical_form" : "obtenir"
+  }, {
+    "canonical_form" : "nécessiter"
+  }, {
+    "canonical_form" : "imposer"
+  }, {
+    "canonical_form" : "gagner"
+  }, {
+    "canonical_form" : "appeler"
+  } ]
+}

@@ -1,0 +1,37 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "présent",
+    "other_forms" : [ "présente", "présentes", "présents" ]
+  }, {
+    "canonical_form" : "actuel",
+    "other_forms" : [ "actuelle", "actuelles", "actuels" ]
+  }, {
+    "canonical_form" : "vivant",
+    "other_forms" : [ "vivante", "vivantes", "vivants" ]
+  }, {
+    "canonical_form" : "existant",
+    "other_forms" : [ "existante", "existantes", "existants" ]
+  }, {
+    "canonical_form" : "vivace",
+    "other_forms" : [ "vivaces" ]
+  }, {
+    "canonical_form" : "omniprésent",
+    "other_forms" : [ "omniprésente", "omniprésentes", "omniprésents" ]
+  }, {
+    "canonical_form" : "moderne",
+    "other_forms" : [ "modernes" ]
+  }, {
+    "canonical_form" : "manifeste",
+    "other_forms" : [ "manifestes" ]
+  }, {
+    "canonical_form" : "immédiat",
+    "other_forms" : [ "immédiate", "immédiates", "immédiats" ]
+  }, {
+    "canonical_form" : "courant",
+    "other_forms" : [ "courante", "courantes", "courants" ]
+  }, {
+    "canonical_form" : "contemporain",
+    "other_forms" : [ "contemporaine", "contemporaines", "contemporains" ]
+  } ]
+}

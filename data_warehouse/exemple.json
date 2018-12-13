@@ -1,0 +1,85 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "exemple",
+    "other_forms" : [ "exemples" ]
+  }, {
+    "canonical_form" : "échantillon",
+    "other_forms" : [ "échantillons" ]
+  }, {
+    "canonical_form" : "image",
+    "other_forms" : [ "images" ]
+  }, {
+    "canonical_form" : "type",
+    "other_forms" : [ "types" ]
+  }, {
+    "canonical_form" : "leçon",
+    "other_forms" : [ "leçons" ]
+  }, {
+    "canonical_form" : "imitation",
+    "other_forms" : [ "imitations" ]
+  }, {
+    "canonical_form" : "idée",
+    "other_forms" : [ "idées" ]
+  }, {
+    "canonical_form" : "spécimen",
+    "other_forms" : [ "spécimens" ]
+  }, {
+    "canonical_form" : "preuve",
+    "other_forms" : [ "preuves" ]
+  }, {
+    "canonical_form" : "illustration",
+    "other_forms" : [ "illustrations" ]
+  }, {
+    "canonical_form" : "avant-goût",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "jurisprudence",
+    "other_forms" : [ "jurisprudences" ]
+  }, {
+    "canonical_form" : "moralité",
+    "other_forms" : [ "moralités" ]
+  }, {
+    "canonical_form" : "paradigme",
+    "other_forms" : [ "paradigmes" ]
+  }, {
+    "canonical_form" : "parangon",
+    "other_forms" : [ "parangons" ]
+  }, {
+    "canonical_form" : "règle",
+    "other_forms" : [ "règles" ]
+  }, {
+    "canonical_form" : "voie",
+    "other_forms" : [ "voies" ]
+  }, {
+    "canonical_form" : "édification",
+    "other_forms" : [ "édifications" ]
+  }, {
+    "canonical_form" : "émulation",
+    "other_forms" : [ "émulations" ]
+  }, {
+    "canonical_form" : "exhortation",
+    "other_forms" : [ "exhortations" ]
+  }, {
+    "canonical_form" : "exemplarité",
+    "other_forms" : [ "exemplarités" ]
+  }, {
+    "canonical_form" : "ange",
+    "other_forms" : [ "anges" ]
+  }, {
+    "canonical_form" : "cas",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "citation",
+    "other_forms" : [ "citations" ]
+  }, {
+    "canonical_form" : "contagion",
+    "other_forms" : [ "contagions" ]
+  }, {
+    "canonical_form" : "enseignement",
+    "other_forms" : [ "enseignements" ]
+  }, {
+    "canonical_form" : "entraînement",
+    "other_forms" : [ "entraînements" ]
+  } ]
+}

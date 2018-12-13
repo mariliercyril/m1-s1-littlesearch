@@ -1,0 +1,108 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "reconnaître"
+  }, {
+    "canonical_form" : "découvrir"
+  }, {
+    "canonical_form" : "admettre"
+  }, {
+    "canonical_form" : "avouer"
+  }, {
+    "canonical_form" : "confesser"
+  }, {
+    "canonical_form" : "discerner"
+  }, {
+    "canonical_form" : "juger"
+  }, {
+    "canonical_form" : "constater"
+  }, {
+    "canonical_form" : "accorder"
+  }, {
+    "canonical_form" : "examiner"
+  }, {
+    "canonical_form" : "révéler"
+  }, {
+    "canonical_form" : "éprouver"
+  }, {
+    "canonical_form" : "trouver"
+  }, {
+    "canonical_form" : "sonder"
+  }, {
+    "canonical_form" : "déclarer"
+  }, {
+    "canonical_form" : "distinguer"
+  }, {
+    "canonical_form" : "convenir"
+  }, {
+    "canonical_form" : "deviner"
+  }, {
+    "canonical_form" : "vérifier"
+  }, {
+    "canonical_form" : "établir"
+  }, {
+    "canonical_form" : "tâter"
+  }, {
+    "canonical_form" : "retrouver"
+  }, {
+    "canonical_form" : "remettre"
+  }, {
+    "canonical_form" : "identifier"
+  }, {
+    "canonical_form" : "explorer"
+  }, {
+    "canonical_form" : "entendre"
+  }, {
+    "canonical_form" : "attribuer"
+  }, {
+    "canonical_form" : "recevoir"
+  }, {
+    "canonical_form" : "nommer"
+  }, {
+    "canonical_form" : "croire"
+  }, {
+    "canonical_form" : "connaître"
+  }, {
+    "canonical_form" : "concéder"
+  }, {
+    "canonical_form" : "certifier"
+  }, {
+    "canonical_form" : "affirmer"
+  }, {
+    "canonical_form" : "proclamer"
+  }, {
+    "canonical_form" : "prospecter"
+  }, {
+    "canonical_form" : "prêter"
+  }, {
+    "canonical_form" : "récompenser"
+  }, {
+    "canonical_form" : "subsumer"
+  }, {
+    "canonical_form" : "visiter"
+  }, {
+    "canonical_form" : "légitimer"
+  }, {
+    "canonical_form" : "endosser"
+  }, {
+    "canonical_form" : "apparaître"
+  }, {
+    "canonical_form" : "arraisonner"
+  }, {
+    "canonical_form" : "assurer"
+  }, {
+    "canonical_form" : "avérer"
+  }, {
+    "canonical_form" : "battre"
+  }, {
+    "canonical_form" : "créditer"
+  }, {
+    "canonical_form" : "diagnostiquer"
+  }, {
+    "canonical_form" : "différencier"
+  }, {
+    "canonical_form" : "discriminer"
+  }, {
+    "canonical_form" : "éclairer"
+  } ]
+}

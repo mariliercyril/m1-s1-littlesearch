@@ -1,0 +1,43 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "moderne",
+    "other_forms" : [ "modernes" ]
+  }, {
+    "canonical_form" : "nouveau",
+    "other_forms" : [ "nouveaux", "nouvel", "nouvelle", "nouvelles" ]
+  }, {
+    "canonical_form" : "ultramoderne",
+    "other_forms" : [ "ultramodernes" ]
+  }, {
+    "canonical_form" : "récent",
+    "other_forms" : [ "récente", "récentes", "récents" ]
+  }, {
+    "canonical_form" : "neuf",
+    "other_forms" : [ "neufs", "neuve", "neuves" ]
+  }, {
+    "canonical_form" : "moderniste",
+    "other_forms" : [ "modernistes" ]
+  }, {
+    "canonical_form" : "inédit",
+    "other_forms" : [ "inédite", "inédites", "inédits" ]
+  }, {
+    "canonical_form" : "in",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "actuel",
+    "other_forms" : [ "actuelle", "actuelles", "actuels" ]
+  }, {
+    "canonical_form" : "révolutionnaire",
+    "other_forms" : [ "révolutionnaires" ]
+  }, {
+    "canonical_form" : "présent",
+    "other_forms" : [ "présente", "présentes", "présents" ]
+  }, {
+    "canonical_form" : "dernier",
+    "other_forms" : [ "derniers", "dernière", "dernières" ]
+  }, {
+    "canonical_form" : "contemporain",
+    "other_forms" : [ "contemporaine", "contemporaines", "contemporains" ]
+  } ]
+}

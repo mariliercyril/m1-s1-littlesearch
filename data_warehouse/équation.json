@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "équation",
+    "other_forms" : [ "équations" ]
+  }, {
+    "canonical_form" : "formule",
+    "other_forms" : [ "formules" ]
+  }, {
+    "canonical_form" : "égalité",
+    "other_forms" : [ "égalités" ]
+  } ]
+}

@@ -1,0 +1,31 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "intégral",
+    "other_forms" : [ "intégrale", "intégrales", "intégraux" ]
+  }, {
+    "canonical_form" : "complet",
+    "other_forms" : [ "complets", "complète", "complètes" ]
+  }, {
+    "canonical_form" : "entier",
+    "other_forms" : [ "entiers", "entière", "entières" ]
+  }, {
+    "canonical_form" : "total",
+    "other_forms" : [ "totale", "totales", "totaux" ]
+  }, {
+    "canonical_form" : "plein",
+    "other_forms" : [ "pleine", "pleines", "pleins" ]
+  }, {
+    "canonical_form" : "plénier",
+    "other_forms" : [ "pléniers", "plénière", "plénières" ]
+  }, {
+    "canonical_form" : "intégrant",
+    "other_forms" : [ "intégrante", "intégrantes", "intégrants" ]
+  }, {
+    "canonical_form" : "global",
+    "other_forms" : [ "globale", "globales", "globaux" ]
+  }, {
+    "canonical_form" : "absolu",
+    "other_forms" : [ "absolue", "absolues", "absolus" ]
+  } ]
+}

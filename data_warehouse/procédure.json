@@ -1,0 +1,49 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "procédure",
+    "other_forms" : [ "procédures" ]
+  }, {
+    "canonical_form" : "procès",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "contestation",
+    "other_forms" : [ "contestations" ]
+  }, {
+    "canonical_form" : "instance",
+    "other_forms" : [ "instances" ]
+  }, {
+    "canonical_form" : "truc",
+    "other_forms" : [ "trucs" ]
+  }, {
+    "canonical_form" : "processus",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "méthode",
+    "other_forms" : [ "méthodes" ]
+  }, {
+    "canonical_form" : "chicane",
+    "other_forms" : [ "chicanes" ]
+  }, {
+    "canonical_form" : "action",
+    "other_forms" : [ "actions" ]
+  }, {
+    "canonical_form" : "poursuite",
+    "other_forms" : [ "poursuites" ]
+  }, {
+    "canonical_form" : "paperasserie",
+    "other_forms" : [ "paperasseries" ]
+  }, {
+    "canonical_form" : "instruction",
+    "other_forms" : [ "instructions" ]
+  }, {
+    "canonical_form" : "formalité",
+    "other_forms" : [ "formalités" ]
+  }, {
+    "canonical_form" : "complication",
+    "other_forms" : [ "complications" ]
+  }, {
+    "canonical_form" : "querelle",
+    "other_forms" : [ "querelles" ]
+  } ]
+}

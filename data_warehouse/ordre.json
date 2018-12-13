@@ -1,0 +1,295 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "ordre",
+    "other_forms" : [ "ordres" ]
+  }, {
+    "canonical_form" : "organisation",
+    "other_forms" : [ "organisations" ]
+  }, {
+    "canonical_form" : "disposition",
+    "other_forms" : [ "dispositions" ]
+  }, {
+    "canonical_form" : "arrangement",
+    "other_forms" : [ "arrangements" ]
+  }, {
+    "canonical_form" : "agencement",
+    "other_forms" : [ "agencements" ]
+  }, {
+    "canonical_form" : "ordonnance",
+    "other_forms" : [ "ordonnances" ]
+  }, {
+    "canonical_form" : "distribution",
+    "other_forms" : [ "distributions" ]
+  }, {
+    "canonical_form" : "combinaison",
+    "other_forms" : [ "combinaisons" ]
+  }, {
+    "canonical_form" : "discipline",
+    "other_forms" : [ "disciplines" ]
+  }, {
+    "canonical_form" : "division",
+    "other_forms" : [ "divisions" ]
+  }, {
+    "canonical_form" : "hiérarchie",
+    "other_forms" : [ "hiérarchies" ]
+  }, {
+    "canonical_form" : "sorte",
+    "other_forms" : [ "sortes" ]
+  }, {
+    "canonical_form" : "règlement",
+    "other_forms" : [ "règlements" ]
+  }, {
+    "canonical_form" : "règle",
+    "other_forms" : [ "règles" ]
+  }, {
+    "canonical_form" : "instruction",
+    "other_forms" : [ "instructions" ]
+  }, {
+    "canonical_form" : "harmonie",
+    "other_forms" : [ "harmonies" ]
+  }, {
+    "canonical_form" : "classe",
+    "other_forms" : [ "classes" ]
+  }, {
+    "canonical_form" : "type",
+    "other_forms" : [ "types" ]
+  }, {
+    "canonical_form" : "structure",
+    "other_forms" : [ "structures" ]
+  }, {
+    "canonical_form" : "rang",
+    "other_forms" : [ "rangs" ]
+  }, {
+    "canonical_form" : "prescription",
+    "other_forms" : [ "prescriptions" ]
+  }, {
+    "canonical_form" : "méthode",
+    "other_forms" : [ "méthodes" ]
+  }, {
+    "canonical_form" : "ligne",
+    "other_forms" : [ "lignes" ]
+  }, {
+    "canonical_form" : "commandement",
+    "other_forms" : [ "commandements" ]
+  }, {
+    "canonical_form" : "classement",
+    "other_forms" : [ "classements" ]
+  }, {
+    "canonical_form" : "catégorie",
+    "other_forms" : [ "catégories" ]
+  }, {
+    "canonical_form" : "système",
+    "other_forms" : [ "systèmes" ]
+  }, {
+    "canonical_form" : "genre",
+    "other_forms" : [ "genres" ]
+  }, {
+    "canonical_form" : "composition",
+    "other_forms" : [ "compositions" ]
+  }, {
+    "canonical_form" : "association",
+    "other_forms" : [ "associations" ]
+  }, {
+    "canonical_form" : "équilibre",
+    "other_forms" : [ "équilibres" ]
+  }, {
+    "canonical_form" : "économie",
+    "other_forms" : [ "économies" ]
+  }, {
+    "canonical_form" : "recommandation",
+    "other_forms" : [ "recommandations" ]
+  }, {
+    "canonical_form" : "injonction",
+    "other_forms" : [ "injonctions" ]
+  }, {
+    "canonical_form" : "direction",
+    "other_forms" : [ "directions" ]
+  }, {
+    "canonical_form" : "nature",
+    "other_forms" : [ "natures" ]
+  }, {
+    "canonical_form" : "norme",
+    "other_forms" : [ "normes" ]
+  }, {
+    "canonical_form" : "qualité",
+    "other_forms" : [ "qualités" ]
+  }, {
+    "canonical_form" : "répartition",
+    "other_forms" : [ "répartitions" ]
+  }, {
+    "canonical_form" : "sommation",
+    "other_forms" : [ "sommations" ]
+  }, {
+    "canonical_form" : "succession",
+    "other_forms" : [ "successions" ]
+  }, {
+    "canonical_form" : "mandement",
+    "other_forms" : [ "mandements" ]
+  }, {
+    "canonical_form" : "groupe",
+    "other_forms" : [ "groupes" ]
+  }, {
+    "canonical_form" : "espèce",
+    "other_forms" : [ "espèces" ]
+  }, {
+    "canonical_form" : "assemblage",
+    "other_forms" : [ "assemblages" ]
+  }, {
+    "canonical_form" : "avis",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "classification",
+    "other_forms" : [ "classifications" ]
+  }, {
+    "canonical_form" : "consigne",
+    "other_forms" : [ "consignes" ]
+  }, {
+    "canonical_form" : "coordination",
+    "other_forms" : [ "coordinations" ]
+  }, {
+    "canonical_form" : "demande",
+    "other_forms" : [ "demandes" ]
+  }, {
+    "canonical_form" : "place",
+    "other_forms" : [ "places" ]
+  }, {
+    "canonical_form" : "police",
+    "other_forms" : [ "polices" ]
+  }, {
+    "canonical_form" : "rangement",
+    "other_forms" : [ "rangements" ]
+  }, {
+    "canonical_form" : "relation",
+    "other_forms" : [ "relations" ]
+  }, {
+    "canonical_form" : "soin",
+    "other_forms" : [ "soins" ]
+  }, {
+    "canonical_form" : "tranquillité",
+    "other_forms" : [ "tranquillités" ]
+  }, {
+    "canonical_form" : "ultimatum",
+    "other_forms" : [ "ultimatums" ]
+  }, {
+    "canonical_form" : "paix",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "niveau",
+    "other_forms" : [ "niveaux" ]
+  }, {
+    "canonical_form" : "aménagement",
+    "other_forms" : [ "aménagements" ]
+  }, {
+    "canonical_form" : "charge",
+    "other_forms" : [ "charges" ]
+  }, {
+    "canonical_form" : "communauté",
+    "other_forms" : [ "communautés" ]
+  }, {
+    "canonical_form" : "domaine",
+    "other_forms" : [ "domaines" ]
+  }, {
+    "canonical_form" : "enchaînement",
+    "other_forms" : [ "enchaînements" ]
+  }, {
+    "canonical_form" : "exigence",
+    "other_forms" : [ "exigences" ]
+  }, {
+    "canonical_form" : "formation",
+    "other_forms" : [ "formations" ]
+  }, {
+    "canonical_form" : "note",
+    "other_forms" : [ "notes" ]
+  }, {
+    "canonical_form" : "oukase",
+    "other_forms" : [ "oukases" ]
+  }, {
+    "canonical_form" : "prêtrise",
+    "other_forms" : [ "prêtrises" ]
+  }, {
+    "canonical_form" : "sacerdoce",
+    "other_forms" : [ "sacerdoces" ]
+  }, {
+    "canonical_form" : "subordination",
+    "other_forms" : [ "subordinations" ]
+  }, {
+    "canonical_form" : "sécurité",
+    "other_forms" : [ "sécurités" ]
+  }, {
+    "canonical_form" : "filiation",
+    "other_forms" : [ "filiations" ]
+  }, {
+    "canonical_form" : "alignement",
+    "other_forms" : [ "alignements" ]
+  }, {
+    "canonical_form" : "caste",
+    "other_forms" : [ "castes" ]
+  }, {
+    "canonical_form" : "chronologie",
+    "other_forms" : [ "chronologies" ]
+  }, {
+    "canonical_form" : "commande",
+    "other_forms" : [ "commandes" ]
+  }, {
+    "canonical_form" : "décret",
+    "other_forms" : [ "décrets" ]
+  }, {
+    "canonical_form" : "netteté",
+    "other_forms" : [ "nettetés" ]
+  }, {
+    "canonical_form" : "ordonnancement",
+    "other_forms" : [ "ordonnancements" ]
+  }, {
+    "canonical_form" : "semonce",
+    "other_forms" : [ "semonces" ]
+  }, {
+    "canonical_form" : "sphère",
+    "other_forms" : [ "sphères" ]
+  }, {
+    "canonical_form" : "style",
+    "other_forms" : [ "styles" ]
+  }, {
+    "canonical_form" : "successivité",
+    "other_forms" : [ "successivités" ]
+  }, {
+    "canonical_form" : "suite",
+    "other_forms" : [ "suites" ]
+  }, {
+    "canonical_form" : "symétrie",
+    "other_forms" : [ "symétries" ]
+  }, {
+    "canonical_form" : "minutie",
+    "other_forms" : [ "minuties" ]
+  }, {
+    "canonical_form" : "invite",
+    "other_forms" : [ "invites" ]
+  }, {
+    "canonical_form" : "bulletin",
+    "other_forms" : [ "bulletins" ]
+  }, {
+    "canonical_form" : "bénédiction",
+    "other_forms" : [ "bénédictions" ]
+  }, {
+    "canonical_form" : "clergé",
+    "other_forms" : [ "clergés" ]
+  }, {
+    "canonical_form" : "congrégation",
+    "other_forms" : [ "congrégations" ]
+  }, {
+    "canonical_form" : "corporation",
+    "other_forms" : [ "corporations" ]
+  }, {
+    "canonical_form" : "corps",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "eurythmie",
+    "other_forms" : [ "eurythmies" ]
+  }, {
+    "canonical_form" : "gradation",
+    "other_forms" : [ "gradations" ]
+  }, {
+    "canonical_form" : "sûreté",
+    "other_forms" : [ "sûretés" ]
+  } ]
+}

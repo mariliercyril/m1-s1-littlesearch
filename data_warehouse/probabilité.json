@@ -1,0 +1,40 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "probabilité",
+    "other_forms" : [ "probabilités" ]
+  }, {
+    "canonical_form" : "possibilité",
+    "other_forms" : [ "possibilités" ]
+  }, {
+    "canonical_form" : "conjecture",
+    "other_forms" : [ "conjectures" ]
+  }, {
+    "canonical_form" : "hypothèse",
+    "other_forms" : [ "hypothèses" ]
+  }, {
+    "canonical_form" : "plausibilité",
+    "other_forms" : [ "plausibilités" ]
+  }, {
+    "canonical_form" : "prévision",
+    "other_forms" : [ "prévisions" ]
+  }, {
+    "canonical_form" : "vraisemblance",
+    "other_forms" : [ "vraisemblances" ]
+  }, {
+    "canonical_form" : "prévisibilité",
+    "other_forms" : [ "prévisibilités" ]
+  }, {
+    "canonical_form" : "perspective",
+    "other_forms" : [ "perspectives" ]
+  }, {
+    "canonical_form" : "chance",
+    "other_forms" : [ "chances" ]
+  }, {
+    "canonical_form" : "apparence",
+    "other_forms" : [ "apparences" ]
+  }, {
+    "canonical_form" : "raison",
+    "other_forms" : [ "raisons" ]
+  } ]
+}

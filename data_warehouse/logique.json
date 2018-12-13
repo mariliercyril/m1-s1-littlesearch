@@ -1,0 +1,115 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "logique",
+    "other_forms" : [ "logiques" ]
+  }, {
+    "canonical_form" : "rationnel",
+    "other_forms" : [ "rationnelle", "rationnelles", "rationnels" ]
+  }, {
+    "canonical_form" : "exact",
+    "other_forms" : [ "exacte", "exactes", "exacts" ]
+  }, {
+    "canonical_form" : "juste",
+    "other_forms" : [ "justes" ]
+  }, {
+    "canonical_form" : "rigoureux",
+    "other_forms" : [ "rigoureuse", "rigoureuses" ]
+  }, {
+    "canonical_form" : "vrai",
+    "other_forms" : [ "vraie", "vraies", "vrais" ]
+  }, {
+    "canonical_form" : "régulier",
+    "other_forms" : [ "réguliers", "régulière", "régulières" ]
+  }, {
+    "canonical_form" : "précis",
+    "other_forms" : [ "précise", "précises" ]
+  }, {
+    "canonical_form" : "net",
+    "other_forms" : [ "nets", "nette", "nettes" ]
+  }, {
+    "canonical_form" : "solide",
+    "other_forms" : [ "solides" ]
+  }, {
+    "canonical_form" : "raisonnable",
+    "other_forms" : [ "raisonnables" ]
+  }, {
+    "canonical_form" : "normal",
+    "other_forms" : [ "normale", "normales", "normaux" ]
+  }, {
+    "canonical_form" : "méthodique",
+    "other_forms" : [ "méthodiques" ]
+  }, {
+    "canonical_form" : "géométrique",
+    "other_forms" : [ "géométriques" ]
+  }, {
+    "canonical_form" : "déductif",
+    "other_forms" : [ "déductifs", "déductive", "déductives" ]
+  }, {
+    "canonical_form" : "droit",
+    "other_forms" : [ "droite", "droites", "droits" ]
+  }, {
+    "canonical_form" : "systématique",
+    "other_forms" : [ "systématiques" ]
+  }, {
+    "canonical_form" : "suivi",
+    "other_forms" : [ "suivie", "suivies", "suivis" ]
+  }, {
+    "canonical_form" : "mathématique",
+    "other_forms" : [ "mathématiques" ]
+  }, {
+    "canonical_form" : "conséquent",
+    "other_forms" : [ "conséquente", "conséquentes", "conséquents" ]
+  }, {
+    "canonical_form" : "nécessaire",
+    "other_forms" : [ "nécessaires" ]
+  }, {
+    "canonical_form" : "sage",
+    "other_forms" : [ "sages" ]
+  }, {
+    "canonical_form" : "sensé",
+    "other_forms" : [ "sensée", "sensées", "sensés" ]
+  }, {
+    "canonical_form" : "naturel",
+    "other_forms" : [ "naturelle", "naturelles", "naturels" ]
+  }, {
+    "canonical_form" : "cartésien",
+    "other_forms" : [ "cartésienne", "cartésiennes", "cartésiens" ]
+  }, {
+    "canonical_form" : "cohérent",
+    "other_forms" : [ "cohérente", "cohérentes", "cohérents" ]
+  }, {
+    "canonical_form" : "conforme",
+    "other_forms" : [ "conformes" ]
+  }, {
+    "canonical_form" : "dialectique",
+    "other_forms" : [ "dialectiques" ]
+  }, {
+    "canonical_form" : "fatal",
+    "other_forms" : [ "fatale", "fatales", "fatals" ]
+  }, {
+    "canonical_form" : "inévitable",
+    "other_forms" : [ "inévitables" ]
+  }, {
+    "canonical_form" : "irréfragable",
+    "other_forms" : [ "irréfragables" ]
+  }, {
+    "canonical_form" : "judicieux",
+    "other_forms" : [ "judicieuse", "judicieuses" ]
+  }, {
+    "canonical_form" : "probant",
+    "other_forms" : [ "probante", "probantes", "probants" ]
+  }, {
+    "canonical_form" : "inéluctable",
+    "other_forms" : [ "inéluctables" ]
+  }, {
+    "canonical_form" : "fatidique",
+    "other_forms" : [ "fatidiques" ]
+  }, {
+    "canonical_form" : "discursif",
+    "other_forms" : [ "discursifs", "discursive", "discursives" ]
+  }, {
+    "canonical_form" : "sophistique",
+    "other_forms" : [ "sophistiques" ]
+  } ]
+}

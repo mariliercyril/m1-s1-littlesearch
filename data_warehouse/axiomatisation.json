@@ -1,0 +1,10 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "axiomatisation",
+    "other_forms" : [ "axiomatisations" ]
+  }, {
+    "canonical_form" : "formalisation",
+    "other_forms" : [ "formalisations" ]
+  } ]
+}

@@ -1,0 +1,187 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "naturel",
+    "other_forms" : [ "naturelle", "naturelles", "naturels" ]
+  }, {
+    "canonical_form" : "simple",
+    "other_forms" : [ "simples" ]
+  }, {
+    "canonical_form" : "spontané",
+    "other_forms" : [ "spontanée", "spontanées", "spontanés" ]
+  }, {
+    "canonical_form" : "inné",
+    "other_forms" : [ "innée", "innées", "innés" ]
+  }, {
+    "canonical_form" : "vrai",
+    "other_forms" : [ "vraie", "vraies", "vrais" ]
+  }, {
+    "canonical_form" : "pur",
+    "other_forms" : [ "pure", "pures", "purs" ]
+  }, {
+    "canonical_form" : "essentiel",
+    "other_forms" : [ "essentielle", "essentielles", "essentiels" ]
+  }, {
+    "canonical_form" : "aisé",
+    "other_forms" : [ "aisée", "aisées", "aisés" ]
+  }, {
+    "canonical_form" : "natif",
+    "other_forms" : [ "natifs", "native", "natives" ]
+  }, {
+    "canonical_form" : "primitif",
+    "other_forms" : [ "primitifs", "primitive", "primitives" ]
+  }, {
+    "canonical_form" : "originaire",
+    "other_forms" : [ "originaires" ]
+  }, {
+    "canonical_form" : "normal",
+    "other_forms" : [ "normale", "normales", "normaux" ]
+  }, {
+    "canonical_form" : "franc",
+    "other_forms" : [ "franche", "franches", "francs" ]
+  }, {
+    "canonical_form" : "brut",
+    "other_forms" : [ "brute", "brutes", "bruts" ]
+  }, {
+    "canonical_form" : "facile",
+    "other_forms" : [ "faciles" ]
+  }, {
+    "canonical_form" : "naïf",
+    "other_forms" : [ "naïfs", "naïve", "naïves" ]
+  }, {
+    "canonical_form" : "sincère",
+    "other_forms" : [ "sincères" ]
+  }, {
+    "canonical_form" : "fondamental",
+    "other_forms" : [ "fondamentale", "fondamentales", "fondamentaux" ]
+  }, {
+    "canonical_form" : "instinctif",
+    "other_forms" : [ "instinctifs", "instinctive", "instinctives" ]
+  }, {
+    "canonical_form" : "irréfléchi",
+    "other_forms" : [ "irréfléchie", "irréfléchies", "irréfléchis" ]
+  }, {
+    "canonical_form" : "ordinaire",
+    "other_forms" : [ "ordinaires" ]
+  }, {
+    "canonical_form" : "physique",
+    "other_forms" : [ "physiques" ]
+  }, {
+    "canonical_form" : "propre",
+    "other_forms" : [ "propres" ]
+  }, {
+    "canonical_form" : "raisonnable",
+    "other_forms" : [ "raisonnables" ]
+  }, {
+    "canonical_form" : "véritable",
+    "other_forms" : [ "véritables" ]
+  }, {
+    "canonical_form" : "initial",
+    "other_forms" : [ "initiale", "initiales", "initiaux" ]
+  }, {
+    "canonical_form" : "indigène",
+    "other_forms" : [ "indigènes" ]
+  }, {
+    "canonical_form" : "aborigène",
+    "other_forms" : [ "aborigènes" ]
+  }, {
+    "canonical_form" : "honnête",
+    "other_forms" : [ "honnêtes" ]
+  }, {
+    "canonical_form" : "illégitime",
+    "other_forms" : [ "illégitimes" ]
+  }, {
+    "canonical_form" : "habituel",
+    "other_forms" : [ "habituelle", "habituelles", "habituels" ]
+  }, {
+    "canonical_form" : "inhérent",
+    "other_forms" : [ "inhérente", "inhérentes", "inhérents" ]
+  }, {
+    "canonical_form" : "intrinsèque",
+    "other_forms" : [ "intrinsèques" ]
+  }, {
+    "canonical_form" : "logique",
+    "other_forms" : [ "logiques" ]
+  }, {
+    "canonical_form" : "rationnel",
+    "other_forms" : [ "rationnelle", "rationnelles", "rationnels" ]
+  }, {
+    "canonical_form" : "sain",
+    "other_forms" : [ "saine", "saines", "sains" ]
+  }, {
+    "canonical_form" : "fruste",
+    "other_forms" : [ "frustes" ]
+  }, {
+    "canonical_form" : "foncier",
+    "other_forms" : [ "fonciers", "foncière", "foncières" ]
+  }, {
+    "canonical_form" : "autochtone",
+    "other_forms" : [ "autochtones" ]
+  }, {
+    "canonical_form" : "candide",
+    "other_forms" : [ "candides" ]
+  }, {
+    "canonical_form" : "caractéristique",
+    "other_forms" : [ "caractéristiques" ]
+  }, {
+    "canonical_form" : "compréhensible",
+    "other_forms" : [ "compréhensibles" ]
+  }, {
+    "canonical_form" : "congénital",
+    "other_forms" : [ "congénitale", "congénitales", "congénitaux" ]
+  }, {
+    "canonical_form" : "constitutif",
+    "other_forms" : [ "constitutifs", "constitutive", "constitutives" ]
+  }, {
+    "canonical_form" : "corporel",
+    "other_forms" : [ "corporelle", "corporelles", "corporels" ]
+  }, {
+    "canonical_form" : "correct",
+    "other_forms" : [ "correcte", "correctes", "corrects" ]
+  }, {
+    "canonical_form" : "coulant",
+    "other_forms" : [ "coulante", "coulantes", "coulants" ]
+  }, {
+    "canonical_form" : "irrégulier",
+    "other_forms" : [ "irréguliers", "irrégulière", "irrégulières" ]
+  }, {
+    "canonical_form" : "involontaire",
+    "other_forms" : [ "involontaires" ]
+  }, {
+    "canonical_form" : "physiologique",
+    "other_forms" : [ "physiologiques" ]
+  }, {
+    "canonical_form" : "primesautier",
+    "other_forms" : [ "primesautiers", "primesautière", "primesautières" ]
+  }, {
+    "canonical_form" : "infus",
+    "other_forms" : [ "infuse", "infuses" ]
+  }, {
+    "canonical_form" : "héréditaire",
+    "other_forms" : [ "héréditaires" ]
+  }, {
+    "canonical_form" : "adultérin",
+    "other_forms" : [ "adultérine", "adultérines", "adultérins" ]
+  }, {
+    "canonical_form" : "ancestral",
+    "other_forms" : [ "ancestrale", "ancestrales", "ancestraux" ]
+  }, {
+    "canonical_form" : "authentique",
+    "other_forms" : [ "authentiques" ]
+  }, {
+    "canonical_form" : "bâtard",
+    "other_forms" : [ "bâtarde", "bâtardes", "bâtards" ]
+  }, {
+    "canonical_form" : "charnel",
+    "other_forms" : [ "charnelle", "charnelles", "charnels" ]
+  }, {
+    "canonical_form" : "commun",
+    "other_forms" : [ "commune", "communes", "communs" ]
+  }, {
+    "canonical_form" : "direct",
+    "other_forms" : [ "directe", "directes", "directs" ]
+  }, {
+    "canonical_form" : "écru",
+    "other_forms" : [ "écrue", "écrues", "écrus" ]
+  } ]
+}

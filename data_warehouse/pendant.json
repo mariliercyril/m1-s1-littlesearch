@@ -1,0 +1,40 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "pendant",
+    "other_forms" : [ "pendante", "pendantes", "pendants" ]
+  }, {
+    "canonical_form" : "avachi",
+    "other_forms" : [ "avachie", "avachies", "avachis" ]
+  }, {
+    "canonical_form" : "semblable",
+    "other_forms" : [ "semblables" ]
+  }, {
+    "canonical_form" : "flasque",
+    "other_forms" : [ "flasques" ]
+  }, {
+    "canonical_form" : "retombant",
+    "other_forms" : [ "retombante", "retombantes", "retombants" ]
+  }, {
+    "canonical_form" : "symétrique",
+    "other_forms" : [ "symétriques" ]
+  }, {
+    "canonical_form" : "tombant",
+    "other_forms" : [ "tombante", "tombantes", "tombants" ]
+  }, {
+    "canonical_form" : "traînant",
+    "other_forms" : [ "traînante", "traînantes", "traînants" ]
+  }, {
+    "canonical_form" : "ballant",
+    "other_forms" : [ "ballante", "ballantes", "ballants" ]
+  }, {
+    "canonical_form" : "bas",
+    "other_forms" : [ "basse", "basses" ]
+  }, {
+    "canonical_form" : "correspondant",
+    "other_forms" : [ "correspondante", "correspondantes", "correspondants" ]
+  }, {
+    "canonical_form" : "égal",
+    "other_forms" : [ "égale", "égales", "égaux" ]
+  } ]
+}

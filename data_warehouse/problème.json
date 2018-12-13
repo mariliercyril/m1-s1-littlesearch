@@ -1,0 +1,37 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "problème",
+    "other_forms" : [ "problèmes" ]
+  }, {
+    "canonical_form" : "difficulté",
+    "other_forms" : [ "difficultés" ]
+  }, {
+    "canonical_form" : "ennui",
+    "other_forms" : [ "ennuis" ]
+  }, {
+    "canonical_form" : "question",
+    "other_forms" : [ "questions" ]
+  }, {
+    "canonical_form" : "affaire",
+    "other_forms" : [ "affaires" ]
+  }, {
+    "canonical_form" : "histoire",
+    "other_forms" : [ "histoires" ]
+  }, {
+    "canonical_form" : "tirage",
+    "other_forms" : [ "tirages" ]
+  }, {
+    "canonical_form" : "souci",
+    "other_forms" : [ "soucis" ]
+  }, {
+    "canonical_form" : "colle",
+    "other_forms" : [ "colles" ]
+  }, {
+    "canonical_form" : "complication",
+    "other_forms" : [ "complications" ]
+  }, {
+    "canonical_form" : "énigme",
+    "other_forms" : [ "énigmes" ]
+  } ]
+}

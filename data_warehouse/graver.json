@@ -1,0 +1,54 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "graver"
+  }, {
+    "canonical_form" : "marquer"
+  }, {
+    "canonical_form" : "inscrire"
+  }, {
+    "canonical_form" : "imprimer"
+  }, {
+    "canonical_form" : "buriner"
+  }, {
+    "canonical_form" : "empreindre"
+  }, {
+    "canonical_form" : "fixer"
+  }, {
+    "canonical_form" : "incruster"
+  }, {
+    "canonical_form" : "écrire"
+  }, {
+    "canonical_form" : "tracer"
+  }, {
+    "canonical_form" : "tatouer"
+  }, {
+    "canonical_form" : "sculpter"
+  }, {
+    "canonical_form" : "poinçonner"
+  }, {
+    "canonical_form" : "nieller"
+  }, {
+    "canonical_form" : "lithographier"
+  }, {
+    "canonical_form" : "intailler"
+  }, {
+    "canonical_form" : "insculper"
+  }, {
+    "canonical_form" : "inculquer"
+  }, {
+    "canonical_form" : "immortaliser"
+  }, {
+    "canonical_form" : "guillocher"
+  }, {
+    "canonical_form" : "estamper"
+  }, {
+    "canonical_form" : "enregistrer"
+  }, {
+    "canonical_form" : "engraver"
+  }, {
+    "canonical_form" : "dessiner"
+  }, {
+    "canonical_form" : "échopper"
+  } ]
+}

@@ -1,0 +1,16 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "social",
+    "other_forms" : [ "sociale", "sociales", "sociaux" ]
+  }, {
+    "canonical_form" : "humain",
+    "other_forms" : [ "humaine", "humaines", "humains" ]
+  }, {
+    "canonical_form" : "politique",
+    "other_forms" : [ "politiques" ]
+  }, {
+    "canonical_form" : "sociable",
+    "other_forms" : [ "sociables" ]
+  } ]
+}

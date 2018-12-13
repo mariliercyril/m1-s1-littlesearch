@@ -1,0 +1,106 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "naissance",
+    "other_forms" : [ "naissances" ]
+  }, {
+    "canonical_form" : "origine",
+    "other_forms" : [ "origines" ]
+  }, {
+    "canonical_form" : "commencement",
+    "other_forms" : [ "commencements" ]
+  }, {
+    "canonical_form" : "seuil",
+    "other_forms" : [ "seuils" ]
+  }, {
+    "canonical_form" : "début",
+    "other_forms" : [ "débuts" ]
+  }, {
+    "canonical_form" : "race",
+    "other_forms" : [ "races" ]
+  }, {
+    "canonical_form" : "maison",
+    "other_forms" : [ "maisons" ]
+  }, {
+    "canonical_form" : "extraction",
+    "other_forms" : [ "extractions" ]
+  }, {
+    "canonical_form" : "création",
+    "other_forms" : [ "créations" ]
+  }, {
+    "canonical_form" : "aurore",
+    "other_forms" : [ "aurores" ]
+  }, {
+    "canonical_form" : "apparition",
+    "other_forms" : [ "apparitions" ]
+  }, {
+    "canonical_form" : "être",
+    "other_forms" : [ "êtres" ]
+  }, {
+    "canonical_form" : "éclosion",
+    "other_forms" : [ "éclosions" ]
+  }, {
+    "canonical_form" : "racine",
+    "other_forms" : [ "racines" ]
+  }, {
+    "canonical_form" : "génération",
+    "other_forms" : [ "générations" ]
+  }, {
+    "canonical_form" : "filiation",
+    "other_forms" : [ "filiations" ]
+  }, {
+    "canonical_form" : "avènement",
+    "other_forms" : [ "avènements" ]
+  }, {
+    "canonical_form" : "ascendance",
+    "other_forms" : [ "ascendances" ]
+  }, {
+    "canonical_form" : "jour",
+    "other_forms" : [ "jours" ]
+  }, {
+    "canonical_form" : "nativité",
+    "other_forms" : [ "nativités" ]
+  }, {
+    "canonical_form" : "noblesse",
+    "other_forms" : [ "noblesses" ]
+  }, {
+    "canonical_form" : "nom",
+    "other_forms" : [ "noms" ]
+  }, {
+    "canonical_form" : "parage",
+    "other_forms" : [ "parages" ]
+  }, {
+    "canonical_form" : "source",
+    "other_forms" : [ "sources" ]
+  }, {
+    "canonical_form" : "ébauche",
+    "other_forms" : [ "ébauches" ]
+  }, {
+    "canonical_form" : "genèse",
+    "other_forms" : [ "genèses" ]
+  }, {
+    "canonical_form" : "accouchement",
+    "other_forms" : [ "accouchements" ]
+  }, {
+    "canonical_form" : "agnelage",
+    "other_forms" : [ "agnelages" ]
+  }, {
+    "canonical_form" : "attache",
+    "other_forms" : [ "attaches" ]
+  }, {
+    "canonical_form" : "aube",
+    "other_forms" : [ "aubes" ]
+  }, {
+    "canonical_form" : "berceau",
+    "other_forms" : [ "berceaux" ]
+  }, {
+    "canonical_form" : "départ",
+    "other_forms" : [ "départs" ]
+  }, {
+    "canonical_form" : "développement",
+    "other_forms" : [ "développements" ]
+  }, {
+    "canonical_form" : "état",
+    "other_forms" : [ "états" ]
+  } ]
+}

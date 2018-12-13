@@ -1,0 +1,31 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "inventeur",
+    "other_forms" : [ "inventeurs", "inventrice", "inventrices" ]
+  }, {
+    "canonical_form" : "innovateur",
+    "other_forms" : [ "innovateurs", "innovatrice", "innovatrices" ]
+  }, {
+    "canonical_form" : "novateur",
+    "other_forms" : [ "novateurs", "novatrice", "novatrices" ]
+  }, {
+    "canonical_form" : "producteur",
+    "other_forms" : [ "producteurs", "productrice", "productrices" ]
+  }, {
+    "canonical_form" : "premier",
+    "other_forms" : [ "premiers", "première", "premières" ]
+  }, {
+    "canonical_form" : "inventif",
+    "other_forms" : [ "inventifs", "inventive", "inventives" ]
+  }, {
+    "canonical_form" : "chercheur",
+    "other_forms" : [ "chercheurs", "chercheuse", "chercheuses" ]
+  }, {
+    "canonical_form" : "bienfaiteur",
+    "other_forms" : [ "bienfaiteurs", "bienfaitrice", "bienfaitrices" ]
+  }, {
+    "canonical_form" : "précurseur",
+    "other_forms" : [ "précurseurs" ]
+  } ]
+}

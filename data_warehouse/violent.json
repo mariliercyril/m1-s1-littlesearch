@@ -1,0 +1,241 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "violent",
+    "other_forms" : [ "violente", "violentes", "violents" ]
+  }, {
+    "canonical_form" : "vif",
+    "other_forms" : [ "vifs", "vive", "vives" ]
+  }, {
+    "canonical_form" : "dur",
+    "other_forms" : [ "dure", "dures", "durs" ]
+  }, {
+    "canonical_form" : "excessif",
+    "other_forms" : [ "excessifs", "excessive", "excessives" ]
+  }, {
+    "canonical_form" : "fort",
+    "other_forms" : [ "forte", "fortes", "forts" ]
+  }, {
+    "canonical_form" : "fou",
+    "other_forms" : [ "fol", "folle", "folles", "fous" ]
+  }, {
+    "canonical_form" : "frénétique",
+    "other_forms" : [ "frénétiques" ]
+  }, {
+    "canonical_form" : "âpre",
+    "other_forms" : [ "âpres" ]
+  }, {
+    "canonical_form" : "terrible",
+    "other_forms" : [ "terribles" ]
+  }, {
+    "canonical_form" : "furieux",
+    "other_forms" : [ "furieuse", "furieuses" ]
+  }, {
+    "canonical_form" : "brutal",
+    "other_forms" : [ "brutale", "brutales", "brutaux" ]
+  }, {
+    "canonical_form" : "ardent",
+    "other_forms" : [ "ardente", "ardentes", "ardents" ]
+  }, {
+    "canonical_form" : "grand",
+    "other_forms" : [ "grande", "grandes", "grands" ]
+  }, {
+    "canonical_form" : "cruel",
+    "other_forms" : [ "cruelle", "cruelles", "cruels" ]
+  }, {
+    "canonical_form" : "rude",
+    "other_forms" : [ "rudes" ]
+  }, {
+    "canonical_form" : "impétueux",
+    "other_forms" : [ "impétueuse", "impétueuses" ]
+  }, {
+    "canonical_form" : "féroce",
+    "other_forms" : [ "féroces" ]
+  }, {
+    "canonical_form" : "farouche",
+    "other_forms" : [ "farouches" ]
+  }, {
+    "canonical_form" : "aigu",
+    "other_forms" : [ "aigus", "aiguë", "aiguës" ]
+  }, {
+    "canonical_form" : "énergique",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "véhément",
+    "other_forms" : [ "véhémente", "véhémentes", "véhéments" ]
+  }, {
+    "canonical_form" : "douloureux",
+    "other_forms" : [ "douloureuse", "douloureuses" ]
+  }, {
+    "canonical_form" : "chaud",
+    "other_forms" : [ "chaude", "chaudes", "chauds" ]
+  }, {
+    "canonical_form" : "bouillonnant",
+    "other_forms" : [ "bouillonnante", "bouillonnantes", "bouillonnants" ]
+  }, {
+    "canonical_form" : "éperdu",
+    "other_forms" : [ "éperdue", "éperdues", "éperdus" ]
+  }, {
+    "canonical_form" : "sauvage",
+    "other_forms" : [ "sauvages" ]
+  }, {
+    "canonical_form" : "dangereux",
+    "other_forms" : [ "dangereuse", "dangereuses" ]
+  }, {
+    "canonical_form" : "brusque",
+    "other_forms" : [ "brusques" ]
+  }, {
+    "canonical_form" : "éclatant",
+    "other_forms" : [ "éclatante", "éclatantes", "éclatants" ]
+  }, {
+    "canonical_form" : "vert",
+    "other_forms" : [ "verte", "vertes", "verts" ]
+  }, {
+    "canonical_form" : "rapide",
+    "other_forms" : [ "rapides" ]
+  }, {
+    "canonical_form" : "lourd",
+    "other_forms" : [ "lourde", "lourdes", "lourds" ]
+  }, {
+    "canonical_form" : "démesuré",
+    "other_forms" : [ "démesurée", "démesurées", "démesurés" ]
+  }, {
+    "canonical_form" : "coléreux",
+    "other_forms" : [ "coléreuse", "coléreuses" ]
+  }, {
+    "canonical_form" : "agressif",
+    "other_forms" : [ "agressifs", "agressive", "agressives" ]
+  }, {
+    "canonical_form" : "épouvantable",
+    "other_forms" : [ "épouvantables" ]
+  }, {
+    "canonical_form" : "pénétrant",
+    "other_forms" : [ "pénétrante", "pénétrantes", "pénétrants" ]
+  }, {
+    "canonical_form" : "irrésistible",
+    "other_forms" : [ "irrésistibles" ]
+  }, {
+    "canonical_form" : "immodéré",
+    "other_forms" : [ "immodérée", "immodérées", "immodérés" ]
+  }, {
+    "canonical_form" : "immense",
+    "other_forms" : [ "immenses" ]
+  }, {
+    "canonical_form" : "gros",
+    "other_forms" : [ "grosse", "grosses" ]
+  }, {
+    "canonical_form" : "foudroyant",
+    "other_forms" : [ "foudroyante", "foudroyantes", "foudroyants" ]
+  }, {
+    "canonical_form" : "explosif",
+    "other_forms" : [ "explosifs", "explosive", "explosives" ]
+  }, {
+    "canonical_form" : "effroyable",
+    "other_forms" : [ "effroyables" ]
+  }, {
+    "canonical_form" : "effrayant",
+    "other_forms" : [ "effrayante", "effrayantes", "effrayants" ]
+  }, {
+    "canonical_form" : "criard",
+    "other_forms" : [ "criarde", "criardes", "criards" ]
+  }, {
+    "canonical_form" : "poignant",
+    "other_forms" : [ "poignante", "poignantes", "poignants" ]
+  }, {
+    "canonical_form" : "puissant",
+    "other_forms" : [ "puissante", "puissantes", "puissants" ]
+  }, {
+    "canonical_form" : "spontané",
+    "other_forms" : [ "spontanée", "spontanées", "spontanés" ]
+  }, {
+    "canonical_form" : "tyrannique",
+    "other_forms" : [ "tyranniques" ]
+  }, {
+    "canonical_form" : "virulent",
+    "other_forms" : [ "virulente", "virulentes", "virulents" ]
+  }, {
+    "canonical_form" : "irascible",
+    "other_forms" : [ "irascibles" ]
+  }, {
+    "canonical_form" : "intolérant",
+    "other_forms" : [ "intolérante", "intolérantes", "intolérants" ]
+  }, {
+    "canonical_form" : "actif",
+    "other_forms" : [ "actifs", "active", "actives" ]
+  }, {
+    "canonical_form" : "carabiné",
+    "other_forms" : [ "carabinée", "carabinées", "carabinés" ]
+  }, {
+    "canonical_form" : "cassant",
+    "other_forms" : [ "cassante", "cassantes", "cassants" ]
+  }, {
+    "canonical_form" : "dément",
+    "other_forms" : [ "démente", "démentes", "déments" ]
+  }, {
+    "canonical_form" : "fulgurant",
+    "other_forms" : [ "fulgurante", "fulgurantes", "fulgurants" ]
+  }, {
+    "canonical_form" : "inextinguible",
+    "other_forms" : [ "inextinguibles" ]
+  }, {
+    "canonical_form" : "vivace",
+    "other_forms" : [ "vivaces" ]
+  }, {
+    "canonical_form" : "tapageur",
+    "other_forms" : [ "tapageurs", "tapageuse", "tapageuses" ]
+  }, {
+    "canonical_form" : "sectaire",
+    "other_forms" : [ "sectaires" ]
+  }, {
+    "canonical_form" : "impérieux",
+    "other_forms" : [ "impérieuse", "impérieuses" ]
+  }, {
+    "canonical_form" : "impulsif",
+    "other_forms" : [ "impulsifs", "impulsive", "impulsives" ]
+  }, {
+    "canonical_form" : "impitoyable",
+    "other_forms" : [ "impitoyables" ]
+  }, {
+    "canonical_form" : "fébrile",
+    "other_forms" : [ "fébriles" ]
+  }, {
+    "canonical_form" : "funeste",
+    "other_forms" : [ "funestes" ]
+  }, {
+    "canonical_form" : "fiévreux",
+    "other_forms" : [ "fiévreuse", "fiévreuses" ]
+  }, {
+    "canonical_form" : "atrabilaire",
+    "other_forms" : [ "atrabilaires" ]
+  }, {
+    "canonical_form" : "oppressif",
+    "other_forms" : [ "oppressifs", "oppressive", "oppressives" ]
+  }, {
+    "canonical_form" : "sanguinaire",
+    "other_forms" : [ "sanguinaires" ]
+  }, {
+    "canonical_form" : "tempétueux",
+    "other_forms" : [ "tempétueuse", "tempétueuses" ]
+  }, {
+    "canonical_form" : "torrentiel",
+    "other_forms" : [ "torrentielle", "torrentielles", "torrentiels" ]
+  }, {
+    "canonical_form" : "injurieux",
+    "other_forms" : [ "injurieuse", "injurieuses" ]
+  }, {
+    "canonical_form" : "gueulard",
+    "other_forms" : [ "gueularde", "gueulardes", "gueulards" ]
+  }, {
+    "canonical_form" : "convulsif",
+    "other_forms" : [ "convulsifs", "convulsive", "convulsives" ]
+  }, {
+    "canonical_form" : "belliqueux",
+    "other_forms" : [ "belliqueuse", "belliqueuses" ]
+  }, {
+    "canonical_form" : "accidentel",
+    "other_forms" : [ "accidentelle", "accidentelles", "accidentels" ]
+  }, {
+    "canonical_form" : "truculent",
+    "other_forms" : [ "truculente", "truculentes", "truculents" ]
+  } ]
+}

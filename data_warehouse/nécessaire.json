@@ -1,0 +1,82 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "nécessaire",
+    "other_forms" : [ "nécessaires" ]
+  }, {
+    "canonical_form" : "essentiel",
+    "other_forms" : [ "essentielle", "essentielles", "essentiels" ]
+  }, {
+    "canonical_form" : "indispensable",
+    "other_forms" : [ "indispensables" ]
+  }, {
+    "canonical_form" : "inévitable",
+    "other_forms" : [ "inévitables" ]
+  }, {
+    "canonical_form" : "obligatoire",
+    "other_forms" : [ "obligatoires" ]
+  }, {
+    "canonical_form" : "primordial",
+    "other_forms" : [ "primordiale", "primordiales", "primordiaux" ]
+  }, {
+    "canonical_form" : "important",
+    "other_forms" : [ "importante", "importantes", "importants" ]
+  }, {
+    "canonical_form" : "immanquable",
+    "other_forms" : [ "immanquables" ]
+  }, {
+    "canonical_form" : "fatal",
+    "other_forms" : [ "fatale", "fatales", "fatals" ]
+  }, {
+    "canonical_form" : "absolu",
+    "other_forms" : [ "absolue", "absolues", "absolus" ]
+  }, {
+    "canonical_form" : "utile",
+    "other_forms" : [ "utiles" ]
+  }, {
+    "canonical_form" : "pressant",
+    "other_forms" : [ "pressante", "pressantes", "pressants" ]
+  }, {
+    "canonical_form" : "premier",
+    "other_forms" : [ "premiers", "première", "premières" ]
+  }, {
+    "canonical_form" : "logique",
+    "other_forms" : [ "logiques" ]
+  }, {
+    "canonical_form" : "inéluctable",
+    "other_forms" : [ "inéluctables" ]
+  }, {
+    "canonical_form" : "impératif",
+    "other_forms" : [ "impératifs", "impérative", "impératives" ]
+  }, {
+    "canonical_form" : "fondamental",
+    "other_forms" : [ "fondamentale", "fondamentales", "fondamentaux" ]
+  }, {
+    "canonical_form" : "précieux",
+    "other_forms" : [ "précieuse", "précieuses" ]
+  }, {
+    "canonical_form" : "rationnel",
+    "other_forms" : [ "rationnelle", "rationnelles", "rationnels" ]
+  }, {
+    "canonical_form" : "requis",
+    "other_forms" : [ "requise", "requises" ]
+  }, {
+    "canonical_form" : "rigoureux",
+    "other_forms" : [ "rigoureuse", "rigoureuses" ]
+  }, {
+    "canonical_form" : "irrémédiable",
+    "other_forms" : [ "irrémédiables" ]
+  }, {
+    "canonical_form" : "infaillible",
+    "other_forms" : [ "infaillibles" ]
+  }, {
+    "canonical_form" : "inconditionné",
+    "other_forms" : [ "inconditionnée", "inconditionnées", "inconditionnés" ]
+  }, {
+    "canonical_form" : "apodictique",
+    "other_forms" : [ "apodictiques" ]
+  }, {
+    "canonical_form" : "accessoire",
+    "other_forms" : [ "accessoires" ]
+  } ]
+}

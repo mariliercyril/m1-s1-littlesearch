@@ -1,0 +1,22 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "roue",
+    "other_forms" : [ "roues" ]
+  }, {
+    "canonical_form" : "cercle",
+    "other_forms" : [ "cercles" ]
+  }, {
+    "canonical_form" : "engrenage",
+    "other_forms" : [ "engrenages" ]
+  }, {
+    "canonical_form" : "moulinet",
+    "other_forms" : [ "moulinets" ]
+  }, {
+    "canonical_form" : "poulie",
+    "other_forms" : [ "poulies" ]
+  }, {
+    "canonical_form" : "tour",
+    "other_forms" : [ "tours" ]
+  } ]
+}

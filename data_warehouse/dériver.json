@@ -1,0 +1,40 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "dériver"
+  }, {
+    "canonical_form" : "procéder"
+  }, {
+    "canonical_form" : "venir"
+  }, {
+    "canonical_form" : "émaner"
+  }, {
+    "canonical_form" : "tirer"
+  }, {
+    "canonical_form" : "incliner"
+  }, {
+    "canonical_form" : "dévier"
+  }, {
+    "canonical_form" : "découler"
+  }, {
+    "canonical_form" : "aller"
+  }, {
+    "canonical_form" : "tourner"
+  }, {
+    "canonical_form" : "provenir"
+  }, {
+    "canonical_form" : "orienter"
+  }, {
+    "canonical_form" : "infléchir"
+  }, {
+    "canonical_form" : "détourner"
+  }, {
+    "canonical_form" : "attirer"
+  }, {
+    "canonical_form" : "déplacer"
+  }, {
+    "canonical_form" : "défaire"
+  }, {
+    "canonical_form" : "drosser"
+  } ]
+}

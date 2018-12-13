@@ -1,0 +1,82 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "défendre"
+  }, {
+    "canonical_form" : "protéger"
+  }, {
+    "canonical_form" : "soutenir"
+  }, {
+    "canonical_form" : "garantir"
+  }, {
+    "canonical_form" : "assurer"
+  }, {
+    "canonical_form" : "interdire"
+  }, {
+    "canonical_form" : "maintenir"
+  }, {
+    "canonical_form" : "préserver"
+  }, {
+    "canonical_form" : "sauvegarder"
+  }, {
+    "canonical_form" : "renforcer"
+  }, {
+    "canonical_form" : "empêcher"
+  }, {
+    "canonical_form" : "couvrir"
+  }, {
+    "canonical_form" : "appuyer"
+  }, {
+    "canonical_form" : "prohiber"
+  }, {
+    "canonical_form" : "garder"
+  }, {
+    "canonical_form" : "fortifier"
+  }, {
+    "canonical_form" : "condamner"
+  }, {
+    "canonical_form" : "tenir"
+  }, {
+    "canonical_form" : "justifier"
+  }, {
+    "canonical_form" : "excuser"
+  }, {
+    "canonical_form" : "aider"
+  }, {
+    "canonical_form" : "secourir"
+  }, {
+    "canonical_form" : "sauver"
+  }, {
+    "canonical_form" : "proscrire"
+  }, {
+    "canonical_form" : "intervenir"
+  }, {
+    "canonical_form" : "inhiber"
+  }, {
+    "canonical_form" : "chaperonner"
+  }, {
+    "canonical_form" : "censurer"
+  }, {
+    "canonical_form" : "abriter"
+  }, {
+    "canonical_form" : "prescrire"
+  }, {
+    "canonical_form" : "refuser"
+  }, {
+    "canonical_form" : "réprouver"
+  }, {
+    "canonical_form" : "plaider"
+  }, {
+    "canonical_form" : "intercéder"
+  }, {
+    "canonical_form" : "flanquer"
+  }, {
+    "canonical_form" : "fermer"
+  }, {
+    "canonical_form" : "disputer"
+  }, {
+    "canonical_form" : "disculper"
+  }, {
+    "canonical_form" : "assister"
+  } ]
+}

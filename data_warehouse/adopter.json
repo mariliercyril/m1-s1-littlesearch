@@ -1,0 +1,64 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "adopter"
+  }, {
+    "canonical_form" : "prendre"
+  }, {
+    "canonical_form" : "suivre"
+  }, {
+    "canonical_form" : "embrasser"
+  }, {
+    "canonical_form" : "accepter"
+  }, {
+    "canonical_form" : "emprunter"
+  }, {
+    "canonical_form" : "épouser"
+  }, {
+    "canonical_form" : "utiliser"
+  }, {
+    "canonical_form" : "imiter"
+  }, {
+    "canonical_form" : "choisir"
+  }, {
+    "canonical_form" : "approuver"
+  }, {
+    "canonical_form" : "admettre"
+  }, {
+    "canonical_form" : "acquiescer"
+  }, {
+    "canonical_form" : "sélectionner"
+  }, {
+    "canonical_form" : "ratifier"
+  }, {
+    "canonical_form" : "élire"
+  }, {
+    "canonical_form" : "pratiquer"
+  }, {
+    "canonical_form" : "introduire"
+  }, {
+    "canonical_form" : "affilier"
+  }, {
+    "canonical_form" : "assimiler"
+  }, {
+    "canonical_form" : "consentir"
+  }, {
+    "canonical_form" : "coopter"
+  }, {
+    "canonical_form" : "employer"
+  }, {
+    "canonical_form" : "singer"
+  }, {
+    "canonical_form" : "ramasser"
+  }, {
+    "canonical_form" : "préférer"
+  }, {
+    "canonical_form" : "opter"
+  }, {
+    "canonical_form" : "entériner"
+  }, {
+    "canonical_form" : "composer"
+  }, {
+    "canonical_form" : "voter"
+  } ]
+}

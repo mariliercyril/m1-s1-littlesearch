@@ -1,0 +1,40 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "aimer"
+  }, {
+    "canonical_form" : "chérir"
+  }, {
+    "canonical_form" : "adorer"
+  }, {
+    "canonical_form" : "apprécier"
+  }, {
+    "canonical_form" : "affectionner"
+  }, {
+    "canonical_form" : "admirer"
+  }, {
+    "canonical_form" : "estimer"
+  }, {
+    "canonical_form" : "raffoler"
+  }, {
+    "canonical_form" : "vénérer"
+  }, {
+    "canonical_form" : "désirer"
+  }, {
+    "canonical_form" : "préférer"
+  }, {
+    "canonical_form" : "mordre"
+  }, {
+    "canonical_form" : "demander"
+  }, {
+    "canonical_form" : "réclamer"
+  }, {
+    "canonical_form" : "roucouler"
+  }, {
+    "canonical_form" : "pincer"
+  }, {
+    "canonical_form" : "gober"
+  }, {
+    "canonical_form" : "idolâtrer"
+  } ]
+}

@@ -1,0 +1,97 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "période",
+    "other_forms" : [ "périodes" ]
+  }, {
+    "canonical_form" : "temps",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "époque",
+    "other_forms" : [ "époques" ]
+  }, {
+    "canonical_form" : "siècle",
+    "other_forms" : [ "siècles" ]
+  }, {
+    "canonical_form" : "âge",
+    "other_forms" : [ "âges" ]
+  }, {
+    "canonical_form" : "étape",
+    "other_forms" : [ "étapes" ]
+  }, {
+    "canonical_form" : "ère",
+    "other_forms" : [ "ères" ]
+  }, {
+    "canonical_form" : "cycle",
+    "other_forms" : [ "cycles" ]
+  }, {
+    "canonical_form" : "an",
+    "other_forms" : [ "ans" ]
+  }, {
+    "canonical_form" : "summum",
+    "other_forms" : [ "summums" ]
+  }, {
+    "canonical_form" : "stade",
+    "other_forms" : [ "stades" ]
+  }, {
+    "canonical_form" : "répétition",
+    "other_forms" : [ "répétitions" ]
+  }, {
+    "canonical_form" : "morceau",
+    "other_forms" : [ "morceaux" ]
+  }, {
+    "canonical_form" : "division",
+    "other_forms" : [ "divisions" ]
+  }, {
+    "canonical_form" : "date",
+    "other_forms" : [ "dates" ]
+  }, {
+    "canonical_form" : "intervalle",
+    "other_forms" : [ "intervalles" ]
+  }, {
+    "canonical_form" : "phase",
+    "other_forms" : [ "phases" ]
+  }, {
+    "canonical_form" : "phrase",
+    "other_forms" : [ "phrases" ]
+  }, {
+    "canonical_form" : "saison",
+    "other_forms" : [ "saisons" ]
+  }, {
+    "canonical_form" : "stage",
+    "other_forms" : [ "stages" ]
+  }, {
+    "canonical_form" : "zénith",
+    "other_forms" : [ "zéniths" ]
+  }, {
+    "canonical_form" : "heure",
+    "other_forms" : [ "heures" ]
+  }, {
+    "canonical_form" : "fréquence",
+    "other_forms" : [ "fréquences" ]
+  }, {
+    "canonical_form" : "faîte",
+    "other_forms" : [ "faîtes" ]
+  }, {
+    "canonical_form" : "degré",
+    "other_forms" : [ "degrés" ]
+  }, {
+    "canonical_form" : "couplet",
+    "other_forms" : [ "couplets" ]
+  }, {
+    "canonical_form" : "consécution",
+    "other_forms" : [ "consécutions" ]
+  }, {
+    "canonical_form" : "balancement",
+    "other_forms" : [ "balancements" ]
+  }, {
+    "canonical_form" : "apogée",
+    "other_forms" : [ "apogées" ]
+  }, {
+    "canonical_form" : "alternance",
+    "other_forms" : [ "alternances" ]
+  }, {
+    "canonical_form" : "éloquence",
+    "other_forms" : [ "éloquences" ]
+  } ]
+}

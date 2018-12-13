@@ -1,0 +1,151 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "application",
+    "other_forms" : [ "applications" ]
+  }, {
+    "canonical_form" : "attention",
+    "other_forms" : [ "attentions" ]
+  }, {
+    "canonical_form" : "soin",
+    "other_forms" : [ "soins" ]
+  }, {
+    "canonical_form" : "zèle",
+    "other_forms" : [ "zèles" ]
+  }, {
+    "canonical_form" : "travail",
+    "other_forms" : [ "travaux" ]
+  }, {
+    "canonical_form" : "concentration",
+    "other_forms" : [ "concentrations" ]
+  }, {
+    "canonical_form" : "étude",
+    "other_forms" : [ "études" ]
+  }, {
+    "canonical_form" : "emploi",
+    "other_forms" : [ "emplois" ]
+  }, {
+    "canonical_form" : "effort",
+    "other_forms" : [ "efforts" ]
+  }, {
+    "canonical_form" : "affectation",
+    "other_forms" : [ "affectations" ]
+  }, {
+    "canonical_form" : "exercice",
+    "other_forms" : [ "exercices" ]
+  }, {
+    "canonical_form" : "méditation",
+    "other_forms" : [ "méditations" ]
+  }, {
+    "canonical_form" : "usage",
+    "other_forms" : [ "usages" ]
+  }, {
+    "canonical_form" : "réalisation",
+    "other_forms" : [ "réalisations" ]
+  }, {
+    "canonical_form" : "impression",
+    "other_forms" : [ "impressions" ]
+  }, {
+    "canonical_form" : "exécution",
+    "other_forms" : [ "exécutions" ]
+  }, {
+    "canonical_form" : "diligence",
+    "other_forms" : [ "diligences" ]
+  }, {
+    "canonical_form" : "conscience",
+    "other_forms" : [ "consciences" ]
+  }, {
+    "canonical_form" : "assiduité",
+    "other_forms" : [ "assiduités" ]
+  }, {
+    "canonical_form" : "assemblage",
+    "other_forms" : [ "assemblages" ]
+  }, {
+    "canonical_form" : "art",
+    "other_forms" : [ "arts" ]
+  }, {
+    "canonical_form" : "utilisation",
+    "other_forms" : [ "utilisations" ]
+  }, {
+    "canonical_form" : "régularité",
+    "other_forms" : [ "régularités" ]
+  }, {
+    "canonical_form" : "réflexion",
+    "other_forms" : [ "réflexions" ]
+  }, {
+    "canonical_form" : "relation",
+    "other_forms" : [ "relations" ]
+  }, {
+    "canonical_form" : "expérimentation",
+    "other_forms" : [ "expérimentations" ]
+  }, {
+    "canonical_form" : "exactitude",
+    "other_forms" : [ "exactitudes" ]
+  }, {
+    "canonical_form" : "effet",
+    "other_forms" : [ "effets" ]
+  }, {
+    "canonical_form" : "destination",
+    "other_forms" : [ "destinations" ]
+  }, {
+    "canonical_form" : "contention",
+    "other_forms" : [ "contentions" ]
+  }, {
+    "canonical_form" : "attachement",
+    "other_forms" : [ "attachements" ]
+  }, {
+    "canonical_form" : "placage",
+    "other_forms" : [ "placages" ]
+  }, {
+    "canonical_form" : "mal",
+    "other_forms" : [ "maux" ]
+  }, {
+    "canonical_form" : "injection",
+    "other_forms" : [ "injections" ]
+  }, {
+    "canonical_form" : "pose",
+    "other_forms" : [ "poses" ]
+  }, {
+    "canonical_form" : "recueillement",
+    "other_forms" : [ "recueillements" ]
+  }, {
+    "canonical_form" : "superposition",
+    "other_forms" : [ "superpositions" ]
+  }, {
+    "canonical_form" : "tension",
+    "other_forms" : [ "tensions" ]
+  }, {
+    "canonical_form" : "vigilance",
+    "other_forms" : [ "vigilances" ]
+  }, {
+    "canonical_form" : "imputation",
+    "other_forms" : [ "imputations" ]
+  }, {
+    "canonical_form" : "image",
+    "other_forms" : [ "images" ]
+  }, {
+    "canonical_form" : "adaptation",
+    "other_forms" : [ "adaptations" ]
+  }, {
+    "canonical_form" : "applique",
+    "other_forms" : [ "appliques" ]
+  }, {
+    "canonical_form" : "attribution",
+    "other_forms" : [ "attributions" ]
+  }, {
+    "canonical_form" : "correspondance",
+    "other_forms" : [ "correspondances" ]
+  }, {
+    "canonical_form" : "curiosité",
+    "other_forms" : [ "curiosités" ]
+  }, {
+    "canonical_form" : "fomentation",
+    "other_forms" : [ "fomentations" ]
+  }, {
+    "canonical_form" : "homomorphisme",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "vigueur",
+    "other_forms" : [ "vigueurs" ]
+  } ]
+}

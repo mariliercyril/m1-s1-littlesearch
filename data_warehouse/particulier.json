@@ -1,0 +1,85 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "particulier",
+    "other_forms" : [ "particuliers", "particulière", "particulières" ]
+  }, {
+    "canonical_form" : "spécial",
+    "other_forms" : [ "spéciale", "spéciales", "spéciaux" ]
+  }, {
+    "canonical_form" : "original",
+    "other_forms" : [ "originale", "originales", "originaux" ]
+  }, {
+    "canonical_form" : "caractéristique",
+    "other_forms" : [ "caractéristiques" ]
+  }, {
+    "canonical_form" : "personnel",
+    "other_forms" : [ "personnelle", "personnelles", "personnels" ]
+  }, {
+    "canonical_form" : "propre",
+    "other_forms" : [ "propres" ]
+  }, {
+    "canonical_form" : "spécifique",
+    "other_forms" : [ "spécifiques" ]
+  }, {
+    "canonical_form" : "singulier",
+    "other_forms" : [ "singuliers", "singulière", "singulières" ]
+  }, {
+    "canonical_form" : "extraordinaire",
+    "other_forms" : [ "extraordinaires" ]
+  }, {
+    "canonical_form" : "individuel",
+    "other_forms" : [ "individuelle", "individuelles", "individuels" ]
+  }, {
+    "canonical_form" : "étonnant",
+    "other_forms" : [ "étonnante", "étonnantes", "étonnants" ]
+  }, {
+    "canonical_form" : "remarquable",
+    "other_forms" : [ "remarquables" ]
+  }, {
+    "canonical_form" : "distinct",
+    "other_forms" : [ "distincte", "distinctes", "distincts" ]
+  }, {
+    "canonical_form" : "typique",
+    "other_forms" : [ "typiques" ]
+  }, {
+    "canonical_form" : "distinctif",
+    "other_forms" : [ "distinctifs", "distinctive", "distinctives" ]
+  }, {
+    "canonical_form" : "notable",
+    "other_forms" : [ "notables" ]
+  }, {
+    "canonical_form" : "sensationnel",
+    "other_forms" : [ "sensationnelle", "sensationnelles", "sensationnels" ]
+  }, {
+    "canonical_form" : "truculent",
+    "other_forms" : [ "truculente", "truculentes", "truculents" ]
+  }, {
+    "canonical_form" : "révélateur",
+    "other_forms" : [ "révélateurs", "révélatrice", "révélatrices" ]
+  }, {
+    "canonical_form" : "précis",
+    "other_forms" : [ "précise", "précises" ]
+  }, {
+    "canonical_form" : "exclusif",
+    "other_forms" : [ "exclusifs", "exclusive", "exclusives" ]
+  }, {
+    "canonical_form" : "respectif",
+    "other_forms" : [ "respectifs", "respective", "respectives" ]
+  }, {
+    "canonical_form" : "prodigieux",
+    "other_forms" : [ "prodigieuse", "prodigieuses" ]
+  }, {
+    "canonical_form" : "irrégulier",
+    "other_forms" : [ "irréguliers", "irrégulière", "irrégulières" ]
+  }, {
+    "canonical_form" : "intime",
+    "other_forms" : [ "intimes" ]
+  }, {
+    "canonical_form" : "extrême",
+    "other_forms" : [ "extrêmes" ]
+  }, {
+    "canonical_form" : "subjectif",
+    "other_forms" : [ "subjectifs", "subjective", "subjectives" ]
+  } ]
+}

@@ -1,0 +1,16 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "lancer",
+    "other_forms" : [ "lancers" ]
+  }, {
+    "canonical_form" : "jet",
+    "other_forms" : [ "jets" ]
+  }, {
+    "canonical_form" : "lancement",
+    "other_forms" : [ "lancements" ]
+  }, {
+    "canonical_form" : "lâcher",
+    "other_forms" : [ "lâchers" ]
+  } ]
+}

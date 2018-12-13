@@ -1,0 +1,40 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "sujet",
+    "other_forms" : [ "sujets", "sujette", "sujettes" ]
+  }, {
+    "canonical_form" : "tributaire",
+    "other_forms" : [ "tributaires" ]
+  }, {
+    "canonical_form" : "vassal",
+    "other_forms" : [ "vassale", "vassales", "vassaux" ]
+  }, {
+    "canonical_form" : "inférieur",
+    "other_forms" : [ "inférieure", "inférieures", "inférieurs" ]
+  }, {
+    "canonical_form" : "assujetti",
+    "other_forms" : [ "assujettie", "assujetties", "assujettis" ]
+  }, {
+    "canonical_form" : "dépendant",
+    "other_forms" : [ "dépendante", "dépendantes", "dépendants" ]
+  }, {
+    "canonical_form" : "enclin",
+    "other_forms" : [ "encline", "enclines", "enclins" ]
+  }, {
+    "canonical_form" : "malade",
+    "other_forms" : [ "malades" ]
+  }, {
+    "canonical_form" : "nu",
+    "other_forms" : [ "nue", "nues", "nus" ]
+  }, {
+    "canonical_form" : "patient",
+    "other_forms" : [ "patiente", "patientes", "patients" ]
+  }, {
+    "canonical_form" : "susceptible",
+    "other_forms" : [ "susceptibles" ]
+  }, {
+    "canonical_form" : "idéal",
+    "other_forms" : [ "idéale", "idéales", "idéals", "idéaux" ]
+  } ]
+}

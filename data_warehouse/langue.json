@@ -1,0 +1,91 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "langue",
+    "other_forms" : [ "langues" ]
+  }, {
+    "canonical_form" : "langage",
+    "other_forms" : [ "langages" ]
+  }, {
+    "canonical_form" : "jargon",
+    "other_forms" : [ "jargons" ]
+  }, {
+    "canonical_form" : "parler",
+    "other_forms" : [ "parlers" ]
+  }, {
+    "canonical_form" : "style",
+    "other_forms" : [ "styles" ]
+  }, {
+    "canonical_form" : "élocution",
+    "other_forms" : [ "élocutions" ]
+  }, {
+    "canonical_form" : "vocabulaire",
+    "other_forms" : [ "vocabulaires" ]
+  }, {
+    "canonical_form" : "terminologie",
+    "other_forms" : [ "terminologies" ]
+  }, {
+    "canonical_form" : "parole",
+    "other_forms" : [ "paroles" ]
+  }, {
+    "canonical_form" : "expression",
+    "other_forms" : [ "expressions" ]
+  }, {
+    "canonical_form" : "dialecte",
+    "other_forms" : [ "dialectes" ]
+  }, {
+    "canonical_form" : "phraséologie",
+    "other_forms" : [ "phraséologies" ]
+  }, {
+    "canonical_form" : "idiome",
+    "other_forms" : [ "idiomes" ]
+  }, {
+    "canonical_form" : "baragouin",
+    "other_forms" : [ "baragouins" ]
+  }, {
+    "canonical_form" : "tapette",
+    "other_forms" : [ "tapettes" ]
+  }, {
+    "canonical_form" : "sabir",
+    "other_forms" : [ "sabirs" ]
+  }, {
+    "canonical_form" : "péninsule",
+    "other_forms" : [ "péninsules" ]
+  }, {
+    "canonical_form" : "platine",
+    "other_forms" : [ "platines" ]
+  }, {
+    "canonical_form" : "parlure",
+    "other_forms" : [ "parlures" ]
+  }, {
+    "canonical_form" : "lavette",
+    "other_forms" : [ "lavettes" ]
+  }, {
+    "canonical_form" : "languette",
+    "other_forms" : [ "languettes" ]
+  }, {
+    "canonical_form" : "idiolecte",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "glacier",
+    "other_forms" : [ "glaciers" ]
+  }, {
+    "canonical_form" : "dard",
+    "other_forms" : [ "dards" ]
+  }, {
+    "canonical_form" : "code",
+    "other_forms" : [ "codes" ]
+  }, {
+    "canonical_form" : "bouche",
+    "other_forms" : [ "bouches" ]
+  }, {
+    "canonical_form" : "bec",
+    "other_forms" : [ "becs" ]
+  }, {
+    "canonical_form" : "argot",
+    "other_forms" : [ "argots" ]
+  }, {
+    "canonical_form" : "verbe",
+    "other_forms" : [ "verbes" ]
+  } ]
+}

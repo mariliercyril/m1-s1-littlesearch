@@ -1,0 +1,79 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "portion",
+    "other_forms" : [ "portions" ]
+  }, {
+    "canonical_form" : "morceau",
+    "other_forms" : [ "morceaux" ]
+  }, {
+    "canonical_form" : "part",
+    "other_forms" : [ "parts" ]
+  }, {
+    "canonical_form" : "ration",
+    "other_forms" : [ "rations" ]
+  }, {
+    "canonical_form" : "fragment",
+    "other_forms" : [ "fragments" ]
+  }, {
+    "canonical_form" : "fraction",
+    "other_forms" : [ "fractions" ]
+  }, {
+    "canonical_form" : "division",
+    "other_forms" : [ "divisions" ]
+  }, {
+    "canonical_form" : "tronçon",
+    "other_forms" : [ "tronçons" ]
+  }, {
+    "canonical_form" : "ramification",
+    "other_forms" : [ "ramifications" ]
+  }, {
+    "canonical_form" : "tranche",
+    "other_forms" : [ "tranches" ]
+  }, {
+    "canonical_form" : "pièce",
+    "other_forms" : [ "pièces" ]
+  }, {
+    "canonical_form" : "parcelle",
+    "other_forms" : [ "parcelles" ]
+  }, {
+    "canonical_form" : "lot",
+    "other_forms" : [ "lots" ]
+  }, {
+    "canonical_form" : "lambeau",
+    "other_forms" : [ "lambeaux" ]
+  }, {
+    "canonical_form" : "quartier",
+    "other_forms" : [ "quartiers" ]
+  }, {
+    "canonical_form" : "segment",
+    "other_forms" : [ "segments" ]
+  }, {
+    "canonical_form" : "section",
+    "other_forms" : [ "sections" ]
+  }, {
+    "canonical_form" : "quota",
+    "other_forms" : [ "quotas" ]
+  }, {
+    "canonical_form" : "apport",
+    "other_forms" : [ "apports" ]
+  }, {
+    "canonical_form" : "dose",
+    "other_forms" : [ "doses" ]
+  }, {
+    "canonical_form" : "espace",
+    "other_forms" : [ "espaces" ]
+  }, {
+    "canonical_form" : "lopin",
+    "other_forms" : [ "lopins" ]
+  }, {
+    "canonical_form" : "pan",
+    "other_forms" : [ "pans" ]
+  }, {
+    "canonical_form" : "porcif",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "succession",
+    "other_forms" : [ "successions" ]
+  } ]
+}

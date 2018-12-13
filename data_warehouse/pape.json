@@ -1,0 +1,16 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "pape",
+    "other_forms" : [ "papes" ]
+  }, {
+    "canonical_form" : "pontife",
+    "other_forms" : [ "pontifes" ]
+  }, {
+    "canonical_form" : "chef",
+    "other_forms" : [ "chefs" ]
+  }, {
+    "canonical_form" : "saint-père",
+    "other_forms" : [ ]
+  } ]
+}

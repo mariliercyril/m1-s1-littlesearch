@@ -1,0 +1,76 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "pression",
+    "other_forms" : [ "pressions" ]
+  }, {
+    "canonical_form" : "influence",
+    "other_forms" : [ "influences" ]
+  }, {
+    "canonical_form" : "force",
+    "other_forms" : [ "forces" ]
+  }, {
+    "canonical_form" : "impulsion",
+    "other_forms" : [ "impulsions" ]
+  }, {
+    "canonical_form" : "impression",
+    "other_forms" : [ "impressions" ]
+  }, {
+    "canonical_form" : "caresse",
+    "other_forms" : [ "caresses" ]
+  }, {
+    "canonical_form" : "action",
+    "other_forms" : [ "actions" ]
+  }, {
+    "canonical_form" : "serrement",
+    "other_forms" : [ "serrements" ]
+  }, {
+    "canonical_form" : "poids",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "effort",
+    "other_forms" : [ "efforts" ]
+  }, {
+    "canonical_form" : "compression",
+    "other_forms" : [ "compressions" ]
+  }, {
+    "canonical_form" : "pressage",
+    "other_forms" : [ "pressages" ]
+  }, {
+    "canonical_form" : "menace",
+    "other_forms" : [ "menaces" ]
+  }, {
+    "canonical_form" : "intimidation",
+    "other_forms" : [ "intimidations" ]
+  }, {
+    "canonical_form" : "frottement",
+    "other_forms" : [ "frottements" ]
+  }, {
+    "canonical_form" : "exigence",
+    "other_forms" : [ "exigences" ]
+  }, {
+    "canonical_form" : "empire",
+    "other_forms" : [ "empires" ]
+  }, {
+    "canonical_form" : "constriction",
+    "other_forms" : [ "constrictions" ]
+  }, {
+    "canonical_form" : "coercition",
+    "other_forms" : [ "coercitions" ]
+  }, {
+    "canonical_form" : "charge",
+    "other_forms" : [ "charges" ]
+  }, {
+    "canonical_form" : "chantage",
+    "other_forms" : [ "chantages" ]
+  }, {
+    "canonical_form" : "bouton",
+    "other_forms" : [ "boutons" ]
+  }, {
+    "canonical_form" : "attouchement",
+    "other_forms" : [ "attouchements" ]
+  }, {
+    "canonical_form" : "serre",
+    "other_forms" : [ "serres" ]
+  } ]
+}

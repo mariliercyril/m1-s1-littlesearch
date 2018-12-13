@@ -1,0 +1,55 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "significatif",
+    "other_forms" : [ "significatifs", "significative", "significatives" ]
+  }, {
+    "canonical_form" : "manifeste",
+    "other_forms" : [ "manifestes" ]
+  }, {
+    "canonical_form" : "caractéristique",
+    "other_forms" : [ "caractéristiques" ]
+  }, {
+    "canonical_form" : "clair",
+    "other_forms" : [ "claire", "claires", "clairs" ]
+  }, {
+    "canonical_form" : "expressif",
+    "other_forms" : [ "expressifs", "expressive", "expressives" ]
+  }, {
+    "canonical_form" : "formel",
+    "other_forms" : [ "formelle", "formelles", "formels" ]
+  }, {
+    "canonical_form" : "typique",
+    "other_forms" : [ "typiques" ]
+  }, {
+    "canonical_form" : "éloquent",
+    "other_forms" : [ "éloquente", "éloquentes", "éloquents" ]
+  }, {
+    "canonical_form" : "révélateur",
+    "other_forms" : [ "révélateurs", "révélatrice", "révélatrices" ]
+  }, {
+    "canonical_form" : "notoire",
+    "other_forms" : [ "notoires" ]
+  }, {
+    "canonical_form" : "incontestable",
+    "other_forms" : [ "incontestables" ]
+  }, {
+    "canonical_form" : "marquant",
+    "other_forms" : [ "marquante", "marquantes", "marquants" ]
+  }, {
+    "canonical_form" : "net",
+    "other_forms" : [ "nets", "nette", "nettes" ]
+  }, {
+    "canonical_form" : "parlant",
+    "other_forms" : [ "parlante", "parlantes", "parlants" ]
+  }, {
+    "canonical_form" : "signifiant",
+    "other_forms" : [ "signifiante", "signifiantes", "signifiants" ]
+  }, {
+    "canonical_form" : "topique",
+    "other_forms" : [ "topiques" ]
+  }, {
+    "canonical_form" : "évocateur",
+    "other_forms" : [ "évocateurs", "évocatrice", "évocatrices" ]
+  } ]
+}

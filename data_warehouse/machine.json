@@ -1,0 +1,70 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "machine",
+    "other_forms" : [ "machines" ]
+  }, {
+    "canonical_form" : "engin",
+    "other_forms" : [ "engins" ]
+  }, {
+    "canonical_form" : "appareil",
+    "other_forms" : [ "appareils" ]
+  }, {
+    "canonical_form" : "truc",
+    "other_forms" : [ "trucs" ]
+  }, {
+    "canonical_form" : "instrument",
+    "other_forms" : [ "instruments" ]
+  }, {
+    "canonical_form" : "outil",
+    "other_forms" : [ "outils" ]
+  }, {
+    "canonical_form" : "dispositif",
+    "other_forms" : [ "dispositifs" ]
+  }, {
+    "canonical_form" : "bécane",
+    "other_forms" : [ "bécanes" ]
+  }, {
+    "canonical_form" : "ruse",
+    "other_forms" : [ "ruses" ]
+  }, {
+    "canonical_form" : "robot",
+    "other_forms" : [ "robots" ]
+  }, {
+    "canonical_form" : "moto",
+    "other_forms" : [ "motos" ]
+  }, {
+    "canonical_form" : "coucou",
+    "other_forms" : [ "coucous" ]
+  }, {
+    "canonical_form" : "astuce",
+    "other_forms" : [ "astuces" ]
+  }, {
+    "canonical_form" : "artifice",
+    "other_forms" : [ "artifices" ]
+  }, {
+    "canonical_form" : "piège",
+    "other_forms" : [ "pièges" ]
+  }, {
+    "canonical_form" : "mécanisme",
+    "other_forms" : [ "mécanismes" ]
+  }, {
+    "canonical_form" : "machination",
+    "other_forms" : [ "machinations" ]
+  }, {
+    "canonical_form" : "machin",
+    "other_forms" : [ "machins" ]
+  }, {
+    "canonical_form" : "locomotive",
+    "other_forms" : [ "locomotives" ]
+  }, {
+    "canonical_form" : "catapulte",
+    "other_forms" : [ "catapultes" ]
+  }, {
+    "canonical_form" : "bombe",
+    "other_forms" : [ "bombes" ]
+  }, {
+    "canonical_form" : "treuil",
+    "other_forms" : [ "treuils" ]
+  } ]
+}

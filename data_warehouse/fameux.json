@@ -1,0 +1,121 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "fameux",
+    "other_forms" : [ "fameuse", "fameuses" ]
+  }, {
+    "canonical_form" : "beau",
+    "other_forms" : [ "beaux", "bel", "belle", "belles" ]
+  }, {
+    "canonical_form" : "grand",
+    "other_forms" : [ "grande", "grandes", "grands" ]
+  }, {
+    "canonical_form" : "remarquable",
+    "other_forms" : [ "remarquables" ]
+  }, {
+    "canonical_form" : "illustre",
+    "other_forms" : [ "illustres" ]
+  }, {
+    "canonical_form" : "éminent",
+    "other_forms" : [ "éminente", "éminentes", "éminents" ]
+  }, {
+    "canonical_form" : "supérieur",
+    "other_forms" : [ "supérieure", "supérieures", "supérieurs" ]
+  }, {
+    "canonical_form" : "célèbre",
+    "other_forms" : [ "célèbres" ]
+  }, {
+    "canonical_form" : "bon",
+    "other_forms" : [ "bonne", "bonnes", "bons" ]
+  }, {
+    "canonical_form" : "extraordinaire",
+    "other_forms" : [ "extraordinaires" ]
+  }, {
+    "canonical_form" : "excellent",
+    "other_forms" : [ "excellente", "excellentes", "excellents" ]
+  }, {
+    "canonical_form" : "glorieux",
+    "other_forms" : [ "glorieuse", "glorieuses" ]
+  }, {
+    "canonical_form" : "exquis",
+    "other_forms" : [ "exquise", "exquises" ]
+  }, {
+    "canonical_form" : "marquant",
+    "other_forms" : [ "marquante", "marquantes", "marquants" ]
+  }, {
+    "canonical_form" : "mémorable",
+    "other_forms" : [ "mémorables" ]
+  }, {
+    "canonical_form" : "brillant",
+    "other_forms" : [ "brillante", "brillantes", "brillants" ]
+  }, {
+    "canonical_form" : "fieffé",
+    "other_forms" : [ "fieffée", "fieffées", "fieffés" ]
+  }, {
+    "canonical_form" : "émérite",
+    "other_forms" : [ "émérites" ]
+  }, {
+    "canonical_form" : "insigne",
+    "other_forms" : [ "insignes" ]
+  }, {
+    "canonical_form" : "inoubliable",
+    "other_forms" : [ "inoubliables" ]
+  }, {
+    "canonical_form" : "formidable",
+    "other_forms" : [ "formidables" ]
+  }, {
+    "canonical_form" : "délicieux",
+    "other_forms" : [ "délicieuse", "délicieuses" ]
+  }, {
+    "canonical_form" : "épatant",
+    "other_forms" : [ "épatante", "épatantes", "épatants" ]
+  }, {
+    "canonical_form" : "succulent",
+    "other_forms" : [ "succulente", "succulentes", "succulents" ]
+  }, {
+    "canonical_form" : "légendaire",
+    "other_forms" : [ "légendaires" ]
+  }, {
+    "canonical_form" : "fier",
+    "other_forms" : [ "fiers", "fière", "fières" ]
+  }, {
+    "canonical_form" : "agréable",
+    "other_forms" : [ "agréables" ]
+  }, {
+    "canonical_form" : "transcendant",
+    "other_forms" : [ "transcendante", "transcendantes", "transcendants" ]
+  }, {
+    "canonical_form" : "proverbial",
+    "other_forms" : [ "proverbiale", "proverbiales", "proverbiaux" ]
+  }, {
+    "canonical_form" : "historique",
+    "other_forms" : [ "historiques" ]
+  }, {
+    "canonical_form" : "furieux",
+    "other_forms" : [ "furieuse", "furieuses" ]
+  }, {
+    "canonical_form" : "franc",
+    "other_forms" : [ "franche", "franches", "francs" ]
+  }, {
+    "canonical_form" : "fichu",
+    "other_forms" : [ "fichue", "fichues", "fichus" ]
+  }, {
+    "canonical_form" : "extra",
+    "other_forms" : [ "extras" ]
+  }, {
+    "canonical_form" : "délectable",
+    "other_forms" : [ "délectables" ]
+  }, {
+    "canonical_form" : "savoureux",
+    "other_forms" : [ "savoureuse", "savoureuses" ]
+  }, {
+    "canonical_form" : "satané",
+    "other_forms" : [ "satanée", "satanées", "satanés" ]
+  }, {
+    "canonical_form" : "chenu",
+    "other_forms" : [ "chenue", "chenues", "chenus" ]
+  }, {
+    "canonical_form" : "sinistre",
+    "other_forms" : [ "sinistres" ]
+  } ]
+}

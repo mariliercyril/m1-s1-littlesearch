@@ -1,0 +1,118 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "réflexion",
+    "other_forms" : [ "réflexions" ]
+  }, {
+    "canonical_form" : "méditation",
+    "other_forms" : [ "méditations" ]
+  }, {
+    "canonical_form" : "observation",
+    "other_forms" : [ "observations" ]
+  }, {
+    "canonical_form" : "intelligence",
+    "other_forms" : [ "intelligences" ]
+  }, {
+    "canonical_form" : "contemplation",
+    "other_forms" : [ "contemplations" ]
+  }, {
+    "canonical_form" : "attention",
+    "other_forms" : [ "attentions" ]
+  }, {
+    "canonical_form" : "esprit",
+    "other_forms" : [ "esprits" ]
+  }, {
+    "canonical_form" : "réverbération",
+    "other_forms" : [ "réverbérations" ]
+  }, {
+    "canonical_form" : "spéculation",
+    "other_forms" : [ "spéculations" ]
+  }, {
+    "canonical_form" : "note",
+    "other_forms" : [ "notes" ]
+  }, {
+    "canonical_form" : "introspection",
+    "other_forms" : [ "introspections" ]
+  }, {
+    "canonical_form" : "idée",
+    "other_forms" : [ "idées" ]
+  }, {
+    "canonical_form" : "circonspection",
+    "other_forms" : [ "circonspections" ]
+  }, {
+    "canonical_form" : "tête",
+    "other_forms" : [ "têtes" ]
+  }, {
+    "canonical_form" : "rêverie",
+    "other_forms" : [ "rêveries" ]
+  }, {
+    "canonical_form" : "répercussion",
+    "other_forms" : [ "répercussions" ]
+  }, {
+    "canonical_form" : "renvoi",
+    "other_forms" : [ "renvois" ]
+  }, {
+    "canonical_form" : "remarque",
+    "other_forms" : [ "remarques" ]
+  }, {
+    "canonical_form" : "recueillement",
+    "other_forms" : [ "recueillements" ]
+  }, {
+    "canonical_form" : "prudence",
+    "other_forms" : [ "prudences" ]
+  }, {
+    "canonical_form" : "parole",
+    "other_forms" : [ "paroles" ]
+  }, {
+    "canonical_form" : "discernement",
+    "other_forms" : [ "discernements" ]
+  }, {
+    "canonical_form" : "annotation",
+    "other_forms" : [ "annotations" ]
+  }, {
+    "canonical_form" : "aphorisme",
+    "other_forms" : [ "aphorismes" ]
+  }, {
+    "canonical_form" : "application",
+    "other_forms" : [ "applications" ]
+  }, {
+    "canonical_form" : "approfondissement",
+    "other_forms" : [ "approfondissements" ]
+  }, {
+    "canonical_form" : "concentration",
+    "other_forms" : [ "concentrations" ]
+  }, {
+    "canonical_form" : "considération",
+    "other_forms" : [ "considérations" ]
+  }, {
+    "canonical_form" : "réfraction",
+    "other_forms" : [ "réfractions" ]
+  }, {
+    "canonical_form" : "reflet",
+    "other_forms" : [ "reflets" ]
+  }, {
+    "canonical_form" : "rayonnement",
+    "other_forms" : [ "rayonnements" ]
+  }, {
+    "canonical_form" : "préparation",
+    "other_forms" : [ "préparations" ]
+  }, {
+    "canonical_form" : "pensement",
+    "other_forms" : [ "pensements" ]
+  }, {
+    "canonical_form" : "maxime",
+    "other_forms" : [ "maximes" ]
+  }, {
+    "canonical_form" : "délibération",
+    "other_forms" : [ "délibérations" ]
+  }, {
+    "canonical_form" : "diffusion",
+    "other_forms" : [ "diffusions" ]
+  }, {
+    "canonical_form" : "adage",
+    "other_forms" : [ "adages" ]
+  }, {
+    "canonical_form" : "élucubration",
+    "other_forms" : [ "élucubrations" ]
+  } ]
+}

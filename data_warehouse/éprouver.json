@@ -1,0 +1,72 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "éprouver"
+  }, {
+    "canonical_form" : "expérimenter"
+  }, {
+    "canonical_form" : "connaître"
+  }, {
+    "canonical_form" : "voir"
+  }, {
+    "canonical_form" : "subir"
+  }, {
+    "canonical_form" : "sentir"
+  }, {
+    "canonical_form" : "vérifier"
+  }, {
+    "canonical_form" : "ressentir"
+  }, {
+    "canonical_form" : "reconnaître"
+  }, {
+    "canonical_form" : "examiner"
+  }, {
+    "canonical_form" : "essayer"
+  }, {
+    "canonical_form" : "concevoir"
+  }, {
+    "canonical_form" : "constater"
+  }, {
+    "canonical_form" : "souffrir"
+  }, {
+    "canonical_form" : "tâter"
+  }, {
+    "canonical_form" : "recevoir"
+  }, {
+    "canonical_form" : "pratiquer"
+  }, {
+    "canonical_form" : "trouver"
+  }, {
+    "canonical_form" : "percevoir"
+  }, {
+    "canonical_form" : "exercer"
+  }, {
+    "canonical_form" : "endurer"
+  }, {
+    "canonical_form" : "tenter"
+  }, {
+    "canonical_form" : "réaliser"
+  }, {
+    "canonical_form" : "essuyer"
+  }, {
+    "canonical_form" : "affliger"
+  }, {
+    "canonical_form" : "récoler"
+  }, {
+    "canonical_form" : "risquer"
+  }, {
+    "canonical_form" : "raisonner"
+  }, {
+    "canonical_form" : "questionner"
+  }, {
+    "canonical_form" : "participer"
+  }, {
+    "canonical_form" : "partager"
+  }, {
+    "canonical_form" : "frapper"
+  }, {
+    "canonical_form" : "cahoter"
+  }, {
+    "canonical_form" : "aguerrir"
+  } ]
+}

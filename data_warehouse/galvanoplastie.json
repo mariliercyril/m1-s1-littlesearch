@@ -1,0 +1,22 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "galvanoplastie",
+    "other_forms" : [ "galvanoplasties" ]
+  }, {
+    "canonical_form" : "argenture",
+    "other_forms" : [ "argentures" ]
+  }, {
+    "canonical_form" : "clichage",
+    "other_forms" : [ "clichages" ]
+  }, {
+    "canonical_form" : "cuivrage",
+    "other_forms" : [ "cuivrages" ]
+  }, {
+    "canonical_form" : "galvanotypie",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "nickelage",
+    "other_forms" : [ "nickelages" ]
+  } ]
+}

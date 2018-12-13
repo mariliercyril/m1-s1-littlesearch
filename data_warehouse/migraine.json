@@ -1,0 +1,16 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "migraine",
+    "other_forms" : [ "migraines" ]
+  }, {
+    "canonical_form" : "céphalée",
+    "other_forms" : [ "céphalées" ]
+  }, {
+    "canonical_form" : "céphalalgie",
+    "other_forms" : [ "céphalalgies" ]
+  }, {
+    "canonical_form" : "hémialgie",
+    "other_forms" : [ ]
+  } ]
+}

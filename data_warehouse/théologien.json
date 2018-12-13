@@ -1,0 +1,22 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "théologien",
+    "other_forms" : [ "théologiens" ]
+  }, {
+    "canonical_form" : "canoniste",
+    "other_forms" : [ "canonistes" ]
+  }, {
+    "canonical_form" : "casuiste",
+    "other_forms" : [ "casuistes" ]
+  }, {
+    "canonical_form" : "consulteur",
+    "other_forms" : [ "consulteurs" ]
+  }, {
+    "canonical_form" : "docteur",
+    "other_forms" : [ "docteurs" ]
+  }, {
+    "canonical_form" : "père",
+    "other_forms" : [ "pères" ]
+  } ]
+}

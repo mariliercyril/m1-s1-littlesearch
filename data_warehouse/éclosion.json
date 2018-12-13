@@ -1,0 +1,43 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "éclosion",
+    "other_forms" : [ "éclosions" ]
+  }, {
+    "canonical_form" : "apparition",
+    "other_forms" : [ "apparitions" ]
+  }, {
+    "canonical_form" : "commencement",
+    "other_forms" : [ "commencements" ]
+  }, {
+    "canonical_form" : "naissance",
+    "other_forms" : [ "naissances" ]
+  }, {
+    "canonical_form" : "épanouissement",
+    "other_forms" : [ "épanouissements" ]
+  }, {
+    "canonical_form" : "sortie",
+    "other_forms" : [ "sorties" ]
+  }, {
+    "canonical_form" : "production",
+    "other_forms" : [ "productions" ]
+  }, {
+    "canonical_form" : "manifestation",
+    "other_forms" : [ "manifestations" ]
+  }, {
+    "canonical_form" : "germination",
+    "other_forms" : [ "germinations" ]
+  }, {
+    "canonical_form" : "floraison",
+    "other_forms" : [ "floraisons" ]
+  }, {
+    "canonical_form" : "début",
+    "other_forms" : [ "débuts" ]
+  }, {
+    "canonical_form" : "avènement",
+    "other_forms" : [ "avènements" ]
+  }, {
+    "canonical_form" : "éveil",
+    "other_forms" : [ "éveils" ]
+  } ]
+}

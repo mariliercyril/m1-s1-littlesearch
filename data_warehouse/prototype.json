@@ -1,0 +1,25 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "prototype",
+    "other_forms" : [ "prototypes" ]
+  }, {
+    "canonical_form" : "type",
+    "other_forms" : [ "types" ]
+  }, {
+    "canonical_form" : "archétype",
+    "other_forms" : [ "archétypes" ]
+  }, {
+    "canonical_form" : "échantillon",
+    "other_forms" : [ "échantillons" ]
+  }, {
+    "canonical_form" : "spécimen",
+    "other_forms" : [ "spécimens" ]
+  }, {
+    "canonical_form" : "princeps",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "étalon",
+    "other_forms" : [ "étalons" ]
+  } ]
+}

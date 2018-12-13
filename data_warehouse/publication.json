@@ -1,0 +1,76 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "publication",
+    "other_forms" : [ "publications" ]
+  }, {
+    "canonical_form" : "proclamation",
+    "other_forms" : [ "proclamations" ]
+  }, {
+    "canonical_form" : "annonce",
+    "other_forms" : [ "annonces" ]
+  }, {
+    "canonical_form" : "livre",
+    "other_forms" : [ "livres" ]
+  }, {
+    "canonical_form" : "recueil",
+    "other_forms" : [ "recueils" ]
+  }, {
+    "canonical_form" : "édition",
+    "other_forms" : [ "éditions" ]
+  }, {
+    "canonical_form" : "tirage",
+    "other_forms" : [ "tirages" ]
+  }, {
+    "canonical_form" : "note",
+    "other_forms" : [ "notes" ]
+  }, {
+    "canonical_form" : "livraison",
+    "other_forms" : [ "livraisons" ]
+  }, {
+    "canonical_form" : "collection",
+    "other_forms" : [ "collections" ]
+  }, {
+    "canonical_form" : "sortie",
+    "other_forms" : [ "sorties" ]
+  }, {
+    "canonical_form" : "reproduction",
+    "other_forms" : [ "reproductions" ]
+  }, {
+    "canonical_form" : "promulgation",
+    "other_forms" : [ "promulgations" ]
+  }, {
+    "canonical_form" : "parution",
+    "other_forms" : [ "parutions" ]
+  }, {
+    "canonical_form" : "ouvrage",
+    "other_forms" : [ "ouvrages" ]
+  }, {
+    "canonical_form" : "lancement",
+    "other_forms" : [ "lancements" ]
+  }, {
+    "canonical_form" : "insertion",
+    "other_forms" : [ "insertions" ]
+  }, {
+    "canonical_form" : "fascicule",
+    "other_forms" : [ "fascicules" ]
+  }, {
+    "canonical_form" : "dénonciation",
+    "other_forms" : [ "dénonciations" ]
+  }, {
+    "canonical_form" : "divulgation",
+    "other_forms" : [ "divulgations" ]
+  }, {
+    "canonical_form" : "ban",
+    "other_forms" : [ "bans" ]
+  }, {
+    "canonical_form" : "apparition",
+    "other_forms" : [ "apparitions" ]
+  }, {
+    "canonical_form" : "affichage",
+    "other_forms" : [ "affichages" ]
+  }, {
+    "canonical_form" : "édiction",
+    "other_forms" : [ "édictions" ]
+  } ]
+}

@@ -1,0 +1,160 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "manière",
+    "other_forms" : [ "manières" ]
+  }, {
+    "canonical_form" : "genre",
+    "other_forms" : [ "genres" ]
+  }, {
+    "canonical_form" : "façon",
+    "other_forms" : [ "façons" ]
+  }, {
+    "canonical_form" : "style",
+    "other_forms" : [ "styles" ]
+  }, {
+    "canonical_form" : "type",
+    "other_forms" : [ "types" ]
+  }, {
+    "canonical_form" : "méthode",
+    "other_forms" : [ "méthodes" ]
+  }, {
+    "canonical_form" : "ton",
+    "other_forms" : [ "tons" ]
+  }, {
+    "canonical_form" : "tournure",
+    "other_forms" : [ "tournures" ]
+  }, {
+    "canonical_form" : "mode",
+    "other_forms" : [ "modes" ]
+  }, {
+    "canonical_form" : "caractère",
+    "other_forms" : [ "caractères" ]
+  }, {
+    "canonical_form" : "art",
+    "other_forms" : [ "arts" ]
+  }, {
+    "canonical_form" : "expression",
+    "other_forms" : [ "expressions" ]
+  }, {
+    "canonical_form" : "truc",
+    "other_forms" : [ "trucs" ]
+  }, {
+    "canonical_form" : "marque",
+    "other_forms" : [ "marques" ]
+  }, {
+    "canonical_form" : "forme",
+    "other_forms" : [ "formes" ]
+  }, {
+    "canonical_form" : "comportement",
+    "other_forms" : [ "comportements" ]
+  }, {
+    "canonical_form" : "facture",
+    "other_forms" : [ "factures" ]
+  }, {
+    "canonical_form" : "sorte",
+    "other_forms" : [ "sortes" ]
+  }, {
+    "canonical_form" : "touche",
+    "other_forms" : [ "touches" ]
+  }, {
+    "canonical_form" : "maintien",
+    "other_forms" : [ "maintiens" ]
+  }, {
+    "canonical_form" : "goût",
+    "other_forms" : [ "goûts" ]
+  }, {
+    "canonical_form" : "geste",
+    "other_forms" : [ "gestes" ]
+  }, {
+    "canonical_form" : "voie",
+    "other_forms" : [ "voies" ]
+  }, {
+    "canonical_form" : "tic",
+    "other_forms" : [ "tics" ]
+  }, {
+    "canonical_form" : "singerie",
+    "other_forms" : [ "singeries" ]
+  }, {
+    "canonical_form" : "minauderie",
+    "other_forms" : [ "minauderies" ]
+  }, {
+    "canonical_form" : "mime",
+    "other_forms" : [ "mimes" ]
+  }, {
+    "canonical_form" : "histoire",
+    "other_forms" : [ "histoires" ]
+  }, {
+    "canonical_form" : "habitude",
+    "other_forms" : [ "habitudes" ]
+  }, {
+    "canonical_form" : "guise",
+    "other_forms" : [ "guises" ]
+  }, {
+    "canonical_form" : "espèce",
+    "other_forms" : [ "espèces" ]
+  }, {
+    "canonical_form" : "artifice",
+    "other_forms" : [ "artifices" ]
+  }, {
+    "canonical_form" : "port",
+    "other_forms" : [ "ports" ]
+  }, {
+    "canonical_form" : "simagrée",
+    "other_forms" : [ "simagrées" ]
+  }, {
+    "canonical_form" : "système",
+    "other_forms" : [ "systèmes" ]
+  }, {
+    "canonical_form" : "travers",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "usage",
+    "other_forms" : [ "usages" ]
+  }, {
+    "canonical_form" : "variété",
+    "other_forms" : [ "variétés" ]
+  }, {
+    "canonical_form" : "plume",
+    "other_forms" : [ "plumes" ]
+  }, {
+    "canonical_form" : "pinceau",
+    "other_forms" : [ "pinceaux" ]
+  }, {
+    "canonical_form" : "accent",
+    "other_forms" : [ "accents" ]
+  }, {
+    "canonical_form" : "chemin",
+    "other_forms" : [ "chemins" ]
+  }, {
+    "canonical_form" : "contorsion",
+    "other_forms" : [ "contorsions" ]
+  }, {
+    "canonical_form" : "manie",
+    "other_forms" : [ "manies" ]
+  }, {
+    "canonical_form" : "mesure",
+    "other_forms" : [ "mesures" ]
+  }, {
+    "canonical_form" : "modalité",
+    "other_forms" : [ "modalités" ]
+  }, {
+    "canonical_form" : "nature",
+    "other_forms" : [ "natures" ]
+  }, {
+    "canonical_form" : "acabit",
+    "other_forms" : [ "acabits" ]
+  }, {
+    "canonical_form" : "mignardise",
+    "other_forms" : [ "mignardises" ]
+  }, {
+    "canonical_form" : "pastiche",
+    "other_forms" : [ "pastiches" ]
+  }, {
+    "canonical_form" : "physionomie",
+    "other_forms" : [ "physionomies" ]
+  }, {
+    "canonical_form" : "écriture",
+    "other_forms" : [ "écritures" ]
+  } ]
+}

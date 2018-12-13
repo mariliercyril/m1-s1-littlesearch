@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "économique",
+    "other_forms" : [ "économiques" ]
+  }, {
+    "canonical_form" : "avantageux",
+    "other_forms" : [ "avantageuse", "avantageuses" ]
+  }, {
+    "canonical_form" : "intéressant",
+    "other_forms" : [ "intéressante", "intéressantes", "intéressants" ]
+  } ]
+}

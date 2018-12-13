@@ -1,0 +1,25 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "mois",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "rétribution",
+    "other_forms" : [ "rétributions" ]
+  }, {
+    "canonical_form" : "traitement",
+    "other_forms" : [ "traitements" ]
+  }, {
+    "canonical_form" : "menstruation",
+    "other_forms" : [ "menstruations" ]
+  }, {
+    "canonical_form" : "menstrues",
+    "other_forms" : [ "menstrue" ]
+  }, {
+    "canonical_form" : "mensualité",
+    "other_forms" : [ "mensualités" ]
+  }, {
+    "canonical_form" : "paie",
+    "other_forms" : [ "paies" ]
+  } ]
+}

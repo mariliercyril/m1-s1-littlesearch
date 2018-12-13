@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "analytique",
+    "other_forms" : [ "analytiques" ]
+  }, {
+    "canonical_form" : "aigu",
+    "other_forms" : [ "aigus", "aiguë", "aiguës" ]
+  }, {
+    "canonical_form" : "psychanalytique",
+    "other_forms" : [ "psychanalytiques" ]
+  } ]
+}

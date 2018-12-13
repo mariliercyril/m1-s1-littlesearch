@@ -1,0 +1,19 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "infrastructure",
+    "other_forms" : [ "infrastructures" ]
+  }, {
+    "canonical_form" : "fondement",
+    "other_forms" : [ "fondements" ]
+  }, {
+    "canonical_form" : "substruction",
+    "other_forms" : [ "substructions" ]
+  }, {
+    "canonical_form" : "fondation",
+    "other_forms" : [ "fondations" ]
+  }, {
+    "canonical_form" : "substructure",
+    "other_forms" : [ ]
+  } ]
+}

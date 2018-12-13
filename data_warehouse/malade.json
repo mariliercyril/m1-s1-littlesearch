@@ -1,0 +1,97 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "malade",
+    "other_forms" : [ "malades" ]
+  }, {
+    "canonical_form" : "souffrant",
+    "other_forms" : [ "souffrante", "souffrantes", "souffrants" ]
+  }, {
+    "canonical_form" : "fou",
+    "other_forms" : [ "fol", "folle", "folles", "fous" ]
+  }, {
+    "canonical_form" : "maladif",
+    "other_forms" : [ "maladifs", "maladive", "maladives" ]
+  }, {
+    "canonical_form" : "mauvais",
+    "other_forms" : [ "mauvaise", "mauvaises" ]
+  }, {
+    "canonical_form" : "souffreteux",
+    "other_forms" : [ "souffreteuse", "souffreteuses" ]
+  }, {
+    "canonical_form" : "pourri",
+    "other_forms" : [ "pourrie", "pourries", "pourris" ]
+  }, {
+    "canonical_form" : "malsain",
+    "other_forms" : [ "malsaine", "malsaines", "malsains" ]
+  }, {
+    "canonical_form" : "cacochyme",
+    "other_forms" : [ "cacochymes" ]
+  }, {
+    "canonical_form" : "égrotant",
+    "other_forms" : [ "égrotante", "égrotantes", "égrotants" ]
+  }, {
+    "canonical_form" : "valétudinaire",
+    "other_forms" : [ "valétudinaires" ]
+  }, {
+    "canonical_form" : "patraque",
+    "other_forms" : [ "patraques" ]
+  }, {
+    "canonical_form" : "patient",
+    "other_forms" : [ "patiente", "patientes", "patients" ]
+  }, {
+    "canonical_form" : "morbide",
+    "other_forms" : [ "morbides" ]
+  }, {
+    "canonical_form" : "malingre",
+    "other_forms" : [ "malingres" ]
+  }, {
+    "canonical_form" : "infirme",
+    "other_forms" : [ "infirmes" ]
+  }, {
+    "canonical_form" : "fiévreux",
+    "other_forms" : [ "fiévreuse", "fiévreuses" ]
+  }, {
+    "canonical_form" : "chétif",
+    "other_forms" : [ "chétifs", "chétive", "chétives" ]
+  }, {
+    "canonical_form" : "anéanti",
+    "other_forms" : [ "anéantie", "anéanties", "anéantis" ]
+  }, {
+    "canonical_form" : "rachitique",
+    "other_forms" : [ "rachitiques" ]
+  }, {
+    "canonical_form" : "pâle",
+    "other_forms" : [ "pâles" ]
+  }, {
+    "canonical_form" : "raide",
+    "other_forms" : [ "raides", "roide", "roides" ]
+  }, {
+    "canonical_form" : "sujet",
+    "other_forms" : [ "sujets", "sujette", "sujettes" ]
+  }, {
+    "canonical_form" : "maboul",
+    "other_forms" : [ "maboule", "mabouls" ]
+  }, {
+    "canonical_form" : "lépreux",
+    "other_forms" : [ "lépreuse", "lépreuses" ]
+  }, {
+    "canonical_form" : "anormal",
+    "other_forms" : [ "anormale", "anormales", "anormaux" ]
+  }, {
+    "canonical_form" : "dingue",
+    "other_forms" : [ "dingues" ]
+  }, {
+    "canonical_form" : "dolent",
+    "other_forms" : [ "dolente", "dolentes", "dolents" ]
+  }, {
+    "canonical_form" : "démoli",
+    "other_forms" : [ "démolie", "démolies", "démolis" ]
+  }, {
+    "canonical_form" : "grabataire",
+    "other_forms" : [ "grabataires" ]
+  }, {
+    "canonical_form" : "gâteux",
+    "other_forms" : [ "gâteuse", "gâteuses" ]
+  } ]
+}

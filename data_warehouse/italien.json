@@ -1,0 +1,16 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "italien",
+    "other_forms" : [ "italienne", "italiennes", "italiens" ]
+  }, {
+    "canonical_form" : "italique",
+    "other_forms" : [ "italiques" ]
+  }, {
+    "canonical_form" : "rital",
+    "other_forms" : [ "ritale", "ritales", "ritals" ]
+  }, {
+    "canonical_form" : "transalpin",
+    "other_forms" : [ "transalpine", "transalpines", "transalpins" ]
+  } ]
+}

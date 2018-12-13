@@ -1,0 +1,79 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "texte",
+    "other_forms" : [ "textes" ]
+  }, {
+    "canonical_form" : "teneur",
+    "other_forms" : [ "teneurs" ]
+  }, {
+    "canonical_form" : "document",
+    "other_forms" : [ "documents" ]
+  }, {
+    "canonical_form" : "type",
+    "other_forms" : [ "types" ]
+  }, {
+    "canonical_form" : "matière",
+    "other_forms" : [ "matières" ]
+  }, {
+    "canonical_form" : "passage",
+    "other_forms" : [ "passages" ]
+  }, {
+    "canonical_form" : "rédaction",
+    "other_forms" : [ "rédactions" ]
+  }, {
+    "canonical_form" : "acte",
+    "other_forms" : [ "actes" ]
+  }, {
+    "canonical_form" : "citation",
+    "other_forms" : [ "citations" ]
+  }, {
+    "canonical_form" : "copie",
+    "other_forms" : [ "copies" ]
+  }, {
+    "canonical_form" : "formule",
+    "other_forms" : [ "formules" ]
+  }, {
+    "canonical_form" : "fragment",
+    "other_forms" : [ "fragments" ]
+  }, {
+    "canonical_form" : "morceau",
+    "other_forms" : [ "morceaux" ]
+  }, {
+    "canonical_form" : "parole",
+    "other_forms" : [ "paroles" ]
+  }, {
+    "canonical_form" : "recension",
+    "other_forms" : [ "recensions" ]
+  }, {
+    "canonical_form" : "scénario",
+    "other_forms" : [ "scénarios" ]
+  }, {
+    "canonical_form" : "source",
+    "other_forms" : [ "sources" ]
+  }, {
+    "canonical_form" : "synopsis",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "livret",
+    "other_forms" : [ "livrets" ]
+  }, {
+    "canonical_form" : "leçon",
+    "other_forms" : [ "leçons" ]
+  }, {
+    "canonical_form" : "caractère",
+    "other_forms" : [ "caractères" ]
+  }, {
+    "canonical_form" : "contexte",
+    "other_forms" : [ "contextes" ]
+  }, {
+    "canonical_form" : "dactylogramme",
+    "other_forms" : [ "dactylogrammes" ]
+  }, {
+    "canonical_form" : "découpage",
+    "other_forms" : [ "découpages" ]
+  }, {
+    "canonical_form" : "exégèse",
+    "other_forms" : [ "exégèses" ]
+  } ]
+}

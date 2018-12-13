@@ -1,0 +1,25 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "moraliste",
+    "other_forms" : [ "moralistes" ]
+  }, {
+    "canonical_form" : "moralisateur",
+    "other_forms" : [ "moralisateurs", "moralisatrice", "moralisatrices" ]
+  }, {
+    "canonical_form" : "prêcheur",
+    "other_forms" : [ "prêcheurs", "prêcheuse", "prêcheuses" ]
+  }, {
+    "canonical_form" : "critique",
+    "other_forms" : [ "critiques" ]
+  }, {
+    "canonical_form" : "janséniste",
+    "other_forms" : [ "jansénistes" ]
+  }, {
+    "canonical_form" : "penseur",
+    "other_forms" : [ "penseurs", "penseuse", "penseuses" ]
+  }, {
+    "canonical_form" : "sermonneur",
+    "other_forms" : [ "sermonneurs", "sermonneuse", "sermonneuses" ]
+  } ]
+}

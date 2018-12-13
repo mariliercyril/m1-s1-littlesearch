@@ -1,0 +1,16 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "partiel",
+    "other_forms" : [ "partielle", "partielles", "partiels" ]
+  }, {
+    "canonical_form" : "fragmentaire",
+    "other_forms" : [ "fragmentaires" ]
+  }, {
+    "canonical_form" : "incomplet",
+    "other_forms" : [ "incomplets", "incomplète", "incomplètes" ]
+  }, {
+    "canonical_form" : "relatif",
+    "other_forms" : [ "relatifs", "relative", "relatives" ]
+  } ]
+}

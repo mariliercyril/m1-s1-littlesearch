@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "précoce",
+    "other_forms" : [ "précoces" ]
+  }, {
+    "canonical_form" : "hâtif",
+    "other_forms" : [ "hâtifs", "hâtive", "hâtives" ]
+  }, {
+    "canonical_form" : "prématuré",
+    "other_forms" : [ "prématurée", "prématurées", "prématurés" ]
+  } ]
+}

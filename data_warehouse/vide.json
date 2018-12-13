@@ -1,0 +1,139 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "vide",
+    "other_forms" : [ "vides" ]
+  }, {
+    "canonical_form" : "désert",
+    "other_forms" : [ "déserte", "désertes", "déserts" ]
+  }, {
+    "canonical_form" : "nu",
+    "other_forms" : [ "nue", "nues", "nus" ]
+  }, {
+    "canonical_form" : "vain",
+    "other_forms" : [ "vaine", "vaines", "vains" ]
+  }, {
+    "canonical_form" : "stérile",
+    "other_forms" : [ "stériles" ]
+  }, {
+    "canonical_form" : "inutile",
+    "other_forms" : [ "inutiles" ]
+  }, {
+    "canonical_form" : "insignifiant",
+    "other_forms" : [ "insignifiante", "insignifiantes", "insignifiants" ]
+  }, {
+    "canonical_form" : "nul",
+    "other_forms" : [ "nulle", "nulles", "nuls" ]
+  }, {
+    "canonical_form" : "léger",
+    "other_forms" : [ "légers", "légère", "légères" ]
+  }, {
+    "canonical_form" : "inoccupé",
+    "other_forms" : [ "inoccupée", "inoccupées", "inoccupés" ]
+  }, {
+    "canonical_form" : "futile",
+    "other_forms" : [ "futiles" ]
+  }, {
+    "canonical_form" : "pauvre",
+    "other_forms" : [ "pauvres" ]
+  }, {
+    "canonical_form" : "libre",
+    "other_forms" : [ "libres" ]
+  }, {
+    "canonical_form" : "creux",
+    "other_forms" : [ "creuse", "creuses" ]
+  }, {
+    "canonical_form" : "plat",
+    "other_forms" : [ "plate", "plates", "plats" ]
+  }, {
+    "canonical_form" : "mort",
+    "other_forms" : [ "morte", "mortes", "morts" ]
+  }, {
+    "canonical_form" : "inhabité",
+    "other_forms" : [ "inhabitée", "inhabitées", "inhabités" ]
+  }, {
+    "canonical_form" : "démuni",
+    "other_forms" : [ "démunie", "démunies", "démunis" ]
+  }, {
+    "canonical_form" : "bête",
+    "other_forms" : [ "bêtes" ]
+  }, {
+    "canonical_form" : "aride",
+    "other_forms" : [ "arides" ]
+  }, {
+    "canonical_form" : "terne",
+    "other_forms" : [ "ternes" ]
+  }, {
+    "canonical_form" : "vacant",
+    "other_forms" : [ "vacante", "vacantes", "vacants" ]
+  }, {
+    "canonical_form" : "inculte",
+    "other_forms" : [ "incultes" ]
+  }, {
+    "canonical_form" : "inconsistant",
+    "other_forms" : [ "inconsistante", "inconsistantes", "inconsistants" ]
+  }, {
+    "canonical_form" : "frivole",
+    "other_forms" : [ "frivoles" ]
+  }, {
+    "canonical_form" : "dégarni",
+    "other_forms" : [ "dégarnie", "dégarnies", "dégarnis" ]
+  }, {
+    "canonical_form" : "insipide",
+    "other_forms" : [ "insipides" ]
+  }, {
+    "canonical_form" : "solitaire",
+    "other_forms" : [ "solitaires" ]
+  }, {
+    "canonical_form" : "vague",
+    "other_forms" : [ "vagues" ]
+  }, {
+    "canonical_form" : "exempt",
+    "other_forms" : [ "exempte", "exemptes", "exempts" ]
+  }, {
+    "canonical_form" : "ampoulé",
+    "other_forms" : [ "ampoulée", "ampoulées", "ampoulés" ]
+  }, {
+    "canonical_form" : "emphatique",
+    "other_forms" : [ "emphatiques" ]
+  }, {
+    "canonical_form" : "morne",
+    "other_forms" : [ "mornes" ]
+  }, {
+    "canonical_form" : "net",
+    "other_forms" : [ "nets", "nette", "nettes" ]
+  }, {
+    "canonical_form" : "prétentieux",
+    "other_forms" : [ "prétentieuse", "prétentieuses" ]
+  }, {
+    "canonical_form" : "improductif",
+    "other_forms" : [ "improductifs", "improductive", "improductives" ]
+  }, {
+    "canonical_form" : "apathique",
+    "other_forms" : [ "apathiques" ]
+  }, {
+    "canonical_form" : "blanc",
+    "other_forms" : [ "blanche", "blanches", "blancs" ]
+  }, {
+    "canonical_form" : "impeuplé",
+    "other_forms" : [ "impeuplée", "impeuplées", "impeuplés" ]
+  }, {
+    "canonical_form" : "infréquenté",
+    "other_forms" : [ "infréquentée", "infréquentées", "infréquentés" ]
+  }, {
+    "canonical_form" : "inintéressant",
+    "other_forms" : [ "inintéressante", "inintéressantes", "inintéressants" ]
+  }, {
+    "canonical_form" : "sec",
+    "other_forms" : [ "secs", "sèche", "sèches" ]
+  }, {
+    "canonical_form" : "superficiel",
+    "other_forms" : [ "superficielle", "superficielles", "superficiels" ]
+  }, {
+    "canonical_form" : "bai",
+    "other_forms" : [ "baie", "baies", "bais" ]
+  }, {
+    "canonical_form" : "disponible",
+    "other_forms" : [ "disponibles" ]
+  } ]
+}

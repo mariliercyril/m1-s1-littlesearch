@@ -1,0 +1,30 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "survenir"
+  }, {
+    "canonical_form" : "arriver"
+  }, {
+    "canonical_form" : "surgir"
+  }, {
+    "canonical_form" : "tomber"
+  }, {
+    "canonical_form" : "venir"
+  }, {
+    "canonical_form" : "apparaître"
+  }, {
+    "canonical_form" : "advenir"
+  }, {
+    "canonical_form" : "échoir"
+  }, {
+    "canonical_form" : "naître"
+  }, {
+    "canonical_form" : "intervenir"
+  }, {
+    "canonical_form" : "accourir"
+  }, {
+    "canonical_form" : "affluer"
+  }, {
+    "canonical_form" : "voir"
+  } ]
+}

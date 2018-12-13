@@ -1,0 +1,43 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "suivant",
+    "other_forms" : [ "suivante", "suivantes", "suivants" ]
+  }, {
+    "canonical_form" : "futur",
+    "other_forms" : [ "future", "futures", "futurs" ]
+  }, {
+    "canonical_form" : "prochain",
+    "other_forms" : [ "prochaine", "prochaines", "prochains" ]
+  }, {
+    "canonical_form" : "postérieur",
+    "other_forms" : [ "postérieure", "postérieures", "postérieurs" ]
+  }, {
+    "canonical_form" : "deuxième",
+    "other_forms" : [ "deuxièmes" ]
+  }, {
+    "canonical_form" : "autre",
+    "other_forms" : [ "autres" ]
+  }, {
+    "canonical_form" : "inférieur",
+    "other_forms" : [ "inférieure", "inférieures", "inférieurs" ]
+  }, {
+    "canonical_form" : "subséquent",
+    "other_forms" : [ "subséquente", "subséquentes", "subséquents" ]
+  }, {
+    "canonical_form" : "suiveur",
+    "other_forms" : [ "suiveurs", "suiveuse", "suiveuses" ]
+  }, {
+    "canonical_form" : "ultérieur",
+    "other_forms" : [ "ultérieure", "ultérieures", "ultérieurs" ]
+  }, {
+    "canonical_form" : "caudataire",
+    "other_forms" : [ "caudataires" ]
+  }, {
+    "canonical_form" : "assidu",
+    "other_forms" : [ "assidue", "assidues", "assidus" ]
+  }, {
+    "canonical_form" : "adorateur",
+    "other_forms" : [ "adorateurs", "adoratrice", "adoratrices" ]
+  } ]
+}

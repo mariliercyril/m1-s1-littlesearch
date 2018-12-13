@@ -1,0 +1,40 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "mystique",
+    "other_forms" : [ "mystiques" ]
+  }, {
+    "canonical_form" : "fanatique",
+    "other_forms" : [ "fanatiques" ]
+  }, {
+    "canonical_form" : "fervent",
+    "other_forms" : [ "fervente", "ferventes", "fervents" ]
+  }, {
+    "canonical_form" : "spirituel",
+    "other_forms" : [ "spirituelle", "spirituelles", "spirituels" ]
+  }, {
+    "canonical_form" : "dévot",
+    "other_forms" : [ "dévote", "dévotes", "dévots" ]
+  }, {
+    "canonical_form" : "symbolique",
+    "other_forms" : [ "symboliques" ]
+  }, {
+    "canonical_form" : "religieux",
+    "other_forms" : [ "religieuse", "religieuses" ]
+  }, {
+    "canonical_form" : "anagogique",
+    "other_forms" : [ "anagogiques" ]
+  }, {
+    "canonical_form" : "secret",
+    "other_forms" : [ "secrets", "secrète", "secrètes" ]
+  }, {
+    "canonical_form" : "extatique",
+    "other_forms" : [ "extatiques" ]
+  }, {
+    "canonical_form" : "contemplatif",
+    "other_forms" : [ "contemplatifs", "contemplative", "contemplatives" ]
+  }, {
+    "canonical_form" : "allégorique",
+    "other_forms" : [ "allégoriques" ]
+  } ]
+}

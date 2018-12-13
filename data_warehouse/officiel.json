@@ -1,0 +1,70 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "officiel",
+    "other_forms" : [ "officielle", "officielles", "officiels" ]
+  }, {
+    "canonical_form" : "certain",
+    "other_forms" : [ "certaine", "certaines", "certains" ]
+  }, {
+    "canonical_form" : "évident",
+    "other_forms" : [ "évidente", "évidentes", "évidents" ]
+  }, {
+    "canonical_form" : "notoire",
+    "other_forms" : [ "notoires" ]
+  }, {
+    "canonical_form" : "manifeste",
+    "other_forms" : [ "manifestes" ]
+  }, {
+    "canonical_form" : "public",
+    "other_forms" : [ "publics", "publique", "publiques" ]
+  }, {
+    "canonical_form" : "authentique",
+    "other_forms" : [ "authentiques" ]
+  }, {
+    "canonical_form" : "formel",
+    "other_forms" : [ "formelle", "formelles", "formels" ]
+  }, {
+    "canonical_form" : "solennel",
+    "other_forms" : [ "solennelle", "solennelles", "solennels" ]
+  }, {
+    "canonical_form" : "patent",
+    "other_forms" : [ "patente", "patentes", "patents" ]
+  }, {
+    "canonical_form" : "réel",
+    "other_forms" : [ "réelle", "réelles", "réels" ]
+  }, {
+    "canonical_form" : "traditionnel",
+    "other_forms" : [ "traditionnelle", "traditionnelles", "traditionnels" ]
+  }, {
+    "canonical_form" : "rituel",
+    "other_forms" : [ "rituelle", "rituelles", "rituels" ]
+  }, {
+    "canonical_form" : "protocolaire",
+    "other_forms" : [ "protocolaires" ]
+  }, {
+    "canonical_form" : "conventionnel",
+    "other_forms" : [ "conventionnelle", "conventionnelles", "conventionnels" ]
+  }, {
+    "canonical_form" : "administratif",
+    "other_forms" : [ "administratifs", "administrative", "administratives" ]
+  }, {
+    "canonical_form" : "flagrant",
+    "other_forms" : [ "flagrante", "flagrantes", "flagrants" ]
+  }, {
+    "canonical_form" : "gouvernemental",
+    "other_forms" : [ "gouvernementale", "gouvernementales", "gouvernementaux" ]
+  }, {
+    "canonical_form" : "ministériel",
+    "other_forms" : [ "ministérielle", "ministérielles", "ministériels" ]
+  }, {
+    "canonical_form" : "réglementaire",
+    "other_forms" : [ "réglementaires" ]
+  }, {
+    "canonical_form" : "extérieur",
+    "other_forms" : [ "extérieure", "extérieures", "extérieurs" ]
+  }, {
+    "canonical_form" : "usuel",
+    "other_forms" : [ "usuelle", "usuelles", "usuels" ]
+  } ]
+}

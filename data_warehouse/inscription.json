@@ -1,0 +1,76 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "inscription",
+    "other_forms" : [ "inscriptions" ]
+  }, {
+    "canonical_form" : "écriteau",
+    "other_forms" : [ "écriteaux" ]
+  }, {
+    "canonical_form" : "enregistrement",
+    "other_forms" : [ "enregistrements" ]
+  }, {
+    "canonical_form" : "transcription",
+    "other_forms" : [ "transcriptions" ]
+  }, {
+    "canonical_form" : "épigraphe",
+    "other_forms" : [ "épigraphes" ]
+  }, {
+    "canonical_form" : "graffiti",
+    "other_forms" : [ "graffitis" ]
+  }, {
+    "canonical_form" : "immatriculation",
+    "other_forms" : [ "immatriculations" ]
+  }, {
+    "canonical_form" : "légende",
+    "other_forms" : [ "légendes" ]
+  }, {
+    "canonical_form" : "mention",
+    "other_forms" : [ "mentions" ]
+  }, {
+    "canonical_form" : "plaque",
+    "other_forms" : [ "plaques" ]
+  }, {
+    "canonical_form" : "titre",
+    "other_forms" : [ "titres" ]
+  }, {
+    "canonical_form" : "épigramme",
+    "other_forms" : [ "épigrammes" ]
+  }, {
+    "canonical_form" : "épitaphe",
+    "other_forms" : [ "épitaphes" ]
+  }, {
+    "canonical_form" : "exergue",
+    "other_forms" : [ "exergues" ]
+  }, {
+    "canonical_form" : "déclaration",
+    "other_forms" : [ "déclarations" ]
+  }, {
+    "canonical_form" : "devise",
+    "other_forms" : [ "devises" ]
+  }, {
+    "canonical_form" : "adhésion",
+    "other_forms" : [ "adhésions" ]
+  }, {
+    "canonical_form" : "affiche",
+    "other_forms" : [ "affiches" ]
+  }, {
+    "canonical_form" : "affiliation",
+    "other_forms" : [ "affiliations" ]
+  }, {
+    "canonical_form" : "appartenance",
+    "other_forms" : [ "appartenances" ]
+  }, {
+    "canonical_form" : "chronogramme",
+    "other_forms" : [ "chronogrammes" ]
+  }, {
+    "canonical_form" : "cippe",
+    "other_forms" : [ "cippes" ]
+  }, {
+    "canonical_form" : "citation",
+    "other_forms" : [ "citations" ]
+  }, {
+    "canonical_form" : "copie",
+    "other_forms" : [ "copies" ]
+  } ]
+}

@@ -1,0 +1,223 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "chef",
+    "other_forms" : [ "chefs" ]
+  }, {
+    "canonical_form" : "gouverneur",
+    "other_forms" : [ "gouverneurs" ]
+  }, {
+    "canonical_form" : "patron",
+    "other_forms" : [ "patronne", "patronnes", "patrons" ]
+  }, {
+    "canonical_form" : "meneur",
+    "other_forms" : [ "meneurs", "meneuse", "meneuses" ]
+  }, {
+    "canonical_form" : "magistrat",
+    "other_forms" : [ "magistrats" ]
+  }, {
+    "canonical_form" : "leader",
+    "other_forms" : [ "leaders" ]
+  }, {
+    "canonical_form" : "instigateur",
+    "other_forms" : [ "instigateurs", "instigatrice", "instigatrices" ]
+  }, {
+    "canonical_form" : "guide",
+    "other_forms" : [ "guides" ]
+  }, {
+    "canonical_form" : "prince",
+    "other_forms" : [ "princes" ]
+  }, {
+    "canonical_form" : "officier",
+    "other_forms" : [ "officiers" ]
+  }, {
+    "canonical_form" : "capitaine",
+    "other_forms" : [ "capitaines" ]
+  }, {
+    "canonical_form" : "âme",
+    "other_forms" : [ "âmes" ]
+  }, {
+    "canonical_form" : "tête",
+    "other_forms" : [ "têtes" ]
+  }, {
+    "canonical_form" : "sous-officier",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "roi",
+    "other_forms" : [ "rois" ]
+  }, {
+    "canonical_form" : "père",
+    "other_forms" : [ "pères" ]
+  }, {
+    "canonical_form" : "lieutenant",
+    "other_forms" : [ "lieutenants" ]
+  }, {
+    "canonical_form" : "président",
+    "other_forms" : [ "présidente", "présidentes", "présidents" ]
+  }, {
+    "canonical_form" : "pasteur",
+    "other_forms" : [ "pasteurs" ]
+  }, {
+    "canonical_form" : "monarque",
+    "other_forms" : [ "monarques" ]
+  }, {
+    "canonical_form" : "berger",
+    "other_forms" : [ "bergers" ]
+  }, {
+    "canonical_form" : "as",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "entraîneur",
+    "other_forms" : [ "entraîneurs", "entraîneuse", "entraîneuses" ]
+  }, {
+    "canonical_form" : "maestro",
+    "other_forms" : [ "maestros" ]
+  }, {
+    "canonical_form" : "maire",
+    "other_forms" : [ "maires" ]
+  }, {
+    "canonical_form" : "manitou",
+    "other_forms" : [ "manitous" ]
+  }, {
+    "canonical_form" : "ministre",
+    "other_forms" : [ "ministres" ]
+  }, {
+    "canonical_form" : "quartier-maître",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "sous-chef",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "émir",
+    "other_forms" : [ "émirs" ]
+  }, {
+    "canonical_form" : "doyen",
+    "other_forms" : [ "doyenne", "doyennes", "doyens" ]
+  }, {
+    "canonical_form" : "abbé",
+    "other_forms" : [ "abbés" ]
+  }, {
+    "canonical_form" : "architecte",
+    "other_forms" : [ "architectes" ]
+  }, {
+    "canonical_form" : "cacique",
+    "other_forms" : [ "caciques" ]
+  }, {
+    "canonical_form" : "cadre",
+    "other_forms" : [ "cadres" ]
+  }, {
+    "canonical_form" : "caporal",
+    "other_forms" : [ "caporaux" ]
+  }, {
+    "canonical_form" : "contremaître",
+    "other_forms" : [ "contremaîtres", "contremaîtresse", "contremaîtresses" ]
+  }, {
+    "canonical_form" : "champion",
+    "other_forms" : [ "championne", "championnes", "champions" ]
+  }, {
+    "canonical_form" : "caïd",
+    "other_forms" : [ "caïds" ]
+  }, {
+    "canonical_form" : "patriarche",
+    "other_forms" : [ "patriarches" ]
+  }, {
+    "canonical_form" : "pape",
+    "other_forms" : [ "papes" ]
+  }, {
+    "canonical_form" : "matière",
+    "other_forms" : [ "matières" ]
+  }, {
+    "canonical_form" : "maréchal",
+    "other_forms" : [ "maréchaux" ]
+  }, {
+    "canonical_form" : "lieutenant-colonel",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "ingénieur",
+    "other_forms" : [ "ingénieurs" ]
+  }, {
+    "canonical_form" : "fondateur",
+    "other_forms" : [ "fondateurs", "fondatrice", "fondatrices" ]
+  }, {
+    "canonical_form" : "empereur",
+    "other_forms" : [ "empereurs" ]
+  }, {
+    "canonical_form" : "porte-drapeau",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "sachem",
+    "other_forms" : [ "sachems" ]
+  }, {
+    "canonical_form" : "évêque",
+    "other_forms" : [ "évêques" ]
+  }, {
+    "canonical_form" : "échevin",
+    "other_forms" : [ "échevins" ]
+  }, {
+    "canonical_form" : "tétrarque",
+    "other_forms" : [ "tétrarques" ]
+  }, {
+    "canonical_form" : "stratège",
+    "other_forms" : [ "stratèges" ]
+  }, {
+    "canonical_form" : "sous-lieutenant",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "singe",
+    "other_forms" : [ "singes" ]
+  }, {
+    "canonical_form" : "sergent",
+    "other_forms" : [ "sergents" ]
+  }, {
+    "canonical_form" : "dynaste",
+    "other_forms" : [ "dynastes" ]
+  }, {
+    "canonical_form" : "doge",
+    "other_forms" : [ "doges" ]
+  }, {
+    "canonical_form" : "dictateur",
+    "other_forms" : [ "dictateurs", "dictatrice", "dictatrices" ]
+  }, {
+    "canonical_form" : "cap",
+    "other_forms" : [ "caps" ]
+  }, {
+    "canonical_form" : "brigadier",
+    "other_forms" : [ "brigadiers" ]
+  }, {
+    "canonical_form" : "boss",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "adjudant",
+    "other_forms" : [ "adjudants" ]
+  }, {
+    "canonical_form" : "cheffesse",
+    "other_forms" : [ "cheffesses" ]
+  }, {
+    "canonical_form" : "cheftaine",
+    "other_forms" : [ "cheftaines" ]
+  }, {
+    "canonical_form" : "cuisinier",
+    "other_forms" : [ "cuisiniers", "cuisinière", "cuisinières" ]
+  }, {
+    "canonical_form" : "coryphée",
+    "other_forms" : [ "choryphée", "choryphées", "coryphées" ]
+  }, {
+    "canonical_form" : "coq",
+    "other_forms" : [ "coqs" ]
+  }, {
+    "canonical_form" : "consul",
+    "other_forms" : [ "consuls" ]
+  }, {
+    "canonical_form" : "condottiere",
+    "other_forms" : [ "condottieres" ]
+  }, {
+    "canonical_form" : "colonel",
+    "other_forms" : [ "colonelle", "colonelles", "colonels" ]
+  }, {
+    "canonical_form" : "cinquantenier",
+    "other_forms" : [ "cinquanteniers" ]
+  }, {
+    "canonical_form" : "cheik",
+    "other_forms" : [ "cheiks" ]
+  } ]
+}

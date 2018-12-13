@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "latin",
+    "other_forms" : [ "latine", "latines", "latins" ]
+  }, {
+    "canonical_form" : "romain",
+    "other_forms" : [ "romaine", "romaines", "romains" ]
+  }, {
+    "canonical_form" : "roman",
+    "other_forms" : [ "romane", "romanes", "romans" ]
+  } ]
+}

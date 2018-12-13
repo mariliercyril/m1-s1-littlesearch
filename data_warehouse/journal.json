@@ -1,0 +1,28 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "journal",
+    "other_forms" : [ "journale", "journales", "journals", "journaux" ]
+  }, {
+    "canonical_form" : "nouveau",
+    "other_forms" : [ "nouveaux", "nouvel", "nouvelle", "nouvelles" ]
+  }, {
+    "canonical_form" : "périodique",
+    "other_forms" : [ "périodiques" ]
+  }, {
+    "canonical_form" : "quotidien",
+    "other_forms" : [ "quotidienne", "quotidiennes", "quotidiens" ]
+  }, {
+    "canonical_form" : "hebdomadaire",
+    "other_forms" : [ "hebdomadaires" ]
+  }, {
+    "canonical_form" : "roman",
+    "other_forms" : [ "romane", "romanes", "romans" ]
+  }, {
+    "canonical_form" : "journal",
+    "other_forms" : [ "journale", "journales", "journals", "journaux" ]
+  }, {
+    "canonical_form" : "journalier",
+    "other_forms" : [ "journaliers", "journalière", "journalières" ]
+  } ]
+}

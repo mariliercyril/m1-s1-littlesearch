@@ -1,0 +1,223 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "résolution",
+    "other_forms" : [ "résolutions" ]
+  }, {
+    "canonical_form" : "volonté",
+    "other_forms" : [ "volontés" ]
+  }, {
+    "canonical_form" : "fermeté",
+    "other_forms" : [ "fermetés" ]
+  }, {
+    "canonical_form" : "décision",
+    "other_forms" : [ "décisions" ]
+  }, {
+    "canonical_form" : "énergie",
+    "other_forms" : [ "énergies" ]
+  }, {
+    "canonical_form" : "courage",
+    "other_forms" : [ "courages" ]
+  }, {
+    "canonical_form" : "dessein",
+    "other_forms" : [ "desseins" ]
+  }, {
+    "canonical_form" : "détermination",
+    "other_forms" : [ "déterminations" ]
+  }, {
+    "canonical_form" : "caractère",
+    "other_forms" : [ "caractères" ]
+  }, {
+    "canonical_form" : "intention",
+    "other_forms" : [ "intentions" ]
+  }, {
+    "canonical_form" : "solution",
+    "other_forms" : [ "solutions" ]
+  }, {
+    "canonical_form" : "ressort",
+    "other_forms" : [ "ressorts" ]
+  }, {
+    "canonical_form" : "dénouement",
+    "other_forms" : [ "dénouements", "dénoûment", "dénoûments" ]
+  }, {
+    "canonical_form" : "annulation",
+    "other_forms" : [ "annulations" ]
+  }, {
+    "canonical_form" : "conclusion",
+    "other_forms" : [ "conclusions" ]
+  }, {
+    "canonical_form" : "ténacité",
+    "other_forms" : [ "ténacités" ]
+  }, {
+    "canonical_form" : "solidité",
+    "other_forms" : [ "solidités" ]
+  }, {
+    "canonical_form" : "propos",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "destruction",
+    "other_forms" : [ "destructions" ]
+  }, {
+    "canonical_form" : "hardiesse",
+    "other_forms" : [ "hardiesses" ]
+  }, {
+    "canonical_form" : "désir",
+    "other_forms" : [ "désirs" ]
+  }, {
+    "canonical_form" : "dissolution",
+    "other_forms" : [ "dissolutions" ]
+  }, {
+    "canonical_form" : "audace",
+    "other_forms" : [ "audaces" ]
+  }, {
+    "canonical_form" : "achèvement",
+    "other_forms" : [ "achèvements" ]
+  }, {
+    "canonical_form" : "proposition",
+    "other_forms" : [ "propositions" ]
+  }, {
+    "canonical_form" : "projet",
+    "other_forms" : [ "projets" ]
+  }, {
+    "canonical_form" : "opiniâtreté",
+    "other_forms" : [ "opiniâtretés" ]
+  }, {
+    "canonical_form" : "division",
+    "other_forms" : [ "divisions" ]
+  }, {
+    "canonical_form" : "disposition",
+    "other_forms" : [ "dispositions" ]
+  }, {
+    "canonical_form" : "cran",
+    "other_forms" : [ "crans" ]
+  }, {
+    "canonical_form" : "convention",
+    "other_forms" : [ "conventions" ]
+  }, {
+    "canonical_form" : "abolition",
+    "other_forms" : [ "abolitions" ]
+  }, {
+    "canonical_form" : "renvoi",
+    "other_forms" : [ "renvois" ]
+  }, {
+    "canonical_form" : "résiliation",
+    "other_forms" : [ "résiliations" ]
+  }, {
+    "canonical_form" : "résultat",
+    "other_forms" : [ "résultats" ]
+  }, {
+    "canonical_form" : "séparation",
+    "other_forms" : [ "séparations" ]
+  }, {
+    "canonical_form" : "témérité",
+    "other_forms" : [ "témérités" ]
+  }, {
+    "canonical_form" : "queue",
+    "other_forms" : [ "queues" ]
+  }, {
+    "canonical_form" : "obstination",
+    "other_forms" : [ "obstinations" ]
+  }, {
+    "canonical_form" : "conseil",
+    "other_forms" : [ "conseils" ]
+  }, {
+    "canonical_form" : "constance",
+    "other_forms" : [ "constances" ]
+  }, {
+    "canonical_form" : "disparition",
+    "other_forms" : [ "disparitions" ]
+  }, {
+    "canonical_form" : "décomposition",
+    "other_forms" : [ "décompositions" ]
+  }, {
+    "canonical_form" : "entêtement",
+    "other_forms" : [ "entêtements" ]
+  }, {
+    "canonical_form" : "vouloir",
+    "other_forms" : [ "vouloirs" ]
+  }, {
+    "canonical_form" : "situation",
+    "other_forms" : [ "situations" ]
+  }, {
+    "canonical_form" : "révocation",
+    "other_forms" : [ "révocations" ]
+  }, {
+    "canonical_form" : "rescision",
+    "other_forms" : [ "rescisions" ]
+  }, {
+    "canonical_form" : "position",
+    "other_forms" : [ "positions" ]
+  }, {
+    "canonical_form" : "initiative",
+    "other_forms" : [ "initiatives" ]
+  }, {
+    "canonical_form" : "extrémité",
+    "other_forms" : [ "extrémités" ]
+  }, {
+    "canonical_form" : "exigence",
+    "other_forms" : [ "exigences" ]
+  }, {
+    "canonical_form" : "distinction",
+    "other_forms" : [ "distinctions" ]
+  }, {
+    "canonical_form" : "diminution",
+    "other_forms" : [ "diminutions" ]
+  }, {
+    "canonical_form" : "coda",
+    "other_forms" : [ "codas" ]
+  }, {
+    "canonical_form" : "rédhibition",
+    "other_forms" : [ "rédhibitions" ]
+  }, {
+    "canonical_form" : "réduction",
+    "other_forms" : [ "réductions" ]
+  }, {
+    "canonical_form" : "résolvance",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "résorption",
+    "other_forms" : [ "résorptions" ]
+  }, {
+    "canonical_form" : "souhait",
+    "other_forms" : [ "souhaits" ]
+  }, {
+    "canonical_form" : "transformation",
+    "other_forms" : [ "transformations" ]
+  }, {
+    "canonical_form" : "volition",
+    "other_forms" : [ "volitions" ]
+  }, {
+    "canonical_form" : "relâchement",
+    "other_forms" : [ "relâchements" ]
+  }, {
+    "canonical_form" : "protocole",
+    "other_forms" : [ "protocoles" ]
+  }, {
+    "canonical_form" : "analyse",
+    "other_forms" : [ "analyses" ]
+  }, {
+    "canonical_form" : "choix",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "clef",
+    "other_forms" : [ "clefs", "clé", "clés" ]
+  }, {
+    "canonical_form" : "discrimination",
+    "other_forms" : [ "discriminations" ]
+  }, {
+    "canonical_form" : "délibération",
+    "other_forms" : [ "délibérations" ]
+  }, {
+    "canonical_form" : "opération",
+    "other_forms" : [ "opérations" ]
+  }, {
+    "canonical_form" : "pacte",
+    "other_forms" : [ "pactes" ]
+  }, {
+    "canonical_form" : "programme",
+    "other_forms" : [ "programmes" ]
+  }, {
+    "canonical_form" : "épilogue",
+    "other_forms" : [ "épilogues" ]
+  } ]
+}

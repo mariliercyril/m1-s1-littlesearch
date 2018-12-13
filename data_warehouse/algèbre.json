@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "algèbre",
+    "other_forms" : [ "algèbres" ]
+  }, {
+    "canonical_form" : "calcul",
+    "other_forms" : [ "calculs" ]
+  }, {
+    "canonical_form" : "symbole",
+    "other_forms" : [ "symboles" ]
+  } ]
+}

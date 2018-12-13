@@ -1,0 +1,70 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "roi",
+    "other_forms" : [ "rois" ]
+  }, {
+    "canonical_form" : "monarque",
+    "other_forms" : [ "monarques" ]
+  }, {
+    "canonical_form" : "prince",
+    "other_forms" : [ "princes" ]
+  }, {
+    "canonical_form" : "empereur",
+    "other_forms" : [ "empereurs" ]
+  }, {
+    "canonical_form" : "chef",
+    "other_forms" : [ "chefs" ]
+  }, {
+    "canonical_form" : "tyran",
+    "other_forms" : [ "tyrans" ]
+  }, {
+    "canonical_form" : "trésor",
+    "other_forms" : [ "trésors" ]
+  }, {
+    "canonical_form" : "seigneur",
+    "other_forms" : [ "seigneurs" ]
+  }, {
+    "canonical_form" : "potentat",
+    "other_forms" : [ "potentats" ]
+  }, {
+    "canonical_form" : "magnat",
+    "other_forms" : [ "magnats" ]
+  }, {
+    "canonical_form" : "couronne",
+    "other_forms" : [ "couronnes" ]
+  }, {
+    "canonical_form" : "biquet",
+    "other_forms" : [ "biquets", "biquette", "biquettes" ]
+  }, {
+    "canonical_form" : "autocrate",
+    "other_forms" : [ "autocrates" ]
+  }, {
+    "canonical_form" : "schah",
+    "other_forms" : [ "schahs" ]
+  }, {
+    "canonical_form" : "ponte",
+    "other_forms" : [ "pontes" ]
+  }, {
+    "canonical_form" : "phénix",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "pharaon",
+    "other_forms" : [ "pharaons" ]
+  }, {
+    "canonical_form" : "majesté",
+    "other_forms" : [ "majestés" ]
+  }, {
+    "canonical_form" : "khan",
+    "other_forms" : [ "kan", "kans", "khans" ]
+  }, {
+    "canonical_form" : "dynaste",
+    "other_forms" : [ "dynastes" ]
+  }, {
+    "canonical_form" : "césar",
+    "other_forms" : [ "césars" ]
+  }, {
+    "canonical_form" : "sultan",
+    "other_forms" : [ "sultans" ]
+  } ]
+}

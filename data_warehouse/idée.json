@@ -1,0 +1,244 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "idée",
+    "other_forms" : [ "idées" ]
+  }, {
+    "canonical_form" : "conception",
+    "other_forms" : [ "conceptions" ]
+  }, {
+    "canonical_form" : "imagination",
+    "other_forms" : [ "imaginations" ]
+  }, {
+    "canonical_form" : "sentiment",
+    "other_forms" : [ "sentiments" ]
+  }, {
+    "canonical_form" : "image",
+    "other_forms" : [ "images" ]
+  }, {
+    "canonical_form" : "vision",
+    "other_forms" : [ "visions" ]
+  }, {
+    "canonical_form" : "rêve",
+    "other_forms" : [ "rêves" ]
+  }, {
+    "canonical_form" : "opinion",
+    "other_forms" : [ "opinions" ]
+  }, {
+    "canonical_form" : "notion",
+    "other_forms" : [ "notions" ]
+  }, {
+    "canonical_form" : "connaissance",
+    "other_forms" : [ "connaissances" ]
+  }, {
+    "canonical_form" : "théorie",
+    "other_forms" : [ "théories" ]
+  }, {
+    "canonical_form" : "principe",
+    "other_forms" : [ "principes" ]
+  }, {
+    "canonical_form" : "position",
+    "other_forms" : [ "positions" ]
+  }, {
+    "canonical_form" : "intelligence",
+    "other_forms" : [ "intelligences" ]
+  }, {
+    "canonical_form" : "illusion",
+    "other_forms" : [ "illusions" ]
+  }, {
+    "canonical_form" : "ombre",
+    "other_forms" : [ "ombres" ]
+  }, {
+    "canonical_form" : "invention",
+    "other_forms" : [ "inventions" ]
+  }, {
+    "canonical_form" : "esquisse",
+    "other_forms" : [ "esquisses" ]
+  }, {
+    "canonical_form" : "dessein",
+    "other_forms" : [ "desseins" ]
+  }, {
+    "canonical_form" : "conscience",
+    "other_forms" : [ "consciences" ]
+  }, {
+    "canonical_form" : "chimère",
+    "other_forms" : [ "chimères" ]
+  }, {
+    "canonical_form" : "avant-goût",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "abstraction",
+    "other_forms" : [ "abstractions" ]
+  }, {
+    "canonical_form" : "volonté",
+    "other_forms" : [ "volontés" ]
+  }, {
+    "canonical_form" : "rêverie",
+    "other_forms" : [ "rêveries" ]
+  }, {
+    "canonical_form" : "représentation",
+    "other_forms" : [ "représentations" ]
+  }, {
+    "canonical_form" : "projet",
+    "other_forms" : [ "projets" ]
+  }, {
+    "canonical_form" : "perspective",
+    "other_forms" : [ "perspectives" ]
+  }, {
+    "canonical_form" : "perception",
+    "other_forms" : [ "perceptions" ]
+  }, {
+    "canonical_form" : "jugement",
+    "other_forms" : [ "jugements" ]
+  }, {
+    "canonical_form" : "fantaisie",
+    "other_forms" : [ "fantaisies" ]
+  }, {
+    "canonical_form" : "apparence",
+    "other_forms" : [ "apparences" ]
+  }, {
+    "canonical_form" : "ébauche",
+    "other_forms" : [ "ébauches" ]
+  }, {
+    "canonical_form" : "supposition",
+    "other_forms" : [ "suppositions" ]
+  }, {
+    "canonical_form" : "soupçon",
+    "other_forms" : [ "soupçons" ]
+  }, {
+    "canonical_form" : "manie",
+    "other_forms" : [ "manies" ]
+  }, {
+    "canonical_form" : "intention",
+    "other_forms" : [ "intentions" ]
+  }, {
+    "canonical_form" : "humeur",
+    "other_forms" : [ "humeurs" ]
+  }, {
+    "canonical_form" : "croyance",
+    "other_forms" : [ "croyances" ]
+  }, {
+    "canonical_form" : "point de vue",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "pressentiment",
+    "other_forms" : [ "pressentiments" ]
+  }, {
+    "canonical_form" : "réflexion",
+    "other_forms" : [ "réflexions" ]
+  }, {
+    "canonical_form" : "schéma",
+    "other_forms" : [ "schémas" ]
+  }, {
+    "canonical_form" : "tête",
+    "other_forms" : [ "têtes" ]
+  }, {
+    "canonical_form" : "échantillon",
+    "other_forms" : [ "échantillons" ]
+  }, {
+    "canonical_form" : "philosophie",
+    "other_forms" : [ "philosophies" ]
+  }, {
+    "canonical_form" : "obsession",
+    "other_forms" : [ "obsessions" ]
+  }, {
+    "canonical_form" : "inspiration",
+    "other_forms" : [ "inspirations" ]
+  }, {
+    "canonical_form" : "aspect",
+    "other_forms" : [ "aspects" ]
+  }, {
+    "canonical_form" : "concept",
+    "other_forms" : [ "concepts" ]
+  }, {
+    "canonical_form" : "désir",
+    "other_forms" : [ "désirs" ]
+  }, {
+    "canonical_form" : "essai",
+    "other_forms" : [ "essais" ]
+  }, {
+    "canonical_form" : "exemple",
+    "other_forms" : [ "exemples" ]
+  }, {
+    "canonical_form" : "gré",
+    "other_forms" : [ "grés" ]
+  }, {
+    "canonical_form" : "hypothèse",
+    "other_forms" : [ "hypothèses" ]
+  }, {
+    "canonical_form" : "marotte",
+    "other_forms" : [ "marottes" ]
+  }, {
+    "canonical_form" : "mythe",
+    "other_forms" : [ "mythes" ]
+  }, {
+    "canonical_form" : "once",
+    "other_forms" : [ "onces" ]
+  }, {
+    "canonical_form" : "situation",
+    "other_forms" : [ "situations" ]
+  }, {
+    "canonical_form" : "thème",
+    "other_forms" : [ "thèmes" ]
+  }, {
+    "canonical_form" : "trouvaille",
+    "other_forms" : [ "trouvailles" ]
+  }, {
+    "canonical_form" : "larme",
+    "other_forms" : [ "larmes" ]
+  }, {
+    "canonical_form" : "hantise",
+    "other_forms" : [ "hantises" ]
+  }, {
+    "canonical_form" : "archétype",
+    "other_forms" : [ "archétypes" ]
+  }, {
+    "canonical_form" : "avis",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "catégorie",
+    "other_forms" : [ "catégories" ]
+  }, {
+    "canonical_form" : "fantôme",
+    "other_forms" : [ "fantômes" ]
+  }, {
+    "canonical_form" : "fond",
+    "other_forms" : [ "fonds" ]
+  }, {
+    "canonical_form" : "goutte",
+    "other_forms" : [ "gouttes" ]
+  }, {
+    "canonical_form" : "source",
+    "other_forms" : [ "sources" ]
+  }, {
+    "canonical_form" : "psychose",
+    "other_forms" : [ "psychoses" ]
+  }, {
+    "canonical_form" : "possibilité",
+    "other_forms" : [ "possibilités" ]
+  }, {
+    "canonical_form" : "penser",
+    "other_forms" : [ "pensers" ]
+  }, {
+    "canonical_form" : "linéament",
+    "other_forms" : [ "linéaments" ]
+  }, {
+    "canonical_form" : "illumination",
+    "other_forms" : [ "illuminations" ]
+  }, {
+    "canonical_form" : "entité",
+    "other_forms" : [ "entités" ]
+  }, {
+    "canonical_form" : "détermination",
+    "other_forms" : [ "déterminations" ]
+  }, {
+    "canonical_form" : "dada",
+    "other_forms" : [ "dadas" ]
+  }, {
+    "canonical_form" : "clarté",
+    "other_forms" : [ "clartés" ]
+  }, {
+    "canonical_form" : "élucubration",
+    "other_forms" : [ "élucubrations" ]
+  } ]
+}

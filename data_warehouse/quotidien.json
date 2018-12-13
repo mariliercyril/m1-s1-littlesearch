@@ -1,0 +1,40 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "quotidien",
+    "other_forms" : [ "quotidienne", "quotidiennes", "quotidiens" ]
+  }, {
+    "canonical_form" : "courant",
+    "other_forms" : [ "courante", "courantes", "courants" ]
+  }, {
+    "canonical_form" : "habituel",
+    "other_forms" : [ "habituelle", "habituelles", "habituels" ]
+  }, {
+    "canonical_form" : "journalier",
+    "other_forms" : [ "journaliers", "journalière", "journalières" ]
+  }, {
+    "canonical_form" : "ordinaire",
+    "other_forms" : [ "ordinaires" ]
+  }, {
+    "canonical_form" : "fréquent",
+    "other_forms" : [ "fréquente", "fréquentes", "fréquents" ]
+  }, {
+    "canonical_form" : "normal",
+    "other_forms" : [ "normale", "normales", "normaux" ]
+  }, {
+    "canonical_form" : "journal",
+    "other_forms" : [ "journale", "journales", "journals", "journaux" ]
+  }, {
+    "canonical_form" : "fastidieux",
+    "other_forms" : [ "fastidieuse", "fastidieuses" ]
+  }, {
+    "canonical_form" : "diurne",
+    "other_forms" : [ "diurnes" ]
+  }, {
+    "canonical_form" : "diurnal",
+    "other_forms" : [ "diurnale", "diurnales", "diurnaux" ]
+  }, {
+    "canonical_form" : "continuel",
+    "other_forms" : [ "continuelle", "continuelles", "continuels" ]
+  } ]
+}

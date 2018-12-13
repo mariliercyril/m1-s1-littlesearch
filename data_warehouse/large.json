@@ -1,0 +1,121 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "large",
+    "other_forms" : [ "larges" ]
+  }, {
+    "canonical_form" : "grand",
+    "other_forms" : [ "grande", "grandes", "grands" ]
+  }, {
+    "canonical_form" : "vaste",
+    "other_forms" : [ "vastes" ]
+  }, {
+    "canonical_form" : "gros",
+    "other_forms" : [ "grosse", "grosses" ]
+  }, {
+    "canonical_form" : "abondant",
+    "other_forms" : [ "abondante", "abondantes", "abondants" ]
+  }, {
+    "canonical_form" : "fort",
+    "other_forms" : [ "forte", "fortes", "forts" ]
+  }, {
+    "canonical_form" : "généreux",
+    "other_forms" : [ "généreuse", "généreuses" ]
+  }, {
+    "canonical_form" : "riche",
+    "other_forms" : [ "riches" ]
+  }, {
+    "canonical_form" : "libéral",
+    "other_forms" : [ "libérale", "libérales", "libéraux" ]
+  }, {
+    "canonical_form" : "ample",
+    "other_forms" : [ "amples" ]
+  }, {
+    "canonical_form" : "important",
+    "other_forms" : [ "importante", "importantes", "importants" ]
+  }, {
+    "canonical_form" : "profond",
+    "other_forms" : [ "profonde", "profondes", "profonds" ]
+  }, {
+    "canonical_form" : "souple",
+    "other_forms" : [ "souples" ]
+  }, {
+    "canonical_form" : "ouvert",
+    "other_forms" : [ "ouverte", "ouvertes", "ouverts" ]
+  }, {
+    "canonical_form" : "copieux",
+    "other_forms" : [ "copieur", "copieurs", "copieuse", "copieuses" ]
+  }, {
+    "canonical_form" : "considérable",
+    "other_forms" : [ "considérables" ]
+  }, {
+    "canonical_form" : "élastique",
+    "other_forms" : [ "élastiques" ]
+  }, {
+    "canonical_form" : "indulgent",
+    "other_forms" : [ "indulgente", "indulgentes", "indulgents" ]
+  }, {
+    "canonical_form" : "coulant",
+    "other_forms" : [ "coulante", "coulantes", "coulants" ]
+  }, {
+    "canonical_form" : "compréhensif",
+    "other_forms" : [ "compréhensifs", "compréhensive", "compréhensives" ]
+  }, {
+    "canonical_form" : "énorme",
+    "other_forms" : [ "énormes" ]
+  }, {
+    "canonical_form" : "vague",
+    "other_forms" : [ "vagues" ]
+  }, {
+    "canonical_form" : "prodigue",
+    "other_forms" : [ "prodigues" ]
+  }, {
+    "canonical_form" : "lâche",
+    "other_forms" : [ "lâches" ]
+  }, {
+    "canonical_form" : "libre",
+    "other_forms" : [ "libres" ]
+  }, {
+    "canonical_form" : "aisé",
+    "other_forms" : [ "aisée", "aisées", "aisés" ]
+  }, {
+    "canonical_form" : "épais",
+    "other_forms" : [ "épaisse", "épaisses" ]
+  }, {
+    "canonical_form" : "spacieux",
+    "other_forms" : [ "spacieuse", "spacieuses" ]
+  }, {
+    "canonical_form" : "flou",
+    "other_forms" : [ "floue", "floues", "flous" ]
+  }, {
+    "canonical_form" : "béant",
+    "other_forms" : [ "béante", "béantes", "béants" ]
+  }, {
+    "canonical_form" : "largue",
+    "other_forms" : [ "largues" ]
+  }, {
+    "canonical_form" : "munificent",
+    "other_forms" : [ "munificente", "munificentes", "munificents" ]
+  }, {
+    "canonical_form" : "rapide",
+    "other_forms" : [ "rapides" ]
+  }, {
+    "canonical_form" : "général",
+    "other_forms" : [ "générale", "générales", "généraux" ]
+  }, {
+    "canonical_form" : "fastueux",
+    "other_forms" : [ "fastueuse", "fastueuses" ]
+  }, {
+    "canonical_form" : "dépensier",
+    "other_forms" : [ "dépensiers", "dépensière", "dépensières" ]
+  }, {
+    "canonical_form" : "donnant",
+    "other_forms" : [ "donnante", "donnantes", "donnants" ]
+  }, {
+    "canonical_form" : "confortable",
+    "other_forms" : [ "confortables" ]
+  }, {
+    "canonical_form" : "appréciable",
+    "other_forms" : [ "appréciables" ]
+  } ]
+}

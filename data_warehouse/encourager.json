@@ -1,0 +1,30 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "encourager"
+  }, {
+    "canonical_form" : "exciter"
+  }, {
+    "canonical_form" : "pousser"
+  }, {
+    "canonical_form" : "provoquer"
+  }, {
+    "canonical_form" : "soutenir"
+  }, {
+    "canonical_form" : "stimuler"
+  }, {
+    "canonical_form" : "animer"
+  }, {
+    "canonical_form" : "aiguillonner"
+  }, {
+    "canonical_form" : "fortifier"
+  }, {
+    "canonical_form" : "inciter"
+  }, {
+    "canonical_form" : "exalter"
+  }, {
+    "canonical_form" : "vivifier"
+  }, {
+    "canonical_form" : "appuyer"
+  } ]
+}

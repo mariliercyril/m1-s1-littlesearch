@@ -1,0 +1,62 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "inventer"
+  }, {
+    "canonical_form" : "imaginer"
+  }, {
+    "canonical_form" : "construire"
+  }, {
+    "canonical_form" : "créer"
+  }, {
+    "canonical_form" : "composer"
+  }, {
+    "canonical_form" : "forger"
+  }, {
+    "canonical_form" : "romancer"
+  }, {
+    "canonical_form" : "concevoir"
+  }, {
+    "canonical_form" : "fabriquer"
+  }, {
+    "canonical_form" : "trouver"
+  }, {
+    "canonical_form" : "échafauder"
+  }, {
+    "canonical_form" : "supposer"
+  }, {
+    "canonical_form" : "mentir"
+  }, {
+    "canonical_form" : "feindre"
+  }, {
+    "canonical_form" : "découvrir"
+  }, {
+    "canonical_form" : "bâtir"
+  }, {
+    "canonical_form" : "arranger"
+  }, {
+    "canonical_form" : "fabuler"
+  }, {
+    "canonical_form" : "chercher"
+  }, {
+    "canonical_form" : "broder"
+  }, {
+    "canonical_form" : "affabuler"
+  }, {
+    "canonical_form" : "rêver"
+  }, {
+    "canonical_form" : "insinuer"
+  }, {
+    "canonical_form" : "innover"
+  }, {
+    "canonical_form" : "improviser"
+  }, {
+    "canonical_form" : "exagérer"
+  }, {
+    "canonical_form" : "engendrer"
+  }, {
+    "canonical_form" : "controuver"
+  }, {
+    "canonical_form" : "conter"
+  } ]
+}

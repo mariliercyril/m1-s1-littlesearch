@@ -1,0 +1,64 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "éduquer"
+  }, {
+    "canonical_form" : "former"
+  }, {
+    "canonical_form" : "façonner"
+  }, {
+    "canonical_form" : "instruire"
+  }, {
+    "canonical_form" : "styler"
+  }, {
+    "canonical_form" : "polir"
+  }, {
+    "canonical_form" : "dresser"
+  }, {
+    "canonical_form" : "cultiver"
+  }, {
+    "canonical_form" : "élever"
+  }, {
+    "canonical_form" : "apprendre"
+  }, {
+    "canonical_form" : "exercer"
+  }, {
+    "canonical_form" : "enseigner"
+  }, {
+    "canonical_form" : "nourrir"
+  }, {
+    "canonical_form" : "habituer"
+  }, {
+    "canonical_form" : "civiliser"
+  }, {
+    "canonical_form" : "affiner"
+  }, {
+    "canonical_form" : "éclairer"
+  }, {
+    "canonical_form" : "préparer"
+  }, {
+    "canonical_form" : "guider"
+  }, {
+    "canonical_form" : "gouverner"
+  }, {
+    "canonical_form" : "entraîner"
+  }, {
+    "canonical_form" : "dégrossir"
+  }, {
+    "canonical_form" : "conduire"
+  }, {
+    "canonical_form" : "apprivoiser"
+  }, {
+    "canonical_form" : "soigner"
+  }, {
+    "canonical_form" : "policer"
+  }, {
+    "canonical_form" : "développer"
+  }, {
+    "canonical_form" : "discipliner"
+  }, {
+    "canonical_form" : "lettrer"
+  }, {
+    "canonical_form" : "pétrir"
+  } ]
+}

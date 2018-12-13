@@ -1,0 +1,10 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "philosophique",
+    "other_forms" : [ "philosophiques" ]
+  }, {
+    "canonical_form" : "spéculatif",
+    "other_forms" : [ "spéculatifs", "spéculative", "spéculatives" ]
+  } ]
+}

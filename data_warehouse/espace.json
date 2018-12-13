@@ -1,0 +1,124 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "espace",
+    "other_forms" : [ "espaces" ]
+  }, {
+    "canonical_form" : "distance",
+    "other_forms" : [ "distances" ]
+  }, {
+    "canonical_form" : "domaine",
+    "other_forms" : [ "domaines" ]
+  }, {
+    "canonical_form" : "sphère",
+    "other_forms" : [ "sphères" ]
+  }, {
+    "canonical_form" : "intervalle",
+    "other_forms" : [ "intervalles" ]
+  }, {
+    "canonical_form" : "aire",
+    "other_forms" : [ "aires" ]
+  }, {
+    "canonical_form" : "écart",
+    "other_forms" : [ "écarts" ]
+  }, {
+    "canonical_form" : "surface",
+    "other_forms" : [ "surfaces" ]
+  }, {
+    "canonical_form" : "fente",
+    "other_forms" : [ "fentes" ]
+  }, {
+    "canonical_form" : "ciel",
+    "other_forms" : [ "ciels", "cieux" ]
+  }, {
+    "canonical_form" : "air",
+    "other_forms" : [ "airs" ]
+  }, {
+    "canonical_form" : "zone",
+    "other_forms" : [ "zones" ]
+  }, {
+    "canonical_form" : "univers",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "temps",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "région",
+    "other_forms" : [ "régions" ]
+  }, {
+    "canonical_form" : "milieu",
+    "other_forms" : [ "milieux" ]
+  }, {
+    "canonical_form" : "lieu",
+    "other_forms" : [ "lieus", "lieux" ]
+  }, {
+    "canonical_form" : "interstice",
+    "other_forms" : [ "interstices" ]
+  }, {
+    "canonical_form" : "atmosphère",
+    "other_forms" : [ "atmosphères" ]
+  }, {
+    "canonical_form" : "place",
+    "other_forms" : [ "places" ]
+  }, {
+    "canonical_form" : "superficie",
+    "other_forms" : [ "superficies" ]
+  }, {
+    "canonical_form" : "trajet",
+    "other_forms" : [ "trajets" ]
+  }, {
+    "canonical_form" : "écartement",
+    "other_forms" : [ "écartements" ]
+  }, {
+    "canonical_form" : "éloignement",
+    "other_forms" : [ "éloignements" ]
+  }, {
+    "canonical_form" : "éther",
+    "other_forms" : [ "éthers" ]
+  }, {
+    "canonical_form" : "marge",
+    "other_forms" : [ "marges" ]
+  }, {
+    "canonical_form" : "lacune",
+    "other_forms" : [ "lacunes" ]
+  }, {
+    "canonical_form" : "champ",
+    "other_forms" : [ "champs" ]
+  }, {
+    "canonical_form" : "course",
+    "other_forms" : [ "courses" ]
+  }, {
+    "canonical_form" : "hiatus",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "immensité",
+    "other_forms" : [ "immensités" ]
+  }, {
+    "canonical_form" : "portion",
+    "other_forms" : [ "portions" ]
+  }, {
+    "canonical_form" : "laps",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "interligne",
+    "other_forms" : [ "interlignes" ]
+  }, {
+    "canonical_form" : "espacement",
+    "other_forms" : [ "espacements" ]
+  }, {
+    "canonical_form" : "cosmos",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "continuum",
+    "other_forms" : [ "continuums" ]
+  }, {
+    "canonical_form" : "caractère",
+    "other_forms" : [ "caractères" ]
+  }, {
+    "canonical_form" : "alinéa",
+    "other_forms" : [ "alinéas" ]
+  }, {
+    "canonical_form" : "trajectoire",
+    "other_forms" : [ "trajectoires" ]
+  } ]
+}

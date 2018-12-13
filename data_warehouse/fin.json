@@ -1,0 +1,208 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "fin",
+    "other_forms" : [ "fine", "fines", "fins" ]
+  }, {
+    "canonical_form" : "délicat",
+    "other_forms" : [ "délicate", "délicates", "délicats" ]
+  }, {
+    "canonical_form" : "habile",
+    "other_forms" : [ "habiles" ]
+  }, {
+    "canonical_form" : "subtil",
+    "other_forms" : [ "subtile", "subtiles", "subtils" ]
+  }, {
+    "canonical_form" : "léger",
+    "other_forms" : [ "légers", "légère", "légères" ]
+  }, {
+    "canonical_form" : "beau",
+    "other_forms" : [ "beaux", "bel", "belle", "belles" ]
+  }, {
+    "canonical_form" : "adroit",
+    "other_forms" : [ "adroite", "adroites", "adroits" ]
+  }, {
+    "canonical_form" : "svelte",
+    "other_forms" : [ "sveltes" ]
+  }, {
+    "canonical_form" : "mince",
+    "other_forms" : [ "minces" ]
+  }, {
+    "canonical_form" : "intelligent",
+    "other_forms" : [ "intelligente", "intelligentes", "intelligents" ]
+  }, {
+    "canonical_form" : "pénétrant",
+    "other_forms" : [ "pénétrante", "pénétrantes", "pénétrants" ]
+  }, {
+    "canonical_form" : "grêle",
+    "other_forms" : [ "grêles" ]
+  }, {
+    "canonical_form" : "malin",
+    "other_forms" : [ "maligne", "malignes", "maline", "malines", "malins" ]
+  }, {
+    "canonical_form" : "ténu",
+    "other_forms" : [ "ténue", "ténues", "ténus" ]
+  }, {
+    "canonical_form" : "élégant",
+    "other_forms" : [ "élégante", "élégantes", "élégants" ]
+  }, {
+    "canonical_form" : "spirituel",
+    "other_forms" : [ "spirituelle", "spirituelles", "spirituels" ]
+  }, {
+    "canonical_form" : "astucieux",
+    "other_forms" : [ "astucieuse", "astucieuses" ]
+  }, {
+    "canonical_form" : "piquant",
+    "other_forms" : [ "piquante", "piquantes", "piquants" ]
+  }, {
+    "canonical_form" : "mort",
+    "other_forms" : [ "morte", "mortes", "morts" ]
+  }, {
+    "canonical_form" : "exquis",
+    "other_forms" : [ "exquise", "exquises" ]
+  }, {
+    "canonical_form" : "aigu",
+    "other_forms" : [ "aigus", "aiguë", "aiguës" ]
+  }, {
+    "canonical_form" : "souple",
+    "other_forms" : [ "souples" ]
+  }, {
+    "canonical_form" : "menu",
+    "other_forms" : [ "menue", "menues", "menus" ]
+  }, {
+    "canonical_form" : "issu",
+    "other_forms" : [ "issue", "issues", "issus" ]
+  }, {
+    "canonical_form" : "futé",
+    "other_forms" : [ "futée", "futées", "futés" ]
+  }, {
+    "canonical_form" : "fuselé",
+    "other_forms" : [ "fuselée", "fuselées", "fuselés" ]
+  }, {
+    "canonical_form" : "doux",
+    "other_forms" : [ "douce", "douces" ]
+  }, {
+    "canonical_form" : "brillant",
+    "other_forms" : [ "brillante", "brillantes", "brillants" ]
+  }, {
+    "canonical_form" : "ingénieux",
+    "other_forms" : [ "ingénieuse", "ingénieuses" ]
+  }, {
+    "canonical_form" : "perspicace",
+    "other_forms" : [ "perspicaces" ]
+  }, {
+    "canonical_form" : "petit",
+    "other_forms" : [ "petite", "petites", "petits" ]
+  }, {
+    "canonical_form" : "excellent",
+    "other_forms" : [ "excellente", "excellentes", "excellents" ]
+  }, {
+    "canonical_form" : "diplomate",
+    "other_forms" : [ "diplomates" ]
+  }, {
+    "canonical_form" : "roublard",
+    "other_forms" : [ "roublarde", "roublardes", "roublards" ]
+  }, {
+    "canonical_form" : "retors",
+    "other_forms" : [ "retorse", "retorses" ]
+  }, {
+    "canonical_form" : "pur",
+    "other_forms" : [ "pure", "pures", "purs" ]
+  }, {
+    "canonical_form" : "maigre",
+    "other_forms" : [ "maigres" ]
+  }, {
+    "canonical_form" : "galant",
+    "other_forms" : [ "galante", "galantes", "galants" ]
+  }, {
+    "canonical_form" : "pointu",
+    "other_forms" : [ "pointue", "pointues", "pointus" ]
+  }, {
+    "canonical_form" : "politique",
+    "other_forms" : [ "politiques" ]
+  }, {
+    "canonical_form" : "précieux",
+    "other_forms" : [ "précieuse", "précieuses" ]
+  }, {
+    "canonical_form" : "sagace",
+    "other_forms" : [ "sagaces" ]
+  }, {
+    "canonical_form" : "supérieur",
+    "other_forms" : [ "supérieure", "supérieures", "supérieurs" ]
+  }, {
+    "canonical_form" : "tendre",
+    "other_forms" : [ "tendres" ]
+  }, {
+    "canonical_form" : "objectif",
+    "other_forms" : [ "objectifs", "objective", "objectives" ]
+  }, {
+    "canonical_form" : "matois",
+    "other_forms" : [ "matoise", "matoises" ]
+  }, {
+    "canonical_form" : "filiforme",
+    "other_forms" : [ "filiformes" ]
+  }, {
+    "canonical_form" : "gracile",
+    "other_forms" : [ "graciles" ]
+  }, {
+    "canonical_form" : "remarquable",
+    "other_forms" : [ "remarquables" ]
+  }, {
+    "canonical_form" : "soyeux",
+    "other_forms" : [ "soyeuse", "soyeuses" ]
+  }, {
+    "canonical_form" : "succulent",
+    "other_forms" : [ "succulente", "succulentes", "succulents" ]
+  }, {
+    "canonical_form" : "étroit",
+    "other_forms" : [ "étroite", "étroites", "étroits" ]
+  }, {
+    "canonical_form" : "intrigant",
+    "other_forms" : [ "intrigante", "intrigantes", "intrigants" ]
+  }, {
+    "canonical_form" : "frêle",
+    "other_forms" : [ "frêles" ]
+  }, {
+    "canonical_form" : "cauteleux",
+    "other_forms" : [ "cauteleuse", "cauteleuses" ]
+  }, {
+    "canonical_form" : "clairvoyant",
+    "other_forms" : [ "clairvoyante", "clairvoyantes", "clairvoyants" ]
+  }, {
+    "canonical_form" : "finaud",
+    "other_forms" : [ "finaude", "finaudes", "finauds" ]
+  }, {
+    "canonical_form" : "sensible",
+    "other_forms" : [ "sensibles" ]
+  }, {
+    "canonical_form" : "narquois",
+    "other_forms" : [ "narquoise", "narquoises" ]
+  }, {
+    "canonical_form" : "minuscule",
+    "other_forms" : [ "minuscules" ]
+  }, {
+    "canonical_form" : "microscopique",
+    "other_forms" : [ "microscopiques" ]
+  }, {
+    "canonical_form" : "impalpable",
+    "other_forms" : [ "impalpables" ]
+  }, {
+    "canonical_form" : "vaporeux",
+    "other_forms" : [ "vaporeuse", "vaporeuses" ]
+  }, {
+    "canonical_form" : "final",
+    "other_forms" : [ "finale", "finales", "finals", "finaux" ]
+  }, {
+    "canonical_form" : "arachnéen",
+    "other_forms" : [ "arachnéenne", "arachnéennes", "arachnéens" ]
+  }, {
+    "canonical_form" : "averti",
+    "other_forms" : [ "avertie", "averties", "avertis" ]
+  }, {
+    "canonical_form" : "extra",
+    "other_forms" : [ "extras" ]
+  }, {
+    "canonical_form" : "final",
+    "other_forms" : [ "finale", "finales", "finals", "finaux" ]
+  } ]
+}

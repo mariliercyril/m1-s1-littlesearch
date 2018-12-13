@@ -1,0 +1,49 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "postérité",
+    "other_forms" : [ "postérités" ]
+  }, {
+    "canonical_form" : "race",
+    "other_forms" : [ "races" ]
+  }, {
+    "canonical_form" : "progéniture",
+    "other_forms" : [ "progénitures" ]
+  }, {
+    "canonical_form" : "descendance",
+    "other_forms" : [ "descendances" ]
+  }, {
+    "canonical_form" : "famille",
+    "other_forms" : [ "familles" ]
+  }, {
+    "canonical_form" : "suite",
+    "other_forms" : [ "suites" ]
+  }, {
+    "canonical_form" : "mémoire",
+    "other_forms" : [ "mémoires" ]
+  }, {
+    "canonical_form" : "immortalité",
+    "other_forms" : [ "immortalités" ]
+  }, {
+    "canonical_form" : "héritier",
+    "other_forms" : [ "héritiers", "héritière", "héritières" ]
+  }, {
+    "canonical_form" : "génération",
+    "other_forms" : [ "générations" ]
+  }, {
+    "canonical_form" : "fil",
+    "other_forms" : [ "fils" ]
+  }, {
+    "canonical_form" : "enfant",
+    "other_forms" : [ "enfants" ]
+  }, {
+    "canonical_form" : "consanguinité",
+    "other_forms" : [ "consanguinités" ]
+  }, {
+    "canonical_form" : "avenir",
+    "other_forms" : [ "avenirs" ]
+  }, {
+    "canonical_form" : "successeur",
+    "other_forms" : [ "successeurs" ]
+  } ]
+}

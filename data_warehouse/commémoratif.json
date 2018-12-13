@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "commémoratif",
+    "other_forms" : [ "commémoratifs", "commémorative", "commémoratives" ]
+  }, {
+    "canonical_form" : "anniversaire",
+    "other_forms" : [ "anniversaires" ]
+  }, {
+    "canonical_form" : "votif",
+    "other_forms" : [ "votifs", "votive", "votives" ]
+  } ]
+}

@@ -1,0 +1,256 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "image",
+    "other_forms" : [ "images" ]
+  }, {
+    "canonical_form" : "figure",
+    "other_forms" : [ "figures" ]
+  }, {
+    "canonical_form" : "représentation",
+    "other_forms" : [ "représentations" ]
+  }, {
+    "canonical_form" : "portrait",
+    "other_forms" : [ "portraits" ]
+  }, {
+    "canonical_form" : "dessin",
+    "other_forms" : [ "dessins" ]
+  }, {
+    "canonical_form" : "tableau",
+    "other_forms" : [ "tableaux" ]
+  }, {
+    "canonical_form" : "idée",
+    "other_forms" : [ "idées" ]
+  }, {
+    "canonical_form" : "apparence",
+    "other_forms" : [ "apparences" ]
+  }, {
+    "canonical_form" : "peinture",
+    "other_forms" : [ "peintures" ]
+  }, {
+    "canonical_form" : "symbole",
+    "other_forms" : [ "symboles" ]
+  }, {
+    "canonical_form" : "vision",
+    "other_forms" : [ "visions" ]
+  }, {
+    "canonical_form" : "visage",
+    "other_forms" : [ "visages" ]
+  }, {
+    "canonical_form" : "ombre",
+    "other_forms" : [ "ombres" ]
+  }, {
+    "canonical_form" : "expression",
+    "other_forms" : [ "expressions" ]
+  }, {
+    "canonical_form" : "gravure",
+    "other_forms" : [ "gravures" ]
+  }, {
+    "canonical_form" : "imitation",
+    "other_forms" : [ "imitations" ]
+  }, {
+    "canonical_form" : "simulacre",
+    "other_forms" : [ "simulacres" ]
+  }, {
+    "canonical_form" : "illustration",
+    "other_forms" : [ "illustrations" ]
+  }, {
+    "canonical_form" : "forme",
+    "other_forms" : [ "formes" ]
+  }, {
+    "canonical_form" : "type",
+    "other_forms" : [ "types" ]
+  }, {
+    "canonical_form" : "sculpture",
+    "other_forms" : [ "sculptures" ]
+  }, {
+    "canonical_form" : "ressemblance",
+    "other_forms" : [ "ressemblances" ]
+  }, {
+    "canonical_form" : "reproduction",
+    "other_forms" : [ "reproductions" ]
+  }, {
+    "canonical_form" : "illusion",
+    "other_forms" : [ "illusions" ]
+  }, {
+    "canonical_form" : "effigie",
+    "other_forms" : [ "effigies" ]
+  }, {
+    "canonical_form" : "allégorie",
+    "other_forms" : [ "allégories" ]
+  }, {
+    "canonical_form" : "semblance",
+    "other_forms" : [ "semblances" ]
+  }, {
+    "canonical_form" : "impression",
+    "other_forms" : [ "impressions" ]
+  }, {
+    "canonical_form" : "exemple",
+    "other_forms" : [ "exemples" ]
+  }, {
+    "canonical_form" : "croquis",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "comparaison",
+    "other_forms" : [ "comparaisons" ]
+  }, {
+    "canonical_form" : "tête",
+    "other_forms" : [ "têtes" ]
+  }, {
+    "canonical_form" : "statue",
+    "other_forms" : [ "statues" ]
+  }, {
+    "canonical_form" : "signe",
+    "other_forms" : [ "signes" ]
+  }, {
+    "canonical_form" : "schéma",
+    "other_forms" : [ "schémas" ]
+  }, {
+    "canonical_form" : "réplique",
+    "other_forms" : [ "répliques" ]
+  }, {
+    "canonical_form" : "caricature",
+    "other_forms" : [ "caricatures" ]
+  }, {
+    "canonical_form" : "photographie",
+    "other_forms" : [ "photographies" ]
+  }, {
+    "canonical_form" : "reflet",
+    "other_forms" : [ "reflets" ]
+  }, {
+    "canonical_form" : "souvenir",
+    "other_forms" : [ "souvenirs" ]
+  }, {
+    "canonical_form" : "échantillon",
+    "other_forms" : [ "échantillons" ]
+  }, {
+    "canonical_form" : "écho",
+    "other_forms" : [ "échos" ]
+  }, {
+    "canonical_form" : "photo",
+    "other_forms" : [ "photos" ]
+  }, {
+    "canonical_form" : "métaphore",
+    "other_forms" : [ "métaphores" ]
+  }, {
+    "canonical_form" : "mirage",
+    "other_forms" : [ "mirages" ]
+  }, {
+    "canonical_form" : "description",
+    "other_forms" : [ "descriptions" ]
+  }, {
+    "canonical_form" : "estampe",
+    "other_forms" : [ "estampes" ]
+  }, {
+    "canonical_form" : "figuration",
+    "other_forms" : [ "figurations" ]
+  }, {
+    "canonical_form" : "figurine",
+    "other_forms" : [ "figurines" ]
+  }, {
+    "canonical_form" : "miniature",
+    "other_forms" : [ "miniatures" ]
+  }, {
+    "canonical_form" : "miroir",
+    "other_forms" : [ "miroirs" ]
+  }, {
+    "canonical_form" : "parabole",
+    "other_forms" : [ "paraboles" ]
+  }, {
+    "canonical_form" : "perception",
+    "other_forms" : [ "perceptions" ]
+  }, {
+    "canonical_form" : "rêve",
+    "other_forms" : [ "rêves" ]
+  }, {
+    "canonical_form" : "rêverie",
+    "other_forms" : [ "rêveries" ]
+  }, {
+    "canonical_form" : "statuette",
+    "other_forms" : [ "statuettes" ]
+  }, {
+    "canonical_form" : "sépia",
+    "other_forms" : [ "sépias" ]
+  }, {
+    "canonical_form" : "vignette",
+    "other_forms" : [ "vignettes" ]
+  }, {
+    "canonical_form" : "manifestation",
+    "other_forms" : [ "manifestations" ]
+  }, {
+    "canonical_form" : "lithographie",
+    "other_forms" : [ "lithographies" ]
+  }, {
+    "canonical_form" : "aquarelle",
+    "other_forms" : [ "aquarelles" ]
+  }, {
+    "canonical_form" : "avant-goût",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "buste",
+    "other_forms" : [ "bustes" ]
+  }, {
+    "canonical_form" : "face",
+    "other_forms" : [ "faces" ]
+  }, {
+    "canonical_form" : "fétiche",
+    "other_forms" : [ "fétiches" ]
+  }, {
+    "canonical_form" : "gouache",
+    "other_forms" : [ "gouaches" ]
+  }, {
+    "canonical_form" : "incarnation",
+    "other_forms" : [ "incarnations" ]
+  }, {
+    "canonical_form" : "litho",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "héliogravure",
+    "other_forms" : [ "hélio", "héliogravures", "hélios" ]
+  }, {
+    "canonical_form" : "icône",
+    "other_forms" : [ "icônes" ]
+  }, {
+    "canonical_form" : "médaillon",
+    "other_forms" : [ "médaillons" ]
+  }, {
+    "canonical_form" : "métonymie",
+    "other_forms" : [ "métonymies" ]
+  }, {
+    "canonical_form" : "planche",
+    "other_forms" : [ "planches" ]
+  }, {
+    "canonical_form" : "réminiscence",
+    "other_forms" : [ "réminiscences" ]
+  }, {
+    "canonical_form" : "fresque",
+    "other_forms" : [ "fresques" ]
+  }, {
+    "canonical_form" : "fantasme",
+    "other_forms" : [ "fantasmes" ]
+  }, {
+    "canonical_form" : "enseigne",
+    "other_forms" : [ "enseignes" ]
+  }, {
+    "canonical_form" : "emblème",
+    "other_forms" : [ "emblèmes" ]
+  }, {
+    "canonical_form" : "eau-forte",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "décalcomanie",
+    "other_forms" : [ "décalcomanies" ]
+  }, {
+    "canonical_form" : "chromo",
+    "other_forms" : [ "chromos" ]
+  }, {
+    "canonical_form" : "bosse",
+    "other_forms" : [ "bosses" ]
+  }, {
+    "canonical_form" : "application",
+    "other_forms" : [ "applications" ]
+  }, {
+    "canonical_form" : "spécimen",
+    "other_forms" : [ "spécimens" ]
+  } ]
+}

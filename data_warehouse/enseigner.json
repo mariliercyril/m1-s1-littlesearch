@@ -1,0 +1,60 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "enseigner"
+  }, {
+    "canonical_form" : "apprendre"
+  }, {
+    "canonical_form" : "instruire"
+  }, {
+    "canonical_form" : "révéler"
+  }, {
+    "canonical_form" : "indiquer"
+  }, {
+    "canonical_form" : "montrer"
+  }, {
+    "canonical_form" : "signaler"
+  }, {
+    "canonical_form" : "expliquer"
+  }, {
+    "canonical_form" : "éclairer"
+  }, {
+    "canonical_form" : "communiquer"
+  }, {
+    "canonical_form" : "former"
+  }, {
+    "canonical_form" : "initier"
+  }, {
+    "canonical_form" : "signifier"
+  }, {
+    "canonical_form" : "éduquer"
+  }, {
+    "canonical_form" : "styler"
+  }, {
+    "canonical_form" : "informer"
+  }, {
+    "canonical_form" : "catéchiser"
+  }, {
+    "canonical_form" : "prêcher"
+  }, {
+    "canonical_form" : "rapporter"
+  }, {
+    "canonical_form" : "propager"
+  }, {
+    "canonical_form" : "professer"
+  }, {
+    "canonical_form" : "développer"
+  }, {
+    "canonical_form" : "démontrer"
+  }, {
+    "canonical_form" : "convertir"
+  }, {
+    "canonical_form" : "inculquer"
+  }, {
+    "canonical_form" : "soutenir"
+  }, {
+    "canonical_form" : "suggérer"
+  }, {
+    "canonical_form" : "évangéliser"
+  } ]
+}

@@ -112,7 +112,7 @@ public class FrenchAnalyser {
 
 		for (StopFrenchWords stopFrenchWords : StopFrenchWords.values()) {
 			(stopFrenchWords.getStopWords()).stream().forEach(w -> {
-				tokens.removeIf(t -> t.equals(w));
+				tokens.removeIf(t -> (t.toLowerCase()).equals(w));
 			});
 		}
 
@@ -234,7 +234,7 @@ public class FrenchAnalyser {
 		/**
 		 * The singleton instance for <b>other stop words</b>.
 		 */
-		OTHER_STOP_WORDS("ici", "là", "vers", "sur", "sous", "dans", "en", "ne", "n", "pas", "plus", "moins"),
+		OTHER_STOP_WORDS("ici", "là", "vers", "sur", "sous", "dans", "en", "ne", "n", "pas", "plus", "moins", "fois"),
 		/**
 		 * The singleton instance for <b>others</b>.
 		 */

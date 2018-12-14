@@ -79,7 +79,7 @@ public class FrenchAnalyser {
 	 */
 	private void discardPunctuation() {
 
-		text = text.replaceAll("[\\.\\?!,;:\\(\\)\\[\\]\\{\\}\"'«»—]", " ");
+		text = text.replaceAll("[\\.\\?!,;:\\(\\)\\[\\]\\{\\}\"'«»]", " ");
 	}
 
 	/**
@@ -238,7 +238,7 @@ public class FrenchAnalyser {
 		/**
 		 * The singleton instance for <b>others</b>.
 		 */
-		OTHERS("-");
+		OTHERS("-", "–");
 
 		private final String[] stopWords;
 

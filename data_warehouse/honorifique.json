@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "honorifique",
+    "other_forms" : [ "honorifiques" ]
+  }, {
+    "canonical_form" : "honnête",
+    "other_forms" : [ "honnêtes" ]
+  }, {
+    "canonical_form" : "honorable",
+    "other_forms" : [ "honorables" ]
+  } ]
+}

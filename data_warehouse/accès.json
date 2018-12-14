@@ -1,0 +1,82 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "accès",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "crise",
+    "other_forms" : [ "crises" ]
+  }, {
+    "canonical_form" : "passage",
+    "other_forms" : [ "passages" ]
+  }, {
+    "canonical_form" : "orage",
+    "other_forms" : [ "orages" ]
+  }, {
+    "canonical_form" : "ouverture",
+    "other_forms" : [ "ouvertures" ]
+  }, {
+    "canonical_form" : "paroxysme",
+    "other_forms" : [ "paroxysmes" ]
+  }, {
+    "canonical_form" : "quinte",
+    "other_forms" : [ "quintes" ]
+  }, {
+    "canonical_form" : "toquade",
+    "other_forms" : [ "toquades" ]
+  }, {
+    "canonical_form" : "caprice",
+    "other_forms" : [ "caprices" ]
+  }, {
+    "canonical_form" : "bouillonnement",
+    "other_forms" : [ "bouillonnements" ]
+  }, {
+    "canonical_form" : "attaque",
+    "other_forms" : [ "attaques" ]
+  }, {
+    "canonical_form" : "approche",
+    "other_forms" : [ "approches" ]
+  }, {
+    "canonical_form" : "abord",
+    "other_forms" : [ "abords" ]
+  }, {
+    "canonical_form" : "entendement",
+    "other_forms" : [ "entendements" ]
+  }, {
+    "canonical_form" : "exacerbation",
+    "other_forms" : [ "exacerbations" ]
+  }, {
+    "canonical_form" : "introduction",
+    "other_forms" : [ "introductions" ]
+  }, {
+    "canonical_form" : "raptus",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "scène",
+    "other_forms" : [ "scènes" ]
+  }, {
+    "canonical_form" : "effervescence",
+    "other_forms" : [ "effervescences" ]
+  }, {
+    "canonical_form" : "compréhension",
+    "other_forms" : [ "compréhensions" ]
+  }, {
+    "canonical_form" : "chemin",
+    "other_forms" : [ "chemins" ]
+  }, {
+    "canonical_form" : "boutade",
+    "other_forms" : [ "boutades" ]
+  }, {
+    "canonical_form" : "bourrasque",
+    "other_forms" : [ "bourrasques" ]
+  }, {
+    "canonical_form" : "accueil",
+    "other_forms" : [ "accueils" ]
+  }, {
+    "canonical_form" : "abord",
+    "other_forms" : [ "abords" ]
+  }, {
+    "canonical_form" : "élan",
+    "other_forms" : [ "élans" ]
+  } ]
+}

@@ -1,0 +1,100 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "normal",
+    "other_forms" : [ "normale", "normales", "normaux" ]
+  }, {
+    "canonical_form" : "régulier",
+    "other_forms" : [ "réguliers", "régulière", "régulières" ]
+  }, {
+    "canonical_form" : "exact",
+    "other_forms" : [ "exacte", "exactes", "exacts" ]
+  }, {
+    "canonical_form" : "naturel",
+    "other_forms" : [ "naturelle", "naturelles", "naturels" ]
+  }, {
+    "canonical_form" : "ordinaire",
+    "other_forms" : [ "ordinaires" ]
+  }, {
+    "canonical_form" : "raisonnable",
+    "other_forms" : [ "raisonnables" ]
+  }, {
+    "canonical_form" : "honnête",
+    "other_forms" : [ "honnêtes" ]
+  }, {
+    "canonical_form" : "habituel",
+    "other_forms" : [ "habituelle", "habituelles", "habituels" ]
+  }, {
+    "canonical_form" : "logique",
+    "other_forms" : [ "logiques" ]
+  }, {
+    "canonical_form" : "sain",
+    "other_forms" : [ "saine", "saines", "sains" ]
+  }, {
+    "canonical_form" : "solide",
+    "other_forms" : [ "solides" ]
+  }, {
+    "canonical_form" : "robuste",
+    "other_forms" : [ "robustes" ]
+  }, {
+    "canonical_form" : "rationnel",
+    "other_forms" : [ "rationnelle", "rationnelles", "rationnels" ]
+  }, {
+    "canonical_form" : "courant",
+    "other_forms" : [ "courante", "courantes", "courants" ]
+  }, {
+    "canonical_form" : "correct",
+    "other_forms" : [ "correcte", "correctes", "corrects" ]
+  }, {
+    "canonical_form" : "systématique",
+    "other_forms" : [ "systématiques" ]
+  }, {
+    "canonical_form" : "quotidien",
+    "other_forms" : [ "quotidienne", "quotidiennes", "quotidiens" ]
+  }, {
+    "canonical_form" : "méthodique",
+    "other_forms" : [ "méthodiques" ]
+  }, {
+    "canonical_form" : "moyen",
+    "other_forms" : [ "moyenne", "moyennes", "moyens" ]
+  }, {
+    "canonical_form" : "légitime",
+    "other_forms" : [ "légitimes" ]
+  }, {
+    "canonical_form" : "compréhensible",
+    "other_forms" : [ "compréhensibles" ]
+  }, {
+    "canonical_form" : "classique",
+    "other_forms" : [ "classiques" ]
+  }, {
+    "canonical_form" : "journalier",
+    "other_forms" : [ "journaliers", "journalière", "journalières" ]
+  }, {
+    "canonical_form" : "perpendiculaire",
+    "other_forms" : [ "perpendiculaires" ]
+  }, {
+    "canonical_form" : "ponctuel",
+    "other_forms" : [ "ponctuelle", "ponctuelles", "ponctuels" ]
+  }, {
+    "canonical_form" : "prévisible",
+    "other_forms" : [ "prévisibles" ]
+  }, {
+    "canonical_form" : "traditionnel",
+    "other_forms" : [ "traditionnelle", "traditionnelles", "traditionnels" ]
+  }, {
+    "canonical_form" : "inné",
+    "other_forms" : [ "innée", "innées", "innés" ]
+  }, {
+    "canonical_form" : "dispos",
+    "other_forms" : [ "dispose", "disposes" ]
+  }, {
+    "canonical_form" : "canonique",
+    "other_forms" : [ "canoniques" ]
+  }, {
+    "canonical_form" : "aisé",
+    "other_forms" : [ "aisée", "aisées", "aisés" ]
+  }, {
+    "canonical_form" : "valable",
+    "other_forms" : [ "valables" ]
+  } ]
+}

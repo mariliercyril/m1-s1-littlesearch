@@ -1,0 +1,76 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "importance",
+    "other_forms" : [ "importances" ]
+  }, {
+    "canonical_form" : "poids",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "force",
+    "other_forms" : [ "forces" ]
+  }, {
+    "canonical_form" : "grandeur",
+    "other_forms" : [ "grandeurs" ]
+  }, {
+    "canonical_form" : "influence",
+    "other_forms" : [ "influences" ]
+  }, {
+    "canonical_form" : "dimension",
+    "other_forms" : [ "dimensions" ]
+  }, {
+    "canonical_form" : "valeur",
+    "other_forms" : [ "valeurs" ]
+  }, {
+    "canonical_form" : "puissance",
+    "other_forms" : [ "puissances" ]
+  }, {
+    "canonical_form" : "orgueil",
+    "other_forms" : [ "orgueils" ]
+  }, {
+    "canonical_form" : "crédit",
+    "other_forms" : [ "crédits" ]
+  }, {
+    "canonical_form" : "vanité",
+    "other_forms" : [ "vanités" ]
+  }, {
+    "canonical_form" : "suffisance",
+    "other_forms" : [ "suffisances" ]
+  }, {
+    "canonical_form" : "profondeur",
+    "other_forms" : [ "profondeurs" ]
+  }, {
+    "canonical_form" : "prestige",
+    "other_forms" : [ "prestiges" ]
+  }, {
+    "canonical_form" : "outrecuidance",
+    "other_forms" : [ "outrecuidances" ]
+  }, {
+    "canonical_form" : "fatuité",
+    "other_forms" : [ "fatuités" ]
+  }, {
+    "canonical_form" : "extension",
+    "other_forms" : [ "extensions" ]
+  }, {
+    "canonical_form" : "considération",
+    "other_forms" : [ "considérations" ]
+  }, {
+    "canonical_form" : "ostentation",
+    "other_forms" : [ "ostentations" ]
+  }, {
+    "canonical_form" : "intérêt",
+    "other_forms" : [ "intérêts" ]
+  }, {
+    "canonical_form" : "format",
+    "other_forms" : [ "formats" ]
+  }, {
+    "canonical_form" : "conséquence",
+    "other_forms" : [ "conséquences" ]
+  }, {
+    "canonical_form" : "arrogance",
+    "other_forms" : [ "arrogances" ]
+  }, {
+    "canonical_form" : "taille",
+    "other_forms" : [ "tailles" ]
+  } ]
+}

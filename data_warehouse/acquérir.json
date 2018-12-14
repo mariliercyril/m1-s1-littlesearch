@@ -1,0 +1,46 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "acquérir"
+  }, {
+    "canonical_form" : "obtenir"
+  }, {
+    "canonical_form" : "gagner"
+  }, {
+    "canonical_form" : "prendre"
+  }, {
+    "canonical_form" : "conquérir"
+  }, {
+    "canonical_form" : "remporter"
+  }, {
+    "canonical_form" : "recueillir"
+  }, {
+    "canonical_form" : "recevoir"
+  }, {
+    "canonical_form" : "attirer"
+  }, {
+    "canonical_form" : "capter"
+  }, {
+    "canonical_form" : "emporter"
+  }, {
+    "canonical_form" : "valoir"
+  }, {
+    "canonical_form" : "trouver"
+  }, {
+    "canonical_form" : "rapporter"
+  }, {
+    "canonical_form" : "assimiler"
+  }, {
+    "canonical_form" : "hériter"
+  }, {
+    "canonical_form" : "forcer"
+  }, {
+    "canonical_form" : "découvrir"
+  }, {
+    "canonical_form" : "contracter"
+  }, {
+    "canonical_form" : "concilier"
+  }, {
+    "canonical_form" : "acheter"
+  } ]
+}

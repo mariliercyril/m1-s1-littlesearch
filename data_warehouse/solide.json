@@ -1,0 +1,205 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "solide",
+    "other_forms" : [ "solides" ]
+  }, {
+    "canonical_form" : "résistant",
+    "other_forms" : [ "résistante", "résistantes", "résistants" ]
+  }, {
+    "canonical_form" : "ferme",
+    "other_forms" : [ "fermes" ]
+  }, {
+    "canonical_form" : "fort",
+    "other_forms" : [ "forte", "fortes", "forts" ]
+  }, {
+    "canonical_form" : "robuste",
+    "other_forms" : [ "robustes" ]
+  }, {
+    "canonical_form" : "vrai",
+    "other_forms" : [ "vraie", "vraies", "vrais" ]
+  }, {
+    "canonical_form" : "sûr",
+    "other_forms" : [ "sûre", "sûres", "sûrs" ]
+  }, {
+    "canonical_form" : "bon",
+    "other_forms" : [ "bonne", "bonnes", "bons" ]
+  }, {
+    "canonical_form" : "certain",
+    "other_forms" : [ "certaine", "certaines", "certains" ]
+  }, {
+    "canonical_form" : "inébranlable",
+    "other_forms" : [ "inébranlables" ]
+  }, {
+    "canonical_form" : "immuable",
+    "other_forms" : [ "immuables" ]
+  }, {
+    "canonical_form" : "stable",
+    "other_forms" : [ "stables" ]
+  }, {
+    "canonical_form" : "exact",
+    "other_forms" : [ "exacte", "exactes", "exacts" ]
+  }, {
+    "canonical_form" : "dur",
+    "other_forms" : [ "dure", "dures", "durs" ]
+  }, {
+    "canonical_form" : "durable",
+    "other_forms" : [ "durables" ]
+  }, {
+    "canonical_form" : "tenace",
+    "other_forms" : [ "tenaces" ]
+  }, {
+    "canonical_form" : "puissant",
+    "other_forms" : [ "puissante", "puissantes", "puissants" ]
+  }, {
+    "canonical_form" : "fidèle",
+    "other_forms" : [ "fidèles" ]
+  }, {
+    "canonical_form" : "vigoureux",
+    "other_forms" : [ "vigoureuse", "vigoureuses" ]
+  }, {
+    "canonical_form" : "honnête",
+    "other_forms" : [ "honnêtes" ]
+  }, {
+    "canonical_form" : "impérissable",
+    "other_forms" : [ "impérissables" ]
+  }, {
+    "canonical_form" : "indestructible",
+    "other_forms" : [ "indestructibles" ]
+  }, {
+    "canonical_form" : "irréfragable",
+    "other_forms" : [ "irréfragables" ]
+  }, {
+    "canonical_form" : "franc",
+    "other_forms" : [ "franche", "franches", "francs" ]
+  }, {
+    "canonical_form" : "gros",
+    "other_forms" : [ "grosse", "grosses" ]
+  }, {
+    "canonical_form" : "invariable",
+    "other_forms" : [ "invariables" ]
+  }, {
+    "canonical_form" : "positif",
+    "other_forms" : [ "positifs", "positive", "positives" ]
+  }, {
+    "canonical_form" : "trapu",
+    "other_forms" : [ "trapue", "trapues", "trapus" ]
+  }, {
+    "canonical_form" : "vivace",
+    "other_forms" : [ "vivaces" ]
+  }, {
+    "canonical_form" : "sincère",
+    "other_forms" : [ "sincères" ]
+  }, {
+    "canonical_form" : "réel",
+    "other_forms" : [ "réelle", "réelles", "réels" ]
+  }, {
+    "canonical_form" : "infrangible",
+    "other_forms" : [ "infrangibles" ]
+  }, {
+    "canonical_form" : "infatigable",
+    "other_forms" : [ "infatigables" ]
+  }, {
+    "canonical_form" : "fixe",
+    "other_forms" : [ "fixes" ]
+  }, {
+    "canonical_form" : "énergique",
+    "other_forms" : [ "énergiques" ]
+  }, {
+    "canonical_form" : "sérieux",
+    "other_forms" : [ "sérieuse", "sérieuses" ]
+  }, {
+    "canonical_form" : "régulier",
+    "other_forms" : [ "réguliers", "régulière", "régulières" ]
+  }, {
+    "canonical_form" : "important",
+    "other_forms" : [ "importante", "importantes", "importants" ]
+  }, {
+    "canonical_form" : "beau",
+    "other_forms" : [ "beaux", "bel", "belle", "belles" ]
+  }, {
+    "canonical_form" : "tangible",
+    "other_forms" : [ "tangibles" ]
+  }, {
+    "canonical_form" : "rustique",
+    "other_forms" : [ "rustiques" ]
+  }, {
+    "canonical_form" : "loyal",
+    "other_forms" : [ "loyale", "loyales", "loyaux" ]
+  }, {
+    "canonical_form" : "logique",
+    "other_forms" : [ "logiques" ]
+  }, {
+    "canonical_form" : "indéfectible",
+    "other_forms" : [ "indéfectibles" ]
+  }, {
+    "canonical_form" : "increvable",
+    "other_forms" : [ "increvables" ]
+  }, {
+    "canonical_form" : "endurant",
+    "other_forms" : [ "endurante", "endurantes", "endurants" ]
+  }, {
+    "canonical_form" : "éternel",
+    "other_forms" : [ "éternelle", "éternelles", "éternels" ]
+  }, {
+    "canonical_form" : "substantiel",
+    "other_forms" : [ "substantielle", "substantielles", "substantiels" ]
+  }, {
+    "canonical_form" : "pesant",
+    "other_forms" : [ "pesante", "pesantes", "pesants" ]
+  }, {
+    "canonical_form" : "normal",
+    "other_forms" : [ "normale", "normales", "normaux" ]
+  }, {
+    "canonical_form" : "irréfutable",
+    "other_forms" : [ "irréfutables" ]
+  }, {
+    "canonical_form" : "inusable",
+    "other_forms" : [ "inusables" ]
+  }, {
+    "canonical_form" : "inattaquable",
+    "other_forms" : [ "inattaquables" ]
+  }, {
+    "canonical_form" : "coriace",
+    "other_forms" : [ "coriaces" ]
+  }, {
+    "canonical_form" : "consistant",
+    "other_forms" : [ "consistante", "consistantes", "consistants" ]
+  }, {
+    "canonical_form" : "mathématique",
+    "other_forms" : [ "mathématiques" ]
+  }, {
+    "canonical_form" : "intense",
+    "other_forms" : [ "intenses" ]
+  }, {
+    "canonical_form" : "gaillard",
+    "other_forms" : [ "gaillarde", "gaillardes", "gaillards" ]
+  }, {
+    "canonical_form" : "dense",
+    "other_forms" : [ "denses" ]
+  }, {
+    "canonical_form" : "probe",
+    "other_forms" : [ "probes" ]
+  }, {
+    "canonical_form" : "râblé",
+    "other_forms" : [ "râblée", "râblées", "râblés" ]
+  }, {
+    "canonical_form" : "vaillant",
+    "other_forms" : [ "vaillante", "vaillantes", "vaillants" ]
+  }, {
+    "canonical_form" : "indéchirable",
+    "other_forms" : [ "indéchirables" ]
+  }, {
+    "canonical_form" : "incassable",
+    "other_forms" : [ "incassables" ]
+  }, {
+    "canonical_form" : "cartésien",
+    "other_forms" : [ "cartésienne", "cartésiennes", "cartésiens" ]
+  }, {
+    "canonical_form" : "brillant",
+    "other_forms" : [ "brillante", "brillantes", "brillants" ]
+  }, {
+    "canonical_form" : "affermi",
+    "other_forms" : [ "affermie", "affermies", "affermis" ]
+  } ]
+}

@@ -1,0 +1,118 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "résistant",
+    "other_forms" : [ "résistante", "résistantes", "résistants" ]
+  }, {
+    "canonical_form" : "solide",
+    "other_forms" : [ "solides" ]
+  }, {
+    "canonical_form" : "ferme",
+    "other_forms" : [ "fermes" ]
+  }, {
+    "canonical_form" : "fort",
+    "other_forms" : [ "forte", "fortes", "forts" ]
+  }, {
+    "canonical_form" : "tenace",
+    "other_forms" : [ "tenaces" ]
+  }, {
+    "canonical_form" : "robuste",
+    "other_forms" : [ "robustes" ]
+  }, {
+    "canonical_form" : "dur",
+    "other_forms" : [ "dure", "dures", "durs" ]
+  }, {
+    "canonical_form" : "inébranlable",
+    "other_forms" : [ "inébranlables" ]
+  }, {
+    "canonical_form" : "opiniâtre",
+    "other_forms" : [ "opiniâtres" ]
+  }, {
+    "canonical_form" : "insoumis",
+    "other_forms" : [ "insoumise", "insoumises" ]
+  }, {
+    "canonical_form" : "durable",
+    "other_forms" : [ "durables" ]
+  }, {
+    "canonical_form" : "coriace",
+    "other_forms" : [ "coriaces" ]
+  }, {
+    "canonical_form" : "infatigable",
+    "other_forms" : [ "infatigables" ]
+  }, {
+    "canonical_form" : "vivace",
+    "other_forms" : [ "vivaces" ]
+  }, {
+    "canonical_form" : "rustique",
+    "other_forms" : [ "rustiques" ]
+  }, {
+    "canonical_form" : "rebelle",
+    "other_forms" : [ "rebelles" ]
+  }, {
+    "canonical_form" : "invulnérable",
+    "other_forms" : [ "invulnérables" ]
+  }, {
+    "canonical_form" : "infrangible",
+    "other_forms" : [ "infrangibles" ]
+  }, {
+    "canonical_form" : "indestructible",
+    "other_forms" : [ "indestructibles" ]
+  }, {
+    "canonical_form" : "increvable",
+    "other_forms" : [ "increvables" ]
+  }, {
+    "canonical_form" : "immuable",
+    "other_forms" : [ "immuables" ]
+  }, {
+    "canonical_form" : "endurant",
+    "other_forms" : [ "endurante", "endurantes", "endurants" ]
+  }, {
+    "canonical_form" : "vivant",
+    "other_forms" : [ "vivante", "vivantes", "vivants" ]
+  }, {
+    "canonical_form" : "têtu",
+    "other_forms" : [ "têtue", "têtues", "têtus" ]
+  }, {
+    "canonical_form" : "trapu",
+    "other_forms" : [ "trapue", "trapues", "trapus" ]
+  }, {
+    "canonical_form" : "puissant",
+    "other_forms" : [ "puissante", "puissantes", "puissants" ]
+  }, {
+    "canonical_form" : "partisan",
+    "other_forms" : [ "partisane", "partisanes", "partisans" ]
+  }, {
+    "canonical_form" : "inusable",
+    "other_forms" : [ "inusables" ]
+  }, {
+    "canonical_form" : "impérissable",
+    "other_forms" : [ "impérissables" ]
+  }, {
+    "canonical_form" : "nerveux",
+    "other_forms" : [ "nerveuse", "nerveuses" ]
+  }, {
+    "canonical_form" : "inattaquable",
+    "other_forms" : [ "inattaquables" ]
+  }, {
+    "canonical_form" : "endurci",
+    "other_forms" : [ "endurcie", "endurcies", "endurcis" ]
+  }, {
+    "canonical_form" : "dissident",
+    "other_forms" : [ "dissidente", "dissidentes", "dissidents" ]
+  }, {
+    "canonical_form" : "stable",
+    "other_forms" : [ "stables" ]
+  }, {
+    "canonical_form" : "rénitent",
+    "other_forms" : [ "rénitente", "rénitentes", "rénitents" ]
+  }, {
+    "canonical_form" : "réfractaire",
+    "other_forms" : [ "réfractaires" ]
+  }, {
+    "canonical_form" : "patriote",
+    "other_forms" : [ "patriotes" ]
+  }, {
+    "canonical_form" : "incassable",
+    "other_forms" : [ "incassables" ]
+  } ]
+}

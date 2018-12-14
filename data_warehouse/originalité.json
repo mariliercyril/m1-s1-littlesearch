@@ -1,0 +1,100 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "originalité",
+    "other_forms" : [ "originalités" ]
+  }, {
+    "canonical_form" : "caractère",
+    "other_forms" : [ "caractères" ]
+  }, {
+    "canonical_form" : "bizarrerie",
+    "other_forms" : [ "bizarreries" ]
+  }, {
+    "canonical_form" : "singularité",
+    "other_forms" : [ "singularités" ]
+  }, {
+    "canonical_form" : "particularité",
+    "other_forms" : [ "particularités" ]
+  }, {
+    "canonical_form" : "exotisme",
+    "other_forms" : [ "exotismes" ]
+  }, {
+    "canonical_form" : "caprice",
+    "other_forms" : [ "caprices" ]
+  }, {
+    "canonical_form" : "excentricité",
+    "other_forms" : [ "excentricités" ]
+  }, {
+    "canonical_form" : "fantaisie",
+    "other_forms" : [ "fantaisies" ]
+  }, {
+    "canonical_form" : "individualité",
+    "other_forms" : [ "individualités" ]
+  }, {
+    "canonical_form" : "nouveauté",
+    "other_forms" : [ "nouveautés" ]
+  }, {
+    "canonical_form" : "style",
+    "other_forms" : [ "styles" ]
+  }, {
+    "canonical_form" : "témérité",
+    "other_forms" : [ "témérités" ]
+  }, {
+    "canonical_form" : "étrangeté",
+    "other_forms" : [ "étrangetés" ]
+  }, {
+    "canonical_form" : "hardiesse",
+    "other_forms" : [ "hardiesses" ]
+  }, {
+    "canonical_form" : "fraîcheur",
+    "other_forms" : [ "fraîcheurs" ]
+  }, {
+    "canonical_form" : "audace",
+    "other_forms" : [ "audaces" ]
+  }, {
+    "canonical_form" : "cachet",
+    "other_forms" : [ "cachets" ]
+  }, {
+    "canonical_form" : "cocasserie",
+    "other_forms" : [ "cocasseries" ]
+  }, {
+    "canonical_form" : "drôlerie",
+    "other_forms" : [ "drôleries" ]
+  }, {
+    "canonical_form" : "extravagance",
+    "other_forms" : [ "extravagances" ]
+  }, {
+    "canonical_form" : "rareté",
+    "other_forms" : [ "raretés" ]
+  }, {
+    "canonical_form" : "pureté",
+    "other_forms" : [ "puretés" ]
+  }, {
+    "canonical_form" : "personnalité",
+    "other_forms" : [ "personnalités" ]
+  }, {
+    "canonical_form" : "particularisme",
+    "other_forms" : [ "particularismes" ]
+  }, {
+    "canonical_form" : "paradoxe",
+    "other_forms" : [ "paradoxes" ]
+  }, {
+    "canonical_form" : "non-conformisme",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "manie",
+    "other_forms" : [ "manies" ]
+  }, {
+    "canonical_form" : "intérêt",
+    "other_forms" : [ "intérêts" ]
+  }, {
+    "canonical_form" : "indépendance",
+    "other_forms" : [ "indépendances" ]
+  }, {
+    "canonical_form" : "génie",
+    "other_forms" : [ "génies" ]
+  }, {
+    "canonical_form" : "unicité",
+    "other_forms" : [ "unicités" ]
+  } ]
+}

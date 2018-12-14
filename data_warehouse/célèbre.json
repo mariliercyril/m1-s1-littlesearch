@@ -1,0 +1,58 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "célèbre",
+    "other_forms" : [ "célèbres" ]
+  }, {
+    "canonical_form" : "illustre",
+    "other_forms" : [ "illustres" ]
+  }, {
+    "canonical_form" : "fameux",
+    "other_forms" : [ "fameuse", "fameuses" ]
+  }, {
+    "canonical_form" : "glorieux",
+    "other_forms" : [ "glorieuse", "glorieuses" ]
+  }, {
+    "canonical_form" : "marquant",
+    "other_forms" : [ "marquante", "marquantes", "marquants" ]
+  }, {
+    "canonical_form" : "important",
+    "other_forms" : [ "importante", "importantes", "importants" ]
+  }, {
+    "canonical_form" : "mémorable",
+    "other_forms" : [ "mémorables" ]
+  }, {
+    "canonical_form" : "éminent",
+    "other_forms" : [ "éminente", "éminentes", "éminents" ]
+  }, {
+    "canonical_form" : "éclatant",
+    "other_forms" : [ "éclatante", "éclatantes", "éclatants" ]
+  }, {
+    "canonical_form" : "brillant",
+    "other_forms" : [ "brillante", "brillantes", "brillants" ]
+  }, {
+    "canonical_form" : "proverbial",
+    "other_forms" : [ "proverbiale", "proverbiales", "proverbiaux" ]
+  }, {
+    "canonical_form" : "populaire",
+    "other_forms" : [ "populaires" ]
+  }, {
+    "canonical_form" : "notoire",
+    "other_forms" : [ "notoires" ]
+  }, {
+    "canonical_form" : "légendaire",
+    "other_forms" : [ "légendaires" ]
+  }, {
+    "canonical_form" : "inoubliable",
+    "other_forms" : [ "inoubliables" ]
+  }, {
+    "canonical_form" : "historique",
+    "other_forms" : [ "historiques" ]
+  }, {
+    "canonical_form" : "immortel",
+    "other_forms" : [ "immortelle", "immortelles", "immortels" ]
+  }, {
+    "canonical_form" : "public",
+    "other_forms" : [ "publics", "publique", "publiques" ]
+  } ]
+}

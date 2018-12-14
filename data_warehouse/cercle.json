@@ -1,0 +1,76 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "cercle",
+    "other_forms" : [ "cercles" ]
+  }, {
+    "canonical_form" : "tour",
+    "other_forms" : [ "tours" ]
+  }, {
+    "canonical_form" : "groupe",
+    "other_forms" : [ "groupes" ]
+  }, {
+    "canonical_form" : "coterie",
+    "other_forms" : [ "coteries" ]
+  }, {
+    "canonical_form" : "réunion",
+    "other_forms" : [ "réunions" ]
+  }, {
+    "canonical_form" : "sphère",
+    "other_forms" : [ "sphères" ]
+  }, {
+    "canonical_form" : "cénacle",
+    "other_forms" : [ "cénacles" ]
+  }, {
+    "canonical_form" : "contour",
+    "other_forms" : [ "contours" ]
+  }, {
+    "canonical_form" : "clan",
+    "other_forms" : [ "clans" ]
+  }, {
+    "canonical_form" : "circuit",
+    "other_forms" : [ "circuits" ]
+  }, {
+    "canonical_form" : "anneau",
+    "other_forms" : [ "anneaux" ]
+  }, {
+    "canonical_form" : "société",
+    "other_forms" : [ "sociétés" ]
+  }, {
+    "canonical_form" : "révolution",
+    "other_forms" : [ "révolutions" ]
+  }, {
+    "canonical_form" : "compagnie",
+    "other_forms" : [ "compagnies" ]
+  }, {
+    "canonical_form" : "circonférence",
+    "other_forms" : [ "circonférences" ]
+  }, {
+    "canonical_form" : "cadre",
+    "other_forms" : [ "cadres" ]
+  }, {
+    "canonical_form" : "association",
+    "other_forms" : [ "associations" ]
+  }, {
+    "canonical_form" : "école",
+    "other_forms" : [ "écoles" ]
+  }, {
+    "canonical_form" : "périmètre",
+    "other_forms" : [ "périmètres" ]
+  }, {
+    "canonical_form" : "milieu",
+    "other_forms" : [ "milieux" ]
+  }, {
+    "canonical_form" : "limite",
+    "other_forms" : [ "limites" ]
+  }, {
+    "canonical_form" : "halo",
+    "other_forms" : [ "halos" ]
+  }, {
+    "canonical_form" : "entourage",
+    "other_forms" : [ "entourages" ]
+  }, {
+    "canonical_form" : "domaine",
+    "other_forms" : [ "domaines" ]
+  } ]
+}

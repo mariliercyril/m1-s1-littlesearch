@@ -1,0 +1,67 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "niveau",
+    "other_forms" : [ "niveaux" ]
+  }, {
+    "canonical_form" : "classe",
+    "other_forms" : [ "classes" ]
+  }, {
+    "canonical_form" : "rang",
+    "other_forms" : [ "rangs" ]
+  }, {
+    "canonical_form" : "étage",
+    "other_forms" : [ "étages" ]
+  }, {
+    "canonical_form" : "degré",
+    "other_forms" : [ "degrés" ]
+  }, {
+    "canonical_form" : "échelon",
+    "other_forms" : [ "échelons" ]
+  }, {
+    "canonical_form" : "ordre",
+    "other_forms" : [ "ordres" ]
+  }, {
+    "canonical_form" : "ligne",
+    "other_forms" : [ "lignes" ]
+  }, {
+    "canonical_form" : "hauteur",
+    "other_forms" : [ "hauteurs" ]
+  }, {
+    "canonical_form" : "stature",
+    "other_forms" : [ "statures" ]
+  }, {
+    "canonical_form" : "standing",
+    "other_forms" : [ "standings" ]
+  }, {
+    "canonical_form" : "stade",
+    "other_forms" : [ "stades" ]
+  }, {
+    "canonical_form" : "qualité",
+    "other_forms" : [ "qualités" ]
+  }, {
+    "canonical_form" : "topographie",
+    "other_forms" : [ "topographies" ]
+  }, {
+    "canonical_form" : "registre",
+    "other_forms" : [ "registres" ]
+  }, {
+    "canonical_form" : "palier",
+    "other_forms" : [ "paliers" ]
+  }, {
+    "canonical_form" : "force",
+    "other_forms" : [ "forces" ]
+  }, {
+    "canonical_form" : "diapason",
+    "other_forms" : [ "diapasons" ]
+  }, {
+    "canonical_form" : "cote",
+    "other_forms" : [ "cotes" ]
+  }, {
+    "canonical_form" : "condition",
+    "other_forms" : [ "conditions" ]
+  }, {
+    "canonical_form" : "élévation",
+    "other_forms" : [ "élévations" ]
+  } ]
+}

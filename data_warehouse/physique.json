@@ -1,0 +1,91 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "physique",
+    "other_forms" : [ "physiques" ]
+  }, {
+    "canonical_form" : "matériel",
+    "other_forms" : [ "matérielle", "matérielles", "matériels" ]
+  }, {
+    "canonical_form" : "charnel",
+    "other_forms" : [ "charnelle", "charnelles", "charnels" ]
+  }, {
+    "canonical_form" : "corporel",
+    "other_forms" : [ "corporelle", "corporelles", "corporels" ]
+  }, {
+    "canonical_form" : "concret",
+    "other_forms" : [ "concrets", "concrète", "concrètes" ]
+  }, {
+    "canonical_form" : "naturel",
+    "other_forms" : [ "naturelle", "naturelles", "naturels" ]
+  }, {
+    "canonical_form" : "sensible",
+    "other_forms" : [ "sensibles" ]
+  }, {
+    "canonical_form" : "physiologique",
+    "other_forms" : [ "physiologiques" ]
+  }, {
+    "canonical_form" : "organique",
+    "other_forms" : [ "organiques" ]
+  }, {
+    "canonical_form" : "animal",
+    "other_forms" : [ "animale", "animales", "animaux" ]
+  }, {
+    "canonical_form" : "mécanique",
+    "other_forms" : [ "mécaniques" ]
+  }, {
+    "canonical_form" : "optique",
+    "other_forms" : [ "optiques" ]
+  }, {
+    "canonical_form" : "réel",
+    "other_forms" : [ "réelle", "réelles", "réels" ]
+  }, {
+    "canonical_form" : "sensuel",
+    "other_forms" : [ "sensuelle", "sensuelles", "sensuels" ]
+  }, {
+    "canonical_form" : "sexuel",
+    "other_forms" : [ "sexuelle", "sexuelles", "sexuels" ]
+  }, {
+    "canonical_form" : "somatique",
+    "other_forms" : [ "somatiques" ]
+  }, {
+    "canonical_form" : "statique",
+    "other_forms" : [ "statiques" ]
+  }, {
+    "canonical_form" : "terrestre",
+    "other_forms" : [ "terrestres" ]
+  }, {
+    "canonical_form" : "thermodynamique",
+    "other_forms" : [ "thermodynamiques" ]
+  }, {
+    "canonical_form" : "hydrostatique",
+    "other_forms" : [ "hydrostatiques" ]
+  }, {
+    "canonical_form" : "aérodynamique",
+    "other_forms" : [ "aérodynamiques" ]
+  }, {
+    "canonical_form" : "biophysique",
+    "other_forms" : [ "biophysiques" ]
+  }, {
+    "canonical_form" : "cinématique",
+    "other_forms" : [ "cinématiques" ]
+  }, {
+    "canonical_form" : "dioptrique",
+    "other_forms" : [ "dioptriques" ]
+  }, {
+    "canonical_form" : "dynamique",
+    "other_forms" : [ "dynamiques" ]
+  }, {
+    "canonical_form" : "extérieur",
+    "other_forms" : [ "extérieure", "extérieures", "extérieurs" ]
+  }, {
+    "canonical_form" : "hydraulique",
+    "other_forms" : [ "hydrauliques" ]
+  }, {
+    "canonical_form" : "hydrodynamique",
+    "other_forms" : [ "hydrodynamiques" ]
+  }, {
+    "canonical_form" : "acoustique",
+    "other_forms" : [ "acoustiques" ]
+  } ]
+}

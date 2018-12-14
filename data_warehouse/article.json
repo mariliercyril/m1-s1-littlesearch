@@ -1,0 +1,112 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "article",
+    "other_forms" : [ "articles" ]
+  }, {
+    "canonical_form" : "chapitre",
+    "other_forms" : [ "chapitres" ]
+  }, {
+    "canonical_form" : "matière",
+    "other_forms" : [ "matières" ]
+  }, {
+    "canonical_form" : "papier",
+    "other_forms" : [ "papiers" ]
+  }, {
+    "canonical_form" : "titre",
+    "other_forms" : [ "titres" ]
+  }, {
+    "canonical_form" : "rubrique",
+    "other_forms" : [ "rubriques" ]
+  }, {
+    "canonical_form" : "reportage",
+    "other_forms" : [ "reportages" ]
+  }, {
+    "canonical_form" : "objet",
+    "other_forms" : [ "objets" ]
+  }, {
+    "canonical_form" : "copie",
+    "other_forms" : [ "copies" ]
+  }, {
+    "canonical_form" : "question",
+    "other_forms" : [ "questions" ]
+  }, {
+    "canonical_form" : "paragraphe",
+    "other_forms" : [ "paragraphes" ]
+  }, {
+    "canonical_form" : "notice",
+    "other_forms" : [ "notices" ]
+  }, {
+    "canonical_form" : "marchandise",
+    "other_forms" : [ "marchandises" ]
+  }, {
+    "canonical_form" : "leader",
+    "other_forms" : [ "leaders" ]
+  }, {
+    "canonical_form" : "rez-de-chaussée",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "segment",
+    "other_forms" : [ "segments" ]
+  }, {
+    "canonical_form" : "ustensile",
+    "other_forms" : [ "ustensiles" ]
+  }, {
+    "canonical_form" : "écho",
+    "other_forms" : [ "échos" ]
+  }, {
+    "canonical_form" : "écriture",
+    "other_forms" : [ "écritures" ]
+  }, {
+    "canonical_form" : "étude",
+    "other_forms" : [ "études" ]
+  }, {
+    "canonical_form" : "jointure",
+    "other_forms" : [ "jointures" ]
+  }, {
+    "canonical_form" : "interview",
+    "other_forms" : [ "interviews" ]
+  }, {
+    "canonical_form" : "amorce",
+    "other_forms" : [ "amorces" ]
+  }, {
+    "canonical_form" : "articulation",
+    "other_forms" : [ "articulations" ]
+  }, {
+    "canonical_form" : "articulet",
+    "other_forms" : [ "articulets" ]
+  }, {
+    "canonical_form" : "billet",
+    "other_forms" : [ "billets" ]
+  }, {
+    "canonical_form" : "compte",
+    "other_forms" : [ "comptes" ]
+  }, {
+    "canonical_form" : "convention",
+    "other_forms" : [ "conventions" ]
+  }, {
+    "canonical_form" : "courrier",
+    "other_forms" : [ "courriers" ]
+  }, {
+    "canonical_form" : "denrée",
+    "other_forms" : [ "denrées" ]
+  }, {
+    "canonical_form" : "dissertation",
+    "other_forms" : [ "dissertations" ]
+  }, {
+    "canonical_form" : "dogme",
+    "other_forms" : [ "dogmes" ]
+  }, {
+    "canonical_form" : "entrefilet",
+    "other_forms" : [ "entrefilets" ]
+  }, {
+    "canonical_form" : "essai",
+    "other_forms" : [ "essais" ]
+  }, {
+    "canonical_form" : "feuilleton",
+    "other_forms" : [ "feuilletons" ]
+  }, {
+    "canonical_form" : "alinéa",
+    "other_forms" : [ "alinéas" ]
+  } ]
+}

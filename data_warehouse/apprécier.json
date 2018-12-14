@@ -1,0 +1,78 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "apprécier"
+  }, {
+    "canonical_form" : "estimer"
+  }, {
+    "canonical_form" : "juger"
+  }, {
+    "canonical_form" : "évaluer"
+  }, {
+    "canonical_form" : "peser"
+  }, {
+    "canonical_form" : "considérer"
+  }, {
+    "canonical_form" : "entendre"
+  }, {
+    "canonical_form" : "voir"
+  }, {
+    "canonical_form" : "examiner"
+  }, {
+    "canonical_form" : "aimer"
+  }, {
+    "canonical_form" : "mesurer"
+  }, {
+    "canonical_form" : "jauger"
+  }, {
+    "canonical_form" : "connaître"
+  }, {
+    "canonical_form" : "compter"
+  }, {
+    "canonical_form" : "comprendre"
+  }, {
+    "canonical_form" : "sentir"
+  }, {
+    "canonical_form" : "vénérer"
+  }, {
+    "canonical_form" : "sonder"
+  }, {
+    "canonical_form" : "priser"
+  }, {
+    "canonical_form" : "discerner"
+  }, {
+    "canonical_form" : "admirer"
+  }, {
+    "canonical_form" : "savourer"
+  }, {
+    "canonical_form" : "saisir"
+  }, {
+    "canonical_form" : "noter"
+  }, {
+    "canonical_form" : "déterminer"
+  }, {
+    "canonical_form" : "croire"
+  }, {
+    "canonical_form" : "coter"
+  }, {
+    "canonical_form" : "concevoir"
+  }, {
+    "canonical_form" : "comparer"
+  }, {
+    "canonical_form" : "calculer"
+  }, {
+    "canonical_form" : "approuver"
+  }, {
+    "canonical_form" : "sous-estimer"
+  }, {
+    "canonical_form" : "jouir"
+  }, {
+    "canonical_form" : "expertiser"
+  }, {
+    "canonical_form" : "déguster"
+  }, {
+    "canonical_form" : "affectionner"
+  }, {
+    "canonical_form" : "surestimer"
+  } ]
+}

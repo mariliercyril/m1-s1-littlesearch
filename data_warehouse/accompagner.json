@@ -1,0 +1,46 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "accompagner"
+  }, {
+    "canonical_form" : "escorter"
+  }, {
+    "canonical_form" : "conduire"
+  }, {
+    "canonical_form" : "suivre"
+  }, {
+    "canonical_form" : "chaperonner"
+  }, {
+    "canonical_form" : "protéger"
+  }, {
+    "canonical_form" : "convoyer"
+  }, {
+    "canonical_form" : "assister"
+  }, {
+    "canonical_form" : "surveiller"
+  }, {
+    "canonical_form" : "marier"
+  }, {
+    "canonical_form" : "guider"
+  }, {
+    "canonical_form" : "flanquer"
+  }, {
+    "canonical_form" : "compléter"
+  }, {
+    "canonical_form" : "assortir"
+  }, {
+    "canonical_form" : "reconduire"
+  }, {
+    "canonical_form" : "joindre"
+  }, {
+    "canonical_form" : "entourer"
+  }, {
+    "canonical_form" : "emmener"
+  }, {
+    "canonical_form" : "cortéger"
+  }, {
+    "canonical_form" : "colorer"
+  }, {
+    "canonical_form" : "aller"
+  } ]
+}

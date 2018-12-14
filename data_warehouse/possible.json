@@ -1,0 +1,118 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "possible",
+    "other_forms" : [ "possibles" ]
+  }, {
+    "canonical_form" : "acceptable",
+    "other_forms" : [ "acceptables" ]
+  }, {
+    "canonical_form" : "admissible",
+    "other_forms" : [ "admissibles" ]
+  }, {
+    "canonical_form" : "convenable",
+    "other_forms" : [ "convenables" ]
+  }, {
+    "canonical_form" : "passable",
+    "other_forms" : [ "passables" ]
+  }, {
+    "canonical_form" : "plausible",
+    "other_forms" : [ "plausibles" ]
+  }, {
+    "canonical_form" : "réalisable",
+    "other_forms" : [ "réalisables" ]
+  }, {
+    "canonical_form" : "supportable",
+    "other_forms" : [ "supportables" ]
+  }, {
+    "canonical_form" : "probable",
+    "other_forms" : [ "probables" ]
+  }, {
+    "canonical_form" : "pensable",
+    "other_forms" : [ "pensables" ]
+  }, {
+    "canonical_form" : "facile",
+    "other_forms" : [ "faciles" ]
+  }, {
+    "canonical_form" : "correct",
+    "other_forms" : [ "correcte", "correctes", "corrects" ]
+  }, {
+    "canonical_form" : "soutenable",
+    "other_forms" : [ "soutenables" ]
+  }, {
+    "canonical_form" : "potable",
+    "other_forms" : [ "potables" ]
+  }, {
+    "canonical_form" : "envisageable",
+    "other_forms" : [ "envisageables" ]
+  }, {
+    "canonical_form" : "croyable",
+    "other_forms" : [ "croyables" ]
+  }, {
+    "canonical_form" : "commode",
+    "other_forms" : [ "commodes" ]
+  }, {
+    "canonical_form" : "vraisemblable",
+    "other_forms" : [ "vraisemblables" ]
+  }, {
+    "canonical_form" : "vivable",
+    "other_forms" : [ "vivables" ]
+  }, {
+    "canonical_form" : "virtuel",
+    "other_forms" : [ "virtuelle", "virtuelles", "virtuels" ]
+  }, {
+    "canonical_form" : "tolérable",
+    "other_forms" : [ "tolérables" ]
+  }, {
+    "canonical_form" : "sortable",
+    "other_forms" : [ "sortables" ]
+  }, {
+    "canonical_form" : "prévisible",
+    "other_forms" : [ "prévisibles" ]
+  }, {
+    "canonical_form" : "pratique",
+    "other_forms" : [ "pratiques" ]
+  }, {
+    "canonical_form" : "décent",
+    "other_forms" : [ "décente", "décentes", "décents" ]
+  }, {
+    "canonical_form" : "buvable",
+    "other_forms" : [ "buvables" ]
+  }, {
+    "canonical_form" : "mangeable",
+    "other_forms" : [ "mangeables" ]
+  }, {
+    "canonical_form" : "potentiel",
+    "other_forms" : [ "potentielle", "potentielles", "potentiels" ]
+  }, {
+    "canonical_form" : "praticable",
+    "other_forms" : [ "praticables" ]
+  }, {
+    "canonical_form" : "loisible",
+    "other_forms" : [ "loisibles" ]
+  }, {
+    "canonical_form" : "imaginable",
+    "other_forms" : [ "imaginables" ]
+  }, {
+    "canonical_form" : "futur",
+    "other_forms" : [ "future", "futures", "futurs" ]
+  }, {
+    "canonical_form" : "faisable",
+    "other_forms" : [ "faisables" ]
+  }, {
+    "canonical_form" : "exécutable",
+    "other_forms" : [ "exécutables" ]
+  }, {
+    "canonical_form" : "contingent",
+    "other_forms" : [ "contingente", "contingentes", "contingents" ]
+  }, {
+    "canonical_form" : "accessible",
+    "other_forms" : [ "accessibles" ]
+  }, {
+    "canonical_form" : "abordable",
+    "other_forms" : [ "abordables" ]
+  }, {
+    "canonical_form" : "éventuel",
+    "other_forms" : [ "éventuelle", "éventuelles", "éventuels" ]
+  } ]
+}

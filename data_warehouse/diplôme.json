@@ -1,0 +1,46 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "diplôme",
+    "other_forms" : [ "diplômes" ]
+  }, {
+    "canonical_form" : "titre",
+    "other_forms" : [ "titres" ]
+  }, {
+    "canonical_form" : "brevet",
+    "other_forms" : [ "brevets" ]
+  }, {
+    "canonical_form" : "certificat",
+    "other_forms" : [ "certificats" ]
+  }, {
+    "canonical_form" : "acte",
+    "other_forms" : [ "actes" ]
+  }, {
+    "canonical_form" : "pièce",
+    "other_forms" : [ "pièces" ]
+  }, {
+    "canonical_form" : "parchemin",
+    "other_forms" : [ "parchemins" ]
+  }, {
+    "canonical_form" : "médaille",
+    "other_forms" : [ "médailles" ]
+  }, {
+    "canonical_form" : "prix",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "grade",
+    "other_forms" : [ "grades" ]
+  }, {
+    "canonical_form" : "examen",
+    "other_forms" : [ "examens" ]
+  }, {
+    "canonical_form" : "degré",
+    "other_forms" : [ "degrés" ]
+  }, {
+    "canonical_form" : "charte",
+    "other_forms" : [ "chartes" ]
+  }, {
+    "canonical_form" : "récompense",
+    "other_forms" : [ "récompenses" ]
+  } ]
+}

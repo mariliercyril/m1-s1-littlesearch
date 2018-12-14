@@ -1,0 +1,36 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "parvenir"
+  }, {
+    "canonical_form" : "arriver"
+  }, {
+    "canonical_form" : "atteindre"
+  }, {
+    "canonical_form" : "réussir"
+  }, {
+    "canonical_form" : "aborder"
+  }, {
+    "canonical_form" : "aboutir"
+  }, {
+    "canonical_form" : "gagner"
+  }, {
+    "canonical_form" : "accéder"
+  }, {
+    "canonical_form" : "percer"
+  }, {
+    "canonical_form" : "venir"
+  }, {
+    "canonical_form" : "joindre"
+  }, {
+    "canonical_form" : "entrer"
+  }, {
+    "canonical_form" : "rencontrer"
+  }, {
+    "canonical_form" : "déboucher"
+  }, {
+    "canonical_form" : "accomplir"
+  }, {
+    "canonical_form" : "égaler"
+  } ]
+}

@@ -1,0 +1,22 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "ascendant",
+    "other_forms" : [ "ascendante", "ascendantes", "ascendants" ]
+  }, {
+    "canonical_form" : "progressif",
+    "other_forms" : [ "progressifs", "progressive", "progressives" ]
+  }, {
+    "canonical_form" : "parent",
+    "other_forms" : [ "parente", "parentes", "parents" ]
+  }, {
+    "canonical_form" : "montant",
+    "other_forms" : [ "montante", "montantes", "montants" ]
+  }, {
+    "canonical_form" : "ascensionnel",
+    "other_forms" : [ "ascensionnelle", "ascensionnelles", "ascensionnels" ]
+  }, {
+    "canonical_form" : "ancien",
+    "other_forms" : [ "ancienne", "anciennes", "anciens" ]
+  } ]
+}

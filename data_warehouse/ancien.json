@@ -1,0 +1,112 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "ancien",
+    "other_forms" : [ "ancienne", "anciennes", "anciens" ]
+  }, {
+    "canonical_form" : "vieux",
+    "other_forms" : [ "vieil", "vieille", "vieilles" ]
+  }, {
+    "canonical_form" : "antique",
+    "other_forms" : [ "antiques" ]
+  }, {
+    "canonical_form" : "démodé",
+    "other_forms" : [ "démodée", "démodées", "démodés" ]
+  }, {
+    "canonical_form" : "suranné",
+    "other_forms" : [ "surannée", "surannées", "surannés" ]
+  }, {
+    "canonical_form" : "vieillot",
+    "other_forms" : [ "vieillots", "vieillotte", "vieillottes" ]
+  }, {
+    "canonical_form" : "désuet",
+    "other_forms" : [ "désuets", "désuète", "désuètes" ]
+  }, {
+    "canonical_form" : "vétuste",
+    "other_forms" : [ "vétustes" ]
+  }, {
+    "canonical_form" : "séculaire",
+    "other_forms" : [ "séculaires" ]
+  }, {
+    "canonical_form" : "aîné",
+    "other_forms" : [ "aînée", "aînées", "aînés" ]
+  }, {
+    "canonical_form" : "archaïque",
+    "other_forms" : [ "archaïques" ]
+  }, {
+    "canonical_form" : "périmé",
+    "other_forms" : [ "périmée", "périmées", "périmés" ]
+  }, {
+    "canonical_form" : "rococo",
+    "other_forms" : [ "rococos" ]
+  }, {
+    "canonical_form" : "usagé",
+    "other_forms" : [ "usagée", "usagées", "usagés" ]
+  }, {
+    "canonical_form" : "âgé",
+    "other_forms" : [ "âgée", "âgées", "âgés" ]
+  }, {
+    "canonical_form" : "précédent",
+    "other_forms" : [ "précédente", "précédentes", "précédents" ]
+  }, {
+    "canonical_form" : "primitif",
+    "other_forms" : [ "primitifs", "primitive", "primitives" ]
+  }, {
+    "canonical_form" : "premier",
+    "other_forms" : [ "premiers", "première", "premières" ]
+  }, {
+    "canonical_form" : "haut",
+    "other_forms" : [ "haute", "hautes", "hauts" ]
+  }, {
+    "canonical_form" : "antédiluvien",
+    "other_forms" : [ "antédiluvienne", "antédiluviennes", "antédiluviens" ]
+  }, {
+    "canonical_form" : "ancestral",
+    "other_forms" : [ "ancestrale", "ancestrales", "ancestraux" ]
+  }, {
+    "canonical_form" : "précurseur",
+    "other_forms" : [ "précurseurs" ]
+  }, {
+    "canonical_form" : "révolu",
+    "other_forms" : [ "révolue", "révolues", "révolus" ]
+  }, {
+    "canonical_form" : "vénérable",
+    "other_forms" : [ "vénérables" ]
+  }, {
+    "canonical_form" : "patriarcal",
+    "other_forms" : [ "patriarcale", "patriarcales", "patriarcaux" ]
+  }, {
+    "canonical_form" : "long",
+    "other_forms" : [ "longs", "longue", "longues" ]
+  }, {
+    "canonical_form" : "antérieur",
+    "other_forms" : [ "antérieure", "antérieures", "antérieurs" ]
+  }, {
+    "canonical_form" : "flétri",
+    "other_forms" : [ "flétrie", "flétries", "flétris" ]
+  }, {
+    "canonical_form" : "immémorial",
+    "other_forms" : [ "immémoriale", "immémoriales", "immémoriaux" ]
+  }, {
+    "canonical_form" : "préhistorique",
+    "other_forms" : [ "préhistoriques" ]
+  }, {
+    "canonical_form" : "poussiéreux",
+    "other_forms" : [ "poussiéreuse", "poussiéreuses" ]
+  }, {
+    "canonical_form" : "gothique",
+    "other_forms" : [ "gothiques" ]
+  }, {
+    "canonical_form" : "croulant",
+    "other_forms" : [ "croulante", "croulantes", "croulants" ]
+  }, {
+    "canonical_form" : "chevronné",
+    "other_forms" : [ "chevronnée", "chevronnées", "chevronnés" ]
+  }, {
+    "canonical_form" : "authentique",
+    "other_forms" : [ "authentiques" ]
+  }, {
+    "canonical_form" : "ascendant",
+    "other_forms" : [ "ascendante", "ascendantes", "ascendants" ]
+  } ]
+}

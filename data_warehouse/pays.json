@@ -1,0 +1,133 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "pays",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "région",
+    "other_forms" : [ "régions" ]
+  }, {
+    "canonical_form" : "terre",
+    "other_forms" : [ "terres" ]
+  }, {
+    "canonical_form" : "coin",
+    "other_forms" : [ "coins" ]
+  }, {
+    "canonical_form" : "domaine",
+    "other_forms" : [ "domaines" ]
+  }, {
+    "canonical_form" : "endroit",
+    "other_forms" : [ "endroits" ]
+  }, {
+    "canonical_form" : "lieu",
+    "other_forms" : [ "lieus", "lieux" ]
+  }, {
+    "canonical_form" : "état",
+    "other_forms" : [ "états" ]
+  }, {
+    "canonical_form" : "territoire",
+    "other_forms" : [ "territoires" ]
+  }, {
+    "canonical_form" : "terrain",
+    "other_forms" : [ "terrains" ]
+  }, {
+    "canonical_form" : "nation",
+    "other_forms" : [ "nations" ]
+  }, {
+    "canonical_form" : "zone",
+    "other_forms" : [ "zones" ]
+  }, {
+    "canonical_form" : "sphère",
+    "other_forms" : [ "sphères" ]
+  }, {
+    "canonical_form" : "rivage",
+    "other_forms" : [ "rivages" ]
+  }, {
+    "canonical_form" : "patrie",
+    "other_forms" : [ "patries" ]
+  }, {
+    "canonical_form" : "univers",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "trou",
+    "other_forms" : [ "trous" ]
+  }, {
+    "canonical_form" : "terroir",
+    "other_forms" : [ "terroirs" ]
+  }, {
+    "canonical_form" : "sol",
+    "other_forms" : [ "sols" ]
+  }, {
+    "canonical_form" : "royaume",
+    "other_forms" : [ "royaumes" ]
+  }, {
+    "canonical_form" : "quartier",
+    "other_forms" : [ "quartiers" ]
+  }, {
+    "canonical_form" : "origine",
+    "other_forms" : [ "origines" ]
+  }, {
+    "canonical_form" : "climat",
+    "other_forms" : [ "climats" ]
+  }, {
+    "canonical_form" : "canton",
+    "other_forms" : [ "cantons" ]
+  }, {
+    "canonical_form" : "bled",
+    "other_forms" : [ "bleds" ]
+  }, {
+    "canonical_form" : "mère",
+    "other_forms" : [ "mères" ]
+  }, {
+    "canonical_form" : "parage",
+    "other_forms" : [ "parages" ]
+  }, {
+    "canonical_form" : "province",
+    "other_forms" : [ "provinces" ]
+  }, {
+    "canonical_form" : "puissance",
+    "other_forms" : [ "puissances" ]
+  }, {
+    "canonical_form" : "empire",
+    "other_forms" : [ "empires" ]
+  }, {
+    "canonical_form" : "ciel",
+    "other_forms" : [ "ciels", "cieux" ]
+  }, {
+    "canonical_form" : "campagne",
+    "other_forms" : [ "campagnes" ]
+  }, {
+    "canonical_form" : "bourg",
+    "other_forms" : [ "bourgs" ]
+  }, {
+    "canonical_form" : "bord",
+    "other_forms" : [ "bords" ]
+  }, {
+    "canonical_form" : "foyer",
+    "other_forms" : [ "foyers" ]
+  }, {
+    "canonical_form" : "paroisse",
+    "other_forms" : [ "paroisses" ]
+  }, {
+    "canonical_form" : "peuple",
+    "other_forms" : [ "peuples" ]
+  }, {
+    "canonical_form" : "concitoyen",
+    "other_forms" : [ "concitoyenne", "concitoyennes", "concitoyens" ]
+  }, {
+    "canonical_form" : "compatriote",
+    "other_forms" : [ "compatriotes" ]
+  }, {
+    "canonical_form" : "clocher",
+    "other_forms" : [ "clochers" ]
+  }, {
+    "canonical_form" : "bourgade",
+    "other_forms" : [ "bourgades" ]
+  }, {
+    "canonical_form" : "nation",
+    "other_forms" : [ "nations" ]
+  }, {
+    "canonical_form" : "plage",
+    "other_forms" : [ "plages" ]
+  } ]
+}

@@ -1,0 +1,64 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "constituer"
+  }, {
+    "canonical_form" : "établir"
+  }, {
+    "canonical_form" : "construire"
+  }, {
+    "canonical_form" : "créer"
+  }, {
+    "canonical_form" : "former"
+  }, {
+    "canonical_form" : "organiser"
+  }, {
+    "canonical_form" : "faire"
+  }, {
+    "canonical_form" : "fonder"
+  }, {
+    "canonical_form" : "composer"
+  }, {
+    "canonical_form" : "bâtir"
+  }, {
+    "canonical_form" : "arranger"
+  }, {
+    "canonical_form" : "disposer"
+  }, {
+    "canonical_form" : "placer"
+  }, {
+    "canonical_form" : "édifier"
+  }, {
+    "canonical_form" : "instituer"
+  }, {
+    "canonical_form" : "asseoir"
+  }, {
+    "canonical_form" : "élaborer"
+  }, {
+    "canonical_form" : "présenter"
+  }, {
+    "canonical_form" : "monter"
+  }, {
+    "canonical_form" : "forger"
+  }, {
+    "canonical_form" : "instaurer"
+  }, {
+    "canonical_form" : "mettre"
+  }, {
+    "canonical_form" : "représenter"
+  }, {
+    "canonical_form" : "préposer"
+  }, {
+    "canonical_form" : "consister"
+  }, {
+    "canonical_form" : "charpenter"
+  }, {
+    "canonical_form" : "caractériser"
+  }, {
+    "canonical_form" : "assurer"
+  }, {
+    "canonical_form" : "assigner"
+  }, {
+    "canonical_form" : "reconstituer"
+  } ]
+}

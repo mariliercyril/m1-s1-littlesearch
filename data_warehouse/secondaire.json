@@ -1,0 +1,46 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "secondaire",
+    "other_forms" : [ "secondaires" ]
+  }, {
+    "canonical_form" : "accessoire",
+    "other_forms" : [ "accessoires" ]
+  }, {
+    "canonical_form" : "mineur",
+    "other_forms" : [ "mineure", "mineures", "mineurs", "mineuse", "mineuses" ]
+  }, {
+    "canonical_form" : "subsidiaire",
+    "other_forms" : [ "subsidiaires" ]
+  }, {
+    "canonical_form" : "subalterne",
+    "other_forms" : [ "subalternes" ]
+  }, {
+    "canonical_form" : "second",
+    "other_forms" : [ "seconde", "secondes", "seconds" ]
+  }, {
+    "canonical_form" : "marginal",
+    "other_forms" : [ "marginale", "marginales", "marginaux" ]
+  }, {
+    "canonical_form" : "insignifiant",
+    "other_forms" : [ "insignifiante", "insignifiantes", "insignifiants" ]
+  }, {
+    "canonical_form" : "adventice",
+    "other_forms" : [ "adventices" ]
+  }, {
+    "canonical_form" : "concomitant",
+    "other_forms" : [ "concomitante", "concomitantes", "concomitants" ]
+  }, {
+    "canonical_form" : "incident",
+    "other_forms" : [ "incidente", "incidentes", "incidents" ]
+  }, {
+    "canonical_form" : "inférieur",
+    "other_forms" : [ "inférieure", "inférieures", "inférieurs" ]
+  }, {
+    "canonical_form" : "négligeable",
+    "other_forms" : [ "négligeables" ]
+  }, {
+    "canonical_form" : "épisodique",
+    "other_forms" : [ "épisodiques" ]
+  } ]
+}

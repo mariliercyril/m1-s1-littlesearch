@@ -1,0 +1,91 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "discipline",
+    "other_forms" : [ "disciplines" ]
+  }, {
+    "canonical_form" : "ordre",
+    "other_forms" : [ "ordres" ]
+  }, {
+    "canonical_form" : "règle",
+    "other_forms" : [ "règles" ]
+  }, {
+    "canonical_form" : "méthode",
+    "other_forms" : [ "méthodes" ]
+  }, {
+    "canonical_form" : "organisation",
+    "other_forms" : [ "organisations" ]
+  }, {
+    "canonical_form" : "règlement",
+    "other_forms" : [ "règlements" ]
+  }, {
+    "canonical_form" : "obéissance",
+    "other_forms" : [ "obéissances" ]
+  }, {
+    "canonical_form" : "soumission",
+    "other_forms" : [ "soumissions" ]
+  }, {
+    "canonical_form" : "subordination",
+    "other_forms" : [ "subordinations" ]
+  }, {
+    "canonical_form" : "étude",
+    "other_forms" : [ "études" ]
+  }, {
+    "canonical_form" : "loi",
+    "other_forms" : [ "lois" ]
+  }, {
+    "canonical_form" : "exigence",
+    "other_forms" : [ "exigences" ]
+  }, {
+    "canonical_form" : "enseignement",
+    "other_forms" : [ "enseignements" ]
+  }, {
+    "canonical_form" : "division",
+    "other_forms" : [ "divisions" ]
+  }, {
+    "canonical_form" : "assujettissement",
+    "other_forms" : [ "assujettissements" ]
+  }, {
+    "canonical_form" : "art",
+    "other_forms" : [ "arts" ]
+  }, {
+    "canonical_form" : "pénitence",
+    "other_forms" : [ "pénitences" ]
+  }, {
+    "canonical_form" : "régularité",
+    "other_forms" : [ "régularités" ]
+  }, {
+    "canonical_form" : "science",
+    "other_forms" : [ "sciences" ]
+  }, {
+    "canonical_form" : "spécialité",
+    "other_forms" : [ "spécialités" ]
+  }, {
+    "canonical_form" : "statut",
+    "other_forms" : [ "statuts" ]
+  }, {
+    "canonical_form" : "police",
+    "other_forms" : [ "polices" ]
+  }, {
+    "canonical_form" : "matière",
+    "other_forms" : [ "matières" ]
+  }, {
+    "canonical_form" : "influence",
+    "other_forms" : [ "influences" ]
+  }, {
+    "canonical_form" : "fouet",
+    "other_forms" : [ "fouets" ]
+  }, {
+    "canonical_form" : "docilité",
+    "other_forms" : [ "docilités" ]
+  }, {
+    "canonical_form" : "chaîne",
+    "other_forms" : [ "chaînes" ]
+  }, {
+    "canonical_form" : "branche",
+    "other_forms" : [ "branches" ]
+  }, {
+    "canonical_form" : "étude",
+    "other_forms" : [ "études" ]
+  } ]
+}

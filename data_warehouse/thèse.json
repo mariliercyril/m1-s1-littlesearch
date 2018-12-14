@@ -1,0 +1,43 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "thèse",
+    "other_forms" : [ "thèses" ]
+  }, {
+    "canonical_form" : "doctrine",
+    "other_forms" : [ "doctrines" ]
+  }, {
+    "canonical_form" : "idée",
+    "other_forms" : [ "idées" ]
+  }, {
+    "canonical_form" : "opinion",
+    "other_forms" : [ "opinions" ]
+  }, {
+    "canonical_form" : "système",
+    "other_forms" : [ "systèmes" ]
+  }, {
+    "canonical_form" : "théorie",
+    "other_forms" : [ "théories" ]
+  }, {
+    "canonical_form" : "proposition",
+    "other_forms" : [ "propositions" ]
+  }, {
+    "canonical_form" : "philosophie",
+    "other_forms" : [ "philosophies" ]
+  }, {
+    "canonical_form" : "doctorat",
+    "other_forms" : [ "doctorats" ]
+  }, {
+    "canonical_form" : "croyance",
+    "other_forms" : [ "croyances" ]
+  }, {
+    "canonical_form" : "assertion",
+    "other_forms" : [ "assertions" ]
+  }, {
+    "canonical_form" : "allégation",
+    "other_forms" : [ "allégations" ]
+  }, {
+    "canonical_form" : "affirmation",
+    "other_forms" : [ "affirmations" ]
+  } ]
+}

@@ -1,0 +1,22 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "année",
+    "other_forms" : [ "années" ]
+  }, {
+    "canonical_form" : "an",
+    "other_forms" : [ "ans" ]
+  }, {
+    "canonical_form" : "annuité",
+    "other_forms" : [ "annuités" ]
+  }, {
+    "canonical_form" : "berge",
+    "other_forms" : [ "berges" ]
+  }, {
+    "canonical_form" : "date",
+    "other_forms" : [ "dates" ]
+  }, {
+    "canonical_form" : "promotion",
+    "other_forms" : [ "promotions" ]
+  } ]
+}

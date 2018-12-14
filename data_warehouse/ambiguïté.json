@@ -1,0 +1,28 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "ambiguïté",
+    "other_forms" : [ "ambiguïtés" ]
+  }, {
+    "canonical_form" : "incertitude",
+    "other_forms" : [ "incertitudes" ]
+  }, {
+    "canonical_form" : "amphibologie",
+    "other_forms" : [ "amphibologies" ]
+  }, {
+    "canonical_form" : "obscurité",
+    "other_forms" : [ "obscurités" ]
+  }, {
+    "canonical_form" : "clair-obscur",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "ambivalence",
+    "other_forms" : [ "ambivalences" ]
+  }, {
+    "canonical_form" : "ambages",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "énigme",
+    "other_forms" : [ "énigmes" ]
+  } ]
+}

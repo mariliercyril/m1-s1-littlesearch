@@ -1,0 +1,34 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "élire"
+  }, {
+    "canonical_form" : "choisir"
+  }, {
+    "canonical_form" : "appeler"
+  }, {
+    "canonical_form" : "coopter"
+  }, {
+    "canonical_form" : "nommer"
+  }, {
+    "canonical_form" : "sélectionner"
+  }, {
+    "canonical_form" : "prendre"
+  }, {
+    "canonical_form" : "désigner"
+  }, {
+    "canonical_form" : "adopter"
+  }, {
+    "canonical_form" : "agréger"
+  }, {
+    "canonical_form" : "envoyer"
+  }, {
+    "canonical_form" : "opter"
+  }, {
+    "canonical_form" : "plébisciter"
+  }, {
+    "canonical_form" : "prédestiner"
+  }, {
+    "canonical_form" : "préférer"
+  } ]
+}

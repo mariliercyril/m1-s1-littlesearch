@@ -1,0 +1,76 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "enseignement",
+    "other_forms" : [ "enseignements" ]
+  }, {
+    "canonical_form" : "leçon",
+    "other_forms" : [ "leçons" ]
+  }, {
+    "canonical_form" : "instruction",
+    "other_forms" : [ "instructions" ]
+  }, {
+    "canonical_form" : "moralité",
+    "other_forms" : [ "moralités" ]
+  }, {
+    "canonical_form" : "fable",
+    "other_forms" : [ "fables" ]
+  }, {
+    "canonical_form" : "conseil",
+    "other_forms" : [ "conseils" ]
+  }, {
+    "canonical_form" : "conférence",
+    "other_forms" : [ "conférences" ]
+  }, {
+    "canonical_form" : "précepte",
+    "other_forms" : [ "préceptes" ]
+  }, {
+    "canonical_form" : "matière",
+    "other_forms" : [ "matières" ]
+  }, {
+    "canonical_form" : "doctrine",
+    "other_forms" : [ "doctrines" ]
+  }, {
+    "canonical_form" : "discipline",
+    "other_forms" : [ "disciplines" ]
+  }, {
+    "canonical_form" : "conclusion",
+    "other_forms" : [ "conclusions" ]
+  }, {
+    "canonical_form" : "avis",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "apologue",
+    "other_forms" : [ "apologues" ]
+  }, {
+    "canonical_form" : "éducation",
+    "other_forms" : [ "éducations" ]
+  }, {
+    "canonical_form" : "système",
+    "other_forms" : [ "systèmes" ]
+  }, {
+    "canonical_form" : "synthèse",
+    "other_forms" : [ "synthèses" ]
+  }, {
+    "canonical_form" : "pédagogie",
+    "other_forms" : [ "pédagogies" ]
+  }, {
+    "canonical_form" : "prône",
+    "other_forms" : [ "prônes" ]
+  }, {
+    "canonical_form" : "professorat",
+    "other_forms" : [ "professorats" ]
+  }, {
+    "canonical_form" : "exemple",
+    "other_forms" : [ "exemples" ]
+  }, {
+    "canonical_form" : "cour",
+    "other_forms" : [ "cours" ]
+  }, {
+    "canonical_form" : "chaire",
+    "other_forms" : [ "chaires" ]
+  }, {
+    "canonical_form" : "étude",
+    "other_forms" : [ "études" ]
+  } ]
+}

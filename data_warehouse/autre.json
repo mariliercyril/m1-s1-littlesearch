@@ -1,0 +1,43 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "autre",
+    "other_forms" : [ "autres" ]
+  }, {
+    "canonical_form" : "différent",
+    "other_forms" : [ "différente", "différentes", "différents" ]
+  }, {
+    "canonical_form" : "dissemblable",
+    "other_forms" : [ "dissemblables" ]
+  }, {
+    "canonical_form" : "second",
+    "other_forms" : [ "seconde", "secondes", "seconds" ]
+  }, {
+    "canonical_form" : "suivant",
+    "other_forms" : [ "suivante", "suivantes", "suivants" ]
+  }, {
+    "canonical_form" : "prochain",
+    "other_forms" : [ "prochaine", "prochaines", "prochains" ]
+  }, {
+    "canonical_form" : "nouveau",
+    "other_forms" : [ "nouveaux", "nouvel", "nouvelle", "nouvelles" ]
+  }, {
+    "canonical_form" : "distinct",
+    "other_forms" : [ "distincte", "distinctes", "distincts" ]
+  }, {
+    "canonical_form" : "deuxième",
+    "other_forms" : [ "deuxièmes" ]
+  }, {
+    "canonical_form" : "supplémentaire",
+    "other_forms" : [ "supplémentaires" ]
+  }, {
+    "canonical_form" : "restant",
+    "other_forms" : [ "restante", "restantes", "restants" ]
+  }, {
+    "canonical_form" : "incompatible",
+    "other_forms" : [ "incompatibles" ]
+  }, {
+    "canonical_form" : "étranger",
+    "other_forms" : [ "étrangers", "étrangère", "étrangères" ]
+  } ]
+}

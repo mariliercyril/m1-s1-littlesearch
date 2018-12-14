@@ -1,0 +1,331 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "division",
+    "other_forms" : [ "divisions" ]
+  }, {
+    "canonical_form" : "séparation",
+    "other_forms" : [ "séparations" ]
+  }, {
+    "canonical_form" : "fraction",
+    "other_forms" : [ "fractions" ]
+  }, {
+    "canonical_form" : "morceau",
+    "other_forms" : [ "morceaux" ]
+  }, {
+    "canonical_form" : "section",
+    "other_forms" : [ "sections" ]
+  }, {
+    "canonical_form" : "rupture",
+    "other_forms" : [ "ruptures" ]
+  }, {
+    "canonical_form" : "ordre",
+    "other_forms" : [ "ordres" ]
+  }, {
+    "canonical_form" : "scission",
+    "other_forms" : [ "scissions" ]
+  }, {
+    "canonical_form" : "portion",
+    "other_forms" : [ "portions" ]
+  }, {
+    "canonical_form" : "morcellement",
+    "other_forms" : [ "morcellements" ]
+  }, {
+    "canonical_form" : "désaccord",
+    "other_forms" : [ "désaccords" ]
+  }, {
+    "canonical_form" : "classe",
+    "other_forms" : [ "classes" ]
+  }, {
+    "canonical_form" : "sorte",
+    "other_forms" : [ "sortes" ]
+  }, {
+    "canonical_form" : "ramification",
+    "other_forms" : [ "ramifications" ]
+  }, {
+    "canonical_form" : "partage",
+    "other_forms" : [ "partages" ]
+  }, {
+    "canonical_form" : "part",
+    "other_forms" : [ "parts" ]
+  }, {
+    "canonical_form" : "discorde",
+    "other_forms" : [ "discordes" ]
+  }, {
+    "canonical_form" : "compartiment",
+    "other_forms" : [ "compartiments" ]
+  }, {
+    "canonical_form" : "divorce",
+    "other_forms" : [ "divorces" ]
+  }, {
+    "canonical_form" : "groupe",
+    "other_forms" : [ "groupes" ]
+  }, {
+    "canonical_form" : "opposition",
+    "other_forms" : [ "oppositions" ]
+  }, {
+    "canonical_form" : "mésintelligence",
+    "other_forms" : [ "mésintelligences" ]
+  }, {
+    "canonical_form" : "désunion",
+    "other_forms" : [ "désunions" ]
+  }, {
+    "canonical_form" : "dispute",
+    "other_forms" : [ "disputes" ]
+  }, {
+    "canonical_form" : "coupe",
+    "other_forms" : [ "coupes" ]
+  }, {
+    "canonical_form" : "cellule",
+    "other_forms" : [ "cellules" ]
+  }, {
+    "canonical_form" : "catégorie",
+    "other_forms" : [ "catégories" ]
+  }, {
+    "canonical_form" : "heurt",
+    "other_forms" : [ "heurts" ]
+  }, {
+    "canonical_form" : "pièce",
+    "other_forms" : [ "pièces" ]
+  }, {
+    "canonical_form" : "ration",
+    "other_forms" : [ "rations" ]
+  }, {
+    "canonical_form" : "résolution",
+    "other_forms" : [ "résolutions" ]
+  }, {
+    "canonical_form" : "subdivision",
+    "other_forms" : [ "subdivisions" ]
+  }, {
+    "canonical_form" : "tension",
+    "other_forms" : [ "tensions" ]
+  }, {
+    "canonical_form" : "type",
+    "other_forms" : [ "types" ]
+  }, {
+    "canonical_form" : "fractionnement",
+    "other_forms" : [ "fractionnements" ]
+  }, {
+    "canonical_form" : "espèce",
+    "other_forms" : [ "espèces" ]
+  }, {
+    "canonical_form" : "démembrement",
+    "other_forms" : [ "démembrements" ]
+  }, {
+    "canonical_form" : "branche",
+    "other_forms" : [ "branches" ]
+  }, {
+    "canonical_form" : "clan",
+    "other_forms" : [ "clans" ]
+  }, {
+    "canonical_form" : "coupure",
+    "other_forms" : [ "coupures" ]
+  }, {
+    "canonical_form" : "dispersion",
+    "other_forms" : [ "dispersions" ]
+  }, {
+    "canonical_form" : "dissentiment",
+    "other_forms" : [ "dissentiments" ]
+  }, {
+    "canonical_form" : "dissidence",
+    "other_forms" : [ "dissidences" ]
+  }, {
+    "canonical_form" : "distribution",
+    "other_forms" : [ "distributions" ]
+  }, {
+    "canonical_form" : "organisation",
+    "other_forms" : [ "organisations" ]
+  }, {
+    "canonical_form" : "rapport",
+    "other_forms" : [ "rapports" ]
+  }, {
+    "canonical_form" : "répartition",
+    "other_forms" : [ "répartitions" ]
+  }, {
+    "canonical_form" : "tranche",
+    "other_forms" : [ "tranches" ]
+  }, {
+    "canonical_form" : "tronçon",
+    "other_forms" : [ "tronçons" ]
+  }, {
+    "canonical_form" : "zizanie",
+    "other_forms" : [ "zizanies" ]
+  }, {
+    "canonical_form" : "zone",
+    "other_forms" : [ "zones" ]
+  }, {
+    "canonical_form" : "genre",
+    "other_forms" : [ "genres" ]
+  }, {
+    "canonical_form" : "fragmentation",
+    "other_forms" : [ "fragmentations" ]
+  }, {
+    "canonical_form" : "analyse",
+    "other_forms" : [ "analyses" ]
+  }, {
+    "canonical_form" : "atomisation",
+    "other_forms" : [ "atomisations" ]
+  }, {
+    "canonical_form" : "case",
+    "other_forms" : [ "cases" ]
+  }, {
+    "canonical_form" : "circonscription",
+    "other_forms" : [ "circonscriptions" ]
+  }, {
+    "canonical_form" : "classement",
+    "other_forms" : [ "classements" ]
+  }, {
+    "canonical_form" : "classification",
+    "other_forms" : [ "classifications" ]
+  }, {
+    "canonical_form" : "disjonction",
+    "other_forms" : [ "disjonctions" ]
+  }, {
+    "canonical_form" : "distinction",
+    "other_forms" : [ "distinctions" ]
+  }, {
+    "canonical_form" : "district",
+    "other_forms" : [ "districts" ]
+  }, {
+    "canonical_form" : "fragment",
+    "other_forms" : [ "fragments" ]
+  }, {
+    "canonical_form" : "lotissement",
+    "other_forms" : [ "lotissements" ]
+  }, {
+    "canonical_form" : "période",
+    "other_forms" : [ "périodes" ]
+  }, {
+    "canonical_form" : "querelle",
+    "other_forms" : [ "querelles" ]
+  }, {
+    "canonical_form" : "segmentation",
+    "other_forms" : [ "segmentations" ]
+  }, {
+    "canonical_form" : "spécialité",
+    "other_forms" : [ "spécialités" ]
+  }, {
+    "canonical_form" : "unité",
+    "other_forms" : [ "unités" ]
+  }, {
+    "canonical_form" : "variété",
+    "other_forms" : [ "variétés" ]
+  }, {
+    "canonical_form" : "élément",
+    "other_forms" : [ "éléments" ]
+  }, {
+    "canonical_form" : "époque",
+    "other_forms" : [ "époques" ]
+  }, {
+    "canonical_form" : "dépeçage",
+    "other_forms" : [ "dépeçages" ]
+  }, {
+    "canonical_form" : "département",
+    "other_forms" : [ "départements" ]
+  }, {
+    "canonical_form" : "arrangement",
+    "other_forms" : [ "arrangements" ]
+  }, {
+    "canonical_form" : "bifurcation",
+    "other_forms" : [ "bifurcations" ]
+  }, {
+    "canonical_form" : "calcul",
+    "other_forms" : [ "calculs" ]
+  }, {
+    "canonical_form" : "canton",
+    "other_forms" : [ "cantons" ]
+  }, {
+    "canonical_form" : "caste",
+    "other_forms" : [ "castes" ]
+  }, {
+    "canonical_form" : "discipline",
+    "other_forms" : [ "disciplines" ]
+  }, {
+    "canonical_form" : "déchirement",
+    "other_forms" : [ "déchirements" ]
+  }, {
+    "canonical_form" : "décomposition",
+    "other_forms" : [ "décompositions" ]
+  }, {
+    "canonical_form" : "découpage",
+    "other_forms" : [ "découpages" ]
+  }, {
+    "canonical_form" : "lacération",
+    "other_forms" : [ "lacérations" ]
+  }, {
+    "canonical_form" : "membre",
+    "other_forms" : [ "membres" ]
+  }, {
+    "canonical_form" : "mitose",
+    "other_forms" : [ "mitoses" ]
+  }, {
+    "canonical_form" : "pulvérisation",
+    "other_forms" : [ "pulvérisations" ]
+  }, {
+    "canonical_form" : "schisme",
+    "other_forms" : [ "schismes" ]
+  }, {
+    "canonical_form" : "scissiparité",
+    "other_forms" : [ "scissiparités" ]
+  }, {
+    "canonical_form" : "sectionnement",
+    "other_forms" : [ "sectionnements" ]
+  }, {
+    "canonical_form" : "sécession",
+    "other_forms" : [ "sécessions" ]
+  }, {
+    "canonical_form" : "tiret",
+    "other_forms" : [ "tirets" ]
+  }, {
+    "canonical_form" : "tribu",
+    "other_forms" : [ "tribus" ]
+  }, {
+    "canonical_form" : "étage",
+    "other_forms" : [ "étages" ]
+  }, {
+    "canonical_form" : "graduation",
+    "other_forms" : [ "graduations" ]
+  }, {
+    "canonical_form" : "fission",
+    "other_forms" : [ "fissions" ]
+  }, {
+    "canonical_form" : "diérèse",
+    "other_forms" : [ "diérèses" ]
+  }, {
+    "canonical_form" : "abîme",
+    "other_forms" : [ "abîmes" ]
+  }, {
+    "canonical_form" : "alvéole",
+    "other_forms" : [ "alvéoles" ]
+  }, {
+    "canonical_form" : "arrondissement",
+    "other_forms" : [ "arrondissements" ]
+  }, {
+    "canonical_form" : "bipartition",
+    "other_forms" : [ "bipartitions" ]
+  }, {
+    "canonical_form" : "casier",
+    "other_forms" : [ "casiers" ]
+  }, {
+    "canonical_form" : "clivage",
+    "other_forms" : [ "clivages" ]
+  }, {
+    "canonical_form" : "cloison",
+    "other_forms" : [ "cloisons" ]
+  }, {
+    "canonical_form" : "dichotomie",
+    "other_forms" : [ "dichotomies" ]
+  }, {
+    "canonical_form" : "différenciation",
+    "other_forms" : [ "différenciations", "différentiation", "différentiations" ]
+  }, {
+    "canonical_form" : "diminution",
+    "other_forms" : [ "diminutions" ]
+  }, {
+    "canonical_form" : "dissémination",
+    "other_forms" : [ "disséminations" ]
+  }, {
+    "canonical_form" : "état",
+    "other_forms" : [ "états" ]
+  } ]
+}

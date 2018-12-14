@@ -1,0 +1,82 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "information",
+    "other_forms" : [ "informations" ]
+  }, {
+    "canonical_form" : "avis",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "note",
+    "other_forms" : [ "notes" ]
+  }, {
+    "canonical_form" : "renseignement",
+    "other_forms" : [ "renseignements" ]
+  }, {
+    "canonical_form" : "annonce",
+    "other_forms" : [ "annonces" ]
+  }, {
+    "canonical_form" : "indication",
+    "other_forms" : [ "indications" ]
+  }, {
+    "canonical_form" : "recherche",
+    "other_forms" : [ "recherches" ]
+  }, {
+    "canonical_form" : "instruction",
+    "other_forms" : [ "instructions" ]
+  }, {
+    "canonical_form" : "examen",
+    "other_forms" : [ "examens" ]
+  }, {
+    "canonical_form" : "enquête",
+    "other_forms" : [ "enquêtes" ]
+  }, {
+    "canonical_form" : "tuyau",
+    "other_forms" : [ "tuyaux" ]
+  }, {
+    "canonical_form" : "précision",
+    "other_forms" : [ "précisions" ]
+  }, {
+    "canonical_form" : "message",
+    "other_forms" : [ "messages" ]
+  }, {
+    "canonical_form" : "lumière",
+    "other_forms" : [ "lumières" ]
+  }, {
+    "canonical_form" : "déclaration",
+    "other_forms" : [ "déclarations" ]
+  }, {
+    "canonical_form" : "bulletin",
+    "other_forms" : [ "bulletins" ]
+  }, {
+    "canonical_form" : "avertissement",
+    "other_forms" : [ "avertissements" ]
+  }, {
+    "canonical_form" : "édification",
+    "other_forms" : [ "édifications" ]
+  }, {
+    "canonical_form" : "scoop",
+    "other_forms" : [ "scoops" ]
+  }, {
+    "canonical_form" : "question",
+    "other_forms" : [ "questions" ]
+  }, {
+    "canonical_form" : "mass-media",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "investigation",
+    "other_forms" : [ "investigations" ]
+  }, {
+    "canonical_form" : "interrogation",
+    "other_forms" : [ "interrogations" ]
+  }, {
+    "canonical_form" : "flash",
+    "other_forms" : [ "flashs" ]
+  }, {
+    "canonical_form" : "code",
+    "other_forms" : [ "codes" ]
+  }, {
+    "canonical_form" : "étude",
+    "other_forms" : [ "études" ]
+  } ]
+}

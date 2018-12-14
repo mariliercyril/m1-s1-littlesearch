@@ -1,0 +1,19 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "président",
+    "other_forms" : [ "présidente", "présidentes", "présidents" ]
+  }, {
+    "canonical_form" : "chef",
+    "other_forms" : [ "chefs" ]
+  }, {
+    "canonical_form" : "doyen",
+    "other_forms" : [ "doyenne", "doyennes", "doyens" ]
+  }, {
+    "canonical_form" : "magistrat",
+    "other_forms" : [ "magistrats" ]
+  }, {
+    "canonical_form" : "tuteur",
+    "other_forms" : [ "tuteurs", "tutrice", "tutrices" ]
+  } ]
+}

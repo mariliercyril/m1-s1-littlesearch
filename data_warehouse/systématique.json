@@ -1,0 +1,43 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "systématique",
+    "other_forms" : [ "systématiques" ]
+  }, {
+    "canonical_form" : "logique",
+    "other_forms" : [ "logiques" ]
+  }, {
+    "canonical_form" : "rationnel",
+    "other_forms" : [ "rationnelle", "rationnelles", "rationnels" ]
+  }, {
+    "canonical_form" : "déductif",
+    "other_forms" : [ "déductifs", "déductive", "déductives" ]
+  }, {
+    "canonical_form" : "méthodique",
+    "other_forms" : [ "méthodiques" ]
+  }, {
+    "canonical_form" : "normal",
+    "other_forms" : [ "normale", "normales", "normaux" ]
+  }, {
+    "canonical_form" : "théorique",
+    "other_forms" : [ "théoriques" ]
+  }, {
+    "canonical_form" : "intolérant",
+    "other_forms" : [ "intolérante", "intolérantes", "intolérants" ]
+  }, {
+    "canonical_form" : "inconditionnel",
+    "other_forms" : [ "inconditionnelle", "inconditionnelles", "inconditionnels" ]
+  }, {
+    "canonical_form" : "dogmatique",
+    "other_forms" : [ "dogmatiques" ]
+  }, {
+    "canonical_form" : "doctrinaire",
+    "other_forms" : [ "doctrinaires" ]
+  }, {
+    "canonical_form" : "discursif",
+    "other_forms" : [ "discursifs", "discursive", "discursives" ]
+  }, {
+    "canonical_form" : "automatique",
+    "other_forms" : [ "automatiques" ]
+  } ]
+}

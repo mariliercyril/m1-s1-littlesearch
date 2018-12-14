@@ -1,0 +1,130 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "base",
+    "other_forms" : [ "bases" ]
+  }, {
+    "canonical_form" : "fondement",
+    "other_forms" : [ "fondements" ]
+  }, {
+    "canonical_form" : "principe",
+    "other_forms" : [ "principes" ]
+  }, {
+    "canonical_form" : "soubassement",
+    "other_forms" : [ "soubassements" ]
+  }, {
+    "canonical_form" : "support",
+    "other_forms" : [ "supports" ]
+  }, {
+    "canonical_form" : "fondation",
+    "other_forms" : [ "fondations" ]
+  }, {
+    "canonical_form" : "fond",
+    "other_forms" : [ "fonds" ]
+  }, {
+    "canonical_form" : "origine",
+    "other_forms" : [ "origines" ]
+  }, {
+    "canonical_form" : "source",
+    "other_forms" : [ "sources" ]
+  }, {
+    "canonical_form" : "socle",
+    "other_forms" : [ "socles" ]
+  }, {
+    "canonical_form" : "racine",
+    "other_forms" : [ "racines" ]
+  }, {
+    "canonical_form" : "centre",
+    "other_forms" : [ "centres" ]
+  }, {
+    "canonical_form" : "cause",
+    "other_forms" : [ "causes" ]
+  }, {
+    "canonical_form" : "théorie",
+    "other_forms" : [ "théories" ]
+  }, {
+    "canonical_form" : "soutien",
+    "other_forms" : [ "soutiens" ]
+  }, {
+    "canonical_form" : "règle",
+    "other_forms" : [ "règles" ]
+  }, {
+    "canonical_form" : "pivot",
+    "other_forms" : [ "pivots" ]
+  }, {
+    "canonical_form" : "appui",
+    "other_forms" : [ "appuis" ]
+  }, {
+    "canonical_form" : "substruction",
+    "other_forms" : [ "substructions" ]
+  }, {
+    "canonical_form" : "rudiment",
+    "other_forms" : [ "rudiments" ]
+  }, {
+    "canonical_form" : "piédestal",
+    "other_forms" : [ "piédestaux" ]
+  }, {
+    "canonical_form" : "pied",
+    "other_forms" : [ "pieds" ]
+  }, {
+    "canonical_form" : "matière",
+    "other_forms" : [ "matières" ]
+  }, {
+    "canonical_form" : "ligne",
+    "other_forms" : [ "lignes" ]
+  }, {
+    "canonical_form" : "armature",
+    "other_forms" : [ "armatures" ]
+  }, {
+    "canonical_form" : "assiette",
+    "other_forms" : [ "assiettes" ]
+  }, {
+    "canonical_form" : "credo",
+    "other_forms" : [ "credos" ]
+  }, {
+    "canonical_form" : "embase",
+    "other_forms" : [ "embases" ]
+  }, {
+    "canonical_form" : "germe",
+    "other_forms" : [ "germes" ]
+  }, {
+    "canonical_form" : "prémisse",
+    "other_forms" : [ "prémisses" ]
+  }, {
+    "canonical_form" : "raison",
+    "other_forms" : [ "raisons" ]
+  }, {
+    "canonical_form" : "siège",
+    "other_forms" : [ "sièges" ]
+  }, {
+    "canonical_form" : "taux",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "masse",
+    "other_forms" : [ "masses" ]
+  }, {
+    "canonical_form" : "bible",
+    "other_forms" : [ "bibles" ]
+  }, {
+    "canonical_form" : "caserne",
+    "other_forms" : [ "casernes" ]
+  }, {
+    "canonical_form" : "condition",
+    "other_forms" : [ "conditions" ]
+  }, {
+    "canonical_form" : "cul",
+    "other_forms" : [ "culs" ]
+  }, {
+    "canonical_form" : "dessous",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "embasement",
+    "other_forms" : [ "embasements" ]
+  }, {
+    "canonical_form" : "empattement",
+    "other_forms" : [ "empattements" ]
+  }, {
+    "canonical_form" : "élément",
+    "other_forms" : [ "éléments" ]
+  } ]
+}

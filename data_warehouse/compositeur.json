@@ -1,0 +1,22 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "compositeur",
+    "other_forms" : [ "compositeurs", "compositrice", "compositrices" ]
+  }, {
+    "canonical_form" : "arrangeur",
+    "other_forms" : [ "arrangeurs" ]
+  }, {
+    "canonical_form" : "auteur",
+    "other_forms" : [ "auteurs" ]
+  }, {
+    "canonical_form" : "chansonnier",
+    "other_forms" : [ "chansonniers" ]
+  }, {
+    "canonical_form" : "orchestrateur",
+    "other_forms" : [ "orchestrateurs" ]
+  }, {
+    "canonical_form" : "typographe",
+    "other_forms" : [ "typographes" ]
+  } ]
+}

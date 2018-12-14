@@ -1,0 +1,22 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "porte",
+    "other_forms" : [ "portes" ]
+  }, {
+    "canonical_form" : "issu",
+    "other_forms" : [ "issue", "issues", "issus" ]
+  }, {
+    "canonical_form" : "moyen",
+    "other_forms" : [ "moyenne", "moyennes", "moyens" ]
+  }, {
+    "canonical_form" : "portière",
+    "other_forms" : [ "portières" ]
+  }, {
+    "canonical_form" : "lourd",
+    "other_forms" : [ "lourde", "lourdes", "lourds" ]
+  }, {
+    "canonical_form" : "battant",
+    "other_forms" : [ "battante", "battantes", "battants" ]
+  } ]
+}

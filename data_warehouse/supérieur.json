@@ -1,0 +1,181 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "supérieur",
+    "other_forms" : [ "supérieure", "supérieures", "supérieurs" ]
+  }, {
+    "canonical_form" : "beau",
+    "other_forms" : [ "beaux", "bel", "belle", "belles" ]
+  }, {
+    "canonical_form" : "extraordinaire",
+    "other_forms" : [ "extraordinaires" ]
+  }, {
+    "canonical_form" : "remarquable",
+    "other_forms" : [ "remarquables" ]
+  }, {
+    "canonical_form" : "grand",
+    "other_forms" : [ "grande", "grandes", "grands" ]
+  }, {
+    "canonical_form" : "éminent",
+    "other_forms" : [ "éminente", "éminentes", "éminents" ]
+  }, {
+    "canonical_form" : "haut",
+    "other_forms" : [ "haute", "hautes", "hauts" ]
+  }, {
+    "canonical_form" : "bon",
+    "other_forms" : [ "bonne", "bonnes", "bons" ]
+  }, {
+    "canonical_form" : "fameux",
+    "other_forms" : [ "fameuse", "fameuses" ]
+  }, {
+    "canonical_form" : "important",
+    "other_forms" : [ "importante", "importantes", "importants" ]
+  }, {
+    "canonical_form" : "transcendant",
+    "other_forms" : [ "transcendante", "transcendantes", "transcendants" ]
+  }, {
+    "canonical_form" : "incomparable",
+    "other_forms" : [ "incomparables" ]
+  }, {
+    "canonical_form" : "sublime",
+    "other_forms" : [ "sublimes" ]
+  }, {
+    "canonical_form" : "excellent",
+    "other_forms" : [ "excellente", "excellentes", "excellents" ]
+  }, {
+    "canonical_form" : "suprême",
+    "other_forms" : [ "suprêmes" ]
+  }, {
+    "canonical_form" : "superbe",
+    "other_forms" : [ "superbes" ]
+  }, {
+    "canonical_form" : "notable",
+    "other_forms" : [ "notables" ]
+  }, {
+    "canonical_form" : "gros",
+    "other_forms" : [ "grosse", "grosses" ]
+  }, {
+    "canonical_form" : "génial",
+    "other_forms" : [ "géniale", "géniales", "géniaux" ]
+  }, {
+    "canonical_form" : "noble",
+    "other_forms" : [ "nobles" ]
+  }, {
+    "canonical_form" : "maître",
+    "other_forms" : [ "maîtres", "maîtresse", "maîtresses" ]
+  }, {
+    "canonical_form" : "formidable",
+    "other_forms" : [ "formidables" ]
+  }, {
+    "canonical_form" : "fier",
+    "other_forms" : [ "fiers", "fière", "fières" ]
+  }, {
+    "canonical_form" : "magistral",
+    "other_forms" : [ "magistrale", "magistrales", "magistraux" ]
+  }, {
+    "canonical_form" : "extra",
+    "other_forms" : [ "extras" ]
+  }, {
+    "canonical_form" : "exceptionnel",
+    "other_forms" : [ "exceptionnelle", "exceptionnelles", "exceptionnels" ]
+  }, {
+    "canonical_form" : "brillant",
+    "other_forms" : [ "brillante", "brillantes", "brillants" ]
+  }, {
+    "canonical_form" : "arrogant",
+    "other_forms" : [ "arrogante", "arrogantes", "arrogants" ]
+  }, {
+    "canonical_form" : "émérite",
+    "other_forms" : [ "émérites" ]
+  }, {
+    "canonical_form" : "unique",
+    "other_forms" : [ "uniques" ]
+  }, {
+    "canonical_form" : "souverain",
+    "other_forms" : [ "souveraine", "souveraines", "souverains" ]
+  }, {
+    "canonical_form" : "puissant",
+    "other_forms" : [ "puissante", "puissantes", "puissants" ]
+  }, {
+    "canonical_form" : "prépondérant",
+    "other_forms" : [ "prépondérante", "prépondérantes", "prépondérants" ]
+  }, {
+    "canonical_form" : "premier",
+    "other_forms" : [ "premiers", "première", "premières" ]
+  }, {
+    "canonical_form" : "outrecuidant",
+    "other_forms" : [ "outrecuidante", "outrecuidantes", "outrecuidants" ]
+  }, {
+    "canonical_form" : "hautain",
+    "other_forms" : [ "hautaine", "hautaines", "hautains" ]
+  }, {
+    "canonical_form" : "dominant",
+    "other_forms" : [ "dominante", "dominantes", "dominants" ]
+  }, {
+    "canonical_form" : "renchéri",
+    "other_forms" : [ "renchérie", "renchéries", "renchéris" ]
+  }, {
+    "canonical_form" : "meilleur",
+    "other_forms" : [ "meilleure", "meilleures", "meilleurs" ]
+  }, {
+    "canonical_form" : "fin",
+    "other_forms" : [ "fine", "fines", "fins" ]
+  }, {
+    "canonical_form" : "dédaigneux",
+    "other_forms" : [ "dédaigneuse", "dédaigneuses" ]
+  }, {
+    "canonical_form" : "directeur",
+    "other_forms" : [ "directeurs", "directrice", "directrices" ]
+  }, {
+    "canonical_form" : "superfin",
+    "other_forms" : [ "superfine", "superfines", "superfins" ]
+  }, {
+    "canonical_form" : "prééminent",
+    "other_forms" : [ "prééminente", "prééminentes", "prééminents" ]
+  }, {
+    "canonical_form" : "prétentieux",
+    "other_forms" : [ "prétentieuse", "prétentieuses" ]
+  }, {
+    "canonical_form" : "général",
+    "other_forms" : [ "générale", "générales", "généraux" ]
+  }, {
+    "canonical_form" : "doctoral",
+    "other_forms" : [ "doctorale", "doctorales", "doctoraux" ]
+  }, {
+    "canonical_form" : "dirigeant",
+    "other_forms" : [ "dirigeante", "dirigeantes", "dirigeants" ]
+  }, {
+    "canonical_form" : "possédant",
+    "other_forms" : [ "possédante", "possédantes", "possédants" ]
+  }, {
+    "canonical_form" : "préférable",
+    "other_forms" : [ "préférables" ]
+  }, {
+    "canonical_form" : "pédantesque",
+    "other_forms" : [ "pédantesques" ]
+  }, {
+    "canonical_form" : "superlatif",
+    "other_forms" : [ "superlatifs", "superlative", "superlatives" ]
+  }, {
+    "canonical_form" : "délectable",
+    "other_forms" : [ "délectables" ]
+  }, {
+    "canonical_form" : "double",
+    "other_forms" : [ "doubles" ]
+  }, {
+    "canonical_form" : "distant",
+    "other_forms" : [ "distante", "distantes", "distants" ]
+  }, {
+    "canonical_form" : "culminant",
+    "other_forms" : [ "culminante", "culminantes", "culminants" ]
+  }, {
+    "canonical_form" : "condescendant",
+    "other_forms" : [ "condescendante", "condescendantes", "condescendants" ]
+  }, {
+    "canonical_form" : "aérien",
+    "other_forms" : [ "aérienne", "aériennes", "aériens" ]
+  }, {
+    "canonical_form" : "suréminent",
+    "other_forms" : [ "suréminente", "suréminentes", "suréminents" ]
+  } ]
+}

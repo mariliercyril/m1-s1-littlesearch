@@ -1,0 +1,178 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "vie",
+    "other_forms" : [ "vies" ]
+  }, {
+    "canonical_form" : "ardeur",
+    "other_forms" : [ "ardeurs" ]
+  }, {
+    "canonical_form" : "vivacité",
+    "other_forms" : [ "vivacités" ]
+  }, {
+    "canonical_form" : "animation",
+    "other_forms" : [ "animations" ]
+  }, {
+    "canonical_form" : "vigueur",
+    "other_forms" : [ "vigueurs" ]
+  }, {
+    "canonical_form" : "activité",
+    "other_forms" : [ "activités" ]
+  }, {
+    "canonical_form" : "vitalité",
+    "other_forms" : [ "vitalités" ]
+  }, {
+    "canonical_form" : "bouillonnement",
+    "other_forms" : [ "bouillonnements" ]
+  }, {
+    "canonical_form" : "chaleur",
+    "other_forms" : [ "chaleurs" ]
+  }, {
+    "canonical_form" : "mouvement",
+    "other_forms" : [ "mouvements" ]
+  }, {
+    "canonical_form" : "force",
+    "other_forms" : [ "forces" ]
+  }, {
+    "canonical_form" : "entrain",
+    "other_forms" : [ "entrains" ]
+  }, {
+    "canonical_form" : "énergie",
+    "other_forms" : [ "énergies" ]
+  }, {
+    "canonical_form" : "dynamisme",
+    "other_forms" : [ "dynamismes" ]
+  }, {
+    "canonical_form" : "existence",
+    "other_forms" : [ "existences" ]
+  }, {
+    "canonical_form" : "pétulance",
+    "other_forms" : [ "pétulances" ]
+  }, {
+    "canonical_form" : "âme",
+    "other_forms" : [ "âmes" ]
+  }, {
+    "canonical_form" : "esprit",
+    "other_forms" : [ "esprits" ]
+  }, {
+    "canonical_form" : "action",
+    "other_forms" : [ "actions" ]
+  }, {
+    "canonical_form" : "couleur",
+    "other_forms" : [ "couleurs" ]
+  }, {
+    "canonical_form" : "destin",
+    "other_forms" : [ "destins" ]
+  }, {
+    "canonical_form" : "jour",
+    "other_forms" : [ "jours" ]
+  }, {
+    "canonical_form" : "temps",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "état",
+    "other_forms" : [ "états" ]
+  }, {
+    "canonical_form" : "histoire",
+    "other_forms" : [ "histoires" ]
+  }, {
+    "canonical_form" : "génération",
+    "other_forms" : [ "générations" ]
+  }, {
+    "canonical_form" : "fortune",
+    "other_forms" : [ "fortunes" ]
+  }, {
+    "canonical_form" : "être",
+    "other_forms" : [ "êtres" ]
+  }, {
+    "canonical_form" : "évolution",
+    "other_forms" : [ "évolutions" ]
+  }, {
+    "canonical_form" : "âge",
+    "other_forms" : [ "âges" ]
+  }, {
+    "canonical_form" : "sève",
+    "other_forms" : [ "sèves" ]
+  }, {
+    "canonical_form" : "subsistance",
+    "other_forms" : [ "subsistances" ]
+  }, {
+    "canonical_form" : "sort",
+    "other_forms" : [ "sorts" ]
+  }, {
+    "canonical_form" : "passion",
+    "other_forms" : [ "passions" ]
+  }, {
+    "canonical_form" : "nourriture",
+    "other_forms" : [ "nourritures" ]
+  }, {
+    "canonical_form" : "allégresse",
+    "other_forms" : [ "allégresses" ]
+  }, {
+    "canonical_form" : "fraîcheur",
+    "other_forms" : [ "fraîcheurs" ]
+  }, {
+    "canonical_form" : "jour",
+    "other_forms" : [ "jours" ]
+  }, {
+    "canonical_form" : "longévité",
+    "other_forms" : [ "longévités" ]
+  }, {
+    "canonical_form" : "lumière",
+    "other_forms" : [ "lumières" ]
+  }, {
+    "canonical_form" : "moeurs",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "parasitisme",
+    "other_forms" : [ "parasitismes" ]
+  }, {
+    "canonical_form" : "reviviscence",
+    "other_forms" : [ "reviviscences", "réviviscence", "réviviscences" ]
+  }, {
+    "canonical_form" : "santé",
+    "other_forms" : [ "santés" ]
+  }, {
+    "canonical_form" : "souffle",
+    "other_forms" : [ "souffles" ]
+  }, {
+    "canonical_form" : "survie",
+    "other_forms" : [ "survies" ]
+  }, {
+    "canonical_form" : "journée",
+    "other_forms" : [ "journées" ]
+  }, {
+    "canonical_form" : "fête",
+    "other_forms" : [ "fêtes" ]
+  }, {
+    "canonical_form" : "fécondation",
+    "other_forms" : [ "fécondations" ]
+  }, {
+    "canonical_form" : "autobiographie",
+    "other_forms" : [ "autobiographies" ]
+  }, {
+    "canonical_form" : "bifteck",
+    "other_forms" : [ "biftecks" ]
+  }, {
+    "canonical_form" : "carrière",
+    "other_forms" : [ "carrières" ]
+  }, {
+    "canonical_form" : "comédie",
+    "other_forms" : [ "comédies" ]
+  }, {
+    "canonical_form" : "croûte",
+    "other_forms" : [ "croûtes" ]
+  }, {
+    "canonical_form" : "création",
+    "other_forms" : [ "créations" ]
+  }, {
+    "canonical_form" : "discussion",
+    "other_forms" : [ "discussions" ]
+  }, {
+    "canonical_form" : "expression",
+    "other_forms" : [ "expressions" ]
+  }, {
+    "canonical_form" : "symbiose",
+    "other_forms" : [ "symbioses" ]
+  } ]
+}

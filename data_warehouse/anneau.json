@@ -1,0 +1,118 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "anneau",
+    "other_forms" : [ "anneaux" ]
+  }, {
+    "canonical_form" : "bague",
+    "other_forms" : [ "bagues" ]
+  }, {
+    "canonical_form" : "attache",
+    "other_forms" : [ "attaches" ]
+  }, {
+    "canonical_form" : "chaîne",
+    "other_forms" : [ "chaînes" ]
+  }, {
+    "canonical_form" : "boucle",
+    "other_forms" : [ "boucles" ]
+  }, {
+    "canonical_form" : "bracelet",
+    "other_forms" : [ "bracelets" ]
+  }, {
+    "canonical_form" : "cercle",
+    "other_forms" : [ "cercles" ]
+  }, {
+    "canonical_form" : "frette",
+    "other_forms" : [ "frettes" ]
+  }, {
+    "canonical_form" : "noeud",
+    "other_forms" : [ "noeuds" ]
+  }, {
+    "canonical_form" : "maille",
+    "other_forms" : [ "mailles" ]
+  }, {
+    "canonical_form" : "collier",
+    "other_forms" : [ "colliers" ]
+  }, {
+    "canonical_form" : "ansette",
+    "other_forms" : [ "ansettes" ]
+  }, {
+    "canonical_form" : "alliance",
+    "other_forms" : [ "alliances" ]
+  }, {
+    "canonical_form" : "moraillon",
+    "other_forms" : [ "moraillons" ]
+  }, {
+    "canonical_form" : "manille",
+    "other_forms" : [ "manilles" ]
+  }, {
+    "canonical_form" : "manchon",
+    "other_forms" : [ "manchons" ]
+  }, {
+    "canonical_form" : "maillon",
+    "other_forms" : [ "maillons" ]
+  }, {
+    "canonical_form" : "jonc",
+    "other_forms" : [ "joncs" ]
+  }, {
+    "canonical_form" : "mousqueton",
+    "other_forms" : [ "mousquetons" ]
+  }, {
+    "canonical_form" : "organeau",
+    "other_forms" : [ "organeaux" ]
+  }, {
+    "canonical_form" : "virole",
+    "other_forms" : [ "viroles" ]
+  }, {
+    "canonical_form" : "vervelle",
+    "other_forms" : [ "vervelles" ]
+  }, {
+    "canonical_form" : "tirefond",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "somite",
+    "other_forms" : [ "somites" ]
+  }, {
+    "canonical_form" : "fibule",
+    "other_forms" : [ "fibules" ]
+  }, {
+    "canonical_form" : "annelet",
+    "other_forms" : [ "annelets" ]
+  }, {
+    "canonical_form" : "annelure",
+    "other_forms" : [ "annelures" ]
+  }, {
+    "canonical_form" : "anse",
+    "other_forms" : [ "anses" ]
+  }, {
+    "canonical_form" : "bouclette",
+    "other_forms" : [ "bouclettes" ]
+  }, {
+    "canonical_form" : "bride",
+    "other_forms" : [ "brides" ]
+  }, {
+    "canonical_form" : "capucine",
+    "other_forms" : [ "capucines" ]
+  }, {
+    "canonical_form" : "cerne",
+    "other_forms" : [ "cernes" ]
+  }, {
+    "canonical_form" : "chaînon",
+    "other_forms" : [ "chaînons" ]
+  }, {
+    "canonical_form" : "cirre",
+    "other_forms" : [ "cirres" ]
+  }, {
+    "canonical_form" : "clavier",
+    "other_forms" : [ "claviers" ]
+  }, {
+    "canonical_form" : "couronne",
+    "other_forms" : [ "couronnes" ]
+  }, {
+    "canonical_form" : "estrope",
+    "other_forms" : [ "estropes" ]
+  }, {
+    "canonical_form" : "agrès",
+    "other_forms" : [ ]
+  } ]
+}

@@ -1,0 +1,92 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "étudier"
+  }, {
+    "canonical_form" : "examiner"
+  }, {
+    "canonical_form" : "sonder"
+  }, {
+    "canonical_form" : "réfléchir"
+  }, {
+    "canonical_form" : "chercher"
+  }, {
+    "canonical_form" : "scruter"
+  }, {
+    "canonical_form" : "fouiller"
+  }, {
+    "canonical_form" : "méditer"
+  }, {
+    "canonical_form" : "regarder"
+  }, {
+    "canonical_form" : "considérer"
+  }, {
+    "canonical_form" : "voir"
+  }, {
+    "canonical_form" : "peser"
+  }, {
+    "canonical_form" : "faire"
+  }, {
+    "canonical_form" : "approfondir"
+  }, {
+    "canonical_form" : "analyser"
+  }, {
+    "canonical_form" : "explorer"
+  }, {
+    "canonical_form" : "mûrir"
+  }, {
+    "canonical_form" : "observer"
+  }, {
+    "canonical_form" : "travailler"
+  }, {
+    "canonical_form" : "rechercher"
+  }, {
+    "canonical_form" : "apprendre"
+  }, {
+    "canonical_form" : "raisonner"
+  }, {
+    "canonical_form" : "tâter"
+  }, {
+    "canonical_form" : "traiter"
+  }, {
+    "canonical_form" : "repasser"
+  }, {
+    "canonical_form" : "préparer"
+  }, {
+    "canonical_form" : "potasser"
+  }, {
+    "canonical_form" : "piocher"
+  }, {
+    "canonical_form" : "élaborer"
+  }, {
+    "canonical_form" : "répéter"
+  }, {
+    "canonical_form" : "prospecter"
+  }, {
+    "canonical_form" : "interroger"
+  }, {
+    "canonical_form" : "inspecter"
+  }, {
+    "canonical_form" : "préméditer"
+  }, {
+    "canonical_form" : "projeter"
+  }, {
+    "canonical_form" : "expérimenter"
+  }, {
+    "canonical_form" : "délibérer"
+  }, {
+    "canonical_form" : "creuser"
+  }, {
+    "canonical_form" : "composer"
+  }, {
+    "canonical_form" : "chiader"
+  }, {
+    "canonical_form" : "philosopher"
+  }, {
+    "canonical_form" : "critiquer"
+  }, {
+    "canonical_form" : "compasser"
+  }, {
+    "canonical_form" : "ausculter"
+  } ]
+}

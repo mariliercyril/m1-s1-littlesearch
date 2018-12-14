@@ -1,0 +1,97 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "succès",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "bonheur",
+    "other_forms" : [ "bonheurs" ]
+  }, {
+    "canonical_form" : "triomphe",
+    "other_forms" : [ "triomphes" ]
+  }, {
+    "canonical_form" : "avantage",
+    "other_forms" : [ "avantages" ]
+  }, {
+    "canonical_form" : "bien",
+    "other_forms" : [ "biens" ]
+  }, {
+    "canonical_form" : "chance",
+    "other_forms" : [ "chances" ]
+  }, {
+    "canonical_form" : "réussite",
+    "other_forms" : [ "réussites" ]
+  }, {
+    "canonical_form" : "victoire",
+    "other_forms" : [ "victoires" ]
+  }, {
+    "canonical_form" : "prospérité",
+    "other_forms" : [ "prospérités" ]
+  }, {
+    "canonical_form" : "honneur",
+    "other_forms" : [ "honneurs" ]
+  }, {
+    "canonical_form" : "gloire",
+    "other_forms" : [ "gloires" ]
+  }, {
+    "canonical_form" : "fortune",
+    "other_forms" : [ "fortunes" ]
+  }, {
+    "canonical_form" : "exploit",
+    "other_forms" : [ "exploits" ]
+  }, {
+    "canonical_form" : "événement",
+    "other_forms" : [ "événements" ]
+  }, {
+    "canonical_form" : "vogue",
+    "other_forms" : [ "vogues" ]
+  }, {
+    "canonical_form" : "tour",
+    "other_forms" : [ "tours" ]
+  }, {
+    "canonical_form" : "résultat",
+    "other_forms" : [ "résultats" ]
+  }, {
+    "canonical_form" : "gain",
+    "other_forms" : [ "gains" ]
+  }, {
+    "canonical_form" : "bénédiction",
+    "other_forms" : [ "bénédictions" ]
+  }, {
+    "canonical_form" : "célébrité",
+    "other_forms" : [ "célébrités" ]
+  }, {
+    "canonical_form" : "enthousiasme",
+    "other_forms" : [ "enthousiasmes" ]
+  }, {
+    "canonical_form" : "fureur",
+    "other_forms" : [ "fureurs" ]
+  }, {
+    "canonical_form" : "trophée",
+    "other_forms" : [ "trophées" ]
+  }, {
+    "canonical_form" : "retentissement",
+    "other_forms" : [ "retentissements" ]
+  }, {
+    "canonical_form" : "prouesse",
+    "other_forms" : [ "prouesses" ]
+  }, {
+    "canonical_form" : "performance",
+    "other_forms" : [ "performances" ]
+  }, {
+    "canonical_form" : "mode",
+    "other_forms" : [ "modes" ]
+  }, {
+    "canonical_form" : "malheur",
+    "other_forms" : [ "malheurs" ]
+  }, {
+    "canonical_form" : "laurier",
+    "other_forms" : [ "lauriers" ]
+  }, {
+    "canonical_form" : "best-seller",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "tube",
+    "other_forms" : [ "tubes" ]
+  } ]
+}

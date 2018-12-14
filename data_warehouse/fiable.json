@@ -1,0 +1,16 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "fiable",
+    "other_forms" : [ "fiables" ]
+  }, {
+    "canonical_form" : "crédible",
+    "other_forms" : [ "crédibles" ]
+  }, {
+    "canonical_form" : "fidèle",
+    "other_forms" : [ "fidèles" ]
+  }, {
+    "canonical_form" : "sûr",
+    "other_forms" : [ "sûre", "sûres", "sûrs" ]
+  } ]
+}

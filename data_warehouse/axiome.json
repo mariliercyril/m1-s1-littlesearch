@@ -1,0 +1,70 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "axiome",
+    "other_forms" : [ "axiomes" ]
+  }, {
+    "canonical_form" : "principe",
+    "other_forms" : [ "principes" ]
+  }, {
+    "canonical_form" : "maxime",
+    "other_forms" : [ "maximes" ]
+  }, {
+    "canonical_form" : "vérité",
+    "other_forms" : [ "vérités" ]
+  }, {
+    "canonical_form" : "proposition",
+    "other_forms" : [ "propositions" ]
+  }, {
+    "canonical_form" : "postulat",
+    "other_forms" : [ "postulats" ]
+  }, {
+    "canonical_form" : "hypothèse",
+    "other_forms" : [ "hypothèses" ]
+  }, {
+    "canonical_form" : "démonstration",
+    "other_forms" : [ "démonstrations" ]
+  }, {
+    "canonical_form" : "prémisse",
+    "other_forms" : [ "prémisses" ]
+  }, {
+    "canonical_form" : "théorie",
+    "other_forms" : [ "théories" ]
+  }, {
+    "canonical_form" : "théorème",
+    "other_forms" : [ "théorèmes" ]
+  }, {
+    "canonical_form" : "sentence",
+    "other_forms" : [ "sentences" ]
+  }, {
+    "canonical_form" : "commencement",
+    "other_forms" : [ "commencements" ]
+  }, {
+    "canonical_form" : "aphorisme",
+    "other_forms" : [ "aphorismes" ]
+  }, {
+    "canonical_form" : "proverbe",
+    "other_forms" : [ "proverbes" ]
+  }, {
+    "canonical_form" : "lemme",
+    "other_forms" : [ "lemmes" ]
+  }, {
+    "canonical_form" : "exactitude",
+    "other_forms" : [ "exactitudes" ]
+  }, {
+    "canonical_form" : "convention",
+    "other_forms" : [ "conventions" ]
+  }, {
+    "canonical_form" : "apophtegme",
+    "other_forms" : [ "apophtegmes" ]
+  }, {
+    "canonical_form" : "adage",
+    "other_forms" : [ "adages" ]
+  }, {
+    "canonical_form" : "abstraction",
+    "other_forms" : [ "abstractions" ]
+  }, {
+    "canonical_form" : "évidence",
+    "other_forms" : [ "évidences" ]
+  } ]
+}

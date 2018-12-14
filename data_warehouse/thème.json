@@ -1,0 +1,58 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "thème",
+    "other_forms" : [ "thèmes" ]
+  }, {
+    "canonical_form" : "matière",
+    "other_forms" : [ "matières" ]
+  }, {
+    "canonical_form" : "fable",
+    "other_forms" : [ "fables" ]
+  }, {
+    "canonical_form" : "chapitre",
+    "other_forms" : [ "chapitres" ]
+  }, {
+    "canonical_form" : "fond",
+    "other_forms" : [ "fonds" ]
+  }, {
+    "canonical_form" : "objet",
+    "other_forms" : [ "objets" ]
+  }, {
+    "canonical_form" : "trame",
+    "other_forms" : [ "trames" ]
+  }, {
+    "canonical_form" : "refrain",
+    "other_forms" : [ "refrains" ]
+  }, {
+    "canonical_form" : "propos",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "motif",
+    "other_forms" : [ "motifs" ]
+  }, {
+    "canonical_form" : "leitmotiv",
+    "other_forms" : [ "leitmotivs" ]
+  }, {
+    "canonical_form" : "intrigue",
+    "other_forms" : [ "intrigues" ]
+  }, {
+    "canonical_form" : "idée",
+    "other_forms" : [ "idées" ]
+  }, {
+    "canonical_form" : "terrain",
+    "other_forms" : [ "terrains" ]
+  }, {
+    "canonical_form" : "question",
+    "other_forms" : [ "questions" ]
+  }, {
+    "canonical_form" : "conception",
+    "other_forms" : [ "conceptions" ]
+  }, {
+    "canonical_form" : "air",
+    "other_forms" : [ "airs" ]
+  }, {
+    "canonical_form" : "traduction",
+    "other_forms" : [ "traductions" ]
+  } ]
+}

@@ -1,0 +1,82 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "élément",
+    "other_forms" : [ "éléments" ]
+  }, {
+    "canonical_form" : "principe",
+    "other_forms" : [ "principes" ]
+  }, {
+    "canonical_form" : "cause",
+    "other_forms" : [ "causes" ]
+  }, {
+    "canonical_form" : "condition",
+    "other_forms" : [ "conditions" ]
+  }, {
+    "canonical_form" : "germe",
+    "other_forms" : [ "germes" ]
+  }, {
+    "canonical_form" : "matière",
+    "other_forms" : [ "matières" ]
+  }, {
+    "canonical_form" : "substance",
+    "other_forms" : [ "substances" ]
+  }, {
+    "canonical_form" : "notion",
+    "other_forms" : [ "notions" ]
+  }, {
+    "canonical_form" : "morceau",
+    "other_forms" : [ "morceaux" ]
+  }, {
+    "canonical_form" : "facteur",
+    "other_forms" : [ "facteurs" ]
+  }, {
+    "canonical_form" : "division",
+    "other_forms" : [ "divisions" ]
+  }, {
+    "canonical_form" : "ingrédient",
+    "other_forms" : [ "ingrédients" ]
+  }, {
+    "canonical_form" : "matériau",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "milieu",
+    "other_forms" : [ "milieux" ]
+  }, {
+    "canonical_form" : "molécule",
+    "other_forms" : [ "molécules" ]
+  }, {
+    "canonical_form" : "morphème",
+    "other_forms" : [ "morphèmes" ]
+  }, {
+    "canonical_form" : "paramètre",
+    "other_forms" : [ "paramètres" ]
+  }, {
+    "canonical_form" : "ramification",
+    "other_forms" : [ "ramifications" ]
+  }, {
+    "canonical_form" : "fraction",
+    "other_forms" : [ "fractions" ]
+  }, {
+    "canonical_form" : "détail",
+    "other_forms" : [ "détails" ]
+  }, {
+    "canonical_form" : "critère",
+    "other_forms" : [ "critères" ]
+  }, {
+    "canonical_form" : "connaissance",
+    "other_forms" : [ "connaissances" ]
+  }, {
+    "canonical_form" : "commencement",
+    "other_forms" : [ "commencements" ]
+  }, {
+    "canonical_form" : "cellule",
+    "other_forms" : [ "cellules" ]
+  }, {
+    "canonical_form" : "brandon",
+    "other_forms" : [ "brandons" ]
+  }, {
+    "canonical_form" : "théorie",
+    "other_forms" : [ "théories" ]
+  } ]
+}

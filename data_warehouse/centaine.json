@@ -1,0 +1,10 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "centaine",
+    "other_forms" : [ "centaines" ]
+  }, {
+    "canonical_form" : "cent",
+    "other_forms" : [ "cents" ]
+  } ]
+}

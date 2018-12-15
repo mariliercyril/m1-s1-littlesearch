@@ -70,6 +70,10 @@ public class FrenchAnalyser {
 		// Does the task 6: Disambiguates proper nouns which have not been filtered
 		tokens = disambiguate(tokens, "Augustin", "Augustin_PROPER_NOUN");
 		tokens = disambiguate(tokens, "Babylone", "Babylone_PROPER_NOUN");
+		tokens = disambiguate(tokens, "Cantor", "Cantor_PROPER_NOUN");
+		tokens = disambiguate(tokens, "Claude", "Claude_PROPER_NOUN");
+		tokens = disambiguate(tokens, "Jacob", "Jacob_PROPER_NOUN");
+		tokens = disambiguate(tokens, "Jean", "Jean_PROPER_NOUN");
 		tokens = disambiguate(tokens, "Jersey", "Jersey_PROPER_NOUN");
 		tokens = disambiguate(tokens, "Lie", "Lie_PROPER_NOUN");
 		tokens = disambiguate(tokens, "Louis", "Louis_PROPER_NOUN");

@@ -73,6 +73,7 @@ public class FrenchAnalyser {
 		tokens = disambiguate(tokens, "Jersey", "Jersey_PROPER_NOUN");
 		tokens = disambiguate(tokens, "Lie", "Lie_PROPER_NOUN");
 		tokens = disambiguate(tokens, "Louis", "Louis_PROPER_NOUN");
+		tokens = disambiguate(tokens, "Marie", "Marie_PROPER_NOUN");
 		tokens = disambiguate(tokens, "Paris", "Paris_PROPER_NOUN");
 		tokens = disambiguate(tokens, "Pascal", "Pascal_PROPER_NOUN");
 		tokens = disambiguate(tokens, "Sceaux", "Sceaux_PROPER_NOUN");

@@ -1,0 +1,244 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "chaîne",
+    "other_forms" : [ "chaînes" ]
+  }, {
+    "canonical_form" : "assujettissement",
+    "other_forms" : [ "assujettissements" ]
+  }, {
+    "canonical_form" : "lien",
+    "other_forms" : [ "liens" ]
+  }, {
+    "canonical_form" : "servitude",
+    "other_forms" : [ "servitudes" ]
+  }, {
+    "canonical_form" : "attache",
+    "other_forms" : [ "attaches" ]
+  }, {
+    "canonical_form" : "joug",
+    "other_forms" : [ "jougs" ]
+  }, {
+    "canonical_form" : "liaison",
+    "other_forms" : [ "liaisons" ]
+  }, {
+    "canonical_form" : "suite",
+    "other_forms" : [ "suites" ]
+  }, {
+    "canonical_form" : "enchaînement",
+    "other_forms" : [ "enchaînements" ]
+  }, {
+    "canonical_form" : "dépendance",
+    "other_forms" : [ "dépendances" ]
+  }, {
+    "canonical_form" : "attachement",
+    "other_forms" : [ "attachements" ]
+  }, {
+    "canonical_form" : "alliance",
+    "other_forms" : [ "alliances" ]
+  }, {
+    "canonical_form" : "anneau",
+    "other_forms" : [ "anneaux" ]
+  }, {
+    "canonical_form" : "esclavage",
+    "other_forms" : [ "esclavages" ]
+  }, {
+    "canonical_form" : "sujétion",
+    "other_forms" : [ "sujétions" ]
+  }, {
+    "canonical_form" : "entrave",
+    "other_forms" : [ "entraves" ]
+  }, {
+    "canonical_form" : "collier",
+    "other_forms" : [ "colliers" ]
+  }, {
+    "canonical_form" : "carcan",
+    "other_forms" : [ "carcans" ]
+  }, {
+    "canonical_form" : "asservissement",
+    "other_forms" : [ "asservissements" ]
+  }, {
+    "canonical_form" : "union",
+    "other_forms" : [ "unions" ]
+  }, {
+    "canonical_form" : "obligation",
+    "other_forms" : [ "obligations" ]
+  }, {
+    "canonical_form" : "mont",
+    "other_forms" : [ "monts" ]
+  }, {
+    "canonical_form" : "bracelet",
+    "other_forms" : [ "bracelets" ]
+  }, {
+    "canonical_form" : "trame",
+    "other_forms" : [ "trames" ]
+  }, {
+    "canonical_form" : "série",
+    "other_forms" : [ "séries" ]
+  }, {
+    "canonical_form" : "prison",
+    "other_forms" : [ "prisons" ]
+  }, {
+    "canonical_form" : "menotte",
+    "other_forms" : [ "menottes" ]
+  }, {
+    "canonical_form" : "mariage",
+    "other_forms" : [ "mariages" ]
+  }, {
+    "canonical_form" : "filiation",
+    "other_forms" : [ "filiations" ]
+  }, {
+    "canonical_form" : "engagement",
+    "other_forms" : [ "engagements" ]
+  }, {
+    "canonical_form" : "corde",
+    "other_forms" : [ "cordes" ]
+  }, {
+    "canonical_form" : "chaînette",
+    "other_forms" : [ "chaînettes" ]
+  }, {
+    "canonical_form" : "captivité",
+    "other_forms" : [ "captivités" ]
+  }, {
+    "canonical_form" : "cage",
+    "other_forms" : [ "cages" ]
+  }, {
+    "canonical_form" : "bijou",
+    "other_forms" : [ "bijoux" ]
+  }, {
+    "canonical_form" : "association",
+    "other_forms" : [ "associations" ]
+  }, {
+    "canonical_form" : "gêne",
+    "other_forms" : [ "gênes" ]
+  }, {
+    "canonical_form" : "noeud",
+    "other_forms" : [ "noeuds" ]
+  }, {
+    "canonical_form" : "parenté",
+    "other_forms" : [ "parentés" ]
+  }, {
+    "canonical_form" : "réseau",
+    "other_forms" : [ "réseaux" ]
+  }, {
+    "canonical_form" : "succession",
+    "other_forms" : [ "successions" ]
+  }, {
+    "canonical_form" : "engrenage",
+    "other_forms" : [ "engrenages" ]
+  }, {
+    "canonical_form" : "cortège",
+    "other_forms" : [ "cortèges" ]
+  }, {
+    "canonical_form" : "continuité",
+    "other_forms" : [ "continuités" ]
+  }, {
+    "canonical_form" : "clavier",
+    "other_forms" : [ "claviers" ]
+  }, {
+    "canonical_form" : "breloque",
+    "other_forms" : [ "breloques" ]
+  }, {
+    "canonical_form" : "amarrage",
+    "other_forms" : [ "amarrages" ]
+  }, {
+    "canonical_form" : "affection",
+    "other_forms" : [ "affections" ]
+  }, {
+    "canonical_form" : "jaseron",
+    "other_forms" : [ "jaserons" ]
+  }, {
+    "canonical_form" : "jaseran",
+    "other_forms" : [ "jaserans", "jaseron", "jaserons" ]
+  }, {
+    "canonical_form" : "hauteur",
+    "other_forms" : [ "hauteurs" ]
+  }, {
+    "canonical_form" : "gourmette",
+    "other_forms" : [ "gourmettes" ]
+  }, {
+    "canonical_form" : "geôle",
+    "other_forms" : [ "geôles" ]
+  }, {
+    "canonical_form" : "gaine",
+    "other_forms" : [ "gaines" ]
+  }, {
+    "canonical_form" : "maille",
+    "other_forms" : [ "mailles" ]
+  }, {
+    "canonical_form" : "maillon",
+    "other_forms" : [ "maillons" ]
+  }, {
+    "canonical_form" : "mancelle",
+    "other_forms" : [ "mancelles" ]
+  }, {
+    "canonical_form" : "sautoir",
+    "other_forms" : [ "sautoirs" ]
+  }, {
+    "canonical_form" : "sierra",
+    "other_forms" : [ "sierras" ]
+  }, {
+    "canonical_form" : "solidité",
+    "other_forms" : [ "solidités" ]
+  }, {
+    "canonical_form" : "touage",
+    "other_forms" : [ "touages" ]
+  }, {
+    "canonical_form" : "tyrannie",
+    "other_forms" : [ "tyrannies" ]
+  }, {
+    "canonical_form" : "ferronnière",
+    "other_forms" : [ "ferronnières" ]
+  }, {
+    "canonical_form" : "farandole",
+    "other_forms" : [ "farandoles" ]
+  }, {
+    "canonical_form" : "estacade",
+    "other_forms" : [ "estacades" ]
+  }, {
+    "canonical_form" : "alganon",
+    "other_forms" : [ "alganons" ]
+  }, {
+    "canonical_form" : "boulet",
+    "other_forms" : [ "boulets" ]
+  }, {
+    "canonical_form" : "cabriolet",
+    "other_forms" : [ "cabriolets" ]
+  }, {
+    "canonical_form" : "cadène",
+    "other_forms" : [ "cadenne", "cadennes", "cadènes" ]
+  }, {
+    "canonical_form" : "cep",
+    "other_forms" : [ "ceps" ]
+  }, {
+    "canonical_form" : "chapelet",
+    "other_forms" : [ "chapelets" ]
+  }, {
+    "canonical_form" : "chaînon",
+    "other_forms" : [ "chaînons" ]
+  }, {
+    "canonical_form" : "clôture",
+    "other_forms" : [ "clôtures" ]
+  }, {
+    "canonical_form" : "cordillère",
+    "other_forms" : [ "cordillères" ]
+  }, {
+    "canonical_form" : "câble",
+    "other_forms" : [ "câbles" ]
+  }, {
+    "canonical_form" : "danse",
+    "other_forms" : [ "danses" ]
+  }, {
+    "canonical_form" : "discipline",
+    "other_forms" : [ "disciplines" ]
+  }, {
+    "canonical_form" : "décoration",
+    "other_forms" : [ "décorations" ]
+  }, {
+    "canonical_form" : "entrelacement",
+    "other_forms" : [ "entrelacements" ]
+  }, {
+    "canonical_form" : "usine",
+    "other_forms" : [ "usines" ]
+  } ]
+}

@@ -1,0 +1,58 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "collège",
+    "other_forms" : [ "collèges" ]
+  }, {
+    "canonical_form" : "école",
+    "other_forms" : [ "écoles" ]
+  }, {
+    "canonical_form" : "lycée",
+    "other_forms" : [ "lycées" ]
+  }, {
+    "canonical_form" : "boîte",
+    "other_forms" : [ "boîtes" ]
+  }, {
+    "canonical_form" : "institut",
+    "other_forms" : [ "instituts" ]
+  }, {
+    "canonical_form" : "institution",
+    "other_forms" : [ "institutions" ]
+  }, {
+    "canonical_form" : "pension",
+    "other_forms" : [ "pensions" ]
+  }, {
+    "canonical_form" : "gymnase",
+    "other_forms" : [ "gymnases" ]
+  }, {
+    "canonical_form" : "corps",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "académie",
+    "other_forms" : [ "académies" ]
+  }, {
+    "canonical_form" : "prison",
+    "other_forms" : [ "prisons" ]
+  }, {
+    "canonical_form" : "faculté",
+    "other_forms" : [ "facultés" ]
+  }, {
+    "canonical_form" : "corporation",
+    "other_forms" : [ "corporations" ]
+  }, {
+    "canonical_form" : "compagnie",
+    "other_forms" : [ "compagnies" ]
+  }, {
+    "canonical_form" : "chapitre",
+    "other_forms" : [ "chapitres" ]
+  }, {
+    "canonical_form" : "bureau",
+    "other_forms" : [ "bureaux" ]
+  }, {
+    "canonical_form" : "bahut",
+    "other_forms" : [ "bahuts" ]
+  }, {
+    "canonical_form" : "université",
+    "other_forms" : [ "universités" ]
+  } ]
+}

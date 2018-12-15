@@ -1,0 +1,139 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "faculté",
+    "other_forms" : [ "facultés" ]
+  }, {
+    "canonical_form" : "capacité",
+    "other_forms" : [ "capacités" ]
+  }, {
+    "canonical_form" : "pouvoir",
+    "other_forms" : [ "pouvoirs" ]
+  }, {
+    "canonical_form" : "don",
+    "other_forms" : [ "dons" ]
+  }, {
+    "canonical_form" : "esprit",
+    "other_forms" : [ "esprits" ]
+  }, {
+    "canonical_form" : "disposition",
+    "other_forms" : [ "dispositions" ]
+  }, {
+    "canonical_form" : "possibilité",
+    "other_forms" : [ "possibilités" ]
+  }, {
+    "canonical_form" : "talent",
+    "other_forms" : [ "talents" ]
+  }, {
+    "canonical_form" : "qualité",
+    "other_forms" : [ "qualités" ]
+  }, {
+    "canonical_form" : "intelligence",
+    "other_forms" : [ "intelligences" ]
+  }, {
+    "canonical_form" : "aptitude",
+    "other_forms" : [ "aptitudes" ]
+  }, {
+    "canonical_form" : "entendement",
+    "other_forms" : [ "entendements" ]
+  }, {
+    "canonical_form" : "vertu",
+    "other_forms" : [ "vertus" ]
+  }, {
+    "canonical_form" : "puissance",
+    "other_forms" : [ "puissances" ]
+  }, {
+    "canonical_form" : "liberté",
+    "other_forms" : [ "libertés" ]
+  }, {
+    "canonical_form" : "génie",
+    "other_forms" : [ "génies" ]
+  }, {
+    "canonical_form" : "sens",
+    "other_forms" : [ "sen" ]
+  }, {
+    "canonical_form" : "permission",
+    "other_forms" : [ "permissions" ]
+  }, {
+    "canonical_form" : "conception",
+    "other_forms" : [ "conceptions" ]
+  }, {
+    "canonical_form" : "force",
+    "other_forms" : [ "forces" ]
+  }, {
+    "canonical_form" : "jugement",
+    "other_forms" : [ "jugements" ]
+  }, {
+    "canonical_form" : "discernement",
+    "other_forms" : [ "discernements" ]
+  }, {
+    "canonical_form" : "connaissance",
+    "other_forms" : [ "connaissances" ]
+  }, {
+    "canonical_form" : "compréhension",
+    "other_forms" : [ "compréhensions" ]
+  }, {
+    "canonical_form" : "ressource",
+    "other_forms" : [ "ressources" ]
+  }, {
+    "canonical_form" : "prérogative",
+    "other_forms" : [ "prérogatives" ]
+  }, {
+    "canonical_form" : "privilège",
+    "other_forms" : [ "privilèges" ]
+  }, {
+    "canonical_form" : "licence",
+    "other_forms" : [ "licences" ]
+  }, {
+    "canonical_form" : "latitude",
+    "other_forms" : [ "latitudes" ]
+  }, {
+    "canonical_form" : "fonction",
+    "other_forms" : [ "fonctions" ]
+  }, {
+    "canonical_form" : "autorisation",
+    "other_forms" : [ "autorisations" ]
+  }, {
+    "canonical_form" : "médecin",
+    "other_forms" : [ "médecins" ]
+  }, {
+    "canonical_form" : "mémoire",
+    "other_forms" : [ "mémoires" ]
+  }, {
+    "canonical_form" : "parole",
+    "other_forms" : [ "paroles" ]
+  }, {
+    "canonical_form" : "propriété",
+    "other_forms" : [ "propriétés" ]
+  }, {
+    "canonical_form" : "sensibilité",
+    "other_forms" : [ "sensibilités" ]
+  }, {
+    "canonical_form" : "université",
+    "other_forms" : [ "universités" ]
+  }, {
+    "canonical_form" : "vocation",
+    "other_forms" : [ "vocations" ]
+  }, {
+    "canonical_form" : "marge",
+    "other_forms" : [ "marges" ]
+  }, {
+    "canonical_form" : "institut",
+    "other_forms" : [ "instituts" ]
+  }, {
+    "canonical_form" : "collège",
+    "other_forms" : [ "collèges" ]
+  }, {
+    "canonical_form" : "campus",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "activité",
+    "other_forms" : [ "activités" ]
+  }, {
+    "canonical_form" : "académie",
+    "other_forms" : [ "académies" ]
+  }, {
+    "canonical_form" : "école",
+    "other_forms" : [ "écoles" ]
+  } ]
+}

@@ -1,0 +1,163 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "connaissance",
+    "other_forms" : [ "connaissances" ]
+  }, {
+    "canonical_form" : "intelligence",
+    "other_forms" : [ "intelligences" ]
+  }, {
+    "canonical_form" : "savoir",
+    "other_forms" : [ "savoirs" ]
+  }, {
+    "canonical_form" : "conception",
+    "other_forms" : [ "conceptions" ]
+  }, {
+    "canonical_form" : "idée",
+    "other_forms" : [ "idées" ]
+  }, {
+    "canonical_form" : "notion",
+    "other_forms" : [ "notions" ]
+  }, {
+    "canonical_form" : "entendement",
+    "other_forms" : [ "entendements" ]
+  }, {
+    "canonical_form" : "raison",
+    "other_forms" : [ "raisons" ]
+  }, {
+    "canonical_form" : "compréhension",
+    "other_forms" : [ "compréhensions" ]
+  }, {
+    "canonical_form" : "clarté",
+    "other_forms" : [ "clartés" ]
+  }, {
+    "canonical_form" : "expérience",
+    "other_forms" : [ "expériences" ]
+  }, {
+    "canonical_form" : "usage",
+    "other_forms" : [ "usages" ]
+  }, {
+    "canonical_form" : "perception",
+    "other_forms" : [ "perceptions" ]
+  }, {
+    "canonical_form" : "lucidité",
+    "other_forms" : [ "lucidités" ]
+  }, {
+    "canonical_form" : "imagination",
+    "other_forms" : [ "imaginations" ]
+  }, {
+    "canonical_form" : "discernement",
+    "other_forms" : [ "discernements" ]
+  }, {
+    "canonical_form" : "conscience",
+    "other_forms" : [ "consciences" ]
+  }, {
+    "canonical_form" : "bagage",
+    "other_forms" : [ "bagages" ]
+  }, {
+    "canonical_form" : "sentiment",
+    "other_forms" : [ "sentiments" ]
+  }, {
+    "canonical_form" : "science",
+    "other_forms" : [ "sciences" ]
+  }, {
+    "canonical_form" : "sagesse",
+    "other_forms" : [ "sagesses" ]
+  }, {
+    "canonical_form" : "pénétration",
+    "other_forms" : [ "pénétrations" ]
+  }, {
+    "canonical_form" : "lumière",
+    "other_forms" : [ "lumières" ]
+  }, {
+    "canonical_form" : "fréquentation",
+    "other_forms" : [ "fréquentations" ]
+  }, {
+    "canonical_form" : "faculté",
+    "other_forms" : [ "facultés" ]
+  }, {
+    "canonical_form" : "compétence",
+    "other_forms" : [ "compétences" ]
+  }, {
+    "canonical_form" : "intuition",
+    "other_forms" : [ "intuitions" ]
+  }, {
+    "canonical_form" : "liaison",
+    "other_forms" : [ "liaisons" ]
+  }, {
+    "canonical_form" : "possession",
+    "other_forms" : [ "possessions" ]
+  }, {
+    "canonical_form" : "prescience",
+    "other_forms" : [ "presciences" ]
+  }, {
+    "canonical_form" : "relation",
+    "other_forms" : [ "relations" ]
+  }, {
+    "canonical_form" : "éducation",
+    "other_forms" : [ "éducations" ]
+  }, {
+    "canonical_form" : "intellect",
+    "other_forms" : [ "intellects" ]
+  }, {
+    "canonical_form" : "instruction",
+    "other_forms" : [ "instructions" ]
+  }, {
+    "canonical_form" : "culture",
+    "other_forms" : [ "cultures" ]
+  }, {
+    "canonical_form" : "accointance",
+    "other_forms" : [ "accointances" ]
+  }, {
+    "canonical_form" : "ami",
+    "other_forms" : [ "amie", "amies", "amis" ]
+  }, {
+    "canonical_form" : "ballot",
+    "other_forms" : [ "ballots" ]
+  }, {
+    "canonical_form" : "cognition",
+    "other_forms" : [ "cognitions" ]
+  }, {
+    "canonical_form" : "prévision",
+    "other_forms" : [ "prévisions" ]
+  }, {
+    "canonical_form" : "représentation",
+    "other_forms" : [ "représentations" ]
+  }, {
+    "canonical_form" : "ressource",
+    "other_forms" : [ "ressources" ]
+  }, {
+    "canonical_form" : "teinture",
+    "other_forms" : [ "teintures" ]
+  }, {
+    "canonical_form" : "trace",
+    "other_forms" : [ "traces" ]
+  }, {
+    "canonical_form" : "élément",
+    "other_forms" : [ "éléments" ]
+  }, {
+    "canonical_form" : "intellection",
+    "other_forms" : [ "intellections" ]
+  }, {
+    "canonical_form" : "certitude",
+    "other_forms" : [ "certitudes" ]
+  }, {
+    "canonical_form" : "camarade",
+    "other_forms" : [ "camarades" ]
+  }, {
+    "canonical_form" : "appréhension",
+    "other_forms" : [ "appréhensions" ]
+  }, {
+    "canonical_form" : "amante",
+    "other_forms" : [ "amantes" ]
+  }, {
+    "canonical_form" : "acquisition",
+    "other_forms" : [ "acquisitions" ]
+  }, {
+    "canonical_form" : "acolyte",
+    "other_forms" : [ "acolytes" ]
+  }, {
+    "canonical_form" : "érudition",
+    "other_forms" : [ "éruditions" ]
+  } ]
+}

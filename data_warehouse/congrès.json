@@ -1,0 +1,40 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "congrès",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "réunion",
+    "other_forms" : [ "réunions" ]
+  }, {
+    "canonical_form" : "symposium",
+    "other_forms" : [ "symposiums" ]
+  }, {
+    "canonical_form" : "conférence",
+    "other_forms" : [ "conférences" ]
+  }, {
+    "canonical_form" : "session",
+    "other_forms" : [ "sessions" ]
+  }, {
+    "canonical_form" : "colloque",
+    "other_forms" : [ "colloques" ]
+  }, {
+    "canonical_form" : "séminaire",
+    "other_forms" : [ "séminaires" ]
+  }, {
+    "canonical_form" : "débat",
+    "other_forms" : [ "débats" ]
+  }, {
+    "canonical_form" : "accouplement",
+    "other_forms" : [ "accouplements" ]
+  }, {
+    "canonical_form" : "convent",
+    "other_forms" : [ "convents" ]
+  }, {
+    "canonical_form" : "festival",
+    "other_forms" : [ "festivals" ]
+  }, {
+    "canonical_form" : "pourparlers",
+    "other_forms" : [ ]
+  } ]
+}

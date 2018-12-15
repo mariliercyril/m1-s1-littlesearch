@@ -1,0 +1,43 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "royal",
+    "other_forms" : [ "royale", "royales", "royaux" ]
+  }, {
+    "canonical_form" : "splendide",
+    "other_forms" : [ "splendides" ]
+  }, {
+    "canonical_form" : "souverain",
+    "other_forms" : [ "souveraine", "souveraines", "souverains" ]
+  }, {
+    "canonical_form" : "somptueux",
+    "other_forms" : [ "somptueuse", "somptueuses" ]
+  }, {
+    "canonical_form" : "princier",
+    "other_forms" : [ "princiers", "princière", "princières" ]
+  }, {
+    "canonical_form" : "magnifique",
+    "other_forms" : [ "magnifiques" ]
+  }, {
+    "canonical_form" : "luxueux",
+    "other_forms" : [ "luxueuse", "luxueuses" ]
+  }, {
+    "canonical_form" : "fastueux",
+    "other_forms" : [ "fastueuse", "fastueuses" ]
+  }, {
+    "canonical_form" : "grandiose",
+    "other_forms" : [ "grandioses" ]
+  }, {
+    "canonical_form" : "imposant",
+    "other_forms" : [ "imposante", "imposantes", "imposants" ]
+  }, {
+    "canonical_form" : "monarchique",
+    "other_forms" : [ "monarchiques" ]
+  }, {
+    "canonical_form" : "régalien",
+    "other_forms" : [ "régalienne", "régaliennes", "régaliens" ]
+  }, {
+    "canonical_form" : "triomphant",
+    "other_forms" : [ "triomphante", "triomphantes", "triomphants" ]
+  } ]
+}

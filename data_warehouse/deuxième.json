@@ -1,0 +1,19 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "deuxième",
+    "other_forms" : [ "deuxièmes" ]
+  }, {
+    "canonical_form" : "autre",
+    "other_forms" : [ "autres" ]
+  }, {
+    "canonical_form" : "second",
+    "other_forms" : [ "seconde", "secondes", "seconds" ]
+  }, {
+    "canonical_form" : "suivant",
+    "other_forms" : [ "suivante", "suivantes", "suivants" ]
+  }, {
+    "canonical_form" : "postérieur",
+    "other_forms" : [ "postérieure", "postérieures", "postérieurs" ]
+  } ]
+}

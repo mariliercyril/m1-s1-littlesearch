@@ -1,0 +1,148 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "honneur",
+    "other_forms" : [ "honneurs" ]
+  }, {
+    "canonical_form" : "distinction",
+    "other_forms" : [ "distinctions" ]
+  }, {
+    "canonical_form" : "gloire",
+    "other_forms" : [ "gloires" ]
+  }, {
+    "canonical_form" : "estime",
+    "other_forms" : [ "estimes" ]
+  }, {
+    "canonical_form" : "respect",
+    "other_forms" : [ "respects" ]
+  }, {
+    "canonical_form" : "considération",
+    "other_forms" : [ "considérations" ]
+  }, {
+    "canonical_form" : "honnêteté",
+    "other_forms" : [ "honnêtetés" ]
+  }, {
+    "canonical_form" : "dignité",
+    "other_forms" : [ "dignités" ]
+  }, {
+    "canonical_form" : "faveur",
+    "other_forms" : [ "faveurs" ]
+  }, {
+    "canonical_form" : "mérite",
+    "other_forms" : [ "mérites" ]
+  }, {
+    "canonical_form" : "révérence",
+    "other_forms" : [ "révérences" ]
+  }, {
+    "canonical_form" : "vertu",
+    "other_forms" : [ "vertus" ]
+  }, {
+    "canonical_form" : "pudeur",
+    "other_forms" : [ "pudeurs" ]
+  }, {
+    "canonical_form" : "hommage",
+    "other_forms" : [ "hommages" ]
+  }, {
+    "canonical_form" : "grâce",
+    "other_forms" : [ "grâces" ]
+  }, {
+    "canonical_form" : "grandeur",
+    "other_forms" : [ "grandeurs" ]
+  }, {
+    "canonical_form" : "culte",
+    "other_forms" : [ "cultes" ]
+  }, {
+    "canonical_form" : "égard",
+    "other_forms" : [ "égards" ]
+  }, {
+    "canonical_form" : "vénération",
+    "other_forms" : [ "vénérations" ]
+  }, {
+    "canonical_form" : "triomphe",
+    "other_forms" : [ "triomphes" ]
+  }, {
+    "canonical_form" : "réputation",
+    "other_forms" : [ "réputations" ]
+  }, {
+    "canonical_form" : "ornement",
+    "other_forms" : [ "ornements" ]
+  }, {
+    "canonical_form" : "avantage",
+    "other_forms" : [ "avantages" ]
+  }, {
+    "canonical_form" : "éclat",
+    "other_forms" : [ "éclats" ]
+  }, {
+    "canonical_form" : "succès",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "pureté",
+    "other_forms" : [ "puretés" ]
+  }, {
+    "canonical_form" : "illustration",
+    "other_forms" : [ "illustrations" ]
+  }, {
+    "canonical_form" : "décence",
+    "other_forms" : [ "décences" ]
+  }, {
+    "canonical_form" : "bien",
+    "other_forms" : [ "biens" ]
+  }, {
+    "canonical_form" : "éloge",
+    "other_forms" : [ "éloges" ]
+  }, {
+    "canonical_form" : "égard",
+    "other_forms" : [ "égards" ]
+  }, {
+    "canonical_form" : "prérogative",
+    "other_forms" : [ "prérogatives" ]
+  }, {
+    "canonical_form" : "orgueil",
+    "other_forms" : [ "orgueils" ]
+  }, {
+    "canonical_form" : "foi",
+    "other_forms" : [ "fois" ]
+  }, {
+    "canonical_form" : "fierté",
+    "other_forms" : [ "fiertés" ]
+  }, {
+    "canonical_form" : "couronne",
+    "other_forms" : [ "couronnes" ]
+  }, {
+    "canonical_form" : "charge",
+    "other_forms" : [ "charges" ]
+  }, {
+    "canonical_form" : "apothéose",
+    "other_forms" : [ "apothéoses" ]
+  }, {
+    "canonical_form" : "poste",
+    "other_forms" : [ "postes" ]
+  }, {
+    "canonical_form" : "panache",
+    "other_forms" : [ "panaches" ]
+  }, {
+    "canonical_form" : "ovation",
+    "other_forms" : [ "ovations" ]
+  }, {
+    "canonical_form" : "intention",
+    "other_forms" : [ "intentions" ]
+  }, {
+    "canonical_form" : "honorabilité",
+    "other_forms" : [ "honorabilités" ]
+  }, {
+    "canonical_form" : "grade",
+    "other_forms" : [ "grades" ]
+  }, {
+    "canonical_form" : "dévotion",
+    "other_forms" : [ "dévotions" ]
+  }, {
+    "canonical_form" : "cérémonie",
+    "other_forms" : [ "cérémonies" ]
+  }, {
+    "canonical_form" : "continence",
+    "other_forms" : [ "continences" ]
+  }, {
+    "canonical_form" : "privilège",
+    "other_forms" : [ "privilèges" ]
+  } ]
+}

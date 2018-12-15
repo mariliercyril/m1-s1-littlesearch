@@ -1,0 +1,160 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "direction",
+    "other_forms" : [ "directions" ]
+  }, {
+    "canonical_form" : "administration",
+    "other_forms" : [ "administrations" ]
+  }, {
+    "canonical_form" : "gouvernement",
+    "other_forms" : [ "gouvernements" ]
+  }, {
+    "canonical_form" : "autorité",
+    "other_forms" : [ "autorités" ]
+  }, {
+    "canonical_form" : "gestion",
+    "other_forms" : [ "gestions" ]
+  }, {
+    "canonical_form" : "ligne",
+    "other_forms" : [ "lignes" ]
+  }, {
+    "canonical_form" : "voie",
+    "other_forms" : [ "voies" ]
+  }, {
+    "canonical_form" : "sens",
+    "other_forms" : [ "sen" ]
+  }, {
+    "canonical_form" : "ordre",
+    "other_forms" : [ "ordres" ]
+  }, {
+    "canonical_form" : "commandement",
+    "other_forms" : [ "commandements" ]
+  }, {
+    "canonical_form" : "tête",
+    "other_forms" : [ "têtes" ]
+  }, {
+    "canonical_form" : "tutelle",
+    "other_forms" : [ "tutelles" ]
+  }, {
+    "canonical_form" : "tournure",
+    "other_forms" : [ "tournures" ]
+  }, {
+    "canonical_form" : "orientation",
+    "other_forms" : [ "orientations" ]
+  }, {
+    "canonical_form" : "organisation",
+    "other_forms" : [ "organisations" ]
+  }, {
+    "canonical_form" : "marche",
+    "other_forms" : [ "marches" ]
+  }, {
+    "canonical_form" : "trajet",
+    "other_forms" : [ "trajets" ]
+  }, {
+    "canonical_form" : "tour",
+    "other_forms" : [ "tours" ]
+  }, {
+    "canonical_form" : "route",
+    "other_forms" : [ "routes" ]
+  }, {
+    "canonical_form" : "influence",
+    "other_forms" : [ "influences" ]
+  }, {
+    "canonical_form" : "gouvernail",
+    "other_forms" : [ "gouvernails" ]
+  }, {
+    "canonical_form" : "chemin",
+    "other_forms" : [ "chemins" ]
+  }, {
+    "canonical_form" : "axe",
+    "other_forms" : [ "axes" ]
+  }, {
+    "canonical_form" : "régime",
+    "other_forms" : [ "régimes" ]
+  }, {
+    "canonical_form" : "service",
+    "other_forms" : [ "services" ]
+  }, {
+    "canonical_form" : "surveillance",
+    "other_forms" : [ "surveillances" ]
+  }, {
+    "canonical_form" : "tendance",
+    "other_forms" : [ "tendances" ]
+  }, {
+    "canonical_form" : "état-major",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "règlement",
+    "other_forms" : [ "règlements" ]
+  }, {
+    "canonical_form" : "présidence",
+    "other_forms" : [ "présidences" ]
+  }, {
+    "canonical_form" : "pilotage",
+    "other_forms" : [ "pilotages" ]
+  }, {
+    "canonical_form" : "auspice",
+    "other_forms" : [ "auspices" ]
+  }, {
+    "canonical_form" : "côté",
+    "other_forms" : [ "côtés" ]
+  }, {
+    "canonical_form" : "gouvernance",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "hégémonie",
+    "other_forms" : [ "hégémonies" ]
+  }, {
+    "canonical_form" : "leadership",
+    "other_forms" : [ "leaderships" ]
+  }, {
+    "canonical_form" : "intendance",
+    "other_forms" : [ "intendances" ]
+  }, {
+    "canonical_form" : "management",
+    "other_forms" : [ "managements" ]
+  }, {
+    "canonical_form" : "maniement",
+    "other_forms" : [ "maniements" ]
+  }, {
+    "canonical_form" : "régie",
+    "other_forms" : [ "régies" ]
+  }, {
+    "canonical_form" : "siège",
+    "other_forms" : [ "sièges" ]
+  }, {
+    "canonical_form" : "supervision",
+    "other_forms" : [ "supervisions" ]
+  }, {
+    "canonical_form" : "timon",
+    "other_forms" : [ "timons" ]
+  }, {
+    "canonical_form" : "instruction",
+    "other_forms" : [ "instructions" ]
+  }, {
+    "canonical_form" : "férule",
+    "other_forms" : [ "férules" ]
+  }, {
+    "canonical_form" : "animation",
+    "other_forms" : [ "animations" ]
+  }, {
+    "canonical_form" : "attrait",
+    "other_forms" : [ "attraits" ]
+  }, {
+    "canonical_form" : "azimut",
+    "other_forms" : [ "azimuts" ]
+  }, {
+    "canonical_form" : "boussole",
+    "other_forms" : [ "boussoles" ]
+  }, {
+    "canonical_form" : "bureau",
+    "other_forms" : [ "bureaux" ]
+  }, {
+    "canonical_form" : "cap",
+    "other_forms" : [ "caps" ]
+  }, {
+    "canonical_form" : "destination",
+    "other_forms" : [ "destinations" ]
+  } ]
+}

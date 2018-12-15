@@ -1,0 +1,73 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "conservation",
+    "other_forms" : [ "conservations" ]
+  }, {
+    "canonical_form" : "protection",
+    "other_forms" : [ "protections" ]
+  }, {
+    "canonical_form" : "sauvegarde",
+    "other_forms" : [ "sauvegardes" ]
+  }, {
+    "canonical_form" : "préservation",
+    "other_forms" : [ "préservations" ]
+  }, {
+    "canonical_form" : "garde",
+    "other_forms" : [ "gardes" ]
+  }, {
+    "canonical_form" : "stérilisation",
+    "other_forms" : [ "stérilisations" ]
+  }, {
+    "canonical_form" : "tutelle",
+    "other_forms" : [ "tutelles" ]
+  }, {
+    "canonical_form" : "pasteurisation",
+    "other_forms" : [ "pasteurisations" ]
+  }, {
+    "canonical_form" : "réfrigération",
+    "other_forms" : [ "réfrigérations" ]
+  }, {
+    "canonical_form" : "rémanence",
+    "other_forms" : [ "rémanences" ]
+  }, {
+    "canonical_form" : "salaison",
+    "other_forms" : [ "salaisons" ]
+  }, {
+    "canonical_form" : "salut",
+    "other_forms" : [ "saluts" ]
+  }, {
+    "canonical_form" : "saumurage",
+    "other_forms" : [ "saumurages" ]
+  }, {
+    "canonical_form" : "mémoire",
+    "other_forms" : [ "mémoires" ]
+  }, {
+    "canonical_form" : "maintien",
+    "other_forms" : [ "maintiens" ]
+  }, {
+    "canonical_form" : "entretien",
+    "other_forms" : [ "entretiens" ]
+  }, {
+    "canonical_form" : "déshydratation",
+    "other_forms" : [ "déshydratations" ]
+  }, {
+    "canonical_form" : "dessiccation",
+    "other_forms" : [ "dessiccations" ]
+  }, {
+    "canonical_form" : "cuisson",
+    "other_forms" : [ "cuissons" ]
+  }, {
+    "canonical_form" : "conserve",
+    "other_forms" : [ "conserves" ]
+  }, {
+    "canonical_form" : "congélation",
+    "other_forms" : [ "congélations" ]
+  }, {
+    "canonical_form" : "appertisation",
+    "other_forms" : [ "appertisations" ]
+  }, {
+    "canonical_form" : "survivance",
+    "other_forms" : [ "survivances" ]
+  } ]
+}

@@ -1,0 +1,16 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "observatoire",
+    "other_forms" : [ "observatoires" ]
+  }, {
+    "canonical_form" : "coupole",
+    "other_forms" : [ "coupoles" ]
+  }, {
+    "canonical_form" : "mirador",
+    "other_forms" : [ "miradors" ]
+  }, {
+    "canonical_form" : "poste",
+    "other_forms" : [ "postes" ]
+  } ]
+}

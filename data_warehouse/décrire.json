@@ -1,0 +1,44 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "décrire"
+  }, {
+    "canonical_form" : "exposer"
+  }, {
+    "canonical_form" : "raconter"
+  }, {
+    "canonical_form" : "montrer"
+  }, {
+    "canonical_form" : "représenter"
+  }, {
+    "canonical_form" : "retracer"
+  }, {
+    "canonical_form" : "peindre"
+  }, {
+    "canonical_form" : "révéler"
+  }, {
+    "canonical_form" : "dépeindre"
+  }, {
+    "canonical_form" : "évoquer"
+  }, {
+    "canonical_form" : "tracer"
+  }, {
+    "canonical_form" : "signaler"
+  }, {
+    "canonical_form" : "expliquer"
+  }, {
+    "canonical_form" : "conter"
+  }, {
+    "canonical_form" : "afficher"
+  }, {
+    "canonical_form" : "brosser"
+  }, {
+    "canonical_form" : "camper"
+  }, {
+    "canonical_form" : "détailler"
+  }, {
+    "canonical_form" : "modéliser"
+  }, {
+    "canonical_form" : "narrer"
+  } ]
+}

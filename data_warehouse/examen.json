@@ -1,0 +1,160 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "examen",
+    "other_forms" : [ "examens" ]
+  }, {
+    "canonical_form" : "observation",
+    "other_forms" : [ "observations" ]
+  }, {
+    "canonical_form" : "analyse",
+    "other_forms" : [ "analyses" ]
+  }, {
+    "canonical_form" : "étude",
+    "other_forms" : [ "études" ]
+  }, {
+    "canonical_form" : "inspection",
+    "other_forms" : [ "inspections" ]
+  }, {
+    "canonical_form" : "recherche",
+    "other_forms" : [ "recherches" ]
+  }, {
+    "canonical_form" : "vérification",
+    "other_forms" : [ "vérifications" ]
+  }, {
+    "canonical_form" : "exploration",
+    "other_forms" : [ "explorations" ]
+  }, {
+    "canonical_form" : "consultation",
+    "other_forms" : [ "consultations" ]
+  }, {
+    "canonical_form" : "enquête",
+    "other_forms" : [ "enquêtes" ]
+  }, {
+    "canonical_form" : "expertise",
+    "other_forms" : [ "expertises" ]
+  }, {
+    "canonical_form" : "reconnaissance",
+    "other_forms" : [ "reconnaissances" ]
+  }, {
+    "canonical_form" : "visite",
+    "other_forms" : [ "visites" ]
+  }, {
+    "canonical_form" : "épreuve",
+    "other_forms" : [ "épreuves" ]
+  }, {
+    "canonical_form" : "investigation",
+    "other_forms" : [ "investigations" ]
+  }, {
+    "canonical_form" : "expérience",
+    "other_forms" : [ "expériences" ]
+  }, {
+    "canonical_form" : "essai",
+    "other_forms" : [ "essais" ]
+  }, {
+    "canonical_form" : "discussion",
+    "other_forms" : [ "discussions" ]
+  }, {
+    "canonical_form" : "contrôle",
+    "other_forms" : [ "contrôles" ]
+  }, {
+    "canonical_form" : "approfondissement",
+    "other_forms" : [ "approfondissements" ]
+  }, {
+    "canonical_form" : "question",
+    "other_forms" : [ "questions" ]
+  }, {
+    "canonical_form" : "interrogation",
+    "other_forms" : [ "interrogations" ]
+  }, {
+    "canonical_form" : "information",
+    "other_forms" : [ "informations" ]
+  }, {
+    "canonical_form" : "délibération",
+    "other_forms" : [ "délibérations" ]
+  }, {
+    "canonical_form" : "composition",
+    "other_forms" : [ "compositions" ]
+  }, {
+    "canonical_form" : "appréciation",
+    "other_forms" : [ "appréciations" ]
+  }, {
+    "canonical_form" : "évaluation",
+    "other_forms" : [ "évaluations" ]
+  }, {
+    "canonical_form" : "test",
+    "other_forms" : [ "tests" ]
+  }, {
+    "canonical_form" : "licence",
+    "other_forms" : [ "licences" ]
+  }, {
+    "canonical_form" : "introspection",
+    "other_forms" : [ "introspections" ]
+  }, {
+    "canonical_form" : "dépouillement",
+    "other_forms" : [ "dépouillements" ]
+  }, {
+    "canonical_form" : "débat",
+    "other_forms" : [ "débats" ]
+  }, {
+    "canonical_form" : "arraisonnement",
+    "other_forms" : [ "arraisonnements" ]
+  }, {
+    "canonical_form" : "brevet",
+    "other_forms" : [ "brevets" ]
+  }, {
+    "canonical_form" : "certificat",
+    "other_forms" : [ "certificats" ]
+  }, {
+    "canonical_form" : "conférence",
+    "other_forms" : [ "conférences" ]
+  }, {
+    "canonical_form" : "constatation",
+    "other_forms" : [ "constatations" ]
+  }, {
+    "canonical_form" : "dissection",
+    "other_forms" : [ "dissections" ]
+  }, {
+    "canonical_form" : "doctorat",
+    "other_forms" : [ "doctorats" ]
+  }, {
+    "canonical_form" : "estimation",
+    "other_forms" : [ "estimations" ]
+  }, {
+    "canonical_form" : "visa",
+    "other_forms" : [ "visas" ]
+  }, {
+    "canonical_form" : "diplôme",
+    "other_forms" : [ "diplômes" ]
+  }, {
+    "canonical_form" : "considération",
+    "other_forms" : [ "considérations" ]
+  }, {
+    "canonical_form" : "audition",
+    "other_forms" : [ "auditions" ]
+  }, {
+    "canonical_form" : "auscultation",
+    "other_forms" : [ "auscultations" ]
+  }, {
+    "canonical_form" : "autopsie",
+    "other_forms" : [ "autopsies" ]
+  }, {
+    "canonical_form" : "bac",
+    "other_forms" : [ "bacs" ]
+  }, {
+    "canonical_form" : "baccalauréat",
+    "other_forms" : [ "baccalauréats" ]
+  }, {
+    "canonical_form" : "bachot",
+    "other_forms" : [ "bachots" ]
+  }, {
+    "canonical_form" : "censure",
+    "other_forms" : [ "censures" ]
+  }, {
+    "canonical_form" : "collation",
+    "other_forms" : [ "collations" ]
+  }, {
+    "canonical_form" : "épluchage",
+    "other_forms" : [ "épluchages" ]
+  } ]
+}

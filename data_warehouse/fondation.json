@@ -1,0 +1,70 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "fondation",
+    "other_forms" : [ "fondations" ]
+  }, {
+    "canonical_form" : "base",
+    "other_forms" : [ "bases" ]
+  }, {
+    "canonical_form" : "fondement",
+    "other_forms" : [ "fondements" ]
+  }, {
+    "canonical_form" : "établissement",
+    "other_forms" : [ "établissements" ]
+  }, {
+    "canonical_form" : "constitution",
+    "other_forms" : [ "constitutions" ]
+  }, {
+    "canonical_form" : "création",
+    "other_forms" : [ "créations" ]
+  }, {
+    "canonical_form" : "soubassement",
+    "other_forms" : [ "soubassements" ]
+  }, {
+    "canonical_form" : "institution",
+    "other_forms" : [ "institutions" ]
+  }, {
+    "canonical_form" : "substruction",
+    "other_forms" : [ "substructions" ]
+  }, {
+    "canonical_form" : "érection",
+    "other_forms" : [ "érections" ]
+  }, {
+    "canonical_form" : "édification",
+    "other_forms" : [ "édifications" ]
+  }, {
+    "canonical_form" : "institut",
+    "other_forms" : [ "instituts" ]
+  }, {
+    "canonical_form" : "instauration",
+    "other_forms" : [ "instaurations" ]
+  }, {
+    "canonical_form" : "formation",
+    "other_forms" : [ "formations" ]
+  }, {
+    "canonical_form" : "charpente",
+    "other_forms" : [ "charpentes" ]
+  }, {
+    "canonical_form" : "armature",
+    "other_forms" : [ "armatures" ]
+  }, {
+    "canonical_form" : "donation",
+    "other_forms" : [ "donations" ]
+  }, {
+    "canonical_form" : "colonie",
+    "other_forms" : [ "colonies" ]
+  }, {
+    "canonical_form" : "assiette",
+    "other_forms" : [ "assiettes" ]
+  }, {
+    "canonical_form" : "appui",
+    "other_forms" : [ "appuis" ]
+  }, {
+    "canonical_form" : "aliénation",
+    "other_forms" : [ "aliénations" ]
+  }, {
+    "canonical_form" : "infrastructure",
+    "other_forms" : [ "infrastructures" ]
+  } ]
+}

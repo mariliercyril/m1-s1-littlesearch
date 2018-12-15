@@ -1,0 +1,97 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "idéal",
+    "other_forms" : [ "idéale", "idéales", "idéals", "idéaux" ]
+  }, {
+    "canonical_form" : "beau",
+    "other_forms" : [ "beaux", "bel", "belle", "belles" ]
+  }, {
+    "canonical_form" : "absolu",
+    "other_forms" : [ "absolue", "absolues", "absolus" ]
+  }, {
+    "canonical_form" : "sublime",
+    "other_forms" : [ "sublimes" ]
+  }, {
+    "canonical_form" : "imaginaire",
+    "other_forms" : [ "imaginaires" ]
+  }, {
+    "canonical_form" : "pur",
+    "other_forms" : [ "pure", "pures", "purs" ]
+  }, {
+    "canonical_form" : "suprême",
+    "other_forms" : [ "suprêmes" ]
+  }, {
+    "canonical_form" : "exemplaire",
+    "other_forms" : [ "exemplaires" ]
+  }, {
+    "canonical_form" : "transcendant",
+    "other_forms" : [ "transcendante", "transcendantes", "transcendants" ]
+  }, {
+    "canonical_form" : "souverain",
+    "other_forms" : [ "souveraine", "souveraines", "souverains" ]
+  }, {
+    "canonical_form" : "merveilleux",
+    "other_forms" : [ "merveilleuse", "merveilleuses" ]
+  }, {
+    "canonical_form" : "impossible",
+    "other_forms" : [ "impossibles" ]
+  }, {
+    "canonical_form" : "immatériel",
+    "other_forms" : [ "immatérielle", "immatérielles", "immatériels" ]
+  }, {
+    "canonical_form" : "complet",
+    "other_forms" : [ "complets", "complète", "complètes" ]
+  }, {
+    "canonical_form" : "chimérique",
+    "other_forms" : [ "chimériques" ]
+  }, {
+    "canonical_form" : "accompli",
+    "other_forms" : [ "accomplie", "accomplies", "accomplis" ]
+  }, {
+    "canonical_form" : "radical",
+    "other_forms" : [ "radicale", "radicales", "radicaux" ]
+  }, {
+    "canonical_form" : "surnaturel",
+    "other_forms" : [ "surnaturelle", "surnaturelles", "surnaturels" ]
+  }, {
+    "canonical_form" : "théorique",
+    "other_forms" : [ "théoriques" ]
+  }, {
+    "canonical_form" : "unique",
+    "other_forms" : [ "uniques" ]
+  }, {
+    "canonical_form" : "utopique",
+    "other_forms" : [ "utopiques" ]
+  }, {
+    "canonical_form" : "platonique",
+    "other_forms" : [ "platoniques" ]
+  }, {
+    "canonical_form" : "heureux",
+    "other_forms" : [ "heureuse", "heureuses" ]
+  }, {
+    "canonical_form" : "inaccessible",
+    "other_forms" : [ "inaccessibles" ]
+  }, {
+    "canonical_form" : "poétique",
+    "other_forms" : [ "poétiques" ]
+  }, {
+    "canonical_form" : "sensationnel",
+    "other_forms" : [ "sensationnelle", "sensationnelles", "sensationnels" ]
+  }, {
+    "canonical_form" : "sujet",
+    "other_forms" : [ "sujets", "sujette", "sujettes" ]
+  }, {
+    "canonical_form" : "optimal",
+    "other_forms" : [ "optimale", "optimales", "optimaux" ]
+  }, {
+    "canonical_form" : "illusoire",
+    "other_forms" : [ "illusoires" ]
+  }, {
+    "canonical_form" : "idyllique",
+    "other_forms" : [ "idylliques" ]
+  }, {
+    "canonical_form" : "idéel",
+    "other_forms" : [ "idéelle", "idéelles", "idéels" ]
+  } ]
+}

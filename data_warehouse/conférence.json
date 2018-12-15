@@ -1,0 +1,85 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "conférence",
+    "other_forms" : [ "conférences" ]
+  }, {
+    "canonical_form" : "conversation",
+    "other_forms" : [ "conversations" ]
+  }, {
+    "canonical_form" : "réunion",
+    "other_forms" : [ "réunions" ]
+  }, {
+    "canonical_form" : "colloque",
+    "other_forms" : [ "colloques" ]
+  }, {
+    "canonical_form" : "entretien",
+    "other_forms" : [ "entretiens" ]
+  }, {
+    "canonical_form" : "débat",
+    "other_forms" : [ "débats" ]
+  }, {
+    "canonical_form" : "discussion",
+    "other_forms" : [ "discussions" ]
+  }, {
+    "canonical_form" : "dialogue",
+    "other_forms" : [ "dialogues" ]
+  }, {
+    "canonical_form" : "conciliabule",
+    "other_forms" : [ "conciliabules" ]
+  }, {
+    "canonical_form" : "causerie",
+    "other_forms" : [ "causeries" ]
+  }, {
+    "canonical_form" : "congrès",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "leçon",
+    "other_forms" : [ "leçons" ]
+  }, {
+    "canonical_form" : "palabre",
+    "other_forms" : [ "palabres" ]
+  }, {
+    "canonical_form" : "symposium",
+    "other_forms" : [ "symposiums" ]
+  }, {
+    "canonical_form" : "séminaire",
+    "other_forms" : [ "séminaires" ]
+  }, {
+    "canonical_form" : "enseignement",
+    "other_forms" : [ "enseignements" ]
+  }, {
+    "canonical_form" : "rencontre",
+    "other_forms" : [ "rencontres" ]
+  }, {
+    "canonical_form" : "parlote",
+    "other_forms" : [ "parlotes", "parlotte", "parlottes" ]
+  }, {
+    "canonical_form" : "examen",
+    "other_forms" : [ "examens" ]
+  }, {
+    "canonical_form" : "cour",
+    "other_forms" : [ "cours" ]
+  }, {
+    "canonical_form" : "consultation",
+    "other_forms" : [ "consultations" ]
+  }, {
+    "canonical_form" : "conseil",
+    "other_forms" : [ "conseils" ]
+  }, {
+    "canonical_form" : "briefing",
+    "other_forms" : [ "briefings" ]
+  }, {
+    "canonical_form" : "abouchement",
+    "other_forms" : [ "abouchements" ]
+  }, {
+    "canonical_form" : "pourparlers",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "sermon",
+    "other_forms" : [ "sermons" ]
+  }, {
+    "canonical_form" : "speech",
+    "other_forms" : [ "speechs" ]
+  } ]
+}

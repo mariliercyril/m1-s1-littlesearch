@@ -1,0 +1,175 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "famille",
+    "other_forms" : [ "familles" ]
+  }, {
+    "canonical_form" : "race",
+    "other_forms" : [ "races" ]
+  }, {
+    "canonical_form" : "filiation",
+    "other_forms" : [ "filiations" ]
+  }, {
+    "canonical_form" : "descendance",
+    "other_forms" : [ "descendances" ]
+  }, {
+    "canonical_form" : "groupe",
+    "other_forms" : [ "groupes" ]
+  }, {
+    "canonical_form" : "origine",
+    "other_forms" : [ "origines" ]
+  }, {
+    "canonical_form" : "ascendance",
+    "other_forms" : [ "ascendances" ]
+  }, {
+    "canonical_form" : "parenté",
+    "other_forms" : [ "parentés" ]
+  }, {
+    "canonical_form" : "maison",
+    "other_forms" : [ "maisons" ]
+  }, {
+    "canonical_form" : "extraction",
+    "other_forms" : [ "extractions" ]
+  }, {
+    "canonical_form" : "clan",
+    "other_forms" : [ "clans" ]
+  }, {
+    "canonical_form" : "souche",
+    "other_forms" : [ "souches" ]
+  }, {
+    "canonical_form" : "société",
+    "other_forms" : [ "sociétés" ]
+  }, {
+    "canonical_form" : "ligne",
+    "other_forms" : [ "lignes" ]
+  }, {
+    "canonical_form" : "lignage",
+    "other_forms" : [ "lignages" ]
+  }, {
+    "canonical_form" : "généalogie",
+    "other_forms" : [ "généalogies" ]
+  }, {
+    "canonical_form" : "classe",
+    "other_forms" : [ "classes" ]
+  }, {
+    "canonical_form" : "tribu",
+    "other_forms" : [ "tribus" ]
+  }, {
+    "canonical_form" : "génération",
+    "other_forms" : [ "générations" ]
+  }, {
+    "canonical_form" : "foyer",
+    "other_forms" : [ "foyers" ]
+  }, {
+    "canonical_form" : "espèce",
+    "other_forms" : [ "espèces" ]
+  }, {
+    "canonical_form" : "consanguinité",
+    "other_forms" : [ "consanguinités" ]
+  }, {
+    "canonical_form" : "école",
+    "other_forms" : [ "écoles" ]
+  }, {
+    "canonical_form" : "sorte",
+    "other_forms" : [ "sortes" ]
+  }, {
+    "canonical_form" : "sang",
+    "other_forms" : [ "sangs" ]
+  }, {
+    "canonical_form" : "postérité",
+    "other_forms" : [ "postérités" ]
+  }, {
+    "canonical_form" : "hérédité",
+    "other_forms" : [ "hérédités" ]
+  }, {
+    "canonical_form" : "coterie",
+    "other_forms" : [ "coteries" ]
+  }, {
+    "canonical_form" : "colonie",
+    "other_forms" : [ "colonies" ]
+  }, {
+    "canonical_form" : "toit",
+    "other_forms" : [ "toits" ]
+  }, {
+    "canonical_form" : "progéniture",
+    "other_forms" : [ "progénitures" ]
+  }, {
+    "canonical_form" : "ménage",
+    "other_forms" : [ "ménages" ]
+  }, {
+    "canonical_form" : "genre",
+    "other_forms" : [ "genres" ]
+  }, {
+    "canonical_form" : "catégorie",
+    "other_forms" : [ "catégories" ]
+  }, {
+    "canonical_form" : "branche",
+    "other_forms" : [ "branches" ]
+  }, {
+    "canonical_form" : "alliance",
+    "other_forms" : [ "alliances" ]
+  }, {
+    "canonical_form" : "maisonnée",
+    "other_forms" : [ "maisonnées" ]
+  }, {
+    "canonical_form" : "marmaille",
+    "other_forms" : [ "marmailles" ]
+  }, {
+    "canonical_form" : "matriarcat",
+    "other_forms" : [ "matriarcats" ]
+  }, {
+    "canonical_form" : "parentèle",
+    "other_forms" : [ "parentèles" ]
+  }, {
+    "canonical_form" : "patriarcat",
+    "other_forms" : [ "patriarcats" ]
+  }, {
+    "canonical_form" : "patrie",
+    "other_forms" : [ "patries" ]
+  }, {
+    "canonical_form" : "smala",
+    "other_forms" : [ "smalas" ]
+  }, {
+    "canonical_form" : "tendance",
+    "other_forms" : [ "tendances" ]
+  }, {
+    "canonical_form" : "logis",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "humanité",
+    "other_forms" : [ "humanités" ]
+  }, {
+    "canonical_form" : "gent",
+    "other_forms" : [ "gents" ]
+  }, {
+    "canonical_form" : "agnation",
+    "other_forms" : [ "agnations" ]
+  }, {
+    "canonical_form" : "auteur",
+    "other_forms" : [ "auteurs" ]
+  }, {
+    "canonical_form" : "bercail",
+    "other_forms" : [ "bercails" ]
+  }, {
+    "canonical_form" : "bloc",
+    "other_forms" : [ "blocs" ]
+  }, {
+    "canonical_form" : "cognation",
+    "other_forms" : [ "cognations" ]
+  }, {
+    "canonical_form" : "collection",
+    "other_forms" : [ "collections" ]
+  }, {
+    "canonical_form" : "communion",
+    "other_forms" : [ "communions" ]
+  }, {
+    "canonical_form" : "dynastie",
+    "other_forms" : [ "dynasties" ]
+  }, {
+    "canonical_form" : "entourage",
+    "other_forms" : [ "entourages" ]
+  }, {
+    "canonical_form" : "type",
+    "other_forms" : [ "types" ]
+  } ]
+}

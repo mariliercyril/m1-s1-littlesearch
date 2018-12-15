@@ -1,0 +1,19 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "in",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "moderne",
+    "other_forms" : [ "modernes" ]
+  }, {
+    "canonical_form" : "nouveau",
+    "other_forms" : [ "nouveaux", "nouvel", "nouvelle", "nouvelles" ]
+  }, {
+    "canonical_form" : "chic",
+    "other_forms" : [ "chics" ]
+  }, {
+    "canonical_form" : "moderniste",
+    "other_forms" : [ "modernistes" ]
+  } ]
+}

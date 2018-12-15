@@ -1,0 +1,52 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "classique",
+    "other_forms" : [ "classiques" ]
+  }, {
+    "canonical_form" : "ordinaire",
+    "other_forms" : [ "ordinaires" ]
+  }, {
+    "canonical_form" : "habituel",
+    "other_forms" : [ "habituelle", "habituelles", "habituels" ]
+  }, {
+    "canonical_form" : "courant",
+    "other_forms" : [ "courante", "courantes", "courants" ]
+  }, {
+    "canonical_form" : "simple",
+    "other_forms" : [ "simples" ]
+  }, {
+    "canonical_form" : "sobre",
+    "other_forms" : [ "sobres" ]
+  }, {
+    "canonical_form" : "traditionnel",
+    "other_forms" : [ "traditionnelle", "traditionnelles", "traditionnels" ]
+  }, {
+    "canonical_form" : "sévère",
+    "other_forms" : [ "sévères" ]
+  }, {
+    "canonical_form" : "routinier",
+    "other_forms" : [ "routiniers", "routinière", "routinières" ]
+  }, {
+    "canonical_form" : "rituel",
+    "other_forms" : [ "rituelle", "rituelles", "rituels" ]
+  }, {
+    "canonical_form" : "normal",
+    "other_forms" : [ "normale", "normales", "normaux" ]
+  }, {
+    "canonical_form" : "conventionnel",
+    "other_forms" : [ "conventionnelle", "conventionnelles", "conventionnels" ]
+  }, {
+    "canonical_form" : "banal",
+    "other_forms" : [ "banale", "banales", "banals", "banaux" ]
+  }, {
+    "canonical_form" : "arcadien",
+    "other_forms" : [ "arcadienne", "arcadiennes", "arcadiens" ]
+  }, {
+    "canonical_form" : "conforme",
+    "other_forms" : [ "conformes" ]
+  }, {
+    "canonical_form" : "strict",
+    "other_forms" : [ "stricte", "strictes", "stricts" ]
+  } ]
+}

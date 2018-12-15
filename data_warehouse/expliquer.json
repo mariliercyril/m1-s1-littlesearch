@@ -1,0 +1,94 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "expliquer"
+  }, {
+    "canonical_form" : "révéler"
+  }, {
+    "canonical_form" : "montrer"
+  }, {
+    "canonical_form" : "indiquer"
+  }, {
+    "canonical_form" : "signifier"
+  }, {
+    "canonical_form" : "exposer"
+  }, {
+    "canonical_form" : "apprendre"
+  }, {
+    "canonical_form" : "annoncer"
+  }, {
+    "canonical_form" : "exprimer"
+  }, {
+    "canonical_form" : "déclarer"
+  }, {
+    "canonical_form" : "manifester"
+  }, {
+    "canonical_form" : "raconter"
+  }, {
+    "canonical_form" : "éclaircir"
+  }, {
+    "canonical_form" : "enseigner"
+  }, {
+    "canonical_form" : "démontrer"
+  }, {
+    "canonical_form" : "prouver"
+  }, {
+    "canonical_form" : "énoncer"
+  }, {
+    "canonical_form" : "instruire"
+  }, {
+    "canonical_form" : "illustrer"
+  }, {
+    "canonical_form" : "développer"
+  }, {
+    "canonical_form" : "déchiffrer"
+  }, {
+    "canonical_form" : "communiquer"
+  }, {
+    "canonical_form" : "trahir"
+  }, {
+    "canonical_form" : "éclairer"
+  }, {
+    "canonical_form" : "élucider"
+  }, {
+    "canonical_form" : "traduire"
+  }, {
+    "canonical_form" : "retracer"
+  }, {
+    "canonical_form" : "préciser"
+  }, {
+    "canonical_form" : "interpréter"
+  }, {
+    "canonical_form" : "dévoiler"
+  }, {
+    "canonical_form" : "débrouiller"
+  }, {
+    "canonical_form" : "commenter"
+  }, {
+    "canonical_form" : "lire"
+  }, {
+    "canonical_form" : "renseigner"
+  }, {
+    "canonical_form" : "paraphraser"
+  }, {
+    "canonical_form" : "justifier"
+  }, {
+    "canonical_form" : "enfoncer"
+  }, {
+    "canonical_form" : "décrire"
+  }, {
+    "canonical_form" : "convaincre"
+  }, {
+    "canonical_form" : "motiver"
+  }, {
+    "canonical_form" : "expliciter"
+  }, {
+    "canonical_form" : "démêler"
+  }, {
+    "canonical_form" : "démystifier"
+  }, {
+    "canonical_form" : "définir"
+  }, {
+    "canonical_form" : "symboliser"
+  } ]
+}

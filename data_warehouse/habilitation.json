@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "habilitation",
+    "other_forms" : [ "habilitations" ]
+  }, {
+    "canonical_form" : "autorisation",
+    "other_forms" : [ "autorisations" ]
+  }, {
+    "canonical_form" : "permission",
+    "other_forms" : [ "permissions" ]
+  } ]
+}

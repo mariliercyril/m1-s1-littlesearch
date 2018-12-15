@@ -1,0 +1,172 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "enfant",
+    "other_forms" : [ "enfants" ]
+  }, {
+    "canonical_form" : "bébé",
+    "other_forms" : [ "bébés" ]
+  }, {
+    "canonical_form" : "fil",
+    "other_forms" : [ "fils" ]
+  }, {
+    "canonical_form" : "gosse",
+    "other_forms" : [ "gosses" ]
+  }, {
+    "canonical_form" : "moutard",
+    "other_forms" : [ "moutards" ]
+  }, {
+    "canonical_form" : "mioche",
+    "other_forms" : [ "mioches" ]
+  }, {
+    "canonical_form" : "môme",
+    "other_forms" : [ "mômes" ]
+  }, {
+    "canonical_form" : "rejeton",
+    "other_forms" : [ "rejetons" ]
+  }, {
+    "canonical_form" : "marmot",
+    "other_forms" : [ "marmots" ]
+  }, {
+    "canonical_form" : "fruit",
+    "other_forms" : [ "fruits" ]
+  }, {
+    "canonical_form" : "fille",
+    "other_forms" : [ "filles" ]
+  }, {
+    "canonical_form" : "ange",
+    "other_forms" : [ "anges" ]
+  }, {
+    "canonical_form" : "mômichon",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "mouflet",
+    "other_forms" : [ "mouflets", "mouflette", "mouflettes" ]
+  }, {
+    "canonical_form" : "héritier",
+    "other_forms" : [ "héritiers", "héritière", "héritières" ]
+  }, {
+    "canonical_form" : "gnard",
+    "other_forms" : [ "gnarde", "gnardes", "gnards" ]
+  }, {
+    "canonical_form" : "garçon",
+    "other_forms" : [ "garçons" ]
+  }, {
+    "canonical_form" : "marmouset",
+    "other_forms" : [ "marmousets" ]
+  }, {
+    "canonical_form" : "minouche",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "moujingue",
+    "other_forms" : [ "moujingues" ]
+  }, {
+    "canonical_form" : "gars",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "galopin",
+    "other_forms" : [ "galopins" ]
+  }, {
+    "canonical_form" : "fillette",
+    "other_forms" : [ "fillettes" ]
+  }, {
+    "canonical_form" : "amour",
+    "other_forms" : [ "amours" ]
+  }, {
+    "canonical_form" : "angelot",
+    "other_forms" : [ "angelots" ]
+  }, {
+    "canonical_form" : "biquet",
+    "other_forms" : [ "biquets", "biquette", "biquettes" ]
+  }, {
+    "canonical_form" : "chérubin",
+    "other_forms" : [ "chérubins" ]
+  }, {
+    "canonical_form" : "diable",
+    "other_forms" : [ "diables" ]
+  }, {
+    "canonical_form" : "enfançon",
+    "other_forms" : [ "enfançonne", "enfançonnes", "enfançons" ]
+  }, {
+    "canonical_form" : "moucheron",
+    "other_forms" : [ "moucherons" ]
+  }, {
+    "canonical_form" : "morpion",
+    "other_forms" : [ "morpions" ]
+  }, {
+    "canonical_form" : "momignard",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "minouchet",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "minot",
+    "other_forms" : [ "minots" ]
+  }, {
+    "canonical_form" : "niston",
+    "other_forms" : [ "nistonne", "nistonnes", "nistons" ]
+  }, {
+    "canonical_form" : "nourrisson",
+    "other_forms" : [ "nourrissons" ]
+  }, {
+    "canonical_form" : "trousse-pet",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "successeur",
+    "other_forms" : [ "successeurs" ]
+  }, {
+    "canonical_form" : "pupille",
+    "other_forms" : [ "pupilles" ]
+  }, {
+    "canonical_form" : "pitchoun",
+    "other_forms" : [ "pitchoune", "pitchounes", "pitchouns" ]
+  }, {
+    "canonical_form" : "nouveau-né",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "enfantelet",
+    "other_forms" : [ "enfantelets", "enfantelette", "enfantelettes" ]
+  }, {
+    "canonical_form" : "diablotin",
+    "other_forms" : [ "diablotins" ]
+  }, {
+    "canonical_form" : "crapaud",
+    "other_forms" : [ "crapauds" ]
+  }, {
+    "canonical_form" : "citoyen",
+    "other_forms" : [ "citoyenne", "citoyennes", "citoyens" ]
+  }, {
+    "canonical_form" : "chiffon",
+    "other_forms" : [ "chiffons" ]
+  }, {
+    "canonical_form" : "chiard",
+    "other_forms" : [ "chiards" ]
+  }, {
+    "canonical_form" : "garçonnet",
+    "other_forms" : [ "garçonnets" ]
+  }, {
+    "canonical_form" : "merdaillon",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "marmaille",
+    "other_forms" : [ "marmailles" ]
+  }, {
+    "canonical_form" : "loupiot",
+    "other_forms" : [ "loupiote", "loupiotes", "loupiots" ]
+  }, {
+    "canonical_form" : "lardon",
+    "other_forms" : [ "lardons" ]
+  }, {
+    "canonical_form" : "infant",
+    "other_forms" : [ "infante", "infantes", "infants" ]
+  }, {
+    "canonical_form" : "géniture",
+    "other_forms" : [ "génitures" ]
+  }, {
+    "canonical_form" : "gone",
+    "other_forms" : [ "gones" ]
+  }, {
+    "canonical_form" : "babouin",
+    "other_forms" : [ "babouins" ]
+  } ]
+}

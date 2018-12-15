@@ -1,0 +1,10 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "créatif",
+    "other_forms" : [ "créatifs", "créative", "créatives" ]
+  }, {
+    "canonical_form" : "inventif",
+    "other_forms" : [ "inventifs", "inventive", "inventives" ]
+  } ]
+}

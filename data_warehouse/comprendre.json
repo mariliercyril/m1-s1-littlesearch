@@ -1,0 +1,108 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "comprendre"
+  }, {
+    "canonical_form" : "saisir"
+  }, {
+    "canonical_form" : "voir"
+  }, {
+    "canonical_form" : "découvrir"
+  }, {
+    "canonical_form" : "pénétrer"
+  }, {
+    "canonical_form" : "apercevoir"
+  }, {
+    "canonical_form" : "entendre"
+  }, {
+    "canonical_form" : "connaître"
+  }, {
+    "canonical_form" : "embrasser"
+  }, {
+    "canonical_form" : "repérer"
+  }, {
+    "canonical_form" : "deviner"
+  }, {
+    "canonical_form" : "concevoir"
+  }, {
+    "canonical_form" : "prendre"
+  }, {
+    "canonical_form" : "trouver"
+  }, {
+    "canonical_form" : "appréhender"
+  }, {
+    "canonical_form" : "déchiffrer"
+  }, {
+    "canonical_form" : "inclure"
+  }, {
+    "canonical_form" : "sentir"
+  }, {
+    "canonical_form" : "contenir"
+  }, {
+    "canonical_form" : "remarquer"
+  }, {
+    "canonical_form" : "comporter"
+  }, {
+    "canonical_form" : "admettre"
+  }, {
+    "canonical_form" : "apprendre"
+  }, {
+    "canonical_form" : "apprécier"
+  }, {
+    "canonical_form" : "englober"
+  }, {
+    "canonical_form" : "imaginer"
+  }, {
+    "canonical_form" : "percer"
+  }, {
+    "canonical_form" : "révéler"
+  }, {
+    "canonical_form" : "renfermer"
+  }, {
+    "canonical_form" : "interpréter"
+  }, {
+    "canonical_form" : "assimiler"
+  }, {
+    "canonical_form" : "suivre"
+  }, {
+    "canonical_form" : "mordre"
+  }, {
+    "canonical_form" : "intégrer"
+  }, {
+    "canonical_form" : "incorporer"
+  }, {
+    "canonical_form" : "compter"
+  }, {
+    "canonical_form" : "enfermer"
+  }, {
+    "canonical_form" : "entrer"
+  }, {
+    "canonical_form" : "entrevoir"
+  }, {
+    "canonical_form" : "impliquer"
+  }, {
+    "canonical_form" : "traduire"
+  }, {
+    "canonical_form" : "réaliser"
+  }, {
+    "canonical_form" : "piger"
+  }, {
+    "canonical_form" : "mêler"
+  }, {
+    "canonical_form" : "envelopper"
+  }, {
+    "canonical_form" : "enclore"
+  }, {
+    "canonical_form" : "approuver"
+  }, {
+    "canonical_form" : "mélanger"
+  }, {
+    "canonical_form" : "grouper"
+  }, {
+    "canonical_form" : "démêler"
+  }, {
+    "canonical_form" : "décoder"
+  }, {
+    "canonical_form" : "consister"
+  } ]
+}

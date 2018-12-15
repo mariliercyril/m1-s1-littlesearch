@@ -1,0 +1,76 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "femme",
+    "other_forms" : [ "femmes" ]
+  }, {
+    "canonical_form" : "amante",
+    "other_forms" : [ "amantes" ]
+  }, {
+    "canonical_form" : "épouse",
+    "other_forms" : [ "épouses" ]
+  }, {
+    "canonical_form" : "nénette",
+    "other_forms" : [ "nénettes" ]
+  }, {
+    "canonical_form" : "dame",
+    "other_forms" : [ "dames" ]
+  }, {
+    "canonical_form" : "alter ego",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "frangine",
+    "other_forms" : [ "frangines" ]
+  }, {
+    "canonical_form" : "matrone",
+    "other_forms" : [ "matrones" ]
+  }, {
+    "canonical_form" : "moitié",
+    "other_forms" : [ "moitiés" ]
+  }, {
+    "canonical_form" : "mousmé",
+    "other_forms" : [ "mousmés" ]
+  }, {
+    "canonical_form" : "muse",
+    "other_forms" : [ "muses" ]
+  }, {
+    "canonical_form" : "ménesse",
+    "other_forms" : [ "ménesses" ]
+  }, {
+    "canonical_form" : "nana",
+    "other_forms" : [ "nanas" ]
+  }, {
+    "canonical_form" : "personne",
+    "other_forms" : [ "personnes" ]
+  }, {
+    "canonical_form" : "rombière",
+    "other_forms" : [ "rombières" ]
+  }, {
+    "canonical_form" : "femmelette",
+    "other_forms" : [ "femmelettes" ]
+  }, {
+    "canonical_form" : "bobonne",
+    "other_forms" : [ "bobonnes" ]
+  }, {
+    "canonical_form" : "commère",
+    "other_forms" : [ "commères" ]
+  }, {
+    "canonical_form" : "compagne",
+    "other_forms" : [ "compagnes" ]
+  }, {
+    "canonical_form" : "cotillon",
+    "other_forms" : [ "cotillons" ]
+  }, {
+    "canonical_form" : "créature",
+    "other_forms" : [ "créatures" ]
+  }, {
+    "canonical_form" : "demoiselle",
+    "other_forms" : [ "demoiselles" ]
+  }, {
+    "canonical_form" : "donzelle",
+    "other_forms" : [ "donzelles" ]
+  }, {
+    "canonical_form" : "égérie",
+    "other_forms" : [ "égéries" ]
+  } ]
+}

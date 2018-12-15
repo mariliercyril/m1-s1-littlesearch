@@ -1,0 +1,38 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "insuffler"
+  }, {
+    "canonical_form" : "infuser"
+  }, {
+    "canonical_form" : "inspirer"
+  }, {
+    "canonical_form" : "animer"
+  }, {
+    "canonical_form" : "communiquer"
+  }, {
+    "canonical_form" : "imprimer"
+  }, {
+    "canonical_form" : "inoculer"
+  }, {
+    "canonical_form" : "imprégner"
+  }, {
+    "canonical_form" : "souffler"
+  }, {
+    "canonical_form" : "introduire"
+  }, {
+    "canonical_form" : "aspirer"
+  }, {
+    "canonical_form" : "attiser"
+  }, {
+    "canonical_form" : "exciter"
+  }, {
+    "canonical_form" : "injecter"
+  }, {
+    "canonical_form" : "instiller"
+  }, {
+    "canonical_form" : "jeter"
+  }, {
+    "canonical_form" : "transfuser"
+  } ]
+}

@@ -1,0 +1,118 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "face",
+    "other_forms" : [ "faces" ]
+  }, {
+    "canonical_form" : "visage",
+    "other_forms" : [ "visages" ]
+  }, {
+    "canonical_form" : "figure",
+    "other_forms" : [ "figures" ]
+  }, {
+    "canonical_form" : "apparence",
+    "other_forms" : [ "apparences" ]
+  }, {
+    "canonical_form" : "façade",
+    "other_forms" : [ "façades" ]
+  }, {
+    "canonical_form" : "tête",
+    "other_forms" : [ "têtes" ]
+  }, {
+    "canonical_form" : "aspect",
+    "other_forms" : [ "aspects" ]
+  }, {
+    "canonical_form" : "endroit",
+    "other_forms" : [ "endroits" ]
+  }, {
+    "canonical_form" : "côté",
+    "other_forms" : [ "côtés" ]
+  }, {
+    "canonical_form" : "mine",
+    "other_forms" : [ "mines" ]
+  }, {
+    "canonical_form" : "tournure",
+    "other_forms" : [ "tournures" ]
+  }, {
+    "canonical_form" : "physionomie",
+    "other_forms" : [ "physionomies" ]
+  }, {
+    "canonical_form" : "front",
+    "other_forms" : [ "fronts" ]
+  }, {
+    "canonical_form" : "devant",
+    "other_forms" : [ "devants" ]
+  }, {
+    "canonical_form" : "mufle",
+    "other_forms" : [ "mufles" ]
+  }, {
+    "canonical_form" : "museau",
+    "other_forms" : [ "museaux" ]
+  }, {
+    "canonical_form" : "hure",
+    "other_forms" : [ "hures" ]
+  }, {
+    "canonical_form" : "faciès",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "semblance",
+    "other_forms" : [ "semblances" ]
+  }, {
+    "canonical_form" : "minois",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "image",
+    "other_forms" : [ "images" ]
+  }, {
+    "canonical_form" : "groin",
+    "other_forms" : [ "groins" ]
+  }, {
+    "canonical_form" : "frimousse",
+    "other_forms" : [ "frimousses" ]
+  }, {
+    "canonical_form" : "coin",
+    "other_forms" : [ "coins" ]
+  }, {
+    "canonical_form" : "angle",
+    "other_forms" : [ "angles" ]
+  }, {
+    "canonical_form" : "obvers",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "paroi",
+    "other_forms" : [ "parois" ]
+  }, {
+    "canonical_form" : "point de vue",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "sens",
+    "other_forms" : [ "sen" ]
+  }, {
+    "canonical_form" : "surface",
+    "other_forms" : [ "surfaces" ]
+  }, {
+    "canonical_form" : "gueule",
+    "other_forms" : [ "gueules" ]
+  }, {
+    "canonical_form" : "frontispice",
+    "other_forms" : [ "frontispices" ]
+  }, {
+    "canonical_form" : "facette",
+    "other_forms" : [ "facettes" ]
+  }, {
+    "canonical_form" : "devanture",
+    "other_forms" : [ "devantures" ]
+  }, {
+    "canonical_form" : "croix",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "couture",
+    "other_forms" : [ "coutures" ]
+  }, {
+    "canonical_form" : "avers",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "versant",
+    "other_forms" : [ "versants" ]
+  } ]
+}

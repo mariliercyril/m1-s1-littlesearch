@@ -1,0 +1,154 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "gouvernement",
+    "other_forms" : [ "gouvernements" ]
+  }, {
+    "canonical_form" : "administration",
+    "other_forms" : [ "administrations" ]
+  }, {
+    "canonical_form" : "direction",
+    "other_forms" : [ "directions" ]
+  }, {
+    "canonical_form" : "autorité",
+    "other_forms" : [ "autorités" ]
+  }, {
+    "canonical_form" : "pouvoir",
+    "other_forms" : [ "pouvoirs" ]
+  }, {
+    "canonical_form" : "empire",
+    "other_forms" : [ "empires" ]
+  }, {
+    "canonical_form" : "état",
+    "other_forms" : [ "états" ]
+  }, {
+    "canonical_form" : "gestion",
+    "other_forms" : [ "gestions" ]
+  }, {
+    "canonical_form" : "régime",
+    "other_forms" : [ "régimes" ]
+  }, {
+    "canonical_form" : "économie",
+    "other_forms" : [ "économies" ]
+  }, {
+    "canonical_form" : "tyrannie",
+    "other_forms" : [ "tyrannies" ]
+  }, {
+    "canonical_form" : "puissance",
+    "other_forms" : [ "puissances" ]
+  }, {
+    "canonical_form" : "monarchie",
+    "other_forms" : [ "monarchies" ]
+  }, {
+    "canonical_form" : "despotisme",
+    "other_forms" : [ "despotismes" ]
+  }, {
+    "canonical_form" : "constitution",
+    "other_forms" : [ "constitutions" ]
+  }, {
+    "canonical_form" : "autocratie",
+    "other_forms" : [ "autocraties" ]
+  }, {
+    "canonical_form" : "système",
+    "other_forms" : [ "systèmes" ]
+  }, {
+    "canonical_form" : "république",
+    "other_forms" : [ "républiques" ]
+  }, {
+    "canonical_form" : "règne",
+    "other_forms" : [ "règnes" ]
+  }, {
+    "canonical_form" : "règlement",
+    "other_forms" : [ "règlements" ]
+  }, {
+    "canonical_form" : "police",
+    "other_forms" : [ "polices" ]
+  }, {
+    "canonical_form" : "ménage",
+    "other_forms" : [ "ménages" ]
+  }, {
+    "canonical_form" : "maîtrise",
+    "other_forms" : [ "maîtrises" ]
+  }, {
+    "canonical_form" : "institution",
+    "other_forms" : [ "institutions" ]
+  }, {
+    "canonical_form" : "gouvernail",
+    "other_forms" : [ "gouvernails" ]
+  }, {
+    "canonical_form" : "démocratie",
+    "other_forms" : [ "démocraties" ]
+  }, {
+    "canonical_form" : "autoritarisme",
+    "other_forms" : [ "autoritarismes" ]
+  }, {
+    "canonical_form" : "absolutisme",
+    "other_forms" : [ "absolutismes" ]
+  }, {
+    "canonical_form" : "ministère",
+    "other_forms" : [ "ministères" ]
+  }, {
+    "canonical_form" : "maniement",
+    "other_forms" : [ "maniements" ]
+  }, {
+    "canonical_form" : "intendance",
+    "other_forms" : [ "intendances" ]
+  }, {
+    "canonical_form" : "fédéralisme",
+    "other_forms" : [ "fédéralismes" ]
+  }, {
+    "canonical_form" : "oligarchie",
+    "other_forms" : [ "oligarchies" ]
+  }, {
+    "canonical_form" : "protectorat",
+    "other_forms" : [ "protectorats" ]
+  }, {
+    "canonical_form" : "province",
+    "other_forms" : [ "provinces" ]
+  }, {
+    "canonical_form" : "royauté",
+    "other_forms" : [ "royautés" ]
+  }, {
+    "canonical_form" : "régence",
+    "other_forms" : [ "régences" ]
+  }, {
+    "canonical_form" : "régie",
+    "other_forms" : [ "régies" ]
+  }, {
+    "canonical_form" : "timon",
+    "other_forms" : [ "timons" ]
+  }, {
+    "canonical_form" : "dictature",
+    "other_forms" : [ "dictatures" ]
+  }, {
+    "canonical_form" : "saint-siège",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "alter ego",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "aristocratie",
+    "other_forms" : [ "aristocraties" ]
+  }, {
+    "canonical_form" : "autonomie",
+    "other_forms" : [ "autonomies" ]
+  }, {
+    "canonical_form" : "cabinet",
+    "other_forms" : [ "cabinets" ]
+  }, {
+    "canonical_form" : "consulat",
+    "other_forms" : [ "consulats" ]
+  }, {
+    "canonical_form" : "contrôle",
+    "other_forms" : [ "contrôles" ]
+  }, {
+    "canonical_form" : "cour",
+    "other_forms" : [ "cours" ]
+  }, {
+    "canonical_form" : "césarisme",
+    "other_forms" : [ "césarismes" ]
+  }, {
+    "canonical_form" : "éducation",
+    "other_forms" : [ "éducations" ]
+  } ]
+}

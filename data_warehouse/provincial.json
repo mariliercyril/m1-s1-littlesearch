@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "provincial",
+    "other_forms" : [ "provinciale", "provinciales", "provinciaux" ]
+  }, {
+    "canonical_form" : "gauche",
+    "other_forms" : [ "gauches" ]
+  }, {
+    "canonical_form" : "régional",
+    "other_forms" : [ "régionale", "régionales", "régionaux" ]
+  } ]
+}

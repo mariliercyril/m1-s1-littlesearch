@@ -1,0 +1,10 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "institut",
+    "other_forms" : [ "instituts" ]
+  }, {
+    "canonical_form" : "académie",
+    "other_forms" : [ "académies" ]
+  } ]
+}

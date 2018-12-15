@@ -1,0 +1,118 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "considérable",
+    "other_forms" : [ "considérables" ]
+  }, {
+    "canonical_form" : "grand",
+    "other_forms" : [ "grande", "grandes", "grands" ]
+  }, {
+    "canonical_form" : "gros",
+    "other_forms" : [ "grosse", "grosses" ]
+  }, {
+    "canonical_form" : "important",
+    "other_forms" : [ "importante", "importantes", "importants" ]
+  }, {
+    "canonical_form" : "formidable",
+    "other_forms" : [ "formidables" ]
+  }, {
+    "canonical_form" : "énorme",
+    "other_forms" : [ "énormes" ]
+  }, {
+    "canonical_form" : "imposant",
+    "other_forms" : [ "imposante", "imposantes", "imposants" ]
+  }, {
+    "canonical_form" : "extraordinaire",
+    "other_forms" : [ "extraordinaires" ]
+  }, {
+    "canonical_form" : "immense",
+    "other_forms" : [ "immenses" ]
+  }, {
+    "canonical_form" : "vaste",
+    "other_forms" : [ "vastes" ]
+  }, {
+    "canonical_form" : "notable",
+    "other_forms" : [ "notables" ]
+  }, {
+    "canonical_form" : "beau",
+    "other_forms" : [ "beaux", "bel", "belle", "belles" ]
+  }, {
+    "canonical_form" : "éminent",
+    "other_forms" : [ "éminente", "éminentes", "éminents" ]
+  }, {
+    "canonical_form" : "remarquable",
+    "other_forms" : [ "remarquables" ]
+  }, {
+    "canonical_form" : "incalculable",
+    "other_forms" : [ "incalculables" ]
+  }, {
+    "canonical_form" : "bon",
+    "other_forms" : [ "bonne", "bonnes", "bons" ]
+  }, {
+    "canonical_form" : "prodigieux",
+    "other_forms" : [ "prodigieuse", "prodigieuses" ]
+  }, {
+    "canonical_form" : "large",
+    "other_forms" : [ "larges" ]
+  }, {
+    "canonical_form" : "haut",
+    "other_forms" : [ "haute", "hautes", "hauts" ]
+  }, {
+    "canonical_form" : "gigantesque",
+    "other_forms" : [ "gigantesques" ]
+  }, {
+    "canonical_form" : "abondant",
+    "other_forms" : [ "abondante", "abondantes", "abondants" ]
+  }, {
+    "canonical_form" : "appréciable",
+    "other_forms" : [ "appréciables" ]
+  }, {
+    "canonical_form" : "architectural",
+    "other_forms" : [ "architecturale", "architecturales", "architecturaux" ]
+  }, {
+    "canonical_form" : "impressionnant",
+    "other_forms" : [ "impressionnante", "impressionnantes", "impressionnants" ]
+  }, {
+    "canonical_form" : "rondelet",
+    "other_forms" : [ "rondelets", "rondelette", "rondelettes" ]
+  }, {
+    "canonical_form" : "nombreux",
+    "other_forms" : [ "nombreuse", "nombreuses" ]
+  }, {
+    "canonical_form" : "ample",
+    "other_forms" : [ "amples" ]
+  }, {
+    "canonical_form" : "titanesque",
+    "other_forms" : [ "titanesques", "titanique", "titaniques" ]
+  }, {
+    "canonical_form" : "substantiel",
+    "other_forms" : [ "substantielle", "substantielles", "substantiels" ]
+  }, {
+    "canonical_form" : "puissant",
+    "other_forms" : [ "puissante", "puissantes", "puissants" ]
+  }, {
+    "canonical_form" : "majeur",
+    "other_forms" : [ "majeure", "majeures", "majeurs" ]
+  }, {
+    "canonical_form" : "joli",
+    "other_forms" : [ "jolie", "jolies", "jolis" ]
+  }, {
+    "canonical_form" : "innombrable",
+    "other_forms" : [ "innombrables" ]
+  }, {
+    "canonical_form" : "inestimable",
+    "other_forms" : [ "inestimables" ]
+  }, {
+    "canonical_form" : "inappréciable",
+    "other_forms" : [ "inappréciables" ]
+  }, {
+    "canonical_form" : "confortable",
+    "other_forms" : [ "confortables" ]
+  }, {
+    "canonical_form" : "conséquent",
+    "other_forms" : [ "conséquente", "conséquentes", "conséquents" ]
+  }, {
+    "canonical_form" : "lourd",
+    "other_forms" : [ "lourde", "lourdes", "lourds" ]
+  } ]
+}

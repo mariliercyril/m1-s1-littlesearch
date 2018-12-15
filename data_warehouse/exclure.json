@@ -1,0 +1,64 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "exclure"
+  }, {
+    "canonical_form" : "écarter"
+  }, {
+    "canonical_form" : "chasser"
+  }, {
+    "canonical_form" : "éliminer"
+  }, {
+    "canonical_form" : "bannir"
+  }, {
+    "canonical_form" : "supprimer"
+  }, {
+    "canonical_form" : "repousser"
+  }, {
+    "canonical_form" : "renvoyer"
+  }, {
+    "canonical_form" : "rejeter"
+  }, {
+    "canonical_form" : "ôter"
+  }, {
+    "canonical_form" : "éloigner"
+  }, {
+    "canonical_form" : "proscrire"
+  }, {
+    "canonical_form" : "expulser"
+  }, {
+    "canonical_form" : "retrancher"
+  }, {
+    "canonical_form" : "interdire"
+  }, {
+    "canonical_form" : "exiler"
+  }, {
+    "canonical_form" : "rayer"
+  }, {
+    "canonical_form" : "refuser"
+  }, {
+    "canonical_form" : "évincer"
+  }, {
+    "canonical_form" : "vider"
+  }, {
+    "canonical_form" : "refouler"
+  }, {
+    "canonical_form" : "excommunier"
+  }, {
+    "canonical_form" : "excepter"
+  }, {
+    "canonical_form" : "empêcher"
+  }, {
+    "canonical_form" : "éconduire"
+  }, {
+    "canonical_form" : "épurer"
+  }, {
+    "canonical_form" : "prohiber"
+  }, {
+    "canonical_form" : "limoger"
+  }, {
+    "canonical_form" : "isoler"
+  }, {
+    "canonical_form" : "forclore"
+  } ]
+}

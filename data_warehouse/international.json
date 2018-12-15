@@ -1,0 +1,22 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "international",
+    "other_forms" : [ "internationale", "internationales", "internationaux" ]
+  }, {
+    "canonical_form" : "universel",
+    "other_forms" : [ "universelle", "universelles", "universels" ]
+  }, {
+    "canonical_form" : "général",
+    "other_forms" : [ "générale", "générales", "généraux" ]
+  }, {
+    "canonical_form" : "mondial",
+    "other_forms" : [ "mondiale", "mondiales", "mondiaux" ]
+  }, {
+    "canonical_form" : "oecuménique",
+    "other_forms" : [ "oecuméniques" ]
+  }, {
+    "canonical_form" : "planétaire",
+    "other_forms" : [ "planétaires" ]
+  } ]
+}

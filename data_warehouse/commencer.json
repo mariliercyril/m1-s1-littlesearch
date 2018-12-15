@@ -1,0 +1,90 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "commencer"
+  }, {
+    "canonical_form" : "entreprendre"
+  }, {
+    "canonical_form" : "entamer"
+  }, {
+    "canonical_form" : "amorcer"
+  }, {
+    "canonical_form" : "débuter"
+  }, {
+    "canonical_form" : "engager"
+  }, {
+    "canonical_form" : "démarrer"
+  }, {
+    "canonical_form" : "partir"
+  }, {
+    "canonical_form" : "ouvrir"
+  }, {
+    "canonical_form" : "attaquer"
+  }, {
+    "canonical_form" : "naître"
+  }, {
+    "canonical_form" : "prendre"
+  }, {
+    "canonical_form" : "ébaucher"
+  }, {
+    "canonical_form" : "poindre"
+  }, {
+    "canonical_form" : "déclencher"
+  }, {
+    "canonical_form" : "créer"
+  }, {
+    "canonical_form" : "éclore"
+  }, {
+    "canonical_form" : "inaugurer"
+  }, {
+    "canonical_form" : "former"
+  }, {
+    "canonical_form" : "éclater"
+  }, {
+    "canonical_form" : "initier"
+  }, {
+    "canonical_form" : "fonder"
+  }, {
+    "canonical_form" : "entailler"
+  }, {
+    "canonical_form" : "embarquer"
+  }, {
+    "canonical_form" : "dégrossir"
+  }, {
+    "canonical_form" : "préluder"
+  }, {
+    "canonical_form" : "progresser"
+  }, {
+    "canonical_form" : "tâtonner"
+  }, {
+    "canonical_form" : "ânonner"
+  }, {
+    "canonical_form" : "émerger"
+  }, {
+    "canonical_form" : "mener"
+  }, {
+    "canonical_form" : "aligner"
+  }, {
+    "canonical_form" : "allumer"
+  }, {
+    "canonical_form" : "balbutier"
+  }, {
+    "canonical_form" : "dater"
+  }, {
+    "canonical_form" : "emmancher"
+  }, {
+    "canonical_form" : "enfourner"
+  }, {
+    "canonical_form" : "engrener"
+  }, {
+    "canonical_form" : "entonner"
+  }, {
+    "canonical_form" : "esquisser"
+  }, {
+    "canonical_form" : "instituer"
+  }, {
+    "canonical_form" : "intenter"
+  }, {
+    "canonical_form" : "étrenner"
+  } ]
+}

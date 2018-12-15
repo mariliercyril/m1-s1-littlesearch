@@ -74,6 +74,7 @@ public class FrenchAnalyser {
 		tokens = disambiguate(tokens, "Lie", "Lie_PROPER_NOUN");
 		tokens = disambiguate(tokens, "Louis", "Louis_PROPER_NOUN");
 		tokens = disambiguate(tokens, "Paris", "Paris_PROPER_NOUN");
+		tokens = disambiguate(tokens, "Pascal", "Pascal_PROPER_NOUN");
 		tokens = disambiguate(tokens, "Sceaux", "Sceaux_PROPER_NOUN");
 		// Does the task 7: Disambiguates "être" tokens
 		tokens = disambiguate(tokens, "été", "être");

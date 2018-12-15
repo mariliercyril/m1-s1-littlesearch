@@ -1,0 +1,37 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "devant",
+    "other_forms" : [ "devants" ]
+  }, {
+    "canonical_form" : "avant",
+    "other_forms" : [ "avants" ]
+  }, {
+    "canonical_form" : "face",
+    "other_forms" : [ "faces" ]
+  }, {
+    "canonical_form" : "façade",
+    "other_forms" : [ "façades" ]
+  }, {
+    "canonical_form" : "front",
+    "other_forms" : [ "fronts" ]
+  }, {
+    "canonical_form" : "seuil",
+    "other_forms" : [ "seuils" ]
+  }, {
+    "canonical_form" : "tête",
+    "other_forms" : [ "têtes" ]
+  }, {
+    "canonical_form" : "devanture",
+    "other_forms" : [ "devantures" ]
+  }, {
+    "canonical_form" : "proue",
+    "other_forms" : [ "proues" ]
+  }, {
+    "canonical_form" : "pas",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "endroit",
+    "other_forms" : [ "endroits" ]
+  } ]
+}

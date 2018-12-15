@@ -1,0 +1,28 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "successeur",
+    "other_forms" : [ "successeurs" ]
+  }, {
+    "canonical_form" : "héritier",
+    "other_forms" : [ "héritiers", "héritière", "héritières" ]
+  }, {
+    "canonical_form" : "continuateur",
+    "other_forms" : [ "continuateurs", "continuatrice", "continuatrices" ]
+  }, {
+    "canonical_form" : "dauphin",
+    "other_forms" : [ "dauphins" ]
+  }, {
+    "canonical_form" : "enfant",
+    "other_forms" : [ "enfants" ]
+  }, {
+    "canonical_form" : "fil",
+    "other_forms" : [ "fils" ]
+  }, {
+    "canonical_form" : "queue",
+    "other_forms" : [ "queues" ]
+  }, {
+    "canonical_form" : "épigone",
+    "other_forms" : [ "épigones" ]
+  } ]
+}

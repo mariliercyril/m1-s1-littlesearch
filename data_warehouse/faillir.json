@@ -1,0 +1,30 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "faillir"
+  }, {
+    "canonical_form" : "manquer"
+  }, {
+    "canonical_form" : "pécher"
+  }, {
+    "canonical_form" : "tomber"
+  }, {
+    "canonical_form" : "chuter"
+  }, {
+    "canonical_form" : "broncher"
+  }, {
+    "canonical_form" : "oublier"
+  }, {
+    "canonical_form" : "forfaire"
+  }, {
+    "canonical_form" : "fauter"
+  }, {
+    "canonical_form" : "faiblir"
+  }, {
+    "canonical_form" : "défaillir"
+  }, {
+    "canonical_form" : "croire"
+  }, {
+    "canonical_form" : "choir"
+  } ]
+}

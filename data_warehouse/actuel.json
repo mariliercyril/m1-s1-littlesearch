@@ -1,0 +1,40 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "actuel",
+    "other_forms" : [ "actuelle", "actuelles", "actuels" ]
+  }, {
+    "canonical_form" : "présent",
+    "other_forms" : [ "présente", "présentes", "présents" ]
+  }, {
+    "canonical_form" : "tangible",
+    "other_forms" : [ "tangibles" ]
+  }, {
+    "canonical_form" : "réel",
+    "other_forms" : [ "réelle", "réelles", "réels" ]
+  }, {
+    "canonical_form" : "nouveau",
+    "other_forms" : [ "nouveaux", "nouvel", "nouvelle", "nouvelles" ]
+  }, {
+    "canonical_form" : "moderne",
+    "other_forms" : [ "modernes" ]
+  }, {
+    "canonical_form" : "existant",
+    "other_forms" : [ "existante", "existantes", "existants" ]
+  }, {
+    "canonical_form" : "brûlant",
+    "other_forms" : [ "brûlante", "brûlantes", "brûlants" ]
+  }, {
+    "canonical_form" : "contemporain",
+    "other_forms" : [ "contemporaine", "contemporaines", "contemporains" ]
+  }, {
+    "canonical_form" : "courant",
+    "other_forms" : [ "courante", "courantes", "courants" ]
+  }, {
+    "canonical_form" : "effectif",
+    "other_forms" : [ "effectifs", "effective", "effectives" ]
+  }, {
+    "canonical_form" : "frais",
+    "other_forms" : [ "fraîche", "fraîches" ]
+  } ]
+}

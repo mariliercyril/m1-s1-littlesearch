@@ -1,0 +1,58 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "élaborer"
+  }, {
+    "canonical_form" : "faire"
+  }, {
+    "canonical_form" : "composer"
+  }, {
+    "canonical_form" : "préparer"
+  }, {
+    "canonical_form" : "former"
+  }, {
+    "canonical_form" : "fabriquer"
+  }, {
+    "canonical_form" : "produire"
+  }, {
+    "canonical_form" : "façonner"
+  }, {
+    "canonical_form" : "construire"
+  }, {
+    "canonical_form" : "créer"
+  }, {
+    "canonical_form" : "travailler"
+  }, {
+    "canonical_form" : "combiner"
+  }, {
+    "canonical_form" : "méditer"
+  }, {
+    "canonical_form" : "organiser"
+  }, {
+    "canonical_form" : "édifier"
+  }, {
+    "canonical_form" : "constituer"
+  }, {
+    "canonical_form" : "confectionner"
+  }, {
+    "canonical_form" : "enfanter"
+  }, {
+    "canonical_form" : "échafauder"
+  }, {
+    "canonical_form" : "étudier"
+  }, {
+    "canonical_form" : "transformer"
+  }, {
+    "canonical_form" : "donner"
+  }, {
+    "canonical_form" : "digérer"
+  }, {
+    "canonical_form" : "assimiler"
+  }, {
+    "canonical_form" : "concocter"
+  }, {
+    "canonical_form" : "ouvrer"
+  }, {
+    "canonical_form" : "sécréter"
+  } ]
+}

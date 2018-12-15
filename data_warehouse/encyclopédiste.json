@@ -1,0 +1,16 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "encyclopédiste",
+    "other_forms" : [ "encyclopédistes" ]
+  }, {
+    "canonical_form" : "auteur",
+    "other_forms" : [ "auteurs" ]
+  }, {
+    "canonical_form" : "lexicographe",
+    "other_forms" : [ "lexicographes" ]
+  }, {
+    "canonical_form" : "philosophe",
+    "other_forms" : [ "philosophes" ]
+  } ]
+}

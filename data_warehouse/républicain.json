@@ -1,0 +1,16 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "républicain",
+    "other_forms" : [ "républicaine", "républicaines", "républicains" ]
+  }, {
+    "canonical_form" : "démocrate",
+    "other_forms" : [ "démocrates" ]
+  }, {
+    "canonical_form" : "révolutionnaire",
+    "other_forms" : [ "révolutionnaires" ]
+  }, {
+    "canonical_form" : "voltairien",
+    "other_forms" : [ "voltairienne", "voltairiennes", "voltairiens" ]
+  } ]
+}

@@ -1,0 +1,49 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "âge",
+    "other_forms" : [ "âges" ]
+  }, {
+    "canonical_form" : "temps",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "période",
+    "other_forms" : [ "périodes" ]
+  }, {
+    "canonical_form" : "siècle",
+    "other_forms" : [ "siècles" ]
+  }, {
+    "canonical_form" : "époque",
+    "other_forms" : [ "époques" ]
+  }, {
+    "canonical_form" : "ère",
+    "other_forms" : [ "ères" ]
+  }, {
+    "canonical_form" : "vie",
+    "other_forms" : [ "vies" ]
+  }, {
+    "canonical_form" : "ancienneté",
+    "other_forms" : [ "anciennetés" ]
+  }, {
+    "canonical_form" : "saison",
+    "other_forms" : [ "saisons" ]
+  }, {
+    "canonical_form" : "hégire",
+    "other_forms" : [ "hégires" ]
+  }, {
+    "canonical_form" : "heure",
+    "other_forms" : [ "heures" ]
+  }, {
+    "canonical_form" : "génération",
+    "other_forms" : [ "générations" ]
+  }, {
+    "canonical_form" : "existence",
+    "other_forms" : [ "existences" ]
+  }, {
+    "canonical_form" : "an",
+    "other_forms" : [ "ans" ]
+  }, {
+    "canonical_form" : "vieillesse",
+    "other_forms" : [ "vieillesses" ]
+  } ]
+}

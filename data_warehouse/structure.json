@@ -1,0 +1,112 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "structure",
+    "other_forms" : [ "structures" ]
+  }, {
+    "canonical_form" : "organisation",
+    "other_forms" : [ "organisations" ]
+  }, {
+    "canonical_form" : "arrangement",
+    "other_forms" : [ "arrangements" ]
+  }, {
+    "canonical_form" : "composition",
+    "other_forms" : [ "compositions" ]
+  }, {
+    "canonical_form" : "constitution",
+    "other_forms" : [ "constitutions" ]
+  }, {
+    "canonical_form" : "disposition",
+    "other_forms" : [ "dispositions" ]
+  }, {
+    "canonical_form" : "teneur",
+    "other_forms" : [ "teneurs" ]
+  }, {
+    "canonical_form" : "texture",
+    "other_forms" : [ "textures" ]
+  }, {
+    "canonical_form" : "ordre",
+    "other_forms" : [ "ordres" ]
+  }, {
+    "canonical_form" : "forme",
+    "other_forms" : [ "formes" ]
+  }, {
+    "canonical_form" : "contexture",
+    "other_forms" : [ "contextures" ]
+  }, {
+    "canonical_form" : "ossature",
+    "other_forms" : [ "ossatures" ]
+  }, {
+    "canonical_form" : "ordonnance",
+    "other_forms" : [ "ordonnances" ]
+  }, {
+    "canonical_form" : "architecture",
+    "other_forms" : [ "architectures" ]
+  }, {
+    "canonical_form" : "agencement",
+    "other_forms" : [ "agencements" ]
+  }, {
+    "canonical_form" : "squelette",
+    "other_forms" : [ "squelettes" ]
+  }, {
+    "canonical_form" : "système",
+    "other_forms" : [ "systèmes" ]
+  }, {
+    "canonical_form" : "figure",
+    "other_forms" : [ "figures" ]
+  }, {
+    "canonical_form" : "charpente",
+    "other_forms" : [ "charpentes" ]
+  }, {
+    "canonical_form" : "canevas",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "construction",
+    "other_forms" : [ "constructions" ]
+  }, {
+    "canonical_form" : "économie",
+    "other_forms" : [ "économies" ]
+  }, {
+    "canonical_form" : "syntaxe",
+    "other_forms" : [ "syntaxes" ]
+  }, {
+    "canonical_form" : "schème",
+    "other_forms" : [ "schèmes" ]
+  }, {
+    "canonical_form" : "régime",
+    "other_forms" : [ "régimes" ]
+  }, {
+    "canonical_form" : "hiérarchie",
+    "other_forms" : [ "hiérarchies" ]
+  }, {
+    "canonical_form" : "conformation",
+    "other_forms" : [ "conformations" ]
+  }, {
+    "canonical_form" : "armature",
+    "other_forms" : [ "armatures" ]
+  }, {
+    "canonical_form" : "relation",
+    "other_forms" : [ "relations" ]
+  }, {
+    "canonical_form" : "organisme",
+    "other_forms" : [ "organismes" ]
+  }, {
+    "canonical_form" : "linéament",
+    "other_forms" : [ "linéaments" ]
+  }, {
+    "canonical_form" : "géologie",
+    "other_forms" : [ "géologies" ]
+  }, {
+    "canonical_form" : "groupement",
+    "other_forms" : [ "groupements" ]
+  }, {
+    "canonical_form" : "gestaltisme",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "gestalt",
+    "other_forms" : [ "gestalts" ]
+  }, {
+    "canonical_form" : "faciès",
+    "other_forms" : [ ]
+  } ]
+}

@@ -1,0 +1,145 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "correspondance",
+    "other_forms" : [ "correspondances" ]
+  }, {
+    "canonical_form" : "rapport",
+    "other_forms" : [ "rapports" ]
+  }, {
+    "canonical_form" : "accord",
+    "other_forms" : [ "accords" ]
+  }, {
+    "canonical_form" : "harmonie",
+    "other_forms" : [ "harmonies" ]
+  }, {
+    "canonical_form" : "relation",
+    "other_forms" : [ "relations" ]
+  }, {
+    "canonical_form" : "liaison",
+    "other_forms" : [ "liaisons" ]
+  }, {
+    "canonical_form" : "corrélation",
+    "other_forms" : [ "corrélations" ]
+  }, {
+    "canonical_form" : "concordance",
+    "other_forms" : [ "concordances" ]
+  }, {
+    "canonical_form" : "affinité",
+    "other_forms" : [ "affinités" ]
+  }, {
+    "canonical_form" : "convenance",
+    "other_forms" : [ "convenances" ]
+  }, {
+    "canonical_form" : "similitude",
+    "other_forms" : [ "similitudes" ]
+  }, {
+    "canonical_form" : "union",
+    "other_forms" : [ "unions" ]
+  }, {
+    "canonical_form" : "ressemblance",
+    "other_forms" : [ "ressemblances" ]
+  }, {
+    "canonical_form" : "conformité",
+    "other_forms" : [ "conformités" ]
+  }, {
+    "canonical_form" : "analogie",
+    "other_forms" : [ "analogies" ]
+  }, {
+    "canonical_form" : "proportion",
+    "other_forms" : [ "proportions" ]
+  }, {
+    "canonical_form" : "lettre",
+    "other_forms" : [ "lettres" ]
+  }, {
+    "canonical_form" : "dépêche",
+    "other_forms" : [ "dépêches" ]
+  }, {
+    "canonical_form" : "communion",
+    "other_forms" : [ "communions" ]
+  }, {
+    "canonical_form" : "communication",
+    "other_forms" : [ "communications" ]
+  }, {
+    "canonical_form" : "synchronisme",
+    "other_forms" : [ "synchronismes" ]
+  }, {
+    "canonical_form" : "symétrie",
+    "other_forms" : [ "symétries" ]
+  }, {
+    "canonical_form" : "message",
+    "other_forms" : [ "messages" ]
+  }, {
+    "canonical_form" : "intimité",
+    "other_forms" : [ "intimités" ]
+  }, {
+    "canonical_form" : "fréquentation",
+    "other_forms" : [ "fréquentations" ]
+  }, {
+    "canonical_form" : "dépendance",
+    "other_forms" : [ "dépendances" ]
+  }, {
+    "canonical_form" : "coïncidence",
+    "other_forms" : [ "coïncidences" ]
+  }, {
+    "canonical_form" : "courrier",
+    "other_forms" : [ "courriers" ]
+  }, {
+    "canonical_form" : "connexité",
+    "other_forms" : [ "connexités" ]
+  }, {
+    "canonical_form" : "concomitance",
+    "other_forms" : [ "concomitances" ]
+  }, {
+    "canonical_form" : "commerce",
+    "other_forms" : [ "commerces" ]
+  }, {
+    "canonical_form" : "relais",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "reportage",
+    "other_forms" : [ "reportages" ]
+  }, {
+    "canonical_form" : "rubrique",
+    "other_forms" : [ "rubriques" ]
+  }, {
+    "canonical_form" : "réciprocité",
+    "other_forms" : [ "réciprocités" ]
+  }, {
+    "canonical_form" : "simultanéité",
+    "other_forms" : [ "simultanéités" ]
+  }, {
+    "canonical_form" : "valise",
+    "other_forms" : [ "valises" ]
+  }, {
+    "canonical_form" : "épître",
+    "other_forms" : [ "épîtres" ]
+  }, {
+    "canonical_form" : "lettre",
+    "other_forms" : [ "lettres" ]
+  }, {
+    "canonical_form" : "intelligence",
+    "other_forms" : [ "intelligences" ]
+  }, {
+    "canonical_form" : "fonction",
+    "other_forms" : [ "fonctions" ]
+  }, {
+    "canonical_form" : "diagramme",
+    "other_forms" : [ "diagrammes" ]
+  }, {
+    "canonical_form" : "changement",
+    "other_forms" : [ "changements" ]
+  }, {
+    "canonical_form" : "billet",
+    "other_forms" : [ "billets" ]
+  }, {
+    "canonical_form" : "application",
+    "other_forms" : [ "applications" ]
+  }, {
+    "canonical_form" : "accordance",
+    "other_forms" : [ "accordances" ]
+  }, {
+    "canonical_form" : "équilibre",
+    "other_forms" : [ "équilibres" ]
+  } ]
+}

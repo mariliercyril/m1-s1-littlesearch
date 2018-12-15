@@ -1,0 +1,28 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "incarnation",
+    "other_forms" : [ "incarnations" ]
+  }, {
+    "canonical_form" : "expression",
+    "other_forms" : [ "expressions" ]
+  }, {
+    "canonical_form" : "image",
+    "other_forms" : [ "images" ]
+  }, {
+    "canonical_form" : "symbole",
+    "other_forms" : [ "symboles" ]
+  }, {
+    "canonical_form" : "avatar",
+    "other_forms" : [ "avatars" ]
+  }, {
+    "canonical_form" : "manifestation",
+    "other_forms" : [ "manifestations" ]
+  }, {
+    "canonical_form" : "métamorphose",
+    "other_forms" : [ "métamorphoses" ]
+  }, {
+    "canonical_form" : "personnification",
+    "other_forms" : [ "personnifications" ]
+  } ]
+}

@@ -1,0 +1,49 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "académie",
+    "other_forms" : [ "académies" ]
+  }, {
+    "canonical_form" : "institut",
+    "other_forms" : [ "instituts" ]
+  }, {
+    "canonical_form" : "école",
+    "other_forms" : [ "écoles" ]
+  }, {
+    "canonical_form" : "lycée",
+    "other_forms" : [ "lycées" ]
+  }, {
+    "canonical_form" : "cour",
+    "other_forms" : [ "cours" ]
+  }, {
+    "canonical_form" : "collège",
+    "other_forms" : [ "collèges" ]
+  }, {
+    "canonical_form" : "société",
+    "other_forms" : [ "sociétés" ]
+  }, {
+    "canonical_form" : "rectorat",
+    "other_forms" : [ "rectorats" ]
+  }, {
+    "canonical_form" : "peinture",
+    "other_forms" : [ "peintures" ]
+  }, {
+    "canonical_form" : "gymnase",
+    "other_forms" : [ "gymnases" ]
+  }, {
+    "canonical_form" : "faculté",
+    "other_forms" : [ "facultés" ]
+  }, {
+    "canonical_form" : "beaux-arts",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "anatomie",
+    "other_forms" : [ "anatomies" ]
+  }, {
+    "canonical_form" : "institut",
+    "other_forms" : [ "instituts" ]
+  }, {
+    "canonical_form" : "université",
+    "other_forms" : [ "universités" ]
+  } ]
+}

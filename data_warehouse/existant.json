@@ -1,0 +1,31 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "existant",
+    "other_forms" : [ "existante", "existantes", "existants" ]
+  }, {
+    "canonical_form" : "réel",
+    "other_forms" : [ "réelle", "réelles", "réels" ]
+  }, {
+    "canonical_form" : "actuel",
+    "other_forms" : [ "actuelle", "actuelles", "actuels" ]
+  }, {
+    "canonical_form" : "positif",
+    "other_forms" : [ "positifs", "positive", "positives" ]
+  }, {
+    "canonical_form" : "présent",
+    "other_forms" : [ "présente", "présentes", "présents" ]
+  }, {
+    "canonical_form" : "tangible",
+    "other_forms" : [ "tangibles" ]
+  }, {
+    "canonical_form" : "vrai",
+    "other_forms" : [ "vraie", "vraies", "vrais" ]
+  }, {
+    "canonical_form" : "sincère",
+    "other_forms" : [ "sincères" ]
+  }, {
+    "canonical_form" : "vivant",
+    "other_forms" : [ "vivante", "vivantes", "vivants" ]
+  } ]
+}

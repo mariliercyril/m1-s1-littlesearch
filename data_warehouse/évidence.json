@@ -1,0 +1,52 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "évidence",
+    "other_forms" : [ "évidences" ]
+  }, {
+    "canonical_form" : "vérité",
+    "other_forms" : [ "vérités" ]
+  }, {
+    "canonical_form" : "certitude",
+    "other_forms" : [ "certitudes" ]
+  }, {
+    "canonical_form" : "clarté",
+    "other_forms" : [ "clartés" ]
+  }, {
+    "canonical_form" : "truisme",
+    "other_forms" : [ "truismes" ]
+  }, {
+    "canonical_form" : "netteté",
+    "other_forms" : [ "nettetés" ]
+  }, {
+    "canonical_form" : "lumière",
+    "other_forms" : [ "lumières" ]
+  }, {
+    "canonical_form" : "lapalissade",
+    "other_forms" : [ "lapalissades" ]
+  }, {
+    "canonical_form" : "preuve",
+    "other_forms" : [ "preuves" ]
+  }, {
+    "canonical_form" : "palpabilité",
+    "other_forms" : [ "palpabilités" ]
+  }, {
+    "canonical_form" : "intelligibilité",
+    "other_forms" : [ "intelligibilités" ]
+  }, {
+    "canonical_form" : "flagrance",
+    "other_forms" : [ "flagrances" ]
+  }, {
+    "canonical_form" : "banalité",
+    "other_forms" : [ "banalités" ]
+  }, {
+    "canonical_form" : "axiome",
+    "other_forms" : [ "axiomes" ]
+  }, {
+    "canonical_form" : "authenticité",
+    "other_forms" : [ "authenticités" ]
+  }, {
+    "canonical_form" : "réalité",
+    "other_forms" : [ "réalités" ]
+  } ]
+}

@@ -1,0 +1,67 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "ami",
+    "other_forms" : [ "amie", "amies", "amis" ]
+  }, {
+    "canonical_form" : "camarade",
+    "other_forms" : [ "camarades" ]
+  }, {
+    "canonical_form" : "compagnon",
+    "other_forms" : [ "compagnons" ]
+  }, {
+    "canonical_form" : "copain",
+    "other_forms" : [ "copains" ]
+  }, {
+    "canonical_form" : "flirt",
+    "other_forms" : [ "flirts" ]
+  }, {
+    "canonical_form" : "partenaire",
+    "other_forms" : [ "partenaires", "partner", "partners" ]
+  }, {
+    "canonical_form" : "compère",
+    "other_forms" : [ "compères" ]
+  }, {
+    "canonical_form" : "amant",
+    "other_forms" : [ "amante", "amantes", "amants" ]
+  }, {
+    "canonical_form" : "relation",
+    "other_forms" : [ "relations" ]
+  }, {
+    "canonical_form" : "frère",
+    "other_forms" : [ "frères" ]
+  }, {
+    "canonical_form" : "cousin",
+    "other_forms" : [ "cousine", "cousines", "cousins" ]
+  }, {
+    "canonical_form" : "connaissance",
+    "other_forms" : [ "connaissances" ]
+  }, {
+    "canonical_form" : "biquet",
+    "other_forms" : [ "biquets", "biquette", "biquettes" ]
+  }, {
+    "canonical_form" : "acolyte",
+    "other_forms" : [ "acolytes" ]
+  }, {
+    "canonical_form" : "connaissance",
+    "other_forms" : [ "connaissances" ]
+  }, {
+    "canonical_form" : "copine",
+    "other_forms" : [ "copines" ]
+  }, {
+    "canonical_form" : "poteau",
+    "other_forms" : [ "poteaux" ]
+  }, {
+    "canonical_form" : "sectateur",
+    "other_forms" : [ "sectateurs", "sectatrice", "sectatrices" ]
+  }, {
+    "canonical_form" : "confident",
+    "other_forms" : [ "confidente", "confidentes", "confidents" ]
+  }, {
+    "canonical_form" : "alter ego",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "amé",
+    "other_forms" : [ "amée", "amées", "amés" ]
+  } ]
+}

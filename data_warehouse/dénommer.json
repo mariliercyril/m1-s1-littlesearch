@@ -1,0 +1,24 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "dénommer"
+  }, {
+    "canonical_form" : "nommer"
+  }, {
+    "canonical_form" : "qualifier"
+  }, {
+    "canonical_form" : "appeler"
+  }, {
+    "canonical_form" : "désigner"
+  }, {
+    "canonical_form" : "indiquer"
+  }, {
+    "canonical_form" : "traiter"
+  }, {
+    "canonical_form" : "étiqueter"
+  }, {
+    "canonical_form" : "baptiser"
+  }, {
+    "canonical_form" : "taxer"
+  } ]
+}

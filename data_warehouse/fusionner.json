@@ -1,0 +1,64 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "fusionner"
+  }, {
+    "canonical_form" : "unir"
+  }, {
+    "canonical_form" : "réunir"
+  }, {
+    "canonical_form" : "joindre"
+  }, {
+    "canonical_form" : "assembler"
+  }, {
+    "canonical_form" : "mélanger"
+  }, {
+    "canonical_form" : "associer"
+  }, {
+    "canonical_form" : "allier"
+  }, {
+    "canonical_form" : "accoupler"
+  }, {
+    "canonical_form" : "combiner"
+  }, {
+    "canonical_form" : "marier"
+  }, {
+    "canonical_form" : "mêler"
+  }, {
+    "canonical_form" : "lier"
+  }, {
+    "canonical_form" : "apparier"
+  }, {
+    "canonical_form" : "amalgamer"
+  }, {
+    "canonical_form" : "assortir"
+  }, {
+    "canonical_form" : "rapprocher"
+  }, {
+    "canonical_form" : "fondre"
+  }, {
+    "canonical_form" : "relier"
+  }, {
+    "canonical_form" : "géminer"
+  }, {
+    "canonical_form" : "coupler"
+  }, {
+    "canonical_form" : "confondre"
+  }, {
+    "canonical_form" : "souder"
+  }, {
+    "canonical_form" : "rassembler"
+  }, {
+    "canonical_form" : "enter"
+  }, {
+    "canonical_form" : "conjuguer"
+  }, {
+    "canonical_form" : "conjoindre"
+  }, {
+    "canonical_form" : "communier"
+  }, {
+    "canonical_form" : "agréger"
+  }, {
+    "canonical_form" : "unifier"
+  } ]
+}

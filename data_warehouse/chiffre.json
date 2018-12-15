@@ -1,0 +1,55 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "chiffre",
+    "other_forms" : [ "chiffres" ]
+  }, {
+    "canonical_form" : "caractère",
+    "other_forms" : [ "caractères" ]
+  }, {
+    "canonical_form" : "marque",
+    "other_forms" : [ "marques" ]
+  }, {
+    "canonical_form" : "signe",
+    "other_forms" : [ "signes" ]
+  }, {
+    "canonical_form" : "symbole",
+    "other_forms" : [ "symboles" ]
+  }, {
+    "canonical_form" : "nombre",
+    "other_forms" : [ "nombres" ]
+  }, {
+    "canonical_form" : "calcul",
+    "other_forms" : [ "calculs" ]
+  }, {
+    "canonical_form" : "cachet",
+    "other_forms" : [ "cachets" ]
+  }, {
+    "canonical_form" : "somme",
+    "other_forms" : [ "sommes" ]
+  }, {
+    "canonical_form" : "monogramme",
+    "other_forms" : [ "monogrammes" ]
+  }, {
+    "canonical_form" : "indice",
+    "other_forms" : [ "indices" ]
+  }, {
+    "canonical_form" : "grille",
+    "other_forms" : [ "grilles" ]
+  }, {
+    "canonical_form" : "figure",
+    "other_forms" : [ "figures" ]
+  }, {
+    "canonical_form" : "déchiffrement",
+    "other_forms" : [ "déchiffrements" ]
+  }, {
+    "canonical_form" : "combinaison",
+    "other_forms" : [ "combinaisons" ]
+  }, {
+    "canonical_form" : "code",
+    "other_forms" : [ "codes" ]
+  }, {
+    "canonical_form" : "taux",
+    "other_forms" : [ ]
+  } ]
+}

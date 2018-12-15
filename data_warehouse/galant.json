@@ -1,0 +1,148 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "galant",
+    "other_forms" : [ "galante", "galantes", "galants" ]
+  }, {
+    "canonical_form" : "gracieux",
+    "other_forms" : [ "gracieuse", "gracieuses" ]
+  }, {
+    "canonical_form" : "délicat",
+    "other_forms" : [ "délicate", "délicates", "délicats" ]
+  }, {
+    "canonical_form" : "élégant",
+    "other_forms" : [ "élégante", "élégantes", "élégants" ]
+  }, {
+    "canonical_form" : "beau",
+    "other_forms" : [ "beaux", "bel", "belle", "belles" ]
+  }, {
+    "canonical_form" : "agréable",
+    "other_forms" : [ "agréables" ]
+  }, {
+    "canonical_form" : "poli",
+    "other_forms" : [ "polie", "polies", "polis" ]
+  }, {
+    "canonical_form" : "prévenant",
+    "other_forms" : [ "prévenante", "prévenantes", "prévenants" ]
+  }, {
+    "canonical_form" : "courtois",
+    "other_forms" : [ "courtoise", "courtoises" ]
+  }, {
+    "canonical_form" : "civil",
+    "other_forms" : [ "civile", "civiles", "civils" ]
+  }, {
+    "canonical_form" : "empressé",
+    "other_forms" : [ "empressée", "empressées", "empressés" ]
+  }, {
+    "canonical_form" : "léger",
+    "other_forms" : [ "légers", "légère", "légères" ]
+  }, {
+    "canonical_form" : "sensuel",
+    "other_forms" : [ "sensuelle", "sensuelles", "sensuels" ]
+  }, {
+    "canonical_form" : "séducteur",
+    "other_forms" : [ "séducteurs", "séductrice", "séductrices" ]
+  }, {
+    "canonical_form" : "serviable",
+    "other_forms" : [ "serviables" ]
+  }, {
+    "canonical_form" : "précieux",
+    "other_forms" : [ "précieuse", "précieuses" ]
+  }, {
+    "canonical_form" : "honnête",
+    "other_forms" : [ "honnêtes" ]
+  }, {
+    "canonical_form" : "hardi",
+    "other_forms" : [ "hardie", "hardies", "hardis" ]
+  }, {
+    "canonical_form" : "fin",
+    "other_forms" : [ "fine", "fines", "fins" ]
+  }, {
+    "canonical_form" : "charmant",
+    "other_forms" : [ "charmante", "charmantes", "charmants" ]
+  }, {
+    "canonical_form" : "cavalier",
+    "other_forms" : [ "cavaliers", "cavalière", "cavalières" ]
+  }, {
+    "canonical_form" : "avenant",
+    "other_forms" : [ "avenante", "avenantes", "avenants" ]
+  }, {
+    "canonical_form" : "amoureux",
+    "other_forms" : [ "amoureuse", "amoureuses" ]
+  }, {
+    "canonical_form" : "voluptueux",
+    "other_forms" : [ "voluptueuse", "voluptueuses" ]
+  }, {
+    "canonical_form" : "tendre",
+    "other_forms" : [ "tendres" ]
+  }, {
+    "canonical_form" : "polisson",
+    "other_forms" : [ "polissonne", "polissonnes", "polissons" ]
+  }, {
+    "canonical_form" : "gaillard",
+    "other_forms" : [ "gaillarde", "gaillardes", "gaillards" ]
+  }, {
+    "canonical_form" : "coquet",
+    "other_forms" : [ "coquets", "coquette", "coquettes" ]
+  }, {
+    "canonical_form" : "attentif",
+    "other_forms" : [ "attentifs", "attentive", "attentives" ]
+  }, {
+    "canonical_form" : "adolescent",
+    "other_forms" : [ "adolescente", "adolescentes", "adolescents" ]
+  }, {
+    "canonical_form" : "soupirant",
+    "other_forms" : [ "soupirante", "soupirantes", "soupirants" ]
+  }, {
+    "canonical_form" : "troublant",
+    "other_forms" : [ "troublante", "troublantes", "troublants" ]
+  }, {
+    "canonical_form" : "érotique",
+    "other_forms" : [ "érotiques" ]
+  }, {
+    "canonical_form" : "libertin",
+    "other_forms" : [ "libertine", "libertines", "libertins" ]
+  }, {
+    "canonical_form" : "généreux",
+    "other_forms" : [ "généreuse", "généreuses" ]
+  }, {
+    "canonical_form" : "aguichant",
+    "other_forms" : [ "aguichante", "aguichantes", "aguichants" ]
+  }, {
+    "canonical_form" : "marcheur",
+    "other_forms" : [ "marcheurs", "marcheuse", "marcheuses" ]
+  }, {
+    "canonical_form" : "galantin",
+    "other_forms" : [ "galantins" ]
+  }, {
+    "canonical_form" : "fat",
+    "other_forms" : [ "fate", "fates", "fats" ]
+  }, {
+    "canonical_form" : "sentimental",
+    "other_forms" : [ "sentimentale", "sentimentales", "sentimentaux" ]
+  }, {
+    "canonical_form" : "suborneur",
+    "other_forms" : [ "suborneurs", "suborneuse", "suborneuses" ]
+  }, {
+    "canonical_form" : "sémillant",
+    "other_forms" : [ "sémillante", "sémillantes", "sémillants" ]
+  }, {
+    "canonical_form" : "entreprenant",
+    "other_forms" : [ "entreprenante", "entreprenantes", "entreprenants" ]
+  }, {
+    "canonical_form" : "adorateur",
+    "other_forms" : [ "adorateurs", "adoratrice", "adoratrices" ]
+  }, {
+    "canonical_form" : "aspirant",
+    "other_forms" : [ "aspirante", "aspirantes", "aspirants" ]
+  }, {
+    "canonical_form" : "blondin",
+    "other_forms" : [ "blondine", "blondines", "blondins" ]
+  }, {
+    "canonical_form" : "chevalier",
+    "other_forms" : [ "chevaliers", "chevalière", "chevalières" ]
+  }, {
+    "canonical_form" : "courtisan",
+    "other_forms" : [ "courtisane", "courtisanes", "courtisans" ]
+  } ]
+}

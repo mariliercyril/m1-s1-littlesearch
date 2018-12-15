@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "résoluble",
+    "other_forms" : [ "résolubles" ]
+  }, {
+    "canonical_form" : "annulable",
+    "other_forms" : [ "annulables" ]
+  }, {
+    "canonical_form" : "soluble",
+    "other_forms" : [ "solubles" ]
+  } ]
+}

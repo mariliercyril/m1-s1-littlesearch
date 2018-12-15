@@ -1,0 +1,22 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "arabe",
+    "other_forms" : [ "arabes" ]
+  }, {
+    "canonical_form" : "arabesque",
+    "other_forms" : [ "arabesques" ]
+  }, {
+    "canonical_form" : "arabique",
+    "other_forms" : [ "arabiques" ]
+  }, {
+    "canonical_form" : "bédouin",
+    "other_forms" : [ "bédouine", "bédouines", "bédouins" ]
+  }, {
+    "canonical_form" : "maure",
+    "other_forms" : [ "maures" ]
+  }, {
+    "canonical_form" : "sarrasin",
+    "other_forms" : [ "sarrasine", "sarrasines", "sarrasins" ]
+  } ]
+}

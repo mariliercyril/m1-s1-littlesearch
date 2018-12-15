@@ -1,0 +1,31 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "laisse",
+    "other_forms" : [ "laisses" ]
+  }, {
+    "canonical_form" : "alluvion",
+    "other_forms" : [ "alluvions" ]
+  }, {
+    "canonical_form" : "attache",
+    "other_forms" : [ "attaches" ]
+  }, {
+    "canonical_form" : "corde",
+    "other_forms" : [ "cordes" ]
+  }, {
+    "canonical_form" : "cordon",
+    "other_forms" : [ "cordons" ]
+  }, {
+    "canonical_form" : "lien",
+    "other_forms" : [ "liens" ]
+  }, {
+    "canonical_form" : "stance",
+    "other_forms" : [ "stances" ]
+  }, {
+    "canonical_form" : "sédiment",
+    "other_forms" : [ "sédiments" ]
+  }, {
+    "canonical_form" : "tirade",
+    "other_forms" : [ "tirades" ]
+  } ]
+}

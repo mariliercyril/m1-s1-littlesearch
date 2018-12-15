@@ -1,0 +1,208 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "société",
+    "other_forms" : [ "sociétés" ]
+  }, {
+    "canonical_form" : "association",
+    "other_forms" : [ "associations" ]
+  }, {
+    "canonical_form" : "groupe",
+    "other_forms" : [ "groupes" ]
+  }, {
+    "canonical_form" : "réunion",
+    "other_forms" : [ "réunions" ]
+  }, {
+    "canonical_form" : "bande",
+    "other_forms" : [ "bandes" ]
+  }, {
+    "canonical_form" : "assemblage",
+    "other_forms" : [ "assemblages" ]
+  }, {
+    "canonical_form" : "compagnie",
+    "other_forms" : [ "compagnies" ]
+  }, {
+    "canonical_form" : "rassemblement",
+    "other_forms" : [ "rassemblements" ]
+  }, {
+    "canonical_form" : "troupe",
+    "other_forms" : [ "troupes" ]
+  }, {
+    "canonical_form" : "peuple",
+    "other_forms" : [ "peuples" ]
+  }, {
+    "canonical_form" : "clan",
+    "other_forms" : [ "clans" ]
+  }, {
+    "canonical_form" : "colonie",
+    "other_forms" : [ "colonies" ]
+  }, {
+    "canonical_form" : "communauté",
+    "other_forms" : [ "communautés" ]
+  }, {
+    "canonical_form" : "groupement",
+    "other_forms" : [ "groupements" ]
+  }, {
+    "canonical_form" : "trust",
+    "other_forms" : [ "trusts" ]
+  }, {
+    "canonical_form" : "organisation",
+    "other_forms" : [ "organisations" ]
+  }, {
+    "canonical_form" : "monde",
+    "other_forms" : [ "mondes" ]
+  }, {
+    "canonical_form" : "masse",
+    "other_forms" : [ "masses" ]
+  }, {
+    "canonical_form" : "union",
+    "other_forms" : [ "unions" ]
+  }, {
+    "canonical_form" : "coalition",
+    "other_forms" : [ "coalitions" ]
+  }, {
+    "canonical_form" : "famille",
+    "other_forms" : [ "familles" ]
+  }, {
+    "canonical_form" : "syndicat",
+    "other_forms" : [ "syndicats" ]
+  }, {
+    "canonical_form" : "tribu",
+    "other_forms" : [ "tribus" ]
+  }, {
+    "canonical_form" : "nation",
+    "other_forms" : [ "nations" ]
+  }, {
+    "canonical_form" : "ligue",
+    "other_forms" : [ "ligues" ]
+  }, {
+    "canonical_form" : "entourage",
+    "other_forms" : [ "entourages" ]
+  }, {
+    "canonical_form" : "corps",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "congrégation",
+    "other_forms" : [ "congrégations" ]
+  }, {
+    "canonical_form" : "cartel",
+    "other_forms" : [ "cartels" ]
+  }, {
+    "canonical_form" : "établissement",
+    "other_forms" : [ "établissements" ]
+  }, {
+    "canonical_form" : "pool",
+    "other_forms" : [ "pools" ]
+  }, {
+    "canonical_form" : "institut",
+    "other_forms" : [ "instituts" ]
+  }, {
+    "canonical_form" : "fédération",
+    "other_forms" : [ "fédérations" ]
+  }, {
+    "canonical_form" : "corporation",
+    "other_forms" : [ "corporations" ]
+  }, {
+    "canonical_form" : "consortium",
+    "other_forms" : [ "consortiums" ]
+  }, {
+    "canonical_form" : "classe",
+    "other_forms" : [ "classes" ]
+  }, {
+    "canonical_form" : "cercle",
+    "other_forms" : [ "cercles" ]
+  }, {
+    "canonical_form" : "milieu",
+    "other_forms" : [ "milieux" ]
+  }, {
+    "canonical_form" : "humanité",
+    "other_forms" : [ "humanités" ]
+  }, {
+    "canonical_form" : "confrérie",
+    "other_forms" : [ "confréries" ]
+  }, {
+    "canonical_form" : "collectivité",
+    "other_forms" : [ "collectivités" ]
+  }, {
+    "canonical_form" : "affaire",
+    "other_forms" : [ "affaires" ]
+  }, {
+    "canonical_form" : "coopération",
+    "other_forms" : [ "coopérations" ]
+  }, {
+    "canonical_form" : "culture",
+    "other_forms" : [ "cultures" ]
+  }, {
+    "canonical_form" : "fréquentation",
+    "other_forms" : [ "fréquentations" ]
+  }, {
+    "canonical_form" : "holding",
+    "other_forms" : [ "holdings" ]
+  }, {
+    "canonical_form" : "homme",
+    "other_forms" : [ "hommes" ]
+  }, {
+    "canonical_form" : "état",
+    "other_forms" : [ "états" ]
+  }, {
+    "canonical_form" : "constitution",
+    "other_forms" : [ "constitutions" ]
+  }, {
+    "canonical_form" : "commerce",
+    "other_forms" : [ "commerces" ]
+  }, {
+    "canonical_form" : "aristocratie",
+    "other_forms" : [ "aristocraties" ]
+  }, {
+    "canonical_form" : "boîte",
+    "other_forms" : [ "boîtes" ]
+  }, {
+    "canonical_form" : "caste",
+    "other_forms" : [ "castes" ]
+  }, {
+    "canonical_form" : "civilisation",
+    "other_forms" : [ "civilisations" ]
+  }, {
+    "canonical_form" : "club",
+    "other_forms" : [ "clubs" ]
+  }, {
+    "canonical_form" : "gratin",
+    "other_forms" : [ "gratins" ]
+  }, {
+    "canonical_form" : "hanse",
+    "other_forms" : [ "hanses" ]
+  }, {
+    "canonical_form" : "mutualité",
+    "other_forms" : [ "mutualités" ]
+  }, {
+    "canonical_form" : "omnium",
+    "other_forms" : [ "omniums" ]
+  }, {
+    "canonical_form" : "religion",
+    "other_forms" : [ "religions" ]
+  }, {
+    "canonical_form" : "sociabilité",
+    "other_forms" : [ "sociabilités" ]
+  }, {
+    "canonical_form" : "gentry",
+    "other_forms" : [ "gentrys" ]
+  }, {
+    "canonical_form" : "firme",
+    "other_forms" : [ "firmes" ]
+  }, {
+    "canonical_form" : "corner",
+    "other_forms" : [ "corners" ]
+  }, {
+    "canonical_form" : "contrat",
+    "other_forms" : [ "contrats" ]
+  }, {
+    "canonical_form" : "commandite",
+    "other_forms" : [ "commandites" ]
+  }, {
+    "canonical_form" : "accompagnement",
+    "other_forms" : [ "accompagnements" ]
+  }, {
+    "canonical_form" : "académie",
+    "other_forms" : [ "académies" ]
+  } ]
+}

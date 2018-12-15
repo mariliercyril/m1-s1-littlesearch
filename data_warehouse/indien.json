@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "indien",
+    "other_forms" : [ "indienne", "indiennes", "indiens" ]
+  }, {
+    "canonical_form" : "amérindien",
+    "other_forms" : [ "amérindienne", "amérindiennes", "amérindiens" ]
+  }, {
+    "canonical_form" : "hindou",
+    "other_forms" : [ "hindoue", "hindoues", "hindous" ]
+  } ]
+}

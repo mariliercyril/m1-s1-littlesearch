@@ -1,0 +1,76 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "revêtement",
+    "other_forms" : [ "revêtements" ]
+  }, {
+    "canonical_form" : "enveloppe",
+    "other_forms" : [ "enveloppes" ]
+  }, {
+    "canonical_form" : "masque",
+    "other_forms" : [ "masques" ]
+  }, {
+    "canonical_form" : "protection",
+    "other_forms" : [ "protections" ]
+  }, {
+    "canonical_form" : "peinture",
+    "other_forms" : [ "peintures" ]
+  }, {
+    "canonical_form" : "façade",
+    "other_forms" : [ "façades" ]
+  }, {
+    "canonical_form" : "bitume",
+    "other_forms" : [ "bitumes" ]
+  }, {
+    "canonical_form" : "asphalte",
+    "other_forms" : [ "asphaltes" ]
+  }, {
+    "canonical_form" : "asphaltage",
+    "other_forms" : [ "asphaltages" ]
+  }, {
+    "canonical_form" : "housse",
+    "other_forms" : [ "housses" ]
+  }, {
+    "canonical_form" : "macadam",
+    "other_forms" : [ "macadams" ]
+  }, {
+    "canonical_form" : "macadamisage",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "parement",
+    "other_forms" : [ "parements" ]
+  }, {
+    "canonical_form" : "placage",
+    "other_forms" : [ "placages" ]
+  }, {
+    "canonical_form" : "recouvrement",
+    "other_forms" : [ "recouvrements" ]
+  }, {
+    "canonical_form" : "rudération",
+    "other_forms" : [ "rudérations" ]
+  }, {
+    "canonical_form" : "fourrure",
+    "other_forms" : [ "fourrures" ]
+  }, {
+    "canonical_form" : "déguisement",
+    "other_forms" : [ "déguisements" ]
+  }, {
+    "canonical_form" : "devanture",
+    "other_forms" : [ "devantures" ]
+  }, {
+    "canonical_form" : "boisage",
+    "other_forms" : [ "boisages" ]
+  }, {
+    "canonical_form" : "chape",
+    "other_forms" : [ "chapes", "chappe", "chappes" ]
+  }, {
+    "canonical_form" : "chemisage",
+    "other_forms" : [ "chemisages" ]
+  }, {
+    "canonical_form" : "chemise",
+    "other_forms" : [ "chemises" ]
+  }, {
+    "canonical_form" : "cuirasse",
+    "other_forms" : [ "cuirasses" ]
+  } ]
+}

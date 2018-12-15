@@ -1,0 +1,160 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "malheureux",
+    "other_forms" : [ "malheureuse", "malheureuses" ]
+  }, {
+    "canonical_form" : "mauvais",
+    "other_forms" : [ "mauvaise", "mauvaises" ]
+  }, {
+    "canonical_form" : "triste",
+    "other_forms" : [ "tristes" ]
+  }, {
+    "canonical_form" : "funeste",
+    "other_forms" : [ "funestes" ]
+  }, {
+    "canonical_form" : "misérable",
+    "other_forms" : [ "misérables" ]
+  }, {
+    "canonical_form" : "déplorable",
+    "other_forms" : [ "déplorables" ]
+  }, {
+    "canonical_form" : "fâcheux",
+    "other_forms" : [ "fâcheuse", "fâcheuses" ]
+  }, {
+    "canonical_form" : "pitoyable",
+    "other_forms" : [ "pitoyables" ]
+  }, {
+    "canonical_form" : "pauvre",
+    "other_forms" : [ "pauvres" ]
+  }, {
+    "canonical_form" : "pénible",
+    "other_forms" : [ "pénibles" ]
+  }, {
+    "canonical_form" : "désastreux",
+    "other_forms" : [ "désastreuse", "désastreuses" ]
+  }, {
+    "canonical_form" : "lamentable",
+    "other_forms" : [ "lamentables" ]
+  }, {
+    "canonical_form" : "méchant",
+    "other_forms" : [ "méchante", "méchantes", "méchants" ]
+  }, {
+    "canonical_form" : "catastrophique",
+    "other_forms" : [ "catastrophiques" ]
+  }, {
+    "canonical_form" : "dangereux",
+    "other_forms" : [ "dangereuse", "dangereuses" ]
+  }, {
+    "canonical_form" : "insignifiant",
+    "other_forms" : [ "insignifiante", "insignifiantes", "insignifiants" ]
+  }, {
+    "canonical_form" : "piteux",
+    "other_forms" : [ "piteuse", "piteuses" ]
+  }, {
+    "canonical_form" : "petit",
+    "other_forms" : [ "petite", "petites", "petits" ]
+  }, {
+    "canonical_form" : "malencontreux",
+    "other_forms" : [ "malencontreuse", "malencontreuses" ]
+  }, {
+    "canonical_form" : "fichu",
+    "other_forms" : [ "fichue", "fichues", "fichus" ]
+  }, {
+    "canonical_form" : "faible",
+    "other_forms" : [ "faibles" ]
+  }, {
+    "canonical_form" : "désagréable",
+    "other_forms" : [ "désagréables" ]
+  }, {
+    "canonical_form" : "cruel",
+    "other_forms" : [ "cruelle", "cruelles", "cruels" ]
+  }, {
+    "canonical_form" : "rude",
+    "other_forms" : [ "rudes" ]
+  }, {
+    "canonical_form" : "sinistre",
+    "other_forms" : [ "sinistres" ]
+  }, {
+    "canonical_form" : "néfaste",
+    "other_forms" : [ "néfastes" ]
+  }, {
+    "canonical_form" : "mince",
+    "other_forms" : [ "minces" ]
+  }, {
+    "canonical_form" : "dur",
+    "other_forms" : [ "dure", "dures", "durs" ]
+  }, {
+    "canonical_form" : "calamiteux",
+    "other_forms" : [ "calamiteuse", "calamiteuses" ]
+  }, {
+    "canonical_form" : "affligeant",
+    "other_forms" : [ "affligeante", "affligeantes", "affligeants" ]
+  }, {
+    "canonical_form" : "regrettable",
+    "other_forms" : [ "regrettables" ]
+  }, {
+    "canonical_form" : "infortuné",
+    "other_forms" : [ "infortunée", "infortunées", "infortunés" ]
+  }, {
+    "canonical_form" : "fatal",
+    "other_forms" : [ "fatale", "fatales", "fatals" ]
+  }, {
+    "canonical_form" : "difficile",
+    "other_forms" : [ "difficiles" ]
+  }, {
+    "canonical_form" : "redoutable",
+    "other_forms" : [ "redoutables" ]
+  }, {
+    "canonical_form" : "modeste",
+    "other_forms" : [ "modestes" ]
+  }, {
+    "canonical_form" : "miséreux",
+    "other_forms" : [ "miséreuse", "miséreuses" ]
+  }, {
+    "canonical_form" : "malchanceux",
+    "other_forms" : [ "malchanceuse", "malchanceuses" ]
+  }, {
+    "canonical_form" : "indigent",
+    "other_forms" : [ "indigente", "indigentes", "indigents" ]
+  }, {
+    "canonical_form" : "vil",
+    "other_forms" : [ "vile", "viles", "vils" ]
+  }, {
+    "canonical_form" : "négligeable",
+    "other_forms" : [ "négligeables" ]
+  }, {
+    "canonical_form" : "nécessiteux",
+    "other_forms" : [ "nécessiteuse", "nécessiteuses" ]
+  }, {
+    "canonical_form" : "irréparable",
+    "other_forms" : [ "irréparables" ]
+  }, {
+    "canonical_form" : "besogneux",
+    "other_forms" : [ "besogneuse", "besogneuses" ]
+  }, {
+    "canonical_form" : "quelconque",
+    "other_forms" : [ "quelconques" ]
+  }, {
+    "canonical_form" : "satané",
+    "other_forms" : [ "satanée", "satanées", "satanés" ]
+  }, {
+    "canonical_form" : "sombre",
+    "other_forms" : [ "sombres" ]
+  }, {
+    "canonical_form" : "préjudiciable",
+    "other_forms" : [ "préjudiciables" ]
+  }, {
+    "canonical_form" : "maléfique",
+    "other_forms" : [ "maléfiques" ]
+  }, {
+    "canonical_form" : "lugubre",
+    "other_forms" : [ "lugubres" ]
+  }, {
+    "canonical_form" : "inhabile",
+    "other_forms" : [ "inhabiles" ]
+  }, {
+    "canonical_form" : "guignard",
+    "other_forms" : [ "guignarde", "guignardes", "guignards" ]
+  } ]
+}

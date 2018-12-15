@@ -1,0 +1,91 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "comparaison",
+    "other_forms" : [ "comparaisons" ]
+  }, {
+    "canonical_form" : "similitude",
+    "other_forms" : [ "similitudes" ]
+  }, {
+    "canonical_form" : "rapprochement",
+    "other_forms" : [ "rapprochements" ]
+  }, {
+    "canonical_form" : "image",
+    "other_forms" : [ "images" ]
+  }, {
+    "canonical_form" : "analogie",
+    "other_forms" : [ "analogies" ]
+  }, {
+    "canonical_form" : "symbole",
+    "other_forms" : [ "symboles" ]
+  }, {
+    "canonical_form" : "ressemblance",
+    "other_forms" : [ "ressemblances" ]
+  }, {
+    "canonical_form" : "assimilation",
+    "other_forms" : [ "assimilations" ]
+  }, {
+    "canonical_form" : "relation",
+    "other_forms" : [ "relations" ]
+  }, {
+    "canonical_form" : "recoupement",
+    "other_forms" : [ "recoupements" ]
+  }, {
+    "canonical_form" : "proportion",
+    "other_forms" : [ "proportions" ]
+  }, {
+    "canonical_form" : "parité",
+    "other_forms" : [ "parités" ]
+  }, {
+    "canonical_form" : "parangon",
+    "other_forms" : [ "parangons" ]
+  }, {
+    "canonical_form" : "parabole",
+    "other_forms" : [ "paraboles" ]
+  }, {
+    "canonical_form" : "métaphore",
+    "other_forms" : [ "métaphores" ]
+  }, {
+    "canonical_form" : "mesure",
+    "other_forms" : [ "mesures" ]
+  }, {
+    "canonical_form" : "collation",
+    "other_forms" : [ "collations" ]
+  }, {
+    "canonical_form" : "jugement",
+    "other_forms" : [ "jugements" ]
+  }, {
+    "canonical_form" : "métonymie",
+    "other_forms" : [ "métonymies" ]
+  }, {
+    "canonical_form" : "recension",
+    "other_forms" : [ "recensions" ]
+  }, {
+    "canonical_form" : "regard",
+    "other_forms" : [ "regards" ]
+  }, {
+    "canonical_form" : "contraste",
+    "other_forms" : [ "contrastes" ]
+  }, {
+    "canonical_form" : "confrontation",
+    "other_forms" : [ "confrontations" ]
+  }, {
+    "canonical_form" : "collationnement",
+    "other_forms" : [ "collationnements" ]
+  }, {
+    "canonical_form" : "balance",
+    "other_forms" : [ "balances" ]
+  }, {
+    "canonical_form" : "antithèse",
+    "other_forms" : [ "antithèses" ]
+  }, {
+    "canonical_form" : "analyse",
+    "other_forms" : [ "analyses" ]
+  }, {
+    "canonical_form" : "allusion",
+    "other_forms" : [ "allusions" ]
+  }, {
+    "canonical_form" : "évaluation",
+    "other_forms" : [ "évaluations" ]
+  } ]
+}

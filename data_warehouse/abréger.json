@@ -1,0 +1,44 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "abréger"
+  }, {
+    "canonical_form" : "diminuer"
+  }, {
+    "canonical_form" : "réduire"
+  }, {
+    "canonical_form" : "écourter"
+  }, {
+    "canonical_form" : "raccourcir"
+  }, {
+    "canonical_form" : "amoindrir"
+  }, {
+    "canonical_form" : "tronquer"
+  }, {
+    "canonical_form" : "résumer"
+  }, {
+    "canonical_form" : "restreindre"
+  }, {
+    "canonical_form" : "rapetisser"
+  }, {
+    "canonical_form" : "couper"
+  }, {
+    "canonical_form" : "retrancher"
+  }, {
+    "canonical_form" : "resserrer"
+  }, {
+    "canonical_form" : "préciser"
+  }, {
+    "canonical_form" : "alléger"
+  }, {
+    "canonical_form" : "accourcir"
+  }, {
+    "canonical_form" : "condenser"
+  }, {
+    "canonical_form" : "limiter"
+  }, {
+    "canonical_form" : "simplifier"
+  }, {
+    "canonical_form" : "trancher"
+  } ]
+}

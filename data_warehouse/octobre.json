@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "octobre",
+    "other_forms" : [ "octobres" ]
+  }, {
+    "canonical_form" : "brumaire",
+    "other_forms" : [ "brumaires" ]
+  }, {
+    "canonical_form" : "vendémiaire",
+    "other_forms" : [ "vendémiaires" ]
+  } ]
+}

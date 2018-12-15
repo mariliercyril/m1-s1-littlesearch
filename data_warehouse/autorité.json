@@ -1,0 +1,223 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "autorité",
+    "other_forms" : [ "autorités" ]
+  }, {
+    "canonical_form" : "pouvoir",
+    "other_forms" : [ "pouvoirs" ]
+  }, {
+    "canonical_form" : "domination",
+    "other_forms" : [ "dominations" ]
+  }, {
+    "canonical_form" : "puissance",
+    "other_forms" : [ "puissances" ]
+  }, {
+    "canonical_form" : "empire",
+    "other_forms" : [ "empires" ]
+  }, {
+    "canonical_form" : "influence",
+    "other_forms" : [ "influences" ]
+  }, {
+    "canonical_form" : "despotisme",
+    "other_forms" : [ "despotismes" ]
+  }, {
+    "canonical_form" : "tyrannie",
+    "other_forms" : [ "tyrannies" ]
+  }, {
+    "canonical_form" : "hégémonie",
+    "other_forms" : [ "hégémonies" ]
+  }, {
+    "canonical_form" : "omnipotence",
+    "other_forms" : [ "omnipotences" ]
+  }, {
+    "canonical_form" : "maîtrise",
+    "other_forms" : [ "maîtrises" ]
+  }, {
+    "canonical_form" : "supériorité",
+    "other_forms" : [ "supériorités" ]
+  }, {
+    "canonical_form" : "prépotence",
+    "other_forms" : [ "prépotences" ]
+  }, {
+    "canonical_form" : "prépondérance",
+    "other_forms" : [ "prépondérances" ]
+  }, {
+    "canonical_form" : "gouvernement",
+    "other_forms" : [ "gouvernements" ]
+  }, {
+    "canonical_form" : "force",
+    "other_forms" : [ "forces" ]
+  }, {
+    "canonical_form" : "direction",
+    "other_forms" : [ "directions" ]
+  }, {
+    "canonical_form" : "toute-puissance",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "loi",
+    "other_forms" : [ "lois" ]
+  }, {
+    "canonical_form" : "fermeté",
+    "other_forms" : [ "fermetés" ]
+  }, {
+    "canonical_form" : "crédit",
+    "other_forms" : [ "crédits" ]
+  }, {
+    "canonical_form" : "absolutisme",
+    "other_forms" : [ "absolutismes" ]
+  }, {
+    "canonical_form" : "commandement",
+    "other_forms" : [ "commandements" ]
+  }, {
+    "canonical_form" : "souveraineté",
+    "other_forms" : [ "souverainetés" ]
+  }, {
+    "canonical_form" : "solidité",
+    "other_forms" : [ "solidités" ]
+  }, {
+    "canonical_form" : "prestige",
+    "other_forms" : [ "prestiges" ]
+  }, {
+    "canonical_form" : "poids",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "personnage",
+    "other_forms" : [ "personnages" ]
+  }, {
+    "canonical_form" : "notabilité",
+    "other_forms" : [ "notabilités" ]
+  }, {
+    "canonical_form" : "main",
+    "other_forms" : [ "mains" ]
+  }, {
+    "canonical_form" : "habileté",
+    "other_forms" : [ "habiletés" ]
+  }, {
+    "canonical_form" : "griffe",
+    "other_forms" : [ "griffes" ]
+  }, {
+    "canonical_form" : "dictature",
+    "other_forms" : [ "dictatures" ]
+  }, {
+    "canonical_form" : "bras",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "autoritarisme",
+    "other_forms" : [ "autoritarismes" ]
+  }, {
+    "canonical_form" : "tutelle",
+    "other_forms" : [ "tutelles" ]
+  }, {
+    "canonical_form" : "prééminence",
+    "other_forms" : [ "prééminences" ]
+  }, {
+    "canonical_form" : "oppression",
+    "other_forms" : [ "oppressions" ]
+  }, {
+    "canonical_form" : "férule",
+    "other_forms" : [ "férules" ]
+  }, {
+    "canonical_form" : "emprise",
+    "other_forms" : [ "emprises" ]
+  }, {
+    "canonical_form" : "césarisme",
+    "other_forms" : [ "césarismes" ]
+  }, {
+    "canonical_form" : "autocratie",
+    "other_forms" : [ "autocraties" ]
+  }, {
+    "canonical_form" : "administration",
+    "other_forms" : [ "administrations" ]
+  }, {
+    "canonical_form" : "vigueur",
+    "other_forms" : [ "vigueurs" ]
+  }, {
+    "canonical_form" : "totalitarisme",
+    "other_forms" : [ "totalitarismes" ]
+  }, {
+    "canonical_form" : "réputation",
+    "other_forms" : [ "réputations" ]
+  }, {
+    "canonical_form" : "poigne",
+    "other_forms" : [ "poignes" ]
+  }, {
+    "canonical_form" : "hiérarchie",
+    "other_forms" : [ "hiérarchies" ]
+  }, {
+    "canonical_form" : "décision",
+    "other_forms" : [ "décisions" ]
+  }, {
+    "canonical_form" : "considération",
+    "other_forms" : [ "considérations" ]
+  }, {
+    "canonical_form" : "certitude",
+    "other_forms" : [ "certitudes" ]
+  }, {
+    "canonical_form" : "caporalisme",
+    "other_forms" : [ "caporalismes" ]
+  }, {
+    "canonical_form" : "ponte",
+    "other_forms" : [ "pontes" ]
+  }, {
+    "canonical_form" : "prince",
+    "other_forms" : [ "princes" ]
+  }, {
+    "canonical_form" : "présidence",
+    "other_forms" : [ "présidences" ]
+  }, {
+    "canonical_form" : "sceptre",
+    "other_forms" : [ "sceptres" ]
+  }, {
+    "canonical_form" : "séduction",
+    "other_forms" : [ "séductions" ]
+  }, {
+    "canonical_form" : "sévérité",
+    "other_forms" : [ "sévérités" ]
+  }, {
+    "canonical_form" : "trône",
+    "other_forms" : [ "trônes" ]
+  }, {
+    "canonical_form" : "tête",
+    "other_forms" : [ "têtes" ]
+  }, {
+    "canonical_form" : "obéissance",
+    "other_forms" : [ "obéissances" ]
+  }, {
+    "canonical_form" : "magnétisme",
+    "other_forms" : [ "magnétismes" ]
+  }, {
+    "canonical_form" : "allégeance",
+    "other_forms" : [ "allégeances" ]
+  }, {
+    "canonical_form" : "aplomb",
+    "other_forms" : [ "aplombs" ]
+  }, {
+    "canonical_form" : "bible",
+    "other_forms" : [ "bibles" ]
+  }, {
+    "canonical_form" : "charisme",
+    "other_forms" : [ "charismes" ]
+  }, {
+    "canonical_form" : "compétence",
+    "other_forms" : [ "compétences" ]
+  }, {
+    "canonical_form" : "dignitaire",
+    "other_forms" : [ "dignitaires" ]
+  }, {
+    "canonical_form" : "foi",
+    "other_forms" : [ "fois" ]
+  }, {
+    "canonical_form" : "impérialisme",
+    "other_forms" : [ "impérialismes" ]
+  }, {
+    "canonical_form" : "instance",
+    "other_forms" : [ "instances" ]
+  }, {
+    "canonical_form" : "magistère",
+    "other_forms" : [ "magistères" ]
+  }, {
+    "canonical_form" : "école",
+    "other_forms" : [ "écoles" ]
+  } ]
+}

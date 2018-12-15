@@ -1,0 +1,67 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "diffusion",
+    "other_forms" : [ "diffusions" ]
+  }, {
+    "canonical_form" : "propagation",
+    "other_forms" : [ "propagations" ]
+  }, {
+    "canonical_form" : "transmission",
+    "other_forms" : [ "transmissions" ]
+  }, {
+    "canonical_form" : "irradiation",
+    "other_forms" : [ "irradiations" ]
+  }, {
+    "canonical_form" : "invasion",
+    "other_forms" : [ "invasions" ]
+  }, {
+    "canonical_form" : "distribution",
+    "other_forms" : [ "distributions" ]
+  }, {
+    "canonical_form" : "dissémination",
+    "other_forms" : [ "disséminations" ]
+  }, {
+    "canonical_form" : "dispersion",
+    "other_forms" : [ "dispersions" ]
+  }, {
+    "canonical_form" : "vulgarisation",
+    "other_forms" : [ "vulgarisations" ]
+  }, {
+    "canonical_form" : "réverbération",
+    "other_forms" : [ "réverbérations" ]
+  }, {
+    "canonical_form" : "répartition",
+    "other_forms" : [ "répartitions" ]
+  }, {
+    "canonical_form" : "réflexion",
+    "other_forms" : [ "réflexions" ]
+  }, {
+    "canonical_form" : "radiodiffusion",
+    "other_forms" : [ "radiodiffusions" ]
+  }, {
+    "canonical_form" : "publicité",
+    "other_forms" : [ "publicités" ]
+  }, {
+    "canonical_form" : "prolixité",
+    "other_forms" : [ "prolixités" ]
+  }, {
+    "canonical_form" : "expansion",
+    "other_forms" : [ "expansions" ]
+  }, {
+    "canonical_form" : "délayage",
+    "other_forms" : [ "délayages" ]
+  }, {
+    "canonical_form" : "déferlement",
+    "other_forms" : [ "déferlements" ]
+  }, {
+    "canonical_form" : "contagion",
+    "other_forms" : [ "contagions" ]
+  }, {
+    "canonical_form" : "communication",
+    "other_forms" : [ "communications" ]
+  }, {
+    "canonical_form" : "émission",
+    "other_forms" : [ "émissions" ]
+  } ]
+}

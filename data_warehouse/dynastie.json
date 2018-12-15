@@ -1,0 +1,22 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "dynastie",
+    "other_forms" : [ "dynasties" ]
+  }, {
+    "canonical_form" : "maison",
+    "other_forms" : [ "maisons" ]
+  }, {
+    "canonical_form" : "trône",
+    "other_forms" : [ "trônes" ]
+  }, {
+    "canonical_form" : "famille",
+    "other_forms" : [ "familles" ]
+  }, {
+    "canonical_form" : "race",
+    "other_forms" : [ "races" ]
+  }, {
+    "canonical_form" : "règne",
+    "other_forms" : [ "règnes" ]
+  } ]
+}

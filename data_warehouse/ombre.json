@@ -1,0 +1,166 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "ombre",
+    "other_forms" : [ "ombres" ]
+  }, {
+    "canonical_form" : "apparence",
+    "other_forms" : [ "apparences" ]
+  }, {
+    "canonical_form" : "fantôme",
+    "other_forms" : [ "fantômes" ]
+  }, {
+    "canonical_form" : "image",
+    "other_forms" : [ "images" ]
+  }, {
+    "canonical_form" : "soupçon",
+    "other_forms" : [ "soupçons" ]
+  }, {
+    "canonical_form" : "vision",
+    "other_forms" : [ "visions" ]
+  }, {
+    "canonical_form" : "obscurité",
+    "other_forms" : [ "obscurités" ]
+  }, {
+    "canonical_form" : "semblant",
+    "other_forms" : [ "semblants" ]
+  }, {
+    "canonical_form" : "simulacre",
+    "other_forms" : [ "simulacres" ]
+  }, {
+    "canonical_form" : "ombrage",
+    "other_forms" : [ "ombrages" ]
+  }, {
+    "canonical_form" : "illusion",
+    "other_forms" : [ "illusions" ]
+  }, {
+    "canonical_form" : "idée",
+    "other_forms" : [ "idées" ]
+  }, {
+    "canonical_form" : "sombreur",
+    "other_forms" : [ "sombreurs" ]
+  }, {
+    "canonical_form" : "spectre",
+    "other_forms" : [ "spectres" ]
+  }, {
+    "canonical_form" : "ténèbres",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "pénombre",
+    "other_forms" : [ "pénombres" ]
+  }, {
+    "canonical_form" : "trace",
+    "other_forms" : [ "traces" ]
+  }, {
+    "canonical_form" : "âme",
+    "other_forms" : [ "âmes" ]
+  }, {
+    "canonical_form" : "obscurcissement",
+    "other_forms" : [ "obscurcissements" ]
+  }, {
+    "canonical_form" : "mystère",
+    "other_forms" : [ "mystères" ]
+  }, {
+    "canonical_form" : "brume",
+    "other_forms" : [ "brumes" ]
+  }, {
+    "canonical_form" : "doute",
+    "other_forms" : [ "doutes" ]
+  }, {
+    "canonical_form" : "effacement",
+    "other_forms" : [ "effacements" ]
+  }, {
+    "canonical_form" : "forme",
+    "other_forms" : [ "formes" ]
+  }, {
+    "canonical_form" : "inquiétude",
+    "other_forms" : [ "inquiétudes" ]
+  }, {
+    "canonical_form" : "mélancolie",
+    "other_forms" : [ "mélancolies" ]
+  }, {
+    "canonical_form" : "opacité",
+    "other_forms" : [ "opacités" ]
+  }, {
+    "canonical_form" : "prétexte",
+    "other_forms" : [ "prétextes" ]
+  }, {
+    "canonical_form" : "souvenir",
+    "other_forms" : [ "souvenirs" ]
+  }, {
+    "canonical_form" : "mânes",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "brumaille",
+    "other_forms" : [ "brumailles" ]
+  }, {
+    "canonical_form" : "chimère",
+    "other_forms" : [ "chimères" ]
+  }, {
+    "canonical_form" : "clair-obscur",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "fantasme",
+    "other_forms" : [ "fantasmes" ]
+  }, {
+    "canonical_form" : "humilité",
+    "other_forms" : [ "humilités" ]
+  }, {
+    "canonical_form" : "modestie",
+    "other_forms" : [ "modesties" ]
+  }, {
+    "canonical_form" : "ombrine",
+    "other_forms" : [ "ombrines" ]
+  }, {
+    "canonical_form" : "oubli",
+    "other_forms" : [ "oublis" ]
+  }, {
+    "canonical_form" : "parcelle",
+    "other_forms" : [ "parcelles" ]
+  }, {
+    "canonical_form" : "protection",
+    "other_forms" : [ "protections" ]
+  }, {
+    "canonical_form" : "préoccupation",
+    "other_forms" : [ "préoccupations" ]
+  }, {
+    "canonical_form" : "reflet",
+    "other_forms" : [ "reflets" ]
+  }, {
+    "canonical_form" : "silhouette",
+    "other_forms" : [ "silhouettes" ]
+  }, {
+    "canonical_form" : "inconvénient",
+    "other_forms" : [ "inconvénients" ]
+  }, {
+    "canonical_form" : "approche",
+    "other_forms" : [ "approches" ]
+  }, {
+    "canonical_form" : "contour",
+    "other_forms" : [ "contours" ]
+  }, {
+    "canonical_form" : "contrariété",
+    "other_forms" : [ "contrariétés" ]
+  }, {
+    "canonical_form" : "contre-jour",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "demi-jour",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "défaut",
+    "other_forms" : [ "défauts" ]
+  }, {
+    "canonical_form" : "embrouillement",
+    "other_forms" : [ "embrouillage", "embrouillages", "embrouillements" ]
+  }, {
+    "canonical_form" : "frondaison",
+    "other_forms" : [ "frondaisons" ]
+  }, {
+    "canonical_form" : "imbroglio",
+    "other_forms" : [ "imbroglios" ]
+  }, {
+    "canonical_form" : "solitude",
+    "other_forms" : [ "solitudes" ]
+  } ]
+}

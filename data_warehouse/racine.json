@@ -1,0 +1,112 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "racine",
+    "other_forms" : [ "racines" ]
+  }, {
+    "canonical_form" : "origine",
+    "other_forms" : [ "origines" ]
+  }, {
+    "canonical_form" : "source",
+    "other_forms" : [ "sources" ]
+  }, {
+    "canonical_form" : "fondement",
+    "other_forms" : [ "fondements" ]
+  }, {
+    "canonical_form" : "principe",
+    "other_forms" : [ "principes" ]
+  }, {
+    "canonical_form" : "souche",
+    "other_forms" : [ "souches" ]
+  }, {
+    "canonical_form" : "commencement",
+    "other_forms" : [ "commencements" ]
+  }, {
+    "canonical_form" : "base",
+    "other_forms" : [ "bases" ]
+  }, {
+    "canonical_form" : "germe",
+    "other_forms" : [ "germes" ]
+  }, {
+    "canonical_form" : "pied",
+    "other_forms" : [ "pieds" ]
+  }, {
+    "canonical_form" : "tige",
+    "other_forms" : [ "tiges" ]
+  }, {
+    "canonical_form" : "seuil",
+    "other_forms" : [ "seuils" ]
+  }, {
+    "canonical_form" : "patte",
+    "other_forms" : [ "pattes" ]
+  }, {
+    "canonical_form" : "naissance",
+    "other_forms" : [ "naissances" ]
+  }, {
+    "canonical_form" : "bulbe",
+    "other_forms" : [ "bulbes" ]
+  }, {
+    "canonical_form" : "attache",
+    "other_forms" : [ "attaches" ]
+  }, {
+    "canonical_form" : "oignon",
+    "other_forms" : [ "oignons" ]
+  }, {
+    "canonical_form" : "pivot",
+    "other_forms" : [ "pivots" ]
+  }, {
+    "canonical_form" : "provenance",
+    "other_forms" : [ "provenances" ]
+  }, {
+    "canonical_form" : "radicelle",
+    "other_forms" : [ "radicelles" ]
+  }, {
+    "canonical_form" : "radicule",
+    "other_forms" : [ "radicules" ]
+  }, {
+    "canonical_form" : "rhizome",
+    "other_forms" : [ "rhizomes" ]
+  }, {
+    "canonical_form" : "solution",
+    "other_forms" : [ "solutions" ]
+  }, {
+    "canonical_form" : "stolon",
+    "other_forms" : [ "stolons" ]
+  }, {
+    "canonical_form" : "sémantème",
+    "other_forms" : [ "sémantèmes" ]
+  }, {
+    "canonical_form" : "tubercule",
+    "other_forms" : [ "tubercules" ]
+  }, {
+    "canonical_form" : "monème",
+    "other_forms" : [ "monèmes" ]
+  }, {
+    "canonical_form" : "lien",
+    "other_forms" : [ "liens" ]
+  }, {
+    "canonical_form" : "attachement",
+    "other_forms" : [ "attachements" ]
+  }, {
+    "canonical_form" : "caïeu",
+    "other_forms" : [ "cayeu", "cayeux", "caïeux" ]
+  }, {
+    "canonical_form" : "estoc",
+    "other_forms" : [ "estocs" ]
+  }, {
+    "canonical_form" : "ferment",
+    "other_forms" : [ "ferments" ]
+  }, {
+    "canonical_form" : "florence",
+    "other_forms" : [ "florences" ]
+  }, {
+    "canonical_form" : "griffe",
+    "other_forms" : [ "griffes" ]
+  }, {
+    "canonical_form" : "lexème",
+    "other_forms" : [ "lexèmes" ]
+  }, {
+    "canonical_form" : "étymologie",
+    "other_forms" : [ "étymologies" ]
+  } ]
+}

@@ -1,0 +1,127 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "branche",
+    "other_forms" : [ "branches" ]
+  }, {
+    "canonical_form" : "rameau",
+    "other_forms" : [ "rameaux" ]
+  }, {
+    "canonical_form" : "ramure",
+    "other_forms" : [ "ramures" ]
+  }, {
+    "canonical_form" : "division",
+    "other_forms" : [ "divisions" ]
+  }, {
+    "canonical_form" : "tige",
+    "other_forms" : [ "tiges" ]
+  }, {
+    "canonical_form" : "ramification",
+    "other_forms" : [ "ramifications" ]
+  }, {
+    "canonical_form" : "race",
+    "other_forms" : [ "races" ]
+  }, {
+    "canonical_form" : "pousse",
+    "other_forms" : [ "pousses" ]
+  }, {
+    "canonical_form" : "brindille",
+    "other_forms" : [ "brindilles" ]
+  }, {
+    "canonical_form" : "brin",
+    "other_forms" : [ "brins" ]
+  }, {
+    "canonical_form" : "spécialité",
+    "other_forms" : [ "spécialités" ]
+  }, {
+    "canonical_form" : "scion",
+    "other_forms" : [ "scions" ]
+  }, {
+    "canonical_form" : "rejeton",
+    "other_forms" : [ "rejetons" ]
+  }, {
+    "canonical_form" : "famille",
+    "other_forms" : [ "familles" ]
+  }, {
+    "canonical_form" : "corne",
+    "other_forms" : [ "cornes" ]
+  }, {
+    "canonical_form" : "cor",
+    "other_forms" : [ "cors" ]
+  }, {
+    "canonical_form" : "branchage",
+    "other_forms" : [ "branchages" ]
+  }, {
+    "canonical_form" : "palme",
+    "other_forms" : [ "palmes" ]
+  }, {
+    "canonical_form" : "nervure",
+    "other_forms" : [ "nervures" ]
+  }, {
+    "canonical_form" : "marre",
+    "other_forms" : [ "marres" ]
+  }, {
+    "canonical_form" : "margotin",
+    "other_forms" : [ "margotins" ]
+  }, {
+    "canonical_form" : "maison",
+    "other_forms" : [ "maisons" ]
+  }, {
+    "canonical_form" : "pampre",
+    "other_forms" : [ "pampres" ]
+  }, {
+    "canonical_form" : "ramille",
+    "other_forms" : [ "ramilles" ]
+  }, {
+    "canonical_form" : "rejet",
+    "other_forms" : [ "rejets" ]
+  }, {
+    "canonical_form" : "rouette",
+    "other_forms" : [ "rouettes" ]
+  }, {
+    "canonical_form" : "section",
+    "other_forms" : [ "sections" ]
+  }, {
+    "canonical_form" : "sous-famille",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "surgeon",
+    "other_forms" : [ "surgeons" ]
+  }, {
+    "canonical_form" : "jambe",
+    "other_forms" : [ "jambes" ]
+  }, {
+    "canonical_form" : "flèche",
+    "other_forms" : [ "flèches" ]
+  }, {
+    "canonical_form" : "branchette",
+    "other_forms" : [ "branchettes" ]
+  }, {
+    "canonical_form" : "bras",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "bûche",
+    "other_forms" : [ "bûches" ]
+  }, {
+    "canonical_form" : "crossette",
+    "other_forms" : [ "crossettes" ]
+  }, {
+    "canonical_form" : "discipline",
+    "other_forms" : [ "disciplines" ]
+  }, {
+    "canonical_form" : "département",
+    "other_forms" : [ "départements" ]
+  }, {
+    "canonical_form" : "embranchement",
+    "other_forms" : [ "embranchements" ]
+  }, {
+    "canonical_form" : "ergot",
+    "other_forms" : [ "ergots" ]
+  }, {
+    "canonical_form" : "filiation",
+    "other_forms" : [ "filiations" ]
+  }, {
+    "canonical_form" : "ascendance",
+    "other_forms" : [ "ascendances" ]
+  } ]
+}

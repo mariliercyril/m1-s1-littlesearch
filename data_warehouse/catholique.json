@@ -1,0 +1,28 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "catholique",
+    "other_forms" : [ "catholiques" ]
+  }, {
+    "canonical_form" : "chrétien",
+    "other_forms" : [ "chrétienne", "chrétiennes", "chrétiens" ]
+  }, {
+    "canonical_form" : "fidèle",
+    "other_forms" : [ "fidèles" ]
+  }, {
+    "canonical_form" : "catho",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "converti",
+    "other_forms" : [ "convertie", "converties", "convertis" ]
+  }, {
+    "canonical_form" : "oecuménique",
+    "other_forms" : [ "oecuméniques" ]
+  }, {
+    "canonical_form" : "papiste",
+    "other_forms" : [ "papistes" ]
+  }, {
+    "canonical_form" : "pratiquant",
+    "other_forms" : [ "pratiquante", "pratiquantes", "pratiquants" ]
+  } ]
+}

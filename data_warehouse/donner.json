@@ -1,0 +1,266 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "donner"
+  }, {
+    "canonical_form" : "révéler"
+  }, {
+    "canonical_form" : "montrer"
+  }, {
+    "canonical_form" : "exposer"
+  }, {
+    "canonical_form" : "produire"
+  }, {
+    "canonical_form" : "attribuer"
+  }, {
+    "canonical_form" : "faire"
+  }, {
+    "canonical_form" : "accorder"
+  }, {
+    "canonical_form" : "offrir"
+  }, {
+    "canonical_form" : "présenter"
+  }, {
+    "canonical_form" : "laisser"
+  }, {
+    "canonical_form" : "fournir"
+  }, {
+    "canonical_form" : "appliquer"
+  }, {
+    "canonical_form" : "livrer"
+  }, {
+    "canonical_form" : "abandonner"
+  }, {
+    "canonical_form" : "communiquer"
+  }, {
+    "canonical_form" : "représenter"
+  }, {
+    "canonical_form" : "prêter"
+  }, {
+    "canonical_form" : "céder"
+  }, {
+    "canonical_form" : "avancer"
+  }, {
+    "canonical_form" : "indiquer"
+  }, {
+    "canonical_form" : "passer"
+  }, {
+    "canonical_form" : "rapporter"
+  }, {
+    "canonical_form" : "remettre"
+  }, {
+    "canonical_form" : "transmettre"
+  }, {
+    "canonical_form" : "rendre"
+  }, {
+    "canonical_form" : "dénoncer"
+  }, {
+    "canonical_form" : "allouer"
+  }, {
+    "canonical_form" : "apporter"
+  }, {
+    "canonical_form" : "distribuer"
+  }, {
+    "canonical_form" : "déterminer"
+  }, {
+    "canonical_form" : "gratifier"
+  }, {
+    "canonical_form" : "vendre"
+  }, {
+    "canonical_form" : "servir"
+  }, {
+    "canonical_form" : "octroyer"
+  }, {
+    "canonical_form" : "former"
+  }, {
+    "canonical_form" : "exprimer"
+  }, {
+    "canonical_form" : "administrer"
+  }, {
+    "canonical_form" : "écrire"
+  }, {
+    "canonical_form" : "publier"
+  }, {
+    "canonical_form" : "provoquer"
+  }, {
+    "canonical_form" : "procurer"
+  }, {
+    "canonical_form" : "fixer"
+  }, {
+    "canonical_form" : "envoyer"
+  }, {
+    "canonical_form" : "concéder"
+  }, {
+    "canonical_form" : "adresser"
+  }, {
+    "canonical_form" : "répandre"
+  }, {
+    "canonical_form" : "payer"
+  }, {
+    "canonical_form" : "frapper"
+  }, {
+    "canonical_form" : "attacher"
+  }, {
+    "canonical_form" : "aliéner"
+  }, {
+    "canonical_form" : "permettre"
+  }, {
+    "canonical_form" : "prodiguer"
+  }, {
+    "canonical_form" : "renoncer"
+  }, {
+    "canonical_form" : "susciter"
+  }, {
+    "canonical_form" : "trahir"
+  }, {
+    "canonical_form" : "vouer"
+  }, {
+    "canonical_form" : "établir"
+  }, {
+    "canonical_form" : "partager"
+  }, {
+    "canonical_form" : "occasionner"
+  }, {
+    "canonical_form" : "nommer"
+  }, {
+    "canonical_form" : "adjuger"
+  }, {
+    "canonical_form" : "allonger"
+  }, {
+    "canonical_form" : "causer"
+  }, {
+    "canonical_form" : "coller"
+  }, {
+    "canonical_form" : "conférer"
+  }, {
+    "canonical_form" : "décerner"
+  }, {
+    "canonical_form" : "ficher"
+  }, {
+    "canonical_form" : "imposer"
+  }, {
+    "canonical_form" : "tolérer"
+  }, {
+    "canonical_form" : "répartir"
+  }, {
+    "canonical_form" : "imputer"
+  }, {
+    "canonical_form" : "imprimer"
+  }, {
+    "canonical_form" : "confier"
+  }, {
+    "canonical_form" : "affirmer"
+  }, {
+    "canonical_form" : "verser"
+  }, {
+    "canonical_form" : "soumettre"
+  }, {
+    "canonical_form" : "sacrifier"
+  }, {
+    "canonical_form" : "prétendre"
+  }, {
+    "canonical_form" : "dévouer"
+  }, {
+    "canonical_form" : "doter"
+  }, {
+    "canonical_form" : "dispenser"
+  }, {
+    "canonical_form" : "consentir"
+  }, {
+    "canonical_form" : "consacrer"
+  }, {
+    "canonical_form" : "assigner"
+  }, {
+    "canonical_form" : "aider"
+  }, {
+    "canonical_form" : "inspirer"
+  }, {
+    "canonical_form" : "jouer"
+  }, {
+    "canonical_form" : "léguer"
+  }, {
+    "canonical_form" : "pourvoir"
+  }, {
+    "canonical_form" : "prescrire"
+  }, {
+    "canonical_form" : "foutre"
+  }, {
+    "canonical_form" : "déposer"
+  }, {
+    "canonical_form" : "composer"
+  }, {
+    "canonical_form" : "brûler"
+  }, {
+    "canonical_form" : "balancer"
+  }, {
+    "canonical_form" : "assurer"
+  }, {
+    "canonical_form" : "aligner"
+  }, {
+    "canonical_form" : "supposer"
+  }, {
+    "canonical_form" : "échanger"
+  }, {
+    "canonical_form" : "rétrocéder"
+  }, {
+    "canonical_form" : "infliger"
+  }, {
+    "canonical_form" : "dédier"
+  }, {
+    "canonical_form" : "employer"
+  }, {
+    "canonical_form" : "exciter"
+  }, {
+    "canonical_form" : "garantir"
+  }, {
+    "canonical_form" : "impartir"
+  }, {
+    "canonical_form" : "élaborer"
+  }, {
+    "canonical_form" : "voir"
+  }, {
+    "canonical_form" : "inoculer"
+  }, {
+    "canonical_form" : "fructifier"
+  }, {
+    "canonical_form" : "douer"
+  }, {
+    "canonical_form" : "assister"
+  }, {
+    "canonical_form" : "assener"
+  }, {
+    "canonical_form" : "affubler"
+  }, {
+    "canonical_form" : "moucharder"
+  }, {
+    "canonical_form" : "nantir"
+  }, {
+    "canonical_form" : "ouvrir"
+  }, {
+    "canonical_form" : "redonner"
+  }, {
+    "canonical_form" : "rémunérer"
+  }, {
+    "canonical_form" : "rétribuer"
+  }, {
+    "canonical_form" : "troquer"
+  }, {
+    "canonical_form" : "intervenir"
+  }, {
+    "canonical_form" : "heurter"
+  }, {
+    "canonical_form" : "gaspiller"
+  }, {
+    "canonical_form" : "abouler"
+  }, {
+    "canonical_form" : "approcher"
+  }, {
+    "canonical_form" : "bailler"
+  }, {
+    "canonical_form" : "croire"
+  }, {
+    "canonical_form" : "enfanter"
+  }, {
+    "canonical_form" : "épandre"
+  } ]
+}

@@ -1,0 +1,55 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "duel",
+    "other_forms" : [ "duels" ]
+  }, {
+    "canonical_form" : "combat",
+    "other_forms" : [ "combats" ]
+  }, {
+    "canonical_form" : "lutte",
+    "other_forms" : [ "luttes" ]
+  }, {
+    "canonical_form" : "bataille",
+    "other_forms" : [ "batailles" ]
+  }, {
+    "canonical_form" : "dispute",
+    "other_forms" : [ "disputes" ]
+  }, {
+    "canonical_form" : "joute",
+    "other_forms" : [ "joutes" ]
+  }, {
+    "canonical_form" : "rivalité",
+    "other_forms" : [ "rivalités" ]
+  }, {
+    "canonical_form" : "opposition",
+    "other_forms" : [ "oppositions" ]
+  }, {
+    "canonical_form" : "compétition",
+    "other_forms" : [ "compétitions" ]
+  }, {
+    "canonical_form" : "affrontement",
+    "other_forms" : [ "affrontements" ]
+  }, {
+    "canonical_form" : "affaire",
+    "other_forms" : [ "affaires" ]
+  }, {
+    "canonical_form" : "escarmouche",
+    "other_forms" : [ "escarmouches" ]
+  }, {
+    "canonical_form" : "rencontre",
+    "other_forms" : [ "rencontres" ]
+  }, {
+    "canonical_form" : "antagonisme",
+    "other_forms" : [ "antagonismes" ]
+  }, {
+    "canonical_form" : "escrime",
+    "other_forms" : [ "escrimes" ]
+  }, {
+    "canonical_form" : "ordalie",
+    "other_forms" : [ "ordalies" ]
+  }, {
+    "canonical_form" : "réparation",
+    "other_forms" : [ "réparations" ]
+  } ]
+}

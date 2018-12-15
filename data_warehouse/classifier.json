@@ -1,0 +1,22 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "classifier"
+  }, {
+    "canonical_form" : "inventorier"
+  }, {
+    "canonical_form" : "ordonner"
+  }, {
+    "canonical_form" : "classer"
+  }, {
+    "canonical_form" : "hiérarchiser"
+  }, {
+    "canonical_form" : "répartir"
+  }, {
+    "canonical_form" : "répertorier"
+  }, {
+    "canonical_form" : "cataloguer"
+  }, {
+    "canonical_form" : "distribuer"
+  } ]
+}

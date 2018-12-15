@@ -1,0 +1,49 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "prémices",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "commencement",
+    "other_forms" : [ "commencements" ]
+  }, {
+    "canonical_form" : "début",
+    "other_forms" : [ "débuts" ]
+  }, {
+    "canonical_form" : "origine",
+    "other_forms" : [ "origines" ]
+  }, {
+    "canonical_form" : "seuil",
+    "other_forms" : [ "seuils" ]
+  }, {
+    "canonical_form" : "préambule",
+    "other_forms" : [ "préambules" ]
+  }, {
+    "canonical_form" : "prolégomènes",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "principe",
+    "other_forms" : [ "principes" ]
+  }, {
+    "canonical_form" : "primeur",
+    "other_forms" : [ "primeurs" ]
+  }, {
+    "canonical_form" : "genèse",
+    "other_forms" : [ "genèses" ]
+  }, {
+    "canonical_form" : "fruit",
+    "other_forms" : [ "fruits" ]
+  }, {
+    "canonical_form" : "avant-goût",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "aurore",
+    "other_forms" : [ "aurores" ]
+  }, {
+    "canonical_form" : "amorce",
+    "other_forms" : [ "amorces" ]
+  }, {
+    "canonical_form" : "virginité",
+    "other_forms" : [ "virginités" ]
+  } ]
+}

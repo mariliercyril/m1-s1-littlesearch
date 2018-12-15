@@ -1,0 +1,46 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "romantique",
+    "other_forms" : [ "romantiques" ]
+  }, {
+    "canonical_form" : "romanesque",
+    "other_forms" : [ "romanesques" ]
+  }, {
+    "canonical_form" : "chimérique",
+    "other_forms" : [ "chimériques" ]
+  }, {
+    "canonical_form" : "rêveur",
+    "other_forms" : [ "rêveurs", "rêveuse", "rêveuses" ]
+  }, {
+    "canonical_form" : "poétique",
+    "other_forms" : [ "poétiques" ]
+  }, {
+    "canonical_form" : "imaginatif",
+    "other_forms" : [ "imaginatifs", "imaginative", "imaginatives" ]
+  }, {
+    "canonical_form" : "idéaliste",
+    "other_forms" : [ "idéalistes" ]
+  }, {
+    "canonical_form" : "triste",
+    "other_forms" : [ "tristes" ]
+  }, {
+    "canonical_form" : "spéculatif",
+    "other_forms" : [ "spéculatifs", "spéculative", "spéculatives" ]
+  }, {
+    "canonical_form" : "sentimental",
+    "other_forms" : [ "sentimentale", "sentimentales", "sentimentaux" ]
+  }, {
+    "canonical_form" : "sensible",
+    "other_forms" : [ "sensibles" ]
+  }, {
+    "canonical_form" : "mélancolique",
+    "other_forms" : [ "mélancoliques" ]
+  }, {
+    "canonical_form" : "mystérieux",
+    "other_forms" : [ "mystérieuse", "mystérieuses" ]
+  }, {
+    "canonical_form" : "utopique",
+    "other_forms" : [ "utopiques" ]
+  } ]
+}

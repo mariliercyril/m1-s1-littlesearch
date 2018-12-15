@@ -1,0 +1,52 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "jeunesse",
+    "other_forms" : [ "jeunesses" ]
+  }, {
+    "canonical_form" : "adolescence",
+    "other_forms" : [ "adolescences" ]
+  }, {
+    "canonical_form" : "ardeur",
+    "other_forms" : [ "ardeurs" ]
+  }, {
+    "canonical_form" : "vivacité",
+    "other_forms" : [ "vivacités" ]
+  }, {
+    "canonical_form" : "vigueur",
+    "other_forms" : [ "vigueurs" ]
+  }, {
+    "canonical_form" : "verdeur",
+    "other_forms" : [ "verdeurs" ]
+  }, {
+    "canonical_form" : "juvénilité",
+    "other_forms" : [ "juvénilités" ]
+  }, {
+    "canonical_form" : "fraîcheur",
+    "other_forms" : [ "fraîcheurs" ]
+  }, {
+    "canonical_form" : "jouvence",
+    "other_forms" : [ "jouvences" ]
+  }, {
+    "canonical_form" : "nouveauté",
+    "other_forms" : [ "nouveautés" ]
+  }, {
+    "canonical_form" : "nubilité",
+    "other_forms" : [ "nubilités" ]
+  }, {
+    "canonical_form" : "printemps",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "tendron",
+    "other_forms" : [ "tendrons" ]
+  }, {
+    "canonical_form" : "fille",
+    "other_forms" : [ "filles" ]
+  }, {
+    "canonical_form" : "enthousiasme",
+    "other_forms" : [ "enthousiasmes" ]
+  }, {
+    "canonical_form" : "vitalité",
+    "other_forms" : [ "vitalités" ]
+  } ]
+}

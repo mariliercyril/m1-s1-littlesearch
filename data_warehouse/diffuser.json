@@ -1,0 +1,32 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "diffuser"
+  }, {
+    "canonical_form" : "propager"
+  }, {
+    "canonical_form" : "répandre"
+  }, {
+    "canonical_form" : "généraliser"
+  }, {
+    "canonical_form" : "transmettre"
+  }, {
+    "canonical_form" : "véhiculer"
+  }, {
+    "canonical_form" : "universaliser"
+  }, {
+    "canonical_form" : "vulgariser"
+  }, {
+    "canonical_form" : "réverbérer"
+  }, {
+    "canonical_form" : "distribuer"
+  }, {
+    "canonical_form" : "disperser"
+  }, {
+    "canonical_form" : "colporter"
+  }, {
+    "canonical_form" : "accréditer"
+  }, {
+    "canonical_form" : "émettre"
+  } ]
+}

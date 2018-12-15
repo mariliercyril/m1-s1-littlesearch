@@ -1,0 +1,25 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "astrologue",
+    "other_forms" : [ "astrologues" ]
+  }, {
+    "canonical_form" : "devin",
+    "other_forms" : [ "devineresse", "devineresses", "devins" ]
+  }, {
+    "canonical_form" : "magicien",
+    "other_forms" : [ "magicienne", "magiciennes", "magiciens" ]
+  }, {
+    "canonical_form" : "augure",
+    "other_forms" : [ "augures" ]
+  }, {
+    "canonical_form" : "astronome",
+    "other_forms" : [ "astronomes" ]
+  }, {
+    "canonical_form" : "astrologien",
+    "other_forms" : [ "astrologienne", "astrologiennes", "astrologiens" ]
+  }, {
+    "canonical_form" : "sorcier",
+    "other_forms" : [ "sorciers", "sorcière", "sorcières" ]
+  } ]
+}

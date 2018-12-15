@@ -1,0 +1,118 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "peuple",
+    "other_forms" : [ "peuples" ]
+  }, {
+    "canonical_form" : "foule",
+    "other_forms" : [ "foules" ]
+  }, {
+    "canonical_form" : "multitude",
+    "other_forms" : [ "multitudes" ]
+  }, {
+    "canonical_form" : "masse",
+    "other_forms" : [ "masses" ]
+  }, {
+    "canonical_form" : "populace",
+    "other_forms" : [ "populaces" ]
+  }, {
+    "canonical_form" : "quantité",
+    "other_forms" : [ "quantités" ]
+  }, {
+    "canonical_form" : "société",
+    "other_forms" : [ "sociétés" ]
+  }, {
+    "canonical_form" : "tourbe",
+    "other_forms" : [ "tourbes" ]
+  }, {
+    "canonical_form" : "troupe",
+    "other_forms" : [ "troupes" ]
+  }, {
+    "canonical_form" : "horde",
+    "other_forms" : [ "hordes" ]
+  }, {
+    "canonical_form" : "tribu",
+    "other_forms" : [ "tribus" ]
+  }, {
+    "canonical_form" : "nation",
+    "other_forms" : [ "nations" ]
+  }, {
+    "canonical_form" : "essaim",
+    "other_forms" : [ "essaims" ]
+  }, {
+    "canonical_form" : "bande",
+    "other_forms" : [ "bandes" ]
+  }, {
+    "canonical_form" : "troupeau",
+    "other_forms" : [ "troupeaux" ]
+  }, {
+    "canonical_form" : "tas",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "association",
+    "other_forms" : [ "associations" ]
+  }, {
+    "canonical_form" : "assemblage",
+    "other_forms" : [ "assemblages" ]
+  }, {
+    "canonical_form" : "affluence",
+    "other_forms" : [ "affluences" ]
+  }, {
+    "canonical_form" : "populo",
+    "other_forms" : [ "populos" ]
+  }, {
+    "canonical_form" : "population",
+    "other_forms" : [ "populations" ]
+  }, {
+    "canonical_form" : "plèbe",
+    "other_forms" : [ "plèbes" ]
+  }, {
+    "canonical_form" : "flot",
+    "other_forms" : [ "flots" ]
+  }, {
+    "canonical_form" : "flopée",
+    "other_forms" : [ "flopées" ]
+  }, {
+    "canonical_form" : "vulgum pecus",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "race",
+    "other_forms" : [ "races" ]
+  }, {
+    "canonical_form" : "prolétariat",
+    "other_forms" : [ "prolétariats" ]
+  }, {
+    "canonical_form" : "peuplade",
+    "other_forms" : [ "peuplades" ]
+  }, {
+    "canonical_form" : "roture",
+    "other_forms" : [ "rotures" ]
+  }, {
+    "canonical_form" : "piétaille",
+    "other_forms" : [ "piétailles" ]
+  }, {
+    "canonical_form" : "paysannat",
+    "other_forms" : [ "paysannats" ]
+  }, {
+    "canonical_form" : "pays",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "ouaille",
+    "other_forms" : [ "ouailles" ]
+  }, {
+    "canonical_form" : "nombre",
+    "other_forms" : [ "nombres" ]
+  }, {
+    "canonical_form" : "habitant",
+    "other_forms" : [ "habitante", "habitantes", "habitants" ]
+  }, {
+    "canonical_form" : "habitant",
+    "other_forms" : [ "habitante", "habitantes", "habitants" ]
+  }, {
+    "canonical_form" : "gent",
+    "other_forms" : [ "gents" ]
+  }, {
+    "canonical_form" : "collectivité",
+    "other_forms" : [ "collectivités" ]
+  } ]
+}

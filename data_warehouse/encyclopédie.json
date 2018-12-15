@@ -1,0 +1,16 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "encyclopédie",
+    "other_forms" : [ "encyclopédies" ]
+  }, {
+    "canonical_form" : "almanach",
+    "other_forms" : [ "almanachs" ]
+  }, {
+    "canonical_form" : "dictionnaire",
+    "other_forms" : [ "dictionnaires" ]
+  }, {
+    "canonical_form" : "somme",
+    "other_forms" : [ "sommes" ]
+  } ]
+}

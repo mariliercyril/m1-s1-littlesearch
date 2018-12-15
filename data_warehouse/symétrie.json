@@ -1,0 +1,43 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "symétrie",
+    "other_forms" : [ "symétries" ]
+  }, {
+    "canonical_form" : "harmonie",
+    "other_forms" : [ "harmonies" ]
+  }, {
+    "canonical_form" : "accord",
+    "other_forms" : [ "accords" ]
+  }, {
+    "canonical_form" : "proportion",
+    "other_forms" : [ "proportions" ]
+  }, {
+    "canonical_form" : "équilibre",
+    "other_forms" : [ "équilibres" ]
+  }, {
+    "canonical_form" : "régularité",
+    "other_forms" : [ "régularités" ]
+  }, {
+    "canonical_form" : "correspondance",
+    "other_forms" : [ "correspondances" ]
+  }, {
+    "canonical_form" : "concordance",
+    "other_forms" : [ "concordances" ]
+  }, {
+    "canonical_form" : "balancement",
+    "other_forms" : [ "balancements" ]
+  }, {
+    "canonical_form" : "beauté",
+    "other_forms" : [ "beautés" ]
+  }, {
+    "canonical_form" : "opposition",
+    "other_forms" : [ "oppositions" ]
+  }, {
+    "canonical_form" : "ordre",
+    "other_forms" : [ "ordres" ]
+  }, {
+    "canonical_form" : "ressemblance",
+    "other_forms" : [ "ressemblances" ]
+  } ]
+}

@@ -1,0 +1,223 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "maison",
+    "other_forms" : [ "maisons" ]
+  }, {
+    "canonical_form" : "habitation",
+    "other_forms" : [ "habitations" ]
+  }, {
+    "canonical_form" : "abri",
+    "other_forms" : [ "abris" ]
+  }, {
+    "canonical_form" : "demeure",
+    "other_forms" : [ "demeures" ]
+  }, {
+    "canonical_form" : "foyer",
+    "other_forms" : [ "foyers" ]
+  }, {
+    "canonical_form" : "logis",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "logement",
+    "other_forms" : [ "logements" ]
+  }, {
+    "canonical_form" : "domicile",
+    "other_forms" : [ "domiciles" ]
+  }, {
+    "canonical_form" : "baraque",
+    "other_forms" : [ "baraques" ]
+  }, {
+    "canonical_form" : "bicoque",
+    "other_forms" : [ "bicoques" ]
+  }, {
+    "canonical_form" : "château",
+    "other_forms" : [ "châteaux" ]
+  }, {
+    "canonical_form" : "home",
+    "other_forms" : [ "homes" ]
+  }, {
+    "canonical_form" : "pénates",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "taudis",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "race",
+    "other_forms" : [ "races" ]
+  }, {
+    "canonical_form" : "origine",
+    "other_forms" : [ "origines" ]
+  }, {
+    "canonical_form" : "gourbi",
+    "other_forms" : [ "gourbis" ]
+  }, {
+    "canonical_form" : "hôtel",
+    "other_forms" : [ "hôtels" ]
+  }, {
+    "canonical_form" : "cahute",
+    "other_forms" : [ "cahutes" ]
+  }, {
+    "canonical_form" : "bâtiment",
+    "other_forms" : [ "bâtiments" ]
+  }, {
+    "canonical_form" : "asile",
+    "other_forms" : [ "asiles" ]
+  }, {
+    "canonical_form" : "établissement",
+    "other_forms" : [ "établissements" ]
+  }, {
+    "canonical_form" : "résidence",
+    "other_forms" : [ "résidences" ]
+  }, {
+    "canonical_form" : "pavillon",
+    "other_forms" : [ "pavillons" ]
+  }, {
+    "canonical_form" : "palais",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "maisonnette",
+    "other_forms" : [ "maisonnettes" ]
+  }, {
+    "canonical_form" : "hutte",
+    "other_forms" : [ "huttes" ]
+  }, {
+    "canonical_form" : "case",
+    "other_forms" : [ "cases" ]
+  }, {
+    "canonical_form" : "boîte",
+    "other_forms" : [ "boîtes" ]
+  }, {
+    "canonical_form" : "bercail",
+    "other_forms" : [ "bercails" ]
+  }, {
+    "canonical_form" : "masure",
+    "other_forms" : [ "masures" ]
+  }, {
+    "canonical_form" : "ménage",
+    "other_forms" : [ "ménages" ]
+  }, {
+    "canonical_form" : "naissance",
+    "other_forms" : [ "naissances" ]
+  }, {
+    "canonical_form" : "propriété",
+    "other_forms" : [ "propriétés" ]
+  }, {
+    "canonical_form" : "suite",
+    "other_forms" : [ "suites" ]
+  }, {
+    "canonical_form" : "villa",
+    "other_forms" : [ "villas" ]
+  }, {
+    "canonical_form" : "lieu",
+    "other_forms" : [ "lieus", "lieux" ]
+  }, {
+    "canonical_form" : "gens",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "appartement",
+    "other_forms" : [ "appartements" ]
+  }, {
+    "canonical_form" : "bouge",
+    "other_forms" : [ "bouges" ]
+  }, {
+    "canonical_form" : "domesticité",
+    "other_forms" : [ "domesticités" ]
+  }, {
+    "canonical_form" : "galetas",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "hôpital",
+    "other_forms" : [ "hôpitaux" ]
+  }, {
+    "canonical_form" : "institution",
+    "other_forms" : [ "institutions" ]
+  }, {
+    "canonical_form" : "maisonnée",
+    "other_forms" : [ "maisonnées" ]
+  }, {
+    "canonical_form" : "monde",
+    "other_forms" : [ "mondes" ]
+  }, {
+    "canonical_form" : "prison",
+    "other_forms" : [ "prisons" ]
+  }, {
+    "canonical_form" : "serviteur",
+    "other_forms" : [ "serviteurs" ]
+  }, {
+    "canonical_form" : "séjour",
+    "other_forms" : [ "séjours" ]
+  }, {
+    "canonical_form" : "édifice",
+    "other_forms" : [ "édifices" ]
+  }, {
+    "canonical_form" : "habitacle",
+    "other_forms" : [ "habitacles" ]
+  }, {
+    "canonical_form" : "campagne",
+    "other_forms" : [ "campagnes" ]
+  }, {
+    "canonical_form" : "cassine",
+    "other_forms" : [ "cassines" ]
+  }, {
+    "canonical_form" : "chalet",
+    "other_forms" : [ "chalets" ]
+  }, {
+    "canonical_form" : "chez-soi",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "construction",
+    "other_forms" : [ "constructions" ]
+  }, {
+    "canonical_form" : "descendance",
+    "other_forms" : [ "descendances" ]
+  }, {
+    "canonical_form" : "dynastie",
+    "other_forms" : [ "dynasties" ]
+  }, {
+    "canonical_form" : "firme",
+    "other_forms" : [ "firmes" ]
+  }, {
+    "canonical_form" : "institut",
+    "other_forms" : [ "instituts" ]
+  }, {
+    "canonical_form" : "manoir",
+    "other_forms" : [ "manoirs" ]
+  }, {
+    "canonical_form" : "nom",
+    "other_forms" : [ "noms" ]
+  }, {
+    "canonical_form" : "place",
+    "other_forms" : [ "places" ]
+  }, {
+    "canonical_form" : "temple",
+    "other_forms" : [ "temples" ]
+  }, {
+    "canonical_form" : "branche",
+    "other_forms" : [ "branches" ]
+  }, {
+    "canonical_form" : "building",
+    "other_forms" : [ "buildings" ]
+  }, {
+    "canonical_form" : "bungalow",
+    "other_forms" : [ "bungalows" ]
+  }, {
+    "canonical_form" : "chacunière",
+    "other_forms" : [ "chacunières" ]
+  }, {
+    "canonical_form" : "chaumière",
+    "other_forms" : [ "chaumières" ]
+  }, {
+    "canonical_form" : "clapier",
+    "other_forms" : [ "clapiers" ]
+  }, {
+    "canonical_form" : "commerce",
+    "other_forms" : [ "commerces" ]
+  }, {
+    "canonical_form" : "couronne",
+    "other_forms" : [ "couronnes" ]
+  }, {
+    "canonical_form" : "trône",
+    "other_forms" : [ "trônes" ]
+  } ]
+}

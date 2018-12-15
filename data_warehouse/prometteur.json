@@ -1,0 +1,19 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "prometteur",
+    "other_forms" : [ "prometteurs", "prometteuse", "prometteuses" ]
+  }, {
+    "canonical_form" : "aguichant",
+    "other_forms" : [ "aguichante", "aguichantes", "aguichants" ]
+  }, {
+    "canonical_form" : "aguicheur",
+    "other_forms" : [ "aguicheurs", "aguicheuse", "aguicheuses" ]
+  }, {
+    "canonical_form" : "encourageant",
+    "other_forms" : [ "encourageante", "encourageantes", "encourageants" ]
+  }, {
+    "canonical_form" : "engageant",
+    "other_forms" : [ "engageante", "engageantes", "engageants" ]
+  } ]
+}

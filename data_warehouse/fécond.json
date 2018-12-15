@@ -1,0 +1,73 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "fécond",
+    "other_forms" : [ "féconde", "fécondes", "féconds" ]
+  }, {
+    "canonical_form" : "fertile",
+    "other_forms" : [ "fertiles" ]
+  }, {
+    "canonical_form" : "abondant",
+    "other_forms" : [ "abondante", "abondantes", "abondants" ]
+  }, {
+    "canonical_form" : "généreux",
+    "other_forms" : [ "généreuse", "généreuses" ]
+  }, {
+    "canonical_form" : "productif",
+    "other_forms" : [ "productifs", "productive", "productives" ]
+  }, {
+    "canonical_form" : "gras",
+    "other_forms" : [ "grasse", "grasses" ]
+  }, {
+    "canonical_form" : "riche",
+    "other_forms" : [ "riches" ]
+  }, {
+    "canonical_form" : "prolifique",
+    "other_forms" : [ "prolifiques" ]
+  }, {
+    "canonical_form" : "inépuisable",
+    "other_forms" : [ "inépuisables" ]
+  }, {
+    "canonical_form" : "inventif",
+    "other_forms" : [ "inventifs", "inventive", "inventives" ]
+  }, {
+    "canonical_form" : "fructueux",
+    "other_forms" : [ "fructueuse", "fructueuses" ]
+  }, {
+    "canonical_form" : "surabondant",
+    "other_forms" : [ "surabondante", "surabondantes", "surabondants" ]
+  }, {
+    "canonical_form" : "producteur",
+    "other_forms" : [ "producteurs", "productrice", "productrices" ]
+  }, {
+    "canonical_form" : "prodigue",
+    "other_forms" : [ "prodigues" ]
+  }, {
+    "canonical_form" : "pondeur",
+    "other_forms" : [ "pondeurs", "pondeuse", "pondeuses" ]
+  }, {
+    "canonical_form" : "plantureux",
+    "other_forms" : [ "plantureuse", "plantureuses" ]
+  }, {
+    "canonical_form" : "intarissable",
+    "other_forms" : [ "intarissables" ]
+  }, {
+    "canonical_form" : "imaginatif",
+    "other_forms" : [ "imaginatifs", "imaginative", "imaginatives" ]
+  }, {
+    "canonical_form" : "gros",
+    "other_forms" : [ "grosse", "grosses" ]
+  }, {
+    "canonical_form" : "fécondant",
+    "other_forms" : [ "fécondante", "fécondantes", "fécondants" ]
+  }, {
+    "canonical_form" : "fructifiant",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "fertilisant",
+    "other_forms" : [ "fertilisante", "fertilisantes", "fertilisants" ]
+  }, {
+    "canonical_form" : "ubéreux",
+    "other_forms" : [ "ubéreuse", "ubéreuses" ]
+  } ]
+}

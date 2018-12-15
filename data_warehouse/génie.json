@@ -1,0 +1,178 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "génie",
+    "other_forms" : [ "génies" ]
+  }, {
+    "canonical_form" : "esprit",
+    "other_forms" : [ "esprits" ]
+  }, {
+    "canonical_form" : "talent",
+    "other_forms" : [ "talents" ]
+  }, {
+    "canonical_form" : "disposition",
+    "other_forms" : [ "dispositions" ]
+  }, {
+    "canonical_form" : "intelligence",
+    "other_forms" : [ "intelligences" ]
+  }, {
+    "canonical_form" : "aptitude",
+    "other_forms" : [ "aptitudes" ]
+  }, {
+    "canonical_form" : "capacité",
+    "other_forms" : [ "capacités" ]
+  }, {
+    "canonical_form" : "don",
+    "other_forms" : [ "dons" ]
+  }, {
+    "canonical_form" : "faculté",
+    "other_forms" : [ "facultés" ]
+  }, {
+    "canonical_form" : "kobold",
+    "other_forms" : [ "kobolds" ]
+  }, {
+    "canonical_form" : "démon",
+    "other_forms" : [ "démons" ]
+  }, {
+    "canonical_form" : "inspiration",
+    "other_forms" : [ "inspirations" ]
+  }, {
+    "canonical_form" : "savoir",
+    "other_forms" : [ "savoirs" ]
+  }, {
+    "canonical_form" : "phénix",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "nature",
+    "other_forms" : [ "natures" ]
+  }, {
+    "canonical_form" : "entendement",
+    "other_forms" : [ "entendements" ]
+  }, {
+    "canonical_form" : "caractère",
+    "other_forms" : [ "caractères" ]
+  }, {
+    "canonical_form" : "aigle",
+    "other_forms" : [ "aigles" ]
+  }, {
+    "canonical_form" : "vocation",
+    "other_forms" : [ "vocations" ]
+  }, {
+    "canonical_form" : "lumière",
+    "other_forms" : [ "lumières" ]
+  }, {
+    "canonical_form" : "instinct",
+    "other_forms" : [ "instincts" ]
+  }, {
+    "canonical_form" : "imagination",
+    "other_forms" : [ "imaginations" ]
+  }, {
+    "canonical_form" : "elfe",
+    "other_forms" : [ "elfes" ]
+  }, {
+    "canonical_form" : "trésor",
+    "other_forms" : [ "trésors" ]
+  }, {
+    "canonical_form" : "sylphe",
+    "other_forms" : [ "sylphes" ]
+  }, {
+    "canonical_form" : "prodige",
+    "other_forms" : [ "prodiges" ]
+  }, {
+    "canonical_form" : "korrigan",
+    "other_forms" : [ "korrigane", "korriganes", "korrigans" ]
+  }, {
+    "canonical_form" : "gnome",
+    "other_forms" : [ "gnomes" ]
+  }, {
+    "canonical_form" : "fée",
+    "other_forms" : [ "fées" ]
+  }, {
+    "canonical_form" : "flamme",
+    "other_forms" : [ "flammes" ]
+  }, {
+    "canonical_form" : "farfadet",
+    "other_forms" : [ "farfadets" ]
+  }, {
+    "canonical_form" : "enthousiasme",
+    "other_forms" : [ "enthousiasmes" ]
+  }, {
+    "canonical_form" : "art",
+    "other_forms" : [ "arts" ]
+  }, {
+    "canonical_form" : "as",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "cerveau",
+    "other_forms" : [ "cerveaux" ]
+  }, {
+    "canonical_form" : "classe",
+    "other_forms" : [ "classes" ]
+  }, {
+    "canonical_form" : "crack",
+    "other_forms" : [ "cracks" ]
+  }, {
+    "canonical_form" : "divinité",
+    "other_forms" : [ "divinités" ]
+  }, {
+    "canonical_form" : "ondine",
+    "other_forms" : [ "ondines" ]
+  }, {
+    "canonical_form" : "ondin",
+    "other_forms" : [ "ondine", "ondines", "ondins" ]
+  }, {
+    "canonical_form" : "ingénierie",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "goût",
+    "other_forms" : [ "goûts" ]
+  }, {
+    "canonical_form" : "originalité",
+    "other_forms" : [ "originalités" ]
+  }, {
+    "canonical_form" : "salamandre",
+    "other_forms" : [ "salamandres" ]
+  }, {
+    "canonical_form" : "supériorité",
+    "other_forms" : [ "supériorités" ]
+  }, {
+    "canonical_form" : "sylphide",
+    "other_forms" : [ "sylphides" ]
+  }, {
+    "canonical_form" : "troll",
+    "other_forms" : [ "trolls" ]
+  }, {
+    "canonical_form" : "goule",
+    "other_forms" : [ "goules" ]
+  }, {
+    "canonical_form" : "ange",
+    "other_forms" : [ "anges" ]
+  }, {
+    "canonical_form" : "aspiole",
+    "other_forms" : [ "aspioles" ]
+  }, {
+    "canonical_form" : "bosse",
+    "other_forms" : [ "bosses" ]
+  }, {
+    "canonical_form" : "brio",
+    "other_forms" : [ "brios" ]
+  }, {
+    "canonical_form" : "collection",
+    "other_forms" : [ "collections" ]
+  }, {
+    "canonical_form" : "djinn",
+    "other_forms" : [ "djinns" ]
+  }, {
+    "canonical_form" : "dragon",
+    "other_forms" : [ "dragons" ]
+  }, {
+    "canonical_form" : "démiurge",
+    "other_forms" : [ "démiurges" ]
+  }, {
+    "canonical_form" : "expression",
+    "other_forms" : [ "expressions" ]
+  }, {
+    "canonical_form" : "gobelin",
+    "other_forms" : [ "gobelins" ]
+  } ]
+}

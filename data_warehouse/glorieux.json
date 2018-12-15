@@ -1,0 +1,106 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "glorieux",
+    "other_forms" : [ "glorieuse", "glorieuses" ]
+  }, {
+    "canonical_form" : "illustre",
+    "other_forms" : [ "illustres" ]
+  }, {
+    "canonical_form" : "beau",
+    "other_forms" : [ "beaux", "bel", "belle", "belles" ]
+  }, {
+    "canonical_form" : "brillant",
+    "other_forms" : [ "brillante", "brillantes", "brillants" ]
+  }, {
+    "canonical_form" : "grand",
+    "other_forms" : [ "grande", "grandes", "grands" ]
+  }, {
+    "canonical_form" : "éclatant",
+    "other_forms" : [ "éclatante", "éclatantes", "éclatants" ]
+  }, {
+    "canonical_form" : "remarquable",
+    "other_forms" : [ "remarquables" ]
+  }, {
+    "canonical_form" : "important",
+    "other_forms" : [ "importante", "importantes", "importants" ]
+  }, {
+    "canonical_form" : "fameux",
+    "other_forms" : [ "fameuse", "fameuses" ]
+  }, {
+    "canonical_form" : "célèbre",
+    "other_forms" : [ "célèbres" ]
+  }, {
+    "canonical_form" : "prestigieux",
+    "other_forms" : [ "prestigieuse", "prestigieuses" ]
+  }, {
+    "canonical_form" : "mémorable",
+    "other_forms" : [ "mémorables" ]
+  }, {
+    "canonical_form" : "superbe",
+    "other_forms" : [ "superbes" ]
+  }, {
+    "canonical_form" : "avantageux",
+    "other_forms" : [ "avantageuse", "avantageuses" ]
+  }, {
+    "canonical_form" : "fier",
+    "other_forms" : [ "fiers", "fière", "fières" ]
+  }, {
+    "canonical_form" : "fat",
+    "other_forms" : [ "fate", "fates", "fats" ]
+  }, {
+    "canonical_form" : "vaniteux",
+    "other_forms" : [ "vaniteuse", "vaniteuses" ]
+  }, {
+    "canonical_form" : "splendide",
+    "other_forms" : [ "splendides" ]
+  }, {
+    "canonical_form" : "orgueilleux",
+    "other_forms" : [ "orgueilleuse", "orgueilleuses" ]
+  }, {
+    "canonical_form" : "magnifique",
+    "other_forms" : [ "magnifiques" ]
+  }, {
+    "canonical_form" : "vénérable",
+    "other_forms" : [ "vénérables" ]
+  }, {
+    "canonical_form" : "saint",
+    "other_forms" : [ "sainte", "saintes", "saints" ]
+  }, {
+    "canonical_form" : "présomptueux",
+    "other_forms" : [ "présomptueuse", "présomptueuses" ]
+  }, {
+    "canonical_form" : "légendaire",
+    "other_forms" : [ "légendaires" ]
+  }, {
+    "canonical_form" : "conquérant",
+    "other_forms" : [ "conquérante", "conquérantes", "conquérants" ]
+  }, {
+    "canonical_form" : "vain",
+    "other_forms" : [ "vaine", "vaines", "vains" ]
+  }, {
+    "canonical_form" : "notable",
+    "other_forms" : [ "notables" ]
+  }, {
+    "canonical_form" : "inoubliable",
+    "other_forms" : [ "inoubliables" ]
+  }, {
+    "canonical_form" : "immortel",
+    "other_forms" : [ "immortelle", "immortelles", "immortels" ]
+  }, {
+    "canonical_form" : "fiérot",
+    "other_forms" : [ "fiérote", "fiérotes", "fiérots" ]
+  }, {
+    "canonical_form" : "héroïque",
+    "other_forms" : [ "héroïques" ]
+  }, {
+    "canonical_form" : "rayonnant",
+    "other_forms" : [ "rayonnante", "rayonnantes", "rayonnants" ]
+  }, {
+    "canonical_form" : "triomphal",
+    "other_forms" : [ "triomphale", "triomphales", "triomphaux" ]
+  }, {
+    "canonical_form" : "victorieux",
+    "other_forms" : [ "victorieuse", "victorieuses" ]
+  } ]
+}

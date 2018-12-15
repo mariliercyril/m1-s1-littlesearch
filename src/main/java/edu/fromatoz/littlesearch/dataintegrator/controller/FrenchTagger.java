@@ -25,7 +25,7 @@ public class FrenchTagger {
 
 		word = word.toLowerCase();
 
-		cnrtlParser = new DataIntegrator.CNRTLParser();
+		cnrtlParser = new CNRTLParser();
 
 		String htmlElementTextForPartOfSpeech = getHTMLElementTextForPartOfSpeech(word);
 		if (htmlElementTextForPartOfSpeech != null) {

@@ -78,7 +78,7 @@ public class FrenchLemmatiser {
 	 */
 	private void getOtherForms() {
 
-		cnrtlParser = new DataIntegrator.CNRTLParser();
+		cnrtlParser = new CNRTLParser();
 
 		otherForms = new TreeSet<>();
 

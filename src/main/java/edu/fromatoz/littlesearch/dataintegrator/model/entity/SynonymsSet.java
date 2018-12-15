@@ -15,6 +15,7 @@ import com.fasterxml.jackson.annotation.JsonGetter;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 
 import edu.fromatoz.littlesearch.app.DataIntegrator;
+import edu.fromatoz.littlesearch.app.DataIntegrator.CNRTLParser;
 
 import edu.fromatoz.littlesearch.dataintegrator.controller.FrenchLemmatiser;
 import edu.fromatoz.littlesearch.dataintegrator.controller.FrenchTagger;
@@ -59,7 +60,7 @@ public class SynonymsSet {
 		monitor(tagger);
 
 		String url = String.format(DataIntegrator.SYNONYMY_FORMAT, tagger.getCanonicalForm() + (Separator.SLASH).getValue() + tagger.getPartOfSpeech());
-		Elements synonymElements = (new DataIntegrator.CNRTLParser()).getHTMLElements(url, "td[class*=syno_format]");
+		Elements synonymElements = (new CNRTLParser()).getHTMLElements(url, "td[class*=syno_format]");
 		ListIterator<Element> synonymElementsListIterator = synonymElements.listIterator();
 		while (synonymElementsListIterator.hasNext()) {
 			Element synonymElement = synonymElementsListIterator.next();

@@ -4,6 +4,13 @@ import java.util.Arrays;
 import java.util.Set;
 import java.util.TreeSet;
 
+import org.jsoup.nodes.Element;
+
+import edu.fromatoz.littlesearch.app.DataIntegrator;
+import edu.fromatoz.littlesearch.app.DataIntegrator.CNRTLParser;
+
+import edu.fromatoz.littlesearch.tool.Separator;
+
 /**
  * The {@code FrenchAnalyser} class defines an analyser for the French language.
  * (The analysis of the French language by Lucene is not always reliable.)
@@ -15,11 +22,15 @@ public class FrenchAnalyser {
 
 	private String text;
 
+	private CNRTLParser cnrtlParser;
+
 	public FrenchAnalyser(String text) {
 
 		this.text = text;
 		// For monitoring...
 		System.out.print("\n" + this.text);
+
+		cnrtlParser = new CNRTLParser();
 	}
 
 	/**
@@ -32,11 +43,10 @@ public class FrenchAnalyser {
 	 * <li><b>tokenize the text</b> (by the method "{@code tokenizeByWhitespace}"), task which returns a first set of <i>tokens</i>;</li>
 	 * <li><b>filter the stop words</b> (by the method "{@code filterStopWords}");</li>
 	 * <li><b>filter the proper nouns</b> (by the method "{@code filterProperNouns}");</li>
-	 * <li><b>disambiguate the token "été"</b> (by the method "{@code disambiguate}");</li>
-	 * <li><b>disambiguate the token "est"</b> (by the method "{@code disambiguate}");</li>
-	 * <li><b>disambiguate the token "a"</b> (by the method "{@code disambiguate}");</li>
-	 * <li><b>disambiguate the token "aujourd"</b> (by the method "{@code disambiguate}");</li>
-	 * <li><b>disambiguate the token "hui"</b> (by the method "{@code disambiguate}")...</li>
+	 * <li><b>disambiguate proper nouns which have not been filtered</b> (by the method "{@code disambiguate}");</li>
+	 * <li><b>disambiguate "être" tokens</b> (by the method "{@code disambiguate}");</li>
+	 * <li><b>disambiguate "avoir" tokens</b> (by the method "{@code disambiguate}");</li>
+	 * <li><b>disambiguate "aujourd'hui" tokens</b> (by the method "{@code disambiguate}");</li>
 	 * </ol>
 	 * <p>(See the official page on the <a href="https://lucene.apache.org/solr/guide/7_5/language-analysis.html">Language Analysis</a>
 	 * for the <i>search platform</i> <b>Solr</b>, for example.)
@@ -57,15 +67,22 @@ public class FrenchAnalyser {
 		// Does the task 5: Filters the proper nouns
 		// TODO: POSSIBLE FEATURE: To develop a NER (Named-Entity Recognition) for proper noun.
 		tokens = filterProperNouns(tokens);
-		// Does the task 6: Disambiguates the word "été"
+		// Does the task 6: Disambiguates proper nouns which have not been filtered
+		tokens = disambiguate(tokens, "Augustin", "Augustin_PROPER_NOUN");
+		tokens = disambiguate(tokens, "Babylone", "Babylone_PROPER_NOUN");
+		tokens = disambiguate(tokens, "Jersey", "Jersey_PROPER_NOUN");
+		tokens = disambiguate(tokens, "Lie", "Lie_PROPER_NOUN");
+		tokens = disambiguate(tokens, "Louis", "Louis_PROPER_NOUN");
+		tokens = disambiguate(tokens, "Paris", "Paris_PROPER_NOUN");
+		tokens = disambiguate(tokens, "Sceaux", "Sceaux_PROPER_NOUN");
+		// Does the task 7: Disambiguates "être" tokens
 		tokens = disambiguate(tokens, "été", "être");
-		// Does the task 7: Disambiguates the word "est"
 		tokens = disambiguate(tokens, "est", "être");
-		// Does the task 8: Disambiguates the word "a"
+		tokens = disambiguate(tokens, "Être", "être");
+		// Does the task 8: Disambiguates "avoir" tokens
 		tokens = disambiguate(tokens, "a", "avoir");
-		// Does the task 9: Disambiguates the word "aujourd"
+		// Does the task 9: Disambiguates "aujourd'hui" tokens
 		tokens = disambiguate(tokens, "aujourd", "aujourd'hui");
-		// Does the task 10: Disambiguates the word "hui"
 		tokens = disambiguate(tokens, "hui", "aujourd'hui");
 
 		// For monitoring...
@@ -131,7 +148,18 @@ public class FrenchAnalyser {
 	 */
 	private Set<String> filterProperNouns(Set<String> tokens) {
 
-		tokens.removeIf(t -> (String.valueOf(t.charAt(0))).matches("[A-Z]"));
+		tokens.removeIf(t -> {
+			// Gets the initial...
+			String initial = String.valueOf(t.charAt(0));
+			// If the initial is in uppercase, tries to find the token in question...
+			if (initial.equals(initial.toUpperCase())) {
+				String url = String.format(DataIntegrator.SYNONYMY_FORMAT, t + Separator.SLASH.getValue());
+				Element htmlElement = cnrtlParser.getFirstHTMLElement(url, "li[id=vitemselected]");
+				return (htmlElement == null);
+			} else {
+				return false;
+			}
+		});
 
 		return tokens;
 	}
@@ -230,15 +258,17 @@ public class FrenchAnalyser {
 		 */
 		INDEFINITE_ARTICLES("un", "une", "des", "de", "d"),
 
-		// Other characters...
+		// Other stop words...
 		/**
 		 * The singleton instance for <b>other stop words</b>.
 		 */
 		OTHER_STOP_WORDS("ici", "là", "vers", "sur", "sous", "dans", "en", "ne", "n", "pas", "plus", "moins", "fois"),
+
+		// Stop characters...
 		/**
-		 * The singleton instance for <b>others</b>.
+		 * The singleton instance for <b>stop characters</b>.
 		 */
-		OTHERS("-", "–");
+		STOP_CHARACTERS("-", "–");
 
 		private final String[] stopWords;
 

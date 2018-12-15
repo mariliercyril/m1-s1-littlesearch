@@ -80,7 +80,7 @@ public class DataIntegrator {
 	public static void main(String[] args) {
 
 		// Gives the text file name to the integrator...
-		String textFileName = "EVARISTE_GALOIS";
+		String textFileName = "CAMILLE_JORDAN";
 		if (args.length > 0) {
 			textFileName = args[0];
 		}

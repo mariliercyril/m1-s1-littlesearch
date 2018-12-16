@@ -1,0 +1,79 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "différent",
+    "other_forms" : [ "différente", "différentes", "différents" ]
+  }, {
+    "canonical_form" : "dissemblable",
+    "other_forms" : [ "dissemblables" ]
+  }, {
+    "canonical_form" : "distinct",
+    "other_forms" : [ "distincte", "distinctes", "distincts" ]
+  }, {
+    "canonical_form" : "hétérogène",
+    "other_forms" : [ "hétérogènes" ]
+  }, {
+    "canonical_form" : "disparate",
+    "other_forms" : [ "disparates" ]
+  }, {
+    "canonical_form" : "discordant",
+    "other_forms" : [ "discordante", "discordantes", "discordants" ]
+  }, {
+    "canonical_form" : "autre",
+    "other_forms" : [ "autres" ]
+  }, {
+    "canonical_form" : "étranger",
+    "other_forms" : [ "étrangers", "étrangère", "étrangères" ]
+  }, {
+    "canonical_form" : "singulier",
+    "other_forms" : [ "singuliers", "singulière", "singulières" ]
+  }, {
+    "canonical_form" : "nouveau",
+    "other_forms" : [ "nouveaux", "nouvel", "nouvelle", "nouvelles" ]
+  }, {
+    "canonical_form" : "inégal",
+    "other_forms" : [ "inégale", "inégales", "inégaux" ]
+  }, {
+    "canonical_form" : "divergent",
+    "other_forms" : [ "divergente", "divergentes", "divergents" ]
+  }, {
+    "canonical_form" : "original",
+    "other_forms" : [ "originale", "originales", "originaux" ]
+  }, {
+    "canonical_form" : "inhabituel",
+    "other_forms" : [ "inhabituelle", "inhabituelles", "inhabituels" ]
+  }, {
+    "canonical_form" : "hétéroclite",
+    "other_forms" : [ "hétéroclites" ]
+  }, {
+    "canonical_form" : "disproportionné",
+    "other_forms" : [ "disproportionnée", "disproportionnées", "disproportionnés" ]
+  }, {
+    "canonical_form" : "contraire",
+    "other_forms" : [ "contraires" ]
+  }, {
+    "canonical_form" : "contradictoire",
+    "other_forms" : [ "contradictoires" ]
+  }, {
+    "canonical_form" : "variable",
+    "other_forms" : [ "variables" ]
+  }, {
+    "canonical_form" : "neuf",
+    "other_forms" : [ "neufs", "neuve", "neuves" ]
+  }, {
+    "canonical_form" : "méconnaissable",
+    "other_forms" : [ "méconnaissables" ]
+  }, {
+    "canonical_form" : "mystérieux",
+    "other_forms" : [ "mystérieuse", "mystérieuses" ]
+  }, {
+    "canonical_form" : "multiple",
+    "other_forms" : [ "multiples" ]
+  }, {
+    "canonical_form" : "inassimilable",
+    "other_forms" : [ "inassimilables" ]
+  }, {
+    "canonical_form" : "distant",
+    "other_forms" : [ "distante", "distantes", "distants" ]
+  } ]
+}

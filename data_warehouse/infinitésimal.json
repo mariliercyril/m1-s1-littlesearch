@@ -1,0 +1,28 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "infinitésimal",
+    "other_forms" : [ "infinitésimale", "infinitésimales", "infinitésimaux" ]
+  }, {
+    "canonical_form" : "imperceptible",
+    "other_forms" : [ "imperceptibles" ]
+  }, {
+    "canonical_form" : "infime",
+    "other_forms" : [ "infimes" ]
+  }, {
+    "canonical_form" : "petit",
+    "other_forms" : [ "petite", "petites", "petits" ]
+  }, {
+    "canonical_form" : "atomique",
+    "other_forms" : [ "atomiques" ]
+  }, {
+    "canonical_form" : "microscopique",
+    "other_forms" : [ "microscopiques" ]
+  }, {
+    "canonical_form" : "minuscule",
+    "other_forms" : [ "minuscules" ]
+  }, {
+    "canonical_form" : "négligeable",
+    "other_forms" : [ "négligeables" ]
+  } ]
+}

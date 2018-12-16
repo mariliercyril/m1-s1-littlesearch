@@ -1,0 +1,52 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "mère",
+    "other_forms" : [ "mères" ]
+  }, {
+    "canonical_form" : "origine",
+    "other_forms" : [ "origines" ]
+  }, {
+    "canonical_form" : "source",
+    "other_forms" : [ "sources" ]
+  }, {
+    "canonical_form" : "pays",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "matrone",
+    "other_forms" : [ "matrones" ]
+  }, {
+    "canonical_form" : "nonne",
+    "other_forms" : [ "nonnes" ]
+  }, {
+    "canonical_form" : "patrie",
+    "other_forms" : [ "patries" ]
+  }, {
+    "canonical_form" : "religieuse",
+    "other_forms" : [ "religieuses" ]
+  }, {
+    "canonical_form" : "matrice",
+    "other_forms" : [ "matrices" ]
+  }, {
+    "canonical_form" : "cause",
+    "other_forms" : [ "causes" ]
+  }, {
+    "canonical_form" : "daronne",
+    "other_forms" : [ "daronnes" ]
+  }, {
+    "canonical_form" : "ferment",
+    "other_forms" : [ "ferments" ]
+  }, {
+    "canonical_form" : "germe",
+    "other_forms" : [ "germes" ]
+  }, {
+    "canonical_form" : "génitrice",
+    "other_forms" : [ "génitrices" ]
+  }, {
+    "canonical_form" : "maman",
+    "other_forms" : [ "mamans" ]
+  }, {
+    "canonical_form" : "surmoulage",
+    "other_forms" : [ "surmoulages" ]
+  } ]
+}

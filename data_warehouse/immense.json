@@ -1,0 +1,112 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "immense",
+    "other_forms" : [ "immenses" ]
+  }, {
+    "canonical_form" : "grand",
+    "other_forms" : [ "grande", "grandes", "grands" ]
+  }, {
+    "canonical_form" : "énorme",
+    "other_forms" : [ "énormes" ]
+  }, {
+    "canonical_form" : "démesuré",
+    "other_forms" : [ "démesurée", "démesurées", "démesurés" ]
+  }, {
+    "canonical_form" : "gigantesque",
+    "other_forms" : [ "gigantesques" ]
+  }, {
+    "canonical_form" : "colossal",
+    "other_forms" : [ "colossale", "colossales", "colossaux" ]
+  }, {
+    "canonical_form" : "extraordinaire",
+    "other_forms" : [ "extraordinaires" ]
+  }, {
+    "canonical_form" : "formidable",
+    "other_forms" : [ "formidables" ]
+  }, {
+    "canonical_form" : "infini",
+    "other_forms" : [ "infinie", "infinies", "infinis" ]
+  }, {
+    "canonical_form" : "gros",
+    "other_forms" : [ "grosse", "grosses" ]
+  }, {
+    "canonical_form" : "considérable",
+    "other_forms" : [ "considérables" ]
+  }, {
+    "canonical_form" : "titanesque",
+    "other_forms" : [ "titanesques", "titanique", "titaniques" ]
+  }, {
+    "canonical_form" : "imposant",
+    "other_forms" : [ "imposante", "imposantes", "imposants" ]
+  }, {
+    "canonical_form" : "incommensurable",
+    "other_forms" : [ "incommensurables" ]
+  }, {
+    "canonical_form" : "vaste",
+    "other_forms" : [ "vastes" ]
+  }, {
+    "canonical_form" : "prodigieux",
+    "other_forms" : [ "prodigieuse", "prodigieuses" ]
+  }, {
+    "canonical_form" : "monumental",
+    "other_forms" : [ "monumentale", "monumentales", "monumentaux" ]
+  }, {
+    "canonical_form" : "extrême",
+    "other_forms" : [ "extrêmes" ]
+  }, {
+    "canonical_form" : "illimité",
+    "other_forms" : [ "illimitée", "illimitées", "illimités" ]
+  }, {
+    "canonical_form" : "interminable",
+    "other_forms" : [ "interminables" ]
+  }, {
+    "canonical_form" : "incalculable",
+    "other_forms" : [ "incalculables" ]
+  }, {
+    "canonical_form" : "fou",
+    "other_forms" : [ "fol", "folle", "folles", "fous" ]
+  }, {
+    "canonical_form" : "profond",
+    "other_forms" : [ "profonde", "profondes", "profonds" ]
+  }, {
+    "canonical_form" : "violent",
+    "other_forms" : [ "violente", "violentes", "violents" ]
+  }, {
+    "canonical_form" : "long",
+    "other_forms" : [ "longs", "longue", "longues" ]
+  }, {
+    "canonical_form" : "effrayant",
+    "other_forms" : [ "effrayante", "effrayantes", "effrayants" ]
+  }, {
+    "canonical_form" : "ample",
+    "other_forms" : [ "amples" ]
+  }, {
+    "canonical_form" : "spacieux",
+    "other_forms" : [ "spacieuse", "spacieuses" ]
+  }, {
+    "canonical_form" : "insensé",
+    "other_forms" : [ "insensée", "insensées", "insensés" ]
+  }, {
+    "canonical_form" : "indéfini",
+    "other_forms" : [ "indéfinie", "indéfinies", "indéfinis" ]
+  }, {
+    "canonical_form" : "géant",
+    "other_forms" : [ "géante", "géantes", "géants" ]
+  }, {
+    "canonical_form" : "cyclopéen",
+    "other_forms" : [ "cyclopéenne", "cyclopéennes", "cyclopéens" ]
+  }, {
+    "canonical_form" : "grandiose",
+    "other_forms" : [ "grandioses" ]
+  }, {
+    "canonical_form" : "grandissime",
+    "other_forms" : [ "grandissimes" ]
+  }, {
+    "canonical_form" : "immensurable",
+    "other_forms" : [ "immensurables" ]
+  }, {
+    "canonical_form" : "éléphantesque",
+    "other_forms" : [ "éléphantesques" ]
+  } ]
+}

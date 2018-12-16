@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "littéraire",
+    "other_forms" : [ "littéraires" ]
+  }, {
+    "canonical_form" : "artificiel",
+    "other_forms" : [ "artificielle", "artificielles", "artificiels" ]
+  }, {
+    "canonical_form" : "littéral",
+    "other_forms" : [ "littérale", "littérales", "littéraux" ]
+  } ]
+}

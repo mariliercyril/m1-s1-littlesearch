@@ -1,0 +1,76 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "lettre",
+    "other_forms" : [ "lettres" ]
+  }, {
+    "canonical_form" : "billet",
+    "other_forms" : [ "billets" ]
+  }, {
+    "canonical_form" : "bafouille",
+    "other_forms" : [ "bafouilles" ]
+  }, {
+    "canonical_form" : "message",
+    "other_forms" : [ "messages" ]
+  }, {
+    "canonical_form" : "note",
+    "other_forms" : [ "notes" ]
+  }, {
+    "canonical_form" : "dépêche",
+    "other_forms" : [ "dépêches" ]
+  }, {
+    "canonical_form" : "correspondance",
+    "other_forms" : [ "correspondances" ]
+  }, {
+    "canonical_form" : "épître",
+    "other_forms" : [ "épîtres" ]
+  }, {
+    "canonical_form" : "poulet",
+    "other_forms" : [ "poulets" ]
+  }, {
+    "canonical_form" : "pli",
+    "other_forms" : [ "plis" ]
+  }, {
+    "canonical_form" : "papier",
+    "other_forms" : [ "papiers" ]
+  }, {
+    "canonical_form" : "caractère",
+    "other_forms" : [ "caractères" ]
+  }, {
+    "canonical_form" : "bulletin",
+    "other_forms" : [ "bulletins" ]
+  }, {
+    "canonical_form" : "voyelle",
+    "other_forms" : [ "voyelles" ]
+  }, {
+    "canonical_form" : "tartine",
+    "other_forms" : [ "tartines" ]
+  }, {
+    "canonical_form" : "syllabe",
+    "other_forms" : [ "syllabes" ]
+  }, {
+    "canonical_form" : "sens",
+    "other_forms" : [ "sen" ]
+  }, {
+    "canonical_form" : "savoir",
+    "other_forms" : [ "savoirs" ]
+  }, {
+    "canonical_form" : "mot",
+    "other_forms" : [ "mots" ]
+  }, {
+    "canonical_form" : "littérature",
+    "other_forms" : [ "littératures" ]
+  }, {
+    "canonical_form" : "humanité",
+    "other_forms" : [ "humanités" ]
+  }, {
+    "canonical_form" : "courrier",
+    "other_forms" : [ "courriers" ]
+  }, {
+    "canonical_form" : "carte",
+    "other_forms" : [ "cartes" ]
+  }, {
+    "canonical_form" : "avertissement",
+    "other_forms" : [ "avertissements" ]
+  } ]
+}

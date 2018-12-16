@@ -1,0 +1,46 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "identité",
+    "other_forms" : [ "identités" ]
+  }, {
+    "canonical_form" : "similitude",
+    "other_forms" : [ "similitudes" ]
+  }, {
+    "canonical_form" : "communauté",
+    "other_forms" : [ "communautés" ]
+  }, {
+    "canonical_form" : "unité",
+    "other_forms" : [ "unités" ]
+  }, {
+    "canonical_form" : "égalité",
+    "other_forms" : [ "égalités" ]
+  }, {
+    "canonical_form" : "accord",
+    "other_forms" : [ "accords" ]
+  }, {
+    "canonical_form" : "parité",
+    "other_forms" : [ "parités" ]
+  }, {
+    "canonical_form" : "uniformité",
+    "other_forms" : [ "uniformités" ]
+  }, {
+    "canonical_form" : "permanence",
+    "other_forms" : [ "permanences" ]
+  }, {
+    "canonical_form" : "parenté",
+    "other_forms" : [ "parentés" ]
+  }, {
+    "canonical_form" : "papier",
+    "other_forms" : [ "papiers" ]
+  }, {
+    "canonical_form" : "coïncidence",
+    "other_forms" : [ "coïncidences" ]
+  }, {
+    "canonical_form" : "consubstantialité",
+    "other_forms" : [ "consubstantialités" ]
+  }, {
+    "canonical_form" : "équivalence",
+    "other_forms" : [ "équivalences" ]
+  } ]
+}

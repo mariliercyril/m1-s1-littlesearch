@@ -1,0 +1,25 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "environ",
+    "other_forms" : [ "environs" ]
+  }, {
+    "canonical_form" : "bien",
+    "other_forms" : [ "biens" ]
+  }, {
+    "canonical_form" : "ver",
+    "other_forms" : [ "vers" ]
+  }, {
+    "canonical_form" : "entour",
+    "other_forms" : [ "entours" ]
+  }, {
+    "canonical_form" : "côté",
+    "other_forms" : [ "côtés" ]
+  }, {
+    "canonical_form" : "banlieue",
+    "other_forms" : [ "banlieues" ]
+  }, {
+    "canonical_form" : "abord",
+    "other_forms" : [ "abords" ]
+  } ]
+}

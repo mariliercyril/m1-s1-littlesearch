@@ -1,0 +1,163 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "valeur",
+    "other_forms" : [ "valeurs" ]
+  }, {
+    "canonical_form" : "force",
+    "other_forms" : [ "forces" ]
+  }, {
+    "canonical_form" : "courage",
+    "other_forms" : [ "courages" ]
+  }, {
+    "canonical_form" : "qualité",
+    "other_forms" : [ "qualités" ]
+  }, {
+    "canonical_form" : "vertu",
+    "other_forms" : [ "vertus" ]
+  }, {
+    "canonical_form" : "grandeur",
+    "other_forms" : [ "grandeurs" ]
+  }, {
+    "canonical_form" : "mérite",
+    "other_forms" : [ "mérites" ]
+  }, {
+    "canonical_form" : "classe",
+    "other_forms" : [ "classes" ]
+  }, {
+    "canonical_form" : "caractère",
+    "other_forms" : [ "caractères" ]
+  }, {
+    "canonical_form" : "titre",
+    "other_forms" : [ "titres" ]
+  }, {
+    "canonical_form" : "capacité",
+    "other_forms" : [ "capacités" ]
+  }, {
+    "canonical_form" : "bonté",
+    "other_forms" : [ "bontés" ]
+  }, {
+    "canonical_form" : "bien",
+    "other_forms" : [ "biens" ]
+  }, {
+    "canonical_form" : "âme",
+    "other_forms" : [ "âmes" ]
+  }, {
+    "canonical_form" : "ressort",
+    "other_forms" : [ "ressorts" ]
+  }, {
+    "canonical_form" : "pouvoir",
+    "other_forms" : [ "pouvoirs" ]
+  }, {
+    "canonical_form" : "intérêt",
+    "other_forms" : [ "intérêts" ]
+  }, {
+    "canonical_form" : "héroïsme",
+    "other_forms" : [ "héroïsmes" ]
+  }, {
+    "canonical_form" : "générosité",
+    "other_forms" : [ "générosités" ]
+  }, {
+    "canonical_form" : "action",
+    "other_forms" : [ "actions" ]
+  }, {
+    "canonical_form" : "effet",
+    "other_forms" : [ "effets" ]
+  }, {
+    "canonical_form" : "prix",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "vaillance",
+    "other_forms" : [ "vaillances" ]
+  }, {
+    "canonical_form" : "trempe",
+    "other_forms" : [ "trempes" ]
+  }, {
+    "canonical_form" : "stature",
+    "other_forms" : [ "statures" ]
+  }, {
+    "canonical_form" : "signification",
+    "other_forms" : [ "significations" ]
+  }, {
+    "canonical_form" : "sens",
+    "other_forms" : [ "sen" ]
+  }, {
+    "canonical_form" : "poids",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "importance",
+    "other_forms" : [ "importances" ]
+  }, {
+    "canonical_form" : "calibre",
+    "other_forms" : [ "calibres" ]
+  }, {
+    "canonical_form" : "gabarit",
+    "other_forms" : [ "gabarits" ]
+  }, {
+    "canonical_form" : "moralité",
+    "other_forms" : [ "moralités" ]
+  }, {
+    "canonical_form" : "obligation",
+    "other_forms" : [ "obligations" ]
+  }, {
+    "canonical_form" : "utilité",
+    "other_forms" : [ "utilités" ]
+  }, {
+    "canonical_form" : "vérité",
+    "other_forms" : [ "vérités" ]
+  }, {
+    "canonical_form" : "envergure",
+    "other_forms" : [ "envergures" ]
+  }, {
+    "canonical_form" : "efficacité",
+    "other_forms" : [ "efficacités" ]
+  }, {
+    "canonical_form" : "billet",
+    "other_forms" : [ "billets" ]
+  }, {
+    "canonical_form" : "bravoure",
+    "other_forms" : [ "bravoures" ]
+  }, {
+    "canonical_form" : "carrure",
+    "other_forms" : [ "carrures" ]
+  }, {
+    "canonical_form" : "cour",
+    "other_forms" : [ "cours" ]
+  }, {
+    "canonical_form" : "distinction",
+    "other_forms" : [ "distinctions" ]
+  }, {
+    "canonical_form" : "part",
+    "other_forms" : [ "parts" ]
+  }, {
+    "canonical_form" : "portefeuille",
+    "other_forms" : [ "portefeuilles" ]
+  }, {
+    "canonical_form" : "rente",
+    "other_forms" : [ "rentes" ]
+  }, {
+    "canonical_form" : "validité",
+    "other_forms" : [ "validités" ]
+  }, {
+    "canonical_form" : "étoffe",
+    "other_forms" : [ "étoffes" ]
+  }, {
+    "canonical_form" : "papier",
+    "other_forms" : [ "papiers" ]
+  }, {
+    "canonical_form" : "loyer",
+    "other_forms" : [ "loyers" ]
+  }, {
+    "canonical_form" : "cote",
+    "other_forms" : [ "cotes" ]
+  }, {
+    "canonical_form" : "authenticité",
+    "other_forms" : [ "authenticités" ]
+  }, {
+    "canonical_form" : "aloi",
+    "other_forms" : [ "alois" ]
+  }, {
+    "canonical_form" : "évaluation",
+    "other_forms" : [ "évaluations" ]
+  } ]
+}

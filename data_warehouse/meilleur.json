@@ -1,0 +1,25 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "meilleur",
+    "other_forms" : [ "meilleure", "meilleures", "meilleurs" ]
+  }, {
+    "canonical_form" : "supérieur",
+    "other_forms" : [ "supérieure", "supérieures", "supérieurs" ]
+  }, {
+    "canonical_form" : "préférable",
+    "other_forms" : [ "préférables" ]
+  }, {
+    "canonical_form" : "premier",
+    "other_forms" : [ "premiers", "première", "premières" ]
+  }, {
+    "canonical_form" : "grand",
+    "other_forms" : [ "grande", "grandes", "grands" ]
+  }, {
+    "canonical_form" : "excellent",
+    "other_forms" : [ "excellente", "excellentes", "excellents" ]
+  }, {
+    "canonical_form" : "bon",
+    "other_forms" : [ "bonne", "bonnes", "bons" ]
+  } ]
+}

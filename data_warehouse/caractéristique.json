@@ -1,0 +1,91 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "caractéristique",
+    "other_forms" : [ "caractéristiques" ]
+  }, {
+    "canonical_form" : "typique",
+    "other_forms" : [ "typiques" ]
+  }, {
+    "canonical_form" : "particulier",
+    "other_forms" : [ "particuliers", "particulière", "particulières" ]
+  }, {
+    "canonical_form" : "propre",
+    "other_forms" : [ "propres" ]
+  }, {
+    "canonical_form" : "spécifique",
+    "other_forms" : [ "spécifiques" ]
+  }, {
+    "canonical_form" : "révélateur",
+    "other_forms" : [ "révélateurs", "révélatrice", "révélatrices" ]
+  }, {
+    "canonical_form" : "original",
+    "other_forms" : [ "originale", "originales", "originaux" ]
+  }, {
+    "canonical_form" : "spécial",
+    "other_forms" : [ "spéciale", "spéciales", "spéciaux" ]
+  }, {
+    "canonical_form" : "remarquable",
+    "other_forms" : [ "remarquables" ]
+  }, {
+    "canonical_form" : "personnel",
+    "other_forms" : [ "personnelle", "personnelles", "personnels" ]
+  }, {
+    "canonical_form" : "distinctif",
+    "other_forms" : [ "distinctifs", "distinctive", "distinctives" ]
+  }, {
+    "canonical_form" : "significatif",
+    "other_forms" : [ "significatifs", "significative", "significatives" ]
+  }, {
+    "canonical_form" : "saillant",
+    "other_forms" : [ "saillante", "saillantes", "saillants" ]
+  }, {
+    "canonical_form" : "topique",
+    "other_forms" : [ "topiques" ]
+  }, {
+    "canonical_form" : "notable",
+    "other_forms" : [ "notables" ]
+  }, {
+    "canonical_form" : "naturel",
+    "other_forms" : [ "naturelle", "naturelles", "naturels" ]
+  }, {
+    "canonical_form" : "marquant",
+    "other_forms" : [ "marquante", "marquantes", "marquants" ]
+  }, {
+    "canonical_form" : "individuel",
+    "other_forms" : [ "individuelle", "individuelles", "individuels" ]
+  }, {
+    "canonical_form" : "essentiel",
+    "other_forms" : [ "essentielle", "essentielles", "essentiels" ]
+  }, {
+    "canonical_form" : "déterminant",
+    "other_forms" : [ "déterminante", "déterminantes", "déterminants" ]
+  }, {
+    "canonical_form" : "représentatif",
+    "other_forms" : [ "représentatifs", "représentative", "représentatives" ]
+  }, {
+    "canonical_form" : "symptomatique",
+    "other_forms" : [ "symptomatiques" ]
+  }, {
+    "canonical_form" : "typé",
+    "other_forms" : [ "typée", "typées", "typés" ]
+  }, {
+    "canonical_form" : "qualificatif",
+    "other_forms" : [ "qualificatifs", "qualificative", "qualificatives" ]
+  }, {
+    "canonical_form" : "patent",
+    "other_forms" : [ "patente", "patentes", "patents" ]
+  }, {
+    "canonical_form" : "illustratif",
+    "other_forms" : [ "illustratifs", "illustrative", "illustratives" ]
+  }, {
+    "canonical_form" : "dominant",
+    "other_forms" : [ "dominante", "dominantes", "dominants" ]
+  }, {
+    "canonical_form" : "constitutif",
+    "other_forms" : [ "constitutifs", "constitutive", "constitutives" ]
+  }, {
+    "canonical_form" : "visible",
+    "other_forms" : [ "visibles" ]
+  } ]
+}

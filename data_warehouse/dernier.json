@@ -1,0 +1,64 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "dernier",
+    "other_forms" : [ "derniers", "dernière", "dernières" ]
+  }, {
+    "canonical_form" : "extrême",
+    "other_forms" : [ "extrêmes" ]
+  }, {
+    "canonical_form" : "définitif",
+    "other_forms" : [ "définitifs", "définitive", "définitives" ]
+  }, {
+    "canonical_form" : "final",
+    "other_forms" : [ "finale", "finales", "finals", "finaux" ]
+  }, {
+    "canonical_form" : "ultime",
+    "other_forms" : [ "ultimes" ]
+  }, {
+    "canonical_form" : "traînard",
+    "other_forms" : [ "traînarde", "traînardes", "traînards" ]
+  }, {
+    "canonical_form" : "moderne",
+    "other_forms" : [ "modernes" ]
+  }, {
+    "canonical_form" : "moindre",
+    "other_forms" : [ "moindres" ]
+  }, {
+    "canonical_form" : "nouveau",
+    "other_forms" : [ "nouveaux", "nouvel", "nouvelle", "nouvelles" ]
+  }, {
+    "canonical_form" : "précédent",
+    "other_forms" : [ "précédente", "précédentes", "précédents" ]
+  }, {
+    "canonical_form" : "récent",
+    "other_forms" : [ "récente", "récentes", "récents" ]
+  }, {
+    "canonical_form" : "seul",
+    "other_forms" : [ "seule", "seules", "seuls" ]
+  }, {
+    "canonical_form" : "suprême",
+    "other_forms" : [ "suprêmes" ]
+  }, {
+    "canonical_form" : "terminal",
+    "other_forms" : [ "terminale", "terminales", "terminaux" ]
+  }, {
+    "canonical_form" : "vil",
+    "other_forms" : [ "vile", "viles", "vils" ]
+  }, {
+    "canonical_form" : "décisif",
+    "other_forms" : [ "décisifs", "décisive", "décisives" ]
+  }, {
+    "canonical_form" : "déplorable",
+    "other_forms" : [ "déplorables" ]
+  }, {
+    "canonical_form" : "infime",
+    "other_forms" : [ "infimes" ]
+  }, {
+    "canonical_form" : "inférieur",
+    "other_forms" : [ "inférieure", "inférieures", "inférieurs" ]
+  }, {
+    "canonical_form" : "irrévocable",
+    "other_forms" : [ "irrévocables" ]
+  } ]
+}

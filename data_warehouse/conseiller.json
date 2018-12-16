@@ -1,0 +1,34 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "conseiller",
+    "other_forms" : [ "conseillers" ]
+  }, {
+    "canonical_form" : "guide",
+    "other_forms" : [ "guides" ]
+  }, {
+    "canonical_form" : "conseil",
+    "other_forms" : [ "conseils" ]
+  }, {
+    "canonical_form" : "instigateur",
+    "other_forms" : [ "instigateurs", "instigatrice", "instigatrices" ]
+  }, {
+    "canonical_form" : "mentor",
+    "other_forms" : [ "mentors" ]
+  }, {
+    "canonical_form" : "légiste",
+    "other_forms" : [ "légistes" ]
+  }, {
+    "canonical_form" : "instructeur",
+    "other_forms" : [ "instructeurs" ]
+  }, {
+    "canonical_form" : "fabrique",
+    "other_forms" : [ "fabriques" ]
+  }, {
+    "canonical_form" : "conseilleur",
+    "other_forms" : [ "conseilleurs", "conseilleuse", "conseilleuses" ]
+  }, {
+    "canonical_form" : "boussole",
+    "other_forms" : [ "boussoles" ]
+  } ]
+}

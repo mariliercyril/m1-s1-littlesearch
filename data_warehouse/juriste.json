@@ -1,0 +1,19 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "juriste",
+    "other_forms" : [ "juristes" ]
+  }, {
+    "canonical_form" : "légiste",
+    "other_forms" : [ "légistes" ]
+  }, {
+    "canonical_form" : "arrêtiste",
+    "other_forms" : [ "arrêtistes" ]
+  }, {
+    "canonical_form" : "jurisconsulte",
+    "other_forms" : [ "jurisconsultes" ]
+  }, {
+    "canonical_form" : "jurisprudent",
+    "other_forms" : [ ]
+  } ]
+}

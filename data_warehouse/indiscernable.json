@@ -1,0 +1,58 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "indiscernable",
+    "other_forms" : [ "indiscernables" ]
+  }, {
+    "canonical_form" : "indistinct",
+    "other_forms" : [ "indistincte", "indistinctes", "indistincts" ]
+  }, {
+    "canonical_form" : "vague",
+    "other_forms" : [ "vagues" ]
+  }, {
+    "canonical_form" : "confus",
+    "other_forms" : [ "confuse", "confuses" ]
+  }, {
+    "canonical_form" : "imperceptible",
+    "other_forms" : [ "imperceptibles" ]
+  }, {
+    "canonical_form" : "imprécis",
+    "other_forms" : [ "imprécise", "imprécises" ]
+  }, {
+    "canonical_form" : "indéterminé",
+    "other_forms" : [ "indéterminée", "indéterminées", "indéterminés" ]
+  }, {
+    "canonical_form" : "invisible",
+    "other_forms" : [ "invisibles" ]
+  }, {
+    "canonical_form" : "insaisissable",
+    "other_forms" : [ "insaisissables" ]
+  }, {
+    "canonical_form" : "indéfinissable",
+    "other_forms" : [ "indéfinissables" ]
+  }, {
+    "canonical_form" : "incertain",
+    "other_forms" : [ "incertaine", "incertaines", "incertains" ]
+  }, {
+    "canonical_form" : "indécis",
+    "other_forms" : [ "indécise", "indécises" ]
+  }, {
+    "canonical_form" : "indéfini",
+    "other_forms" : [ "indéfinie", "indéfinies", "indéfinis" ]
+  }, {
+    "canonical_form" : "indéterminable",
+    "other_forms" : [ "indéterminables" ]
+  }, {
+    "canonical_form" : "insensible",
+    "other_forms" : [ "insensibles" ]
+  }, {
+    "canonical_form" : "mystérieux",
+    "other_forms" : [ "mystérieuse", "mystérieuses" ]
+  }, {
+    "canonical_form" : "identique",
+    "other_forms" : [ "identiques" ]
+  }, {
+    "canonical_form" : "léger",
+    "other_forms" : [ "légers", "légère", "légères" ]
+  } ]
+}

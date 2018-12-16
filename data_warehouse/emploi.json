@@ -1,0 +1,88 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "emploi",
+    "other_forms" : [ "emplois" ]
+  }, {
+    "canonical_form" : "fonction",
+    "other_forms" : [ "fonctions" ]
+  }, {
+    "canonical_form" : "métier",
+    "other_forms" : [ "métiers" ]
+  }, {
+    "canonical_form" : "charge",
+    "other_forms" : [ "charges" ]
+  }, {
+    "canonical_form" : "travail",
+    "other_forms" : [ "travaux" ]
+  }, {
+    "canonical_form" : "usage",
+    "other_forms" : [ "usages" ]
+  }, {
+    "canonical_form" : "situation",
+    "other_forms" : [ "situations" ]
+  }, {
+    "canonical_form" : "position",
+    "other_forms" : [ "positions" ]
+  }, {
+    "canonical_form" : "place",
+    "other_forms" : [ "places" ]
+  }, {
+    "canonical_form" : "profession",
+    "other_forms" : [ "professions" ]
+  }, {
+    "canonical_form" : "application",
+    "other_forms" : [ "applications" ]
+  }, {
+    "canonical_form" : "occupation",
+    "other_forms" : [ "occupations" ]
+  }, {
+    "canonical_form" : "poste",
+    "other_forms" : [ "postes" ]
+  }, {
+    "canonical_form" : "rôle",
+    "other_forms" : [ "rôles" ]
+  }, {
+    "canonical_form" : "état",
+    "other_forms" : [ "états" ]
+  }, {
+    "canonical_form" : "utilisation",
+    "other_forms" : [ "utilisations" ]
+  }, {
+    "canonical_form" : "service",
+    "other_forms" : [ "services" ]
+  }, {
+    "canonical_form" : "office",
+    "other_forms" : [ "offices" ]
+  }, {
+    "canonical_form" : "affectation",
+    "other_forms" : [ "affectations" ]
+  }, {
+    "canonical_form" : "sinécure",
+    "other_forms" : [ "sinécures" ]
+  }, {
+    "canonical_form" : "gagne-pain",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "exercice",
+    "other_forms" : [ "exercices" ]
+  }, {
+    "canonical_form" : "destination",
+    "other_forms" : [ "destinations" ]
+  }, {
+    "canonical_form" : "attribution",
+    "other_forms" : [ "attributions" ]
+  }, {
+    "canonical_form" : "adoption",
+    "other_forms" : [ "adoptions" ]
+  }, {
+    "canonical_form" : "fromage",
+    "other_forms" : [ "fromages" ]
+  }, {
+    "canonical_form" : "maniement",
+    "other_forms" : [ "maniements" ]
+  }, {
+    "canonical_form" : "ministère",
+    "other_forms" : [ "ministères" ]
+  } ]
+}

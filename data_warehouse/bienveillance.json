@@ -1,0 +1,103 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "bienveillance",
+    "other_forms" : [ "bienveillances" ]
+  }, {
+    "canonical_form" : "bonté",
+    "other_forms" : [ "bontés" ]
+  }, {
+    "canonical_form" : "indulgence",
+    "other_forms" : [ "indulgences" ]
+  }, {
+    "canonical_form" : "complaisance",
+    "other_forms" : [ "complaisances" ]
+  }, {
+    "canonical_form" : "amabilité",
+    "other_forms" : [ "amabilités" ]
+  }, {
+    "canonical_form" : "charité",
+    "other_forms" : [ "charités" ]
+  }, {
+    "canonical_form" : "générosité",
+    "other_forms" : [ "générosités" ]
+  }, {
+    "canonical_form" : "gentillesse",
+    "other_forms" : [ "gentillesses" ]
+  }, {
+    "canonical_form" : "amitié",
+    "other_forms" : [ "amitiés" ]
+  }, {
+    "canonical_form" : "douceur",
+    "other_forms" : [ "douceurs" ]
+  }, {
+    "canonical_form" : "faveur",
+    "other_forms" : [ "faveurs" ]
+  }, {
+    "canonical_form" : "bénignité",
+    "other_forms" : [ "bénignités" ]
+  }, {
+    "canonical_form" : "grâce",
+    "other_forms" : [ "grâces" ]
+  }, {
+    "canonical_form" : "humanité",
+    "other_forms" : [ "humanités" ]
+  }, {
+    "canonical_form" : "altruisme",
+    "other_forms" : [ "altruismes" ]
+  }, {
+    "canonical_form" : "mansuétude",
+    "other_forms" : [ "mansuétudes" ]
+  }, {
+    "canonical_form" : "sympathie",
+    "other_forms" : [ "sympathies" ]
+  }, {
+    "canonical_form" : "cordialité",
+    "other_forms" : [ "cordialités" ]
+  }, {
+    "canonical_form" : "bienfaisance",
+    "other_forms" : [ "bienfaisances" ]
+  }, {
+    "canonical_form" : "aide",
+    "other_forms" : [ "aides" ]
+  }, {
+    "canonical_form" : "affabilité",
+    "other_forms" : [ "affabilités" ]
+  }, {
+    "canonical_form" : "tolérance",
+    "other_forms" : [ "tolérances" ]
+  }, {
+    "canonical_form" : "obligeance",
+    "other_forms" : [ "obligeances" ]
+  }, {
+    "canonical_form" : "intérêt",
+    "other_forms" : [ "intérêts" ]
+  }, {
+    "canonical_form" : "condescendance",
+    "other_forms" : [ "condescendances" ]
+  }, {
+    "canonical_form" : "clémence",
+    "other_forms" : [ "clémences" ]
+  }, {
+    "canonical_form" : "prévenance",
+    "other_forms" : [ "prévenances" ]
+  }, {
+    "canonical_form" : "magnanimité",
+    "other_forms" : [ "magnanimités" ]
+  }, {
+    "canonical_form" : "honnêteté",
+    "other_forms" : [ "honnêtetés" ]
+  }, {
+    "canonical_form" : "dévouement",
+    "other_forms" : [ "dévouements" ]
+  }, {
+    "canonical_form" : "débonnaireté",
+    "other_forms" : [ "débonnairetés" ]
+  }, {
+    "canonical_form" : "compréhension",
+    "other_forms" : [ "compréhensions" ]
+  }, {
+    "canonical_form" : "bénévolence",
+    "other_forms" : [ "bénévolences" ]
+  } ]
+}

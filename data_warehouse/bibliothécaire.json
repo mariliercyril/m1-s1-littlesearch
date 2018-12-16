@@ -1,0 +1,22 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "bibliothécaire",
+    "other_forms" : [ "bibliothécaires" ]
+  }, {
+    "canonical_form" : "codicologue",
+    "other_forms" : [ "codicologues" ]
+  }, {
+    "canonical_form" : "archiviste",
+    "other_forms" : [ "archivistes" ]
+  }, {
+    "canonical_form" : "chartiste",
+    "other_forms" : [ "chartistes" ]
+  }, {
+    "canonical_form" : "libraire",
+    "other_forms" : [ "libraires" ]
+  }, {
+    "canonical_form" : "paléographe",
+    "other_forms" : [ "paléographes" ]
+  } ]
+}

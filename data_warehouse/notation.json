@@ -1,0 +1,46 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "notation",
+    "other_forms" : [ "notations" ]
+  }, {
+    "canonical_form" : "note",
+    "other_forms" : [ "notes" ]
+  }, {
+    "canonical_form" : "observation",
+    "other_forms" : [ "observations" ]
+  }, {
+    "canonical_form" : "remarque",
+    "other_forms" : [ "remarques" ]
+  }, {
+    "canonical_form" : "signe",
+    "other_forms" : [ "signes" ]
+  }, {
+    "canonical_form" : "représentation",
+    "other_forms" : [ "représentations" ]
+  }, {
+    "canonical_form" : "indication",
+    "other_forms" : [ "indications" ]
+  }, {
+    "canonical_form" : "annotation",
+    "other_forms" : [ "annotations" ]
+  }, {
+    "canonical_form" : "appréciation",
+    "other_forms" : [ "appréciations" ]
+  }, {
+    "canonical_form" : "cote",
+    "other_forms" : [ "cotes" ]
+  }, {
+    "canonical_form" : "mention",
+    "other_forms" : [ "mentions" ]
+  }, {
+    "canonical_form" : "symbole",
+    "other_forms" : [ "symboles" ]
+  }, {
+    "canonical_form" : "transcription",
+    "other_forms" : [ "transcriptions" ]
+  }, {
+    "canonical_form" : "écriture",
+    "other_forms" : [ "écritures" ]
+  } ]
+}

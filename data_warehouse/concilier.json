@@ -1,0 +1,42 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "concilier"
+  }, {
+    "canonical_form" : "accorder"
+  }, {
+    "canonical_form" : "accommoder"
+  }, {
+    "canonical_form" : "rapprocher"
+  }, {
+    "canonical_form" : "réunir"
+  }, {
+    "canonical_form" : "ajuster"
+  }, {
+    "canonical_form" : "réconcilier"
+  }, {
+    "canonical_form" : "allier"
+  }, {
+    "canonical_form" : "harmoniser"
+  }, {
+    "canonical_form" : "remettre"
+  }, {
+    "canonical_form" : "raccommoder"
+  }, {
+    "canonical_form" : "attirer"
+  }, {
+    "canonical_form" : "arranger"
+  }, {
+    "canonical_form" : "acquérir"
+  }, {
+    "canonical_form" : "adoucir"
+  }, {
+    "canonical_form" : "arbitrer"
+  }, {
+    "canonical_form" : "cadrer"
+  }, {
+    "canonical_form" : "conformer"
+  }, {
+    "canonical_form" : "valoir"
+  } ]
+}

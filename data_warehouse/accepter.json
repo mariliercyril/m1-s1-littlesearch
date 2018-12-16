@@ -1,0 +1,74 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "accepter"
+  }, {
+    "canonical_form" : "acquiescer"
+  }, {
+    "canonical_form" : "admettre"
+  }, {
+    "canonical_form" : "consentir"
+  }, {
+    "canonical_form" : "approuver"
+  }, {
+    "canonical_form" : "passer"
+  }, {
+    "canonical_form" : "permettre"
+  }, {
+    "canonical_form" : "souffrir"
+  }, {
+    "canonical_form" : "tolérer"
+  }, {
+    "canonical_form" : "autoriser"
+  }, {
+    "canonical_form" : "subir"
+  }, {
+    "canonical_form" : "endurer"
+  }, {
+    "canonical_form" : "daigner"
+  }, {
+    "canonical_form" : "condescendre"
+  }, {
+    "canonical_form" : "adopter"
+  }, {
+    "canonical_form" : "adhérer"
+  }, {
+    "canonical_form" : "accéder"
+  }, {
+    "canonical_form" : "souscrire"
+  }, {
+    "canonical_form" : "recevoir"
+  }, {
+    "canonical_form" : "obéir"
+  }, {
+    "canonical_form" : "croire"
+  }, {
+    "canonical_form" : "agréer"
+  }, {
+    "canonical_form" : "avaler"
+  }, {
+    "canonical_form" : "digérer"
+  }, {
+    "canonical_form" : "endosser"
+  }, {
+    "canonical_form" : "signer"
+  }, {
+    "canonical_form" : "ratifier"
+  }, {
+    "canonical_form" : "embrasser"
+  }, {
+    "canonical_form" : "toper"
+  }, {
+    "canonical_form" : "pâtir"
+  }, {
+    "canonical_form" : "promettre"
+  }, {
+    "canonical_form" : "opiner"
+  }, {
+    "canonical_form" : "homologuer"
+  }, {
+    "canonical_form" : "assumer"
+  }, {
+    "canonical_form" : "accueillir"
+  } ]
+}

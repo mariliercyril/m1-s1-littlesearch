@@ -1,0 +1,55 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "diplomate",
+    "other_forms" : [ "diplomates" ]
+  }, {
+    "canonical_form" : "habile",
+    "other_forms" : [ "habiles" ]
+  }, {
+    "canonical_form" : "ambassadeur",
+    "other_forms" : [ "ambassadeurs", "ambassadrice", "ambassadrices" ]
+  }, {
+    "canonical_form" : "fin",
+    "other_forms" : [ "fine", "fines", "fins" ]
+  }, {
+    "canonical_form" : "politique",
+    "other_forms" : [ "politiques" ]
+  }, {
+    "canonical_form" : "adroit",
+    "other_forms" : [ "adroite", "adroites", "adroits" ]
+  }, {
+    "canonical_form" : "souple",
+    "other_forms" : [ "souples" ]
+  }, {
+    "canonical_form" : "subtil",
+    "other_forms" : [ "subtile", "subtiles", "subtils" ]
+  }, {
+    "canonical_form" : "conciliant",
+    "other_forms" : [ "conciliante", "conciliantes", "conciliants" ]
+  }, {
+    "canonical_form" : "astucieux",
+    "other_forms" : [ "astucieuse", "astucieuses" ]
+  }, {
+    "canonical_form" : "tortueux",
+    "other_forms" : [ "tortueuse", "tortueuses" ]
+  }, {
+    "canonical_form" : "poli",
+    "other_forms" : [ "polie", "polies", "polis" ]
+  }, {
+    "canonical_form" : "parlementaire",
+    "other_forms" : [ "parlementaires" ]
+  }, {
+    "canonical_form" : "médiateur",
+    "other_forms" : [ "médiateurs", "médiatrice", "médiatrices" ]
+  }, {
+    "canonical_form" : "intrigant",
+    "other_forms" : [ "intrigante", "intrigantes", "intrigants" ]
+  }, {
+    "canonical_form" : "circonspect",
+    "other_forms" : [ "circonspecte", "circonspectes", "circonspects" ]
+  }, {
+    "canonical_form" : "traitable",
+    "other_forms" : [ "traitables" ]
+  } ]
+}

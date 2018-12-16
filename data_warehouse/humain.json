@@ -1,0 +1,82 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "humain",
+    "other_forms" : [ "humaine", "humaines", "humains" ]
+  }, {
+    "canonical_form" : "bon",
+    "other_forms" : [ "bonne", "bonnes", "bons" ]
+  }, {
+    "canonical_form" : "charitable",
+    "other_forms" : [ "charitables" ]
+  }, {
+    "canonical_form" : "indulgent",
+    "other_forms" : [ "indulgente", "indulgentes", "indulgents" ]
+  }, {
+    "canonical_form" : "généreux",
+    "other_forms" : [ "généreuse", "généreuses" ]
+  }, {
+    "canonical_form" : "sensible",
+    "other_forms" : [ "sensibles" ]
+  }, {
+    "canonical_form" : "miséricordieux",
+    "other_forms" : [ "miséricordieuse", "miséricordieuses" ]
+  }, {
+    "canonical_form" : "bienveillant",
+    "other_forms" : [ "bienveillante", "bienveillantes", "bienveillants" ]
+  }, {
+    "canonical_form" : "tendre",
+    "other_forms" : [ "tendres" ]
+  }, {
+    "canonical_form" : "doux",
+    "other_forms" : [ "douce", "douces" ]
+  }, {
+    "canonical_form" : "compréhensif",
+    "other_forms" : [ "compréhensifs", "compréhensive", "compréhensives" ]
+  }, {
+    "canonical_form" : "bénin",
+    "other_forms" : [ "bénigne", "bénignes", "bénins" ]
+  }, {
+    "canonical_form" : "altruiste",
+    "other_forms" : [ "altruistes" ]
+  }, {
+    "canonical_form" : "tolérant",
+    "other_forms" : [ "tolérante", "tolérantes", "tolérants" ]
+  }, {
+    "canonical_form" : "pitoyable",
+    "other_forms" : [ "pitoyables" ]
+  }, {
+    "canonical_form" : "mortel",
+    "other_forms" : [ "mortelle", "mortelles", "mortels" ]
+  }, {
+    "canonical_form" : "délicat",
+    "other_forms" : [ "délicate", "délicates", "délicats" ]
+  }, {
+    "canonical_form" : "clément",
+    "other_forms" : [ "clémente", "clémentes", "cléments" ]
+  }, {
+    "canonical_form" : "accessible",
+    "other_forms" : [ "accessibles" ]
+  }, {
+    "canonical_form" : "secourable",
+    "other_forms" : [ "secourables" ]
+  }, {
+    "canonical_form" : "social",
+    "other_forms" : [ "sociale", "sociales", "sociaux" ]
+  }, {
+    "canonical_form" : "surhumain",
+    "other_forms" : [ "surhumaine", "surhumaines", "surhumains" ]
+  }, {
+    "canonical_form" : "terrestre",
+    "other_forms" : [ "terrestres" ]
+  }, {
+    "canonical_form" : "humanitaire",
+    "other_forms" : [ "humanitaires" ]
+  }, {
+    "canonical_form" : "compréhensible",
+    "other_forms" : [ "compréhensibles" ]
+  }, {
+    "canonical_form" : "bienfaisant",
+    "other_forms" : [ "bienfaisante", "bienfaisantes", "bienfaisants" ]
+  } ]
+}

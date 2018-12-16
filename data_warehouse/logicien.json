@@ -1,0 +1,16 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "logicien",
+    "other_forms" : [ "logicienne", "logiciennes", "logiciens" ]
+  }, {
+    "canonical_form" : "cartésien",
+    "other_forms" : [ "cartésienne", "cartésiennes", "cartésiens" ]
+  }, {
+    "canonical_form" : "dialecticien",
+    "other_forms" : [ "dialecticienne", "dialecticiennes", "dialecticiens" ]
+  }, {
+    "canonical_form" : "raisonneur",
+    "other_forms" : [ "raisonneurs", "raisonneuse", "raisonneuses" ]
+  } ]
+}

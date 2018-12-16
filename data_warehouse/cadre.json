@@ -1,0 +1,124 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "cadre",
+    "other_forms" : [ "cadres" ]
+  }, {
+    "canonical_form" : "carcasse",
+    "other_forms" : [ "carcasses" ]
+  }, {
+    "canonical_form" : "encadrement",
+    "other_forms" : [ "encadrements" ]
+  }, {
+    "canonical_form" : "charpente",
+    "other_forms" : [ "charpentes" ]
+  }, {
+    "canonical_form" : "cercle",
+    "other_forms" : [ "cercles" ]
+  }, {
+    "canonical_form" : "sphère",
+    "other_forms" : [ "sphères" ]
+  }, {
+    "canonical_form" : "milieu",
+    "other_forms" : [ "milieux" ]
+  }, {
+    "canonical_form" : "limite",
+    "other_forms" : [ "limites" ]
+  }, {
+    "canonical_form" : "entourage",
+    "other_forms" : [ "entourages" ]
+  }, {
+    "canonical_form" : "canevas",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "bordure",
+    "other_forms" : [ "bordures" ]
+  }, {
+    "canonical_form" : "appareil",
+    "other_forms" : [ "appareils" ]
+  }, {
+    "canonical_form" : "tableau",
+    "other_forms" : [ "tableaux" ]
+  }, {
+    "canonical_form" : "ossature",
+    "other_forms" : [ "ossatures" ]
+  }, {
+    "canonical_form" : "décor",
+    "other_forms" : [ "décors" ]
+  }, {
+    "canonical_form" : "domaine",
+    "other_forms" : [ "domaines" ]
+  }, {
+    "canonical_form" : "disposition",
+    "other_forms" : [ "dispositions" ]
+  }, {
+    "canonical_form" : "châssis",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "chef",
+    "other_forms" : [ "chefs" ]
+  }, {
+    "canonical_form" : "caisse",
+    "other_forms" : [ "caisses" ]
+  }, {
+    "canonical_form" : "bord",
+    "other_forms" : [ "bords" ]
+  }, {
+    "canonical_form" : "liste",
+    "other_forms" : [ "listes" ]
+  }, {
+    "canonical_form" : "huisserie",
+    "other_forms" : [ "huisseries" ]
+  }, {
+    "canonical_form" : "hiérarchie",
+    "other_forms" : [ "hiérarchies" ]
+  }, {
+    "canonical_form" : "environnement",
+    "other_forms" : [ "environnements" ]
+  }, {
+    "canonical_form" : "enveloppe",
+    "other_forms" : [ "enveloppes" ]
+  }, {
+    "canonical_form" : "manager",
+    "other_forms" : [ "managers" ]
+  }, {
+    "canonical_form" : "marie-louise",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "orbite",
+    "other_forms" : [ "orbites" ]
+  }, {
+    "canonical_form" : "passe-partout",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "schéma",
+    "other_forms" : [ "schémas" ]
+  }, {
+    "canonical_form" : "entour",
+    "other_forms" : [ "entours" ]
+  }, {
+    "canonical_form" : "borne",
+    "other_forms" : [ "bornes" ]
+  }, {
+    "canonical_form" : "carcan",
+    "other_forms" : [ "carcans" ]
+  }, {
+    "canonical_form" : "cartouche",
+    "other_forms" : [ "cartouches" ]
+  }, {
+    "canonical_form" : "chambranle",
+    "other_forms" : [ "chambranles" ]
+  }, {
+    "canonical_form" : "coffrage",
+    "other_forms" : [ "coffrages" ]
+  }, {
+    "canonical_form" : "compagnie",
+    "other_forms" : [ "compagnies" ]
+  }, {
+    "canonical_form" : "corset",
+    "other_forms" : [ "corsets" ]
+  }, {
+    "canonical_form" : "boisage",
+    "other_forms" : [ "boisages" ]
+  } ]
+}

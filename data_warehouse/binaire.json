@@ -1,0 +1,28 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "binaire",
+    "other_forms" : [ "binaires" ]
+  }, {
+    "canonical_form" : "alternatif",
+    "other_forms" : [ "alternatifs", "alternative", "alternatives" ]
+  }, {
+    "canonical_form" : "monoclinique",
+    "other_forms" : [ "monocliniques" ]
+  }, {
+    "canonical_form" : "dyadique",
+    "other_forms" : [ "dyadiques" ]
+  }, {
+    "canonical_form" : "digital",
+    "other_forms" : [ "digitale", "digitales", "digitaux" ]
+  }, {
+    "canonical_form" : "dichotomique",
+    "other_forms" : [ "dichotomiques" ]
+  }, {
+    "canonical_form" : "bivalent",
+    "other_forms" : [ "bivalente", "bivalentes", "bivalents" ]
+  }, {
+    "canonical_form" : "biparti",
+    "other_forms" : [ "bipartie", "biparties", "bipartis" ]
+  } ]
+}

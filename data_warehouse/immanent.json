@@ -1,0 +1,10 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "immanent",
+    "other_forms" : [ "immanente", "immanentes", "immanents" ]
+  }, {
+    "canonical_form" : "inhérent",
+    "other_forms" : [ "inhérente", "inhérentes", "inhérents" ]
+  } ]
+}

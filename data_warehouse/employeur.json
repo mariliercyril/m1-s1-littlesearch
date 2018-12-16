@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "employeur",
+    "other_forms" : [ "employeurs" ]
+  }, {
+    "canonical_form" : "patron",
+    "other_forms" : [ "patronne", "patronnes", "patrons" ]
+  }, {
+    "canonical_form" : "singe",
+    "other_forms" : [ "singes" ]
+  } ]
+}

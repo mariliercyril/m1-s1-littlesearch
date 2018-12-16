@@ -1,0 +1,79 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "continuité",
+    "other_forms" : [ "continuités" ]
+  }, {
+    "canonical_form" : "permanence",
+    "other_forms" : [ "permanences" ]
+  }, {
+    "canonical_form" : "constance",
+    "other_forms" : [ "constances" ]
+  }, {
+    "canonical_form" : "perpétuité",
+    "other_forms" : [ "perpétuités" ]
+  }, {
+    "canonical_form" : "pérennité",
+    "other_forms" : [ "pérennités" ]
+  }, {
+    "canonical_form" : "persistance",
+    "other_forms" : [ "persistances" ]
+  }, {
+    "canonical_form" : "durabilité",
+    "other_forms" : [ "durabilités" ]
+  }, {
+    "canonical_form" : "fixité",
+    "other_forms" : [ "fixités" ]
+  }, {
+    "canonical_form" : "suite",
+    "other_forms" : [ "suites" ]
+  }, {
+    "canonical_form" : "éternité",
+    "other_forms" : [ "éternités" ]
+  }, {
+    "canonical_form" : "stabilité",
+    "other_forms" : [ "stabilités" ]
+  }, {
+    "canonical_form" : "persévérance",
+    "other_forms" : [ "persévérances" ]
+  }, {
+    "canonical_form" : "continuation",
+    "other_forms" : [ "continuations" ]
+  }, {
+    "canonical_form" : "égalité",
+    "other_forms" : [ "égalités" ]
+  }, {
+    "canonical_form" : "régularité",
+    "other_forms" : [ "régularités" ]
+  }, {
+    "canonical_form" : "perpétuation",
+    "other_forms" : [ "perpétuations" ]
+  }, {
+    "canonical_form" : "immortalité",
+    "other_forms" : [ "immortalités" ]
+  }, {
+    "canonical_form" : "fidélité",
+    "other_forms" : [ "fidélités" ]
+  }, {
+    "canonical_form" : "chaîne",
+    "other_forms" : [ "chaînes" ]
+  }, {
+    "canonical_form" : "assiduité",
+    "other_forms" : [ "assiduités" ]
+  }, {
+    "canonical_form" : "enchaînement",
+    "other_forms" : [ "enchaînements" ]
+  }, {
+    "canonical_form" : "ininterruption",
+    "other_forms" : [ "ininterruptions" ]
+  }, {
+    "canonical_form" : "liaison",
+    "other_forms" : [ "liaisons" ]
+  }, {
+    "canonical_form" : "maintien",
+    "other_forms" : [ "maintiens" ]
+  }, {
+    "canonical_form" : "série",
+    "other_forms" : [ "séries" ]
+  } ]
+}

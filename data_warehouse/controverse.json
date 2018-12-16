@@ -1,0 +1,40 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "controverse",
+    "other_forms" : [ "controverses" ]
+  }, {
+    "canonical_form" : "discussion",
+    "other_forms" : [ "discussions" ]
+  }, {
+    "canonical_form" : "dispute",
+    "other_forms" : [ "disputes" ]
+  }, {
+    "canonical_form" : "contestation",
+    "other_forms" : [ "contestations" ]
+  }, {
+    "canonical_form" : "débat",
+    "other_forms" : [ "débats" ]
+  }, {
+    "canonical_form" : "altercation",
+    "other_forms" : [ "altercations" ]
+  }, {
+    "canonical_form" : "querelle",
+    "other_forms" : [ "querelles" ]
+  }, {
+    "canonical_form" : "chicane",
+    "other_forms" : [ "chicanes" ]
+  }, {
+    "canonical_form" : "dénégation",
+    "other_forms" : [ "dénégations" ]
+  }, {
+    "canonical_form" : "explication",
+    "other_forms" : [ "explications" ]
+  }, {
+    "canonical_form" : "litige",
+    "other_forms" : [ "litiges" ]
+  }, {
+    "canonical_form" : "question",
+    "other_forms" : [ "questions" ]
+  } ]
+}

@@ -1,0 +1,16 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "informatique",
+    "other_forms" : [ "informatiques" ]
+  }, {
+    "canonical_form" : "automatique",
+    "other_forms" : [ "automatiques" ]
+  }, {
+    "canonical_form" : "ordinateur",
+    "other_forms" : [ "ordinateurs", "ordinatrice", "ordinatrices" ]
+  }, {
+    "canonical_form" : "électronique",
+    "other_forms" : [ "électroniques" ]
+  } ]
+}

@@ -1,0 +1,49 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "document",
+    "other_forms" : [ "documents" ]
+  }, {
+    "canonical_form" : "papier",
+    "other_forms" : [ "papiers" ]
+  }, {
+    "canonical_form" : "pièce",
+    "other_forms" : [ "pièces" ]
+  }, {
+    "canonical_form" : "acte",
+    "other_forms" : [ "actes" ]
+  }, {
+    "canonical_form" : "copie",
+    "other_forms" : [ "copies" ]
+  }, {
+    "canonical_form" : "texte",
+    "other_forms" : [ "textes" ]
+  }, {
+    "canonical_form" : "témoignage",
+    "other_forms" : [ "témoignages" ]
+  }, {
+    "canonical_form" : "titre",
+    "other_forms" : [ "titres" ]
+  }, {
+    "canonical_form" : "preuve",
+    "other_forms" : [ "preuves" ]
+  }, {
+    "canonical_form" : "dossier",
+    "other_forms" : [ "dossiers" ]
+  }, {
+    "canonical_form" : "renseignement",
+    "other_forms" : [ "renseignements" ]
+  }, {
+    "canonical_form" : "matériau",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "maquette",
+    "other_forms" : [ "maquettes" ]
+  }, {
+    "canonical_form" : "feuille",
+    "other_forms" : [ "feuilles" ]
+  }, {
+    "canonical_form" : "contrat",
+    "other_forms" : [ "contrats" ]
+  } ]
+}

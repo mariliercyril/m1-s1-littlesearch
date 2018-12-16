@@ -1,0 +1,193 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "combinaison",
+    "other_forms" : [ "combinaisons" ]
+  }, {
+    "canonical_form" : "association",
+    "other_forms" : [ "associations" ]
+  }, {
+    "canonical_form" : "composition",
+    "other_forms" : [ "compositions" ]
+  }, {
+    "canonical_form" : "assemblage",
+    "other_forms" : [ "assemblages" ]
+  }, {
+    "canonical_form" : "mélange",
+    "other_forms" : [ "mélanges" ]
+  }, {
+    "canonical_form" : "ordre",
+    "other_forms" : [ "ordres" ]
+  }, {
+    "canonical_form" : "organisation",
+    "other_forms" : [ "organisations" ]
+  }, {
+    "canonical_form" : "union",
+    "other_forms" : [ "unions" ]
+  }, {
+    "canonical_form" : "disposition",
+    "other_forms" : [ "dispositions" ]
+  }, {
+    "canonical_form" : "arrangement",
+    "other_forms" : [ "arrangements" ]
+  }, {
+    "canonical_form" : "truc",
+    "other_forms" : [ "trucs" ]
+  }, {
+    "canonical_form" : "machination",
+    "other_forms" : [ "machinations" ]
+  }, {
+    "canonical_form" : "réunion",
+    "other_forms" : [ "réunions" ]
+  }, {
+    "canonical_form" : "agencement",
+    "other_forms" : [ "agencements" ]
+  }, {
+    "canonical_form" : "calcul",
+    "other_forms" : [ "calculs" ]
+  }, {
+    "canonical_form" : "teneur",
+    "other_forms" : [ "teneurs" ]
+  }, {
+    "canonical_form" : "amalgame",
+    "other_forms" : [ "amalgames" ]
+  }, {
+    "canonical_form" : "alliance",
+    "other_forms" : [ "alliances" ]
+  }, {
+    "canonical_form" : "accord",
+    "other_forms" : [ "accords" ]
+  }, {
+    "canonical_form" : "système",
+    "other_forms" : [ "systèmes" ]
+  }, {
+    "canonical_form" : "manoeuvre",
+    "other_forms" : [ "manoeuvres" ]
+  }, {
+    "canonical_form" : "harmonie",
+    "other_forms" : [ "harmonies" ]
+  }, {
+    "canonical_form" : "combine",
+    "other_forms" : [ "combines" ]
+  }, {
+    "canonical_form" : "artifice",
+    "other_forms" : [ "artifices" ]
+  }, {
+    "canonical_form" : "manigance",
+    "other_forms" : [ "manigances" ]
+  }, {
+    "canonical_form" : "tripotage",
+    "other_forms" : [ "tripotages" ]
+  }, {
+    "canonical_form" : "méthode",
+    "other_forms" : [ "méthodes" ]
+  }, {
+    "canonical_form" : "mesure",
+    "other_forms" : [ "mesures" ]
+  }, {
+    "canonical_form" : "manège",
+    "other_forms" : [ "manèges" ]
+  }, {
+    "canonical_form" : "groupement",
+    "other_forms" : [ "groupements" ]
+  }, {
+    "canonical_form" : "fusion",
+    "other_forms" : [ "fusions" ]
+  }, {
+    "canonical_form" : "conjugaison",
+    "other_forms" : [ "conjugaisons" ]
+  }, {
+    "canonical_form" : "équilibre",
+    "other_forms" : [ "équilibres" ]
+  }, {
+    "canonical_form" : "intégration",
+    "other_forms" : [ "intégrations" ]
+  }, {
+    "canonical_form" : "coordination",
+    "other_forms" : [ "coordinations" ]
+  }, {
+    "canonical_form" : "batterie",
+    "other_forms" : [ "batteries" ]
+  }, {
+    "canonical_form" : "alliage",
+    "other_forms" : [ "alliages" ]
+  }, {
+    "canonical_form" : "échafaudage",
+    "other_forms" : [ "échafaudages" ]
+  }, {
+    "canonical_form" : "synthèse",
+    "other_forms" : [ "synthèses" ]
+  }, {
+    "canonical_form" : "stratagème",
+    "other_forms" : [ "stratagèmes" ]
+  }, {
+    "canonical_form" : "projet",
+    "other_forms" : [ "projets" ]
+  }, {
+    "canonical_form" : "mariage",
+    "other_forms" : [ "mariages" ]
+  }, {
+    "canonical_form" : "imbrication",
+    "other_forms" : [ "imbrications" ]
+  }, {
+    "canonical_form" : "conjonction",
+    "other_forms" : [ "conjonctions" ]
+  }, {
+    "canonical_form" : "constitution",
+    "other_forms" : [ "constitutions" ]
+  }, {
+    "canonical_form" : "cotte",
+    "other_forms" : [ "cottes" ]
+  }, {
+    "canonical_form" : "enchaînement",
+    "other_forms" : [ "enchaînements" ]
+  }, {
+    "canonical_form" : "fusionnement",
+    "other_forms" : [ "fusionnements" ]
+  }, {
+    "canonical_form" : "formule",
+    "other_forms" : [ "formules" ]
+  }, {
+    "canonical_form" : "grenouillère",
+    "other_forms" : [ "grenouillères" ]
+  }, {
+    "canonical_form" : "invention",
+    "other_forms" : [ "inventions" ]
+  }, {
+    "canonical_form" : "salopette",
+    "other_forms" : [ "salopettes" ]
+  }, {
+    "canonical_form" : "synergie",
+    "other_forms" : [ "synergies" ]
+  }, {
+    "canonical_form" : "tractation",
+    "other_forms" : [ "tractations" ]
+  }, {
+    "canonical_form" : "démarche",
+    "other_forms" : [ "démarches" ]
+  }, {
+    "canonical_form" : "dosage",
+    "other_forms" : [ "dosages" ]
+  }, {
+    "canonical_form" : "arrière-pensée",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "chemise",
+    "other_forms" : [ "chemises" ]
+  }, {
+    "canonical_form" : "chiffre",
+    "other_forms" : [ "chiffres" ]
+  }, {
+    "canonical_form" : "complication",
+    "other_forms" : [ "complications" ]
+  }, {
+    "canonical_form" : "contrepoint",
+    "other_forms" : [ "contrepoints" ]
+  }, {
+    "canonical_form" : "cuisine",
+    "other_forms" : [ "cuisines" ]
+  }, {
+    "canonical_form" : "équipe",
+    "other_forms" : [ "équipes" ]
+  } ]
+}

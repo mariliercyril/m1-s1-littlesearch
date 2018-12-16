@@ -1,0 +1,43 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "dieu",
+    "other_forms" : [ "dieux" ]
+  }, {
+    "canonical_form" : "providence",
+    "other_forms" : [ "providences" ]
+  }, {
+    "canonical_form" : "seigneur",
+    "other_forms" : [ "seigneurs" ]
+  }, {
+    "canonical_form" : "trinité",
+    "other_forms" : [ "trinités" ]
+  }, {
+    "canonical_form" : "verbe",
+    "other_forms" : [ "verbes" ]
+  }, {
+    "canonical_form" : "logos",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "sauveur",
+    "other_forms" : [ "sauveurs" ]
+  }, {
+    "canonical_form" : "ciel",
+    "other_forms" : [ "ciels", "cieux" ]
+  }, {
+    "canonical_form" : "créateur",
+    "other_forms" : [ "créateurs", "créatrice", "créatrices" ]
+  }, {
+    "canonical_form" : "démiurge",
+    "other_forms" : [ "démiurges" ]
+  }, {
+    "canonical_form" : "esprit",
+    "other_forms" : [ "esprits" ]
+  }, {
+    "canonical_form" : "jéhovah",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "père",
+    "other_forms" : [ "pères" ]
+  } ]
+}

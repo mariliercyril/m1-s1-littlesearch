@@ -1,0 +1,26 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "léguer"
+  }, {
+    "canonical_form" : "donner"
+  }, {
+    "canonical_form" : "laisser"
+  }, {
+    "canonical_form" : "remettre"
+  }, {
+    "canonical_form" : "transmettre"
+  }, {
+    "canonical_form" : "déléguer"
+  }, {
+    "canonical_form" : "commettre"
+  }, {
+    "canonical_form" : "aliéner"
+  }, {
+    "canonical_form" : "abandonner"
+  }, {
+    "canonical_form" : "dominer"
+  }, {
+    "canonical_form" : "passer"
+  } ]
+}

@@ -1,0 +1,127 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "droit",
+    "other_forms" : [ "droite", "droites", "droits" ]
+  }, {
+    "canonical_form" : "bon",
+    "other_forms" : [ "bonne", "bonnes", "bons" ]
+  }, {
+    "canonical_form" : "juste",
+    "other_forms" : [ "justes" ]
+  }, {
+    "canonical_form" : "net",
+    "other_forms" : [ "nets", "nette", "nettes" ]
+  }, {
+    "canonical_form" : "honnête",
+    "other_forms" : [ "honnêtes" ]
+  }, {
+    "canonical_form" : "franc",
+    "other_forms" : [ "franche", "franches", "francs" ]
+  }, {
+    "canonical_form" : "vrai",
+    "other_forms" : [ "vraie", "vraies", "vrais" ]
+  }, {
+    "canonical_form" : "pur",
+    "other_forms" : [ "pure", "pures", "purs" ]
+  }, {
+    "canonical_form" : "sincère",
+    "other_forms" : [ "sincères" ]
+  }, {
+    "canonical_form" : "loyal",
+    "other_forms" : [ "loyale", "loyales", "loyaux" ]
+  }, {
+    "canonical_form" : "ferme",
+    "other_forms" : [ "fermes" ]
+  }, {
+    "canonical_form" : "équitable",
+    "other_forms" : [ "équitables" ]
+  }, {
+    "canonical_form" : "simple",
+    "other_forms" : [ "simples" ]
+  }, {
+    "canonical_form" : "raisonnable",
+    "other_forms" : [ "raisonnables" ]
+  }, {
+    "canonical_form" : "probe",
+    "other_forms" : [ "probes" ]
+  }, {
+    "canonical_form" : "judicieux",
+    "other_forms" : [ "judicieuse", "judicieuses" ]
+  }, {
+    "canonical_form" : "régulier",
+    "other_forms" : [ "réguliers", "régulière", "régulières" ]
+  }, {
+    "canonical_form" : "logique",
+    "other_forms" : [ "logiques" ]
+  }, {
+    "canonical_form" : "impartial",
+    "other_forms" : [ "impartiale", "impartiales", "impartiaux" ]
+  }, {
+    "canonical_form" : "direct",
+    "other_forms" : [ "directe", "directes", "directs" ]
+  }, {
+    "canonical_form" : "carré",
+    "other_forms" : [ "carrée", "carrées", "carrés" ]
+  }, {
+    "canonical_form" : "strict",
+    "other_forms" : [ "stricte", "strictes", "stricts" ]
+  }, {
+    "canonical_form" : "sain",
+    "other_forms" : [ "saine", "saines", "sains" ]
+  }, {
+    "canonical_form" : "objectif",
+    "other_forms" : [ "objectifs", "objective", "objectives" ]
+  }, {
+    "canonical_form" : "abrupt",
+    "other_forms" : [ "abrupte", "abruptes", "abrupts" ]
+  }, {
+    "canonical_form" : "raide",
+    "other_forms" : [ "raides", "roide", "roides" ]
+  }, {
+    "canonical_form" : "rationnel",
+    "other_forms" : [ "rationnelle", "rationnelles", "rationnels" ]
+  }, {
+    "canonical_form" : "rectiligne",
+    "other_forms" : [ "rectilignes" ]
+  }, {
+    "canonical_form" : "sensé",
+    "other_forms" : [ "sensée", "sensées", "sensés" ]
+  }, {
+    "canonical_form" : "uniforme",
+    "other_forms" : [ "uniformes" ]
+  }, {
+    "canonical_form" : "vertical",
+    "other_forms" : [ "verticale", "verticales", "verticaux" ]
+  }, {
+    "canonical_form" : "égal",
+    "other_forms" : [ "égale", "égales", "égaux" ]
+  }, {
+    "canonical_form" : "positif",
+    "other_forms" : [ "positifs", "positive", "positives" ]
+  }, {
+    "canonical_form" : "clair",
+    "other_forms" : [ "claire", "claires", "clairs" ]
+  }, {
+    "canonical_form" : "irréprochable",
+    "other_forms" : [ "irréprochables" ]
+  }, {
+    "canonical_form" : "moral",
+    "other_forms" : [ "morale", "morales", "moraux" ]
+  }, {
+    "canonical_form" : "législateur",
+    "other_forms" : [ "législateurs", "législatrice", "législatrices" ]
+  }, {
+    "canonical_form" : "perpendiculaire",
+    "other_forms" : [ "perpendiculaires" ]
+  }, {
+    "canonical_form" : "dextre",
+    "other_forms" : [ "dextres" ]
+  }, {
+    "canonical_form" : "dextrogyre",
+    "other_forms" : [ "dextrogyres" ]
+  }, {
+    "canonical_form" : "digeste",
+    "other_forms" : [ "digestes" ]
+  } ]
+}

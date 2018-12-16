@@ -1,0 +1,72 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "concevoir"
+  }, {
+    "canonical_form" : "voir"
+  }, {
+    "canonical_form" : "imaginer"
+  }, {
+    "canonical_form" : "comprendre"
+  }, {
+    "canonical_form" : "entendre"
+  }, {
+    "canonical_form" : "saisir"
+  }, {
+    "canonical_form" : "connaître"
+  }, {
+    "canonical_form" : "créer"
+  }, {
+    "canonical_form" : "trouver"
+  }, {
+    "canonical_form" : "préparer"
+  }, {
+    "canonical_form" : "percevoir"
+  }, {
+    "canonical_form" : "découvrir"
+  }, {
+    "canonical_form" : "composer"
+  }, {
+    "canonical_form" : "combiner"
+  }, {
+    "canonical_form" : "inventer"
+  }, {
+    "canonical_form" : "éprouver"
+  }, {
+    "canonical_form" : "former"
+  }, {
+    "canonical_form" : "appréhender"
+  }, {
+    "canonical_form" : "admettre"
+  }, {
+    "canonical_form" : "engendrer"
+  }, {
+    "canonical_form" : "nourrir"
+  }, {
+    "canonical_form" : "produire"
+  }, {
+    "canonical_form" : "prévoir"
+  }, {
+    "canonical_form" : "réaliser"
+  }, {
+    "canonical_form" : "échafauder"
+  }, {
+    "canonical_form" : "supposer"
+  }, {
+    "canonical_form" : "envisager"
+  }, {
+    "canonical_form" : "embrasser"
+  }, {
+    "canonical_form" : "apprécier"
+  }, {
+    "canonical_form" : "féconder"
+  }, {
+    "canonical_form" : "générer"
+  }, {
+    "canonical_form" : "idéer"
+  }, {
+    "canonical_form" : "libeller"
+  }, {
+    "canonical_form" : "ressentir"
+  } ]
+}

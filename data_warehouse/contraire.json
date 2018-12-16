@@ -1,0 +1,88 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "contraire",
+    "other_forms" : [ "contraires" ]
+  }, {
+    "canonical_form" : "nuisible",
+    "other_forms" : [ "nuisibles" ]
+  }, {
+    "canonical_form" : "défavorable",
+    "other_forms" : [ "défavorables" ]
+  }, {
+    "canonical_form" : "pernicieux",
+    "other_forms" : [ "pernicieuse", "pernicieuses" ]
+  }, {
+    "canonical_form" : "néfaste",
+    "other_forms" : [ "néfastes" ]
+  }, {
+    "canonical_form" : "mauvais",
+    "other_forms" : [ "mauvaise", "mauvaises" ]
+  }, {
+    "canonical_form" : "dommageable",
+    "other_forms" : [ "dommageables" ]
+  }, {
+    "canonical_form" : "hostile",
+    "other_forms" : [ "hostiles" ]
+  }, {
+    "canonical_form" : "inverse",
+    "other_forms" : [ "inverses" ]
+  }, {
+    "canonical_form" : "préjudiciable",
+    "other_forms" : [ "préjudiciables" ]
+  }, {
+    "canonical_form" : "adverse",
+    "other_forms" : [ "adverses" ]
+  }, {
+    "canonical_form" : "incompatible",
+    "other_forms" : [ "incompatibles" ]
+  }, {
+    "canonical_form" : "funeste",
+    "other_forms" : [ "funestes" ]
+  }, {
+    "canonical_form" : "discordant",
+    "other_forms" : [ "discordante", "discordantes", "discordants" ]
+  }, {
+    "canonical_form" : "contradictoire",
+    "other_forms" : [ "contradictoires" ]
+  }, {
+    "canonical_form" : "extrême",
+    "other_forms" : [ "extrêmes" ]
+  }, {
+    "canonical_form" : "désavantageux",
+    "other_forms" : [ "désavantageuse", "désavantageuses" ]
+  }, {
+    "canonical_form" : "différent",
+    "other_forms" : [ "différente", "différentes", "différents" ]
+  }, {
+    "canonical_form" : "attentatoire",
+    "other_forms" : [ "attentatoires" ]
+  }, {
+    "canonical_form" : "antipode",
+    "other_forms" : [ "antipodes" ]
+  }, {
+    "canonical_form" : "antinomique",
+    "other_forms" : [ "antinomiques" ]
+  }, {
+    "canonical_form" : "antagoniste",
+    "other_forms" : [ "antagonistes" ]
+  }, {
+    "canonical_form" : "adversaire",
+    "other_forms" : [ "adversaires" ]
+  }, {
+    "canonical_form" : "irréductible",
+    "other_forms" : [ "irréductibles" ]
+  }, {
+    "canonical_form" : "nocif",
+    "other_forms" : [ "nocifs", "nocive", "nocives" ]
+  }, {
+    "canonical_form" : "paradoxal",
+    "other_forms" : [ "paradoxale", "paradoxales", "paradoxaux" ]
+  }, {
+    "canonical_form" : "hétérogène",
+    "other_forms" : [ "hétérogènes" ]
+  }, {
+    "canonical_form" : "antithétique",
+    "other_forms" : [ "antithétiques" ]
+  } ]
+}

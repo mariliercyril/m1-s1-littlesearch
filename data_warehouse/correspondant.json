@@ -1,0 +1,46 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "correspondant",
+    "other_forms" : [ "correspondante", "correspondantes", "correspondants" ]
+  }, {
+    "canonical_form" : "analogue",
+    "other_forms" : [ "analogues" ]
+  }, {
+    "canonical_form" : "homologue",
+    "other_forms" : [ "homologues" ]
+  }, {
+    "canonical_form" : "convenable",
+    "other_forms" : [ "convenables" ]
+  }, {
+    "canonical_form" : "conforme",
+    "other_forms" : [ "conformes" ]
+  }, {
+    "canonical_form" : "concordant",
+    "other_forms" : [ "concordante", "concordantes", "concordants" ]
+  }, {
+    "canonical_form" : "pendant",
+    "other_forms" : [ "pendante", "pendantes", "pendants" ]
+  }, {
+    "canonical_form" : "relatif",
+    "other_forms" : [ "relatifs", "relative", "relatives" ]
+  }, {
+    "canonical_form" : "synchrone",
+    "other_forms" : [ "synchrones" ]
+  }, {
+    "canonical_form" : "garant",
+    "other_forms" : [ "garante", "garantes", "garants" ]
+  }, {
+    "canonical_form" : "corrélatif",
+    "other_forms" : [ "corrélatifs", "corrélative", "corrélatives" ]
+  }, {
+    "canonical_form" : "applicable",
+    "other_forms" : [ "applicables" ]
+  }, {
+    "canonical_form" : "analogique",
+    "other_forms" : [ "analogiques" ]
+  }, {
+    "canonical_form" : "équivalent",
+    "other_forms" : [ "équivalente", "équivalentes", "équivalents" ]
+  } ]
+}

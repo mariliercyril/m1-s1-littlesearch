@@ -1,0 +1,58 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "moral",
+    "other_forms" : [ "morale", "morales", "moraux" ]
+  }, {
+    "canonical_form" : "honnête",
+    "other_forms" : [ "honnêtes" ]
+  }, {
+    "canonical_form" : "bon",
+    "other_forms" : [ "bonne", "bonnes", "bons" ]
+  }, {
+    "canonical_form" : "convenable",
+    "other_forms" : [ "convenables" ]
+  }, {
+    "canonical_form" : "irréprochable",
+    "other_forms" : [ "irréprochables" ]
+  }, {
+    "canonical_form" : "juste",
+    "other_forms" : [ "justes" ]
+  }, {
+    "canonical_form" : "édifiant",
+    "other_forms" : [ "édifiante", "édifiantes", "édifiants" ]
+  }, {
+    "canonical_form" : "vertueux",
+    "other_forms" : [ "vertueuse", "vertueuses" ]
+  }, {
+    "canonical_form" : "probe",
+    "other_forms" : [ "probes" ]
+  }, {
+    "canonical_form" : "exemplaire",
+    "other_forms" : [ "exemplaires" ]
+  }, {
+    "canonical_form" : "spirituel",
+    "other_forms" : [ "spirituelle", "spirituelles", "spirituels" ]
+  }, {
+    "canonical_form" : "régulier",
+    "other_forms" : [ "réguliers", "régulière", "régulières" ]
+  }, {
+    "canonical_form" : "propre",
+    "other_forms" : [ "propres" ]
+  }, {
+    "canonical_form" : "mental",
+    "other_forms" : [ "mentale", "mentales", "mentaux" ]
+  }, {
+    "canonical_form" : "honorable",
+    "other_forms" : [ "honorables" ]
+  }, {
+    "canonical_form" : "intellectuel",
+    "other_forms" : [ "intellectuelle", "intellectuelles", "intellectuels" ]
+  }, {
+    "canonical_form" : "moralisateur",
+    "other_forms" : [ "moralisateurs", "moralisatrice", "moralisatrices" ]
+  }, {
+    "canonical_form" : "psychique",
+    "other_forms" : [ "psychiques" ]
+  } ]
+}

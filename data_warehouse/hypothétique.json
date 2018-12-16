@@ -1,0 +1,46 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "hypothétique",
+    "other_forms" : [ "hypothétiques" ]
+  }, {
+    "canonical_form" : "incertain",
+    "other_forms" : [ "incertaine", "incertaines", "incertains" ]
+  }, {
+    "canonical_form" : "conjectural",
+    "other_forms" : [ "conjecturale", "conjecturales", "conjecturaux" ]
+  }, {
+    "canonical_form" : "douteux",
+    "other_forms" : [ "douteur", "douteurs", "douteuse", "douteuses" ]
+  }, {
+    "canonical_form" : "éventuel",
+    "other_forms" : [ "éventuelle", "éventuelles", "éventuels" ]
+  }, {
+    "canonical_form" : "spéculatif",
+    "other_forms" : [ "spéculatifs", "spéculative", "spéculatives" ]
+  }, {
+    "canonical_form" : "problématique",
+    "other_forms" : [ "problématiques" ]
+  }, {
+    "canonical_form" : "aléatoire",
+    "other_forms" : [ "aléatoires" ]
+  }, {
+    "canonical_form" : "théorique",
+    "other_forms" : [ "théoriques" ]
+  }, {
+    "canonical_form" : "préconçu",
+    "other_forms" : [ "préconçue", "préconçues", "préconçus" ]
+  }, {
+    "canonical_form" : "improbable",
+    "other_forms" : [ "improbables" ]
+  }, {
+    "canonical_form" : "discutable",
+    "other_forms" : [ "discutables" ]
+  }, {
+    "canonical_form" : "conditionnel",
+    "other_forms" : [ "conditionnelle", "conditionnelles", "conditionnels" ]
+  }, {
+    "canonical_form" : "vain",
+    "other_forms" : [ "vaine", "vaines", "vains" ]
+  } ]
+}

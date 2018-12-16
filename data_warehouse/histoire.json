@@ -1,0 +1,226 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "histoire",
+    "other_forms" : [ "histoires" ]
+  }, {
+    "canonical_form" : "conte",
+    "other_forms" : [ "contes" ]
+  }, {
+    "canonical_form" : "fable",
+    "other_forms" : [ "fables" ]
+  }, {
+    "canonical_form" : "récit",
+    "other_forms" : [ "récits" ]
+  }, {
+    "canonical_form" : "affaire",
+    "other_forms" : [ "affaires" ]
+  }, {
+    "canonical_form" : "mensonge",
+    "other_forms" : [ "mensonges" ]
+  }, {
+    "canonical_form" : "difficulté",
+    "other_forms" : [ "difficultés" ]
+  }, {
+    "canonical_form" : "boniment",
+    "other_forms" : [ "boniments" ]
+  }, {
+    "canonical_form" : "invention",
+    "other_forms" : [ "inventions" ]
+  }, {
+    "canonical_form" : "événement",
+    "other_forms" : [ "événements" ]
+  }, {
+    "canonical_form" : "intrigue",
+    "other_forms" : [ "intrigues" ]
+  }, {
+    "canonical_form" : "embarras",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "chanson",
+    "other_forms" : [ "chansons" ]
+  }, {
+    "canonical_form" : "aventure",
+    "other_forms" : [ "aventures" ]
+  }, {
+    "canonical_form" : "anecdote",
+    "other_forms" : [ "anecdotes" ]
+  }, {
+    "canonical_form" : "propos",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "mythe",
+    "other_forms" : [ "mythes" ]
+  }, {
+    "canonical_form" : "complication",
+    "other_forms" : [ "complications" ]
+  }, {
+    "canonical_form" : "bateau",
+    "other_forms" : [ "bateaux" ]
+  }, {
+    "canonical_form" : "truc",
+    "other_forms" : [ "trucs" ]
+  }, {
+    "canonical_form" : "légende",
+    "other_forms" : [ "légendes" ]
+  }, {
+    "canonical_form" : "ennui",
+    "other_forms" : [ "ennuis" ]
+  }, {
+    "canonical_form" : "comédie",
+    "other_forms" : [ "comédies" ]
+  }, {
+    "canonical_form" : "blague",
+    "other_forms" : [ "blagues" ]
+  }, {
+    "canonical_form" : "souvenir",
+    "other_forms" : [ "souvenirs" ]
+  }, {
+    "canonical_form" : "craque",
+    "other_forms" : [ "craques" ]
+  }, {
+    "canonical_form" : "anicroche",
+    "other_forms" : [ "anicroches" ]
+  }, {
+    "canonical_form" : "allégorie",
+    "other_forms" : [ "allégories" ]
+  }, {
+    "canonical_form" : "vie",
+    "other_forms" : [ "vies" ]
+  }, {
+    "canonical_form" : "tirage",
+    "other_forms" : [ "tirages" ]
+  }, {
+    "canonical_form" : "sornette",
+    "other_forms" : [ "sornettes" ]
+  }, {
+    "canonical_form" : "salade",
+    "other_forms" : [ "salades" ]
+  }, {
+    "canonical_form" : "relation",
+    "other_forms" : [ "relations" ]
+  }, {
+    "canonical_form" : "problème",
+    "other_forms" : [ "problèmes" ]
+  }, {
+    "canonical_form" : "peinture",
+    "other_forms" : [ "peintures" ]
+  }, {
+    "canonical_form" : "narration",
+    "other_forms" : [ "narrations" ]
+  }, {
+    "canonical_form" : "manière",
+    "other_forms" : [ "manières" ]
+  }, {
+    "canonical_form" : "feuilleton",
+    "other_forms" : [ "feuilletons" ]
+  }, {
+    "canonical_form" : "bobard",
+    "other_forms" : [ "bobards" ]
+  }, {
+    "canonical_form" : "façon",
+    "other_forms" : [ "façons" ]
+  }, {
+    "canonical_form" : "geste",
+    "other_forms" : [ "gestes" ]
+  }, {
+    "canonical_form" : "mémoire",
+    "other_forms" : [ "mémoires" ]
+  }, {
+    "canonical_form" : "mésaventure",
+    "other_forms" : [ "mésaventures" ]
+  }, {
+    "canonical_form" : "querelle",
+    "other_forms" : [ "querelles" ]
+  }, {
+    "canonical_form" : "épisode",
+    "other_forms" : [ "épisodes" ]
+  }, {
+    "canonical_form" : "détour",
+    "other_forms" : [ "détours" ]
+  }, {
+    "canonical_form" : "description",
+    "other_forms" : [ "descriptions" ]
+  }, {
+    "canonical_form" : "accroc",
+    "other_forms" : [ "accrocs" ]
+  }, {
+    "canonical_form" : "affectation",
+    "other_forms" : [ "affectations" ]
+  }, {
+    "canonical_form" : "baliverne",
+    "other_forms" : [ "balivernes" ]
+  }, {
+    "canonical_form" : "cas",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "chicane",
+    "other_forms" : [ "chicanes" ]
+  }, {
+    "canonical_form" : "commentaire",
+    "other_forms" : [ "commentaires" ]
+  }, {
+    "canonical_form" : "musique",
+    "other_forms" : [ "musiques" ]
+  }, {
+    "canonical_form" : "mythologie",
+    "other_forms" : [ "mythologies" ]
+  }, {
+    "canonical_form" : "paléographie",
+    "other_forms" : [ "paléographies" ]
+  }, {
+    "canonical_form" : "parabole",
+    "other_forms" : [ "paraboles" ]
+  }, {
+    "canonical_form" : "protohistoire",
+    "other_forms" : [ "protohistoires" ]
+  }, {
+    "canonical_form" : "préhistoire",
+    "other_forms" : [ "préhistoires" ]
+  }, {
+    "canonical_form" : "version",
+    "other_forms" : [ "versions" ]
+  }, {
+    "canonical_form" : "écho",
+    "other_forms" : [ "échos" ]
+  }, {
+    "canonical_form" : "étude",
+    "other_forms" : [ "études" ]
+  }, {
+    "canonical_form" : "évangile",
+    "other_forms" : [ "évangiles" ]
+  }, {
+    "canonical_form" : "évocation",
+    "other_forms" : [ "évocations" ]
+  }, {
+    "canonical_form" : "évolution",
+    "other_forms" : [ "évolutions" ]
+  }, {
+    "canonical_form" : "machin",
+    "other_forms" : [ "machins" ]
+  }, {
+    "canonical_form" : "historiette",
+    "other_forms" : [ "historiettes" ]
+  }, {
+    "canonical_form" : "archéologie",
+    "other_forms" : [ "archéologies" ]
+  }, {
+    "canonical_form" : "bible",
+    "other_forms" : [ "bibles" ]
+  }, {
+    "canonical_form" : "biographie",
+    "other_forms" : [ "biographies" ]
+  }, {
+    "canonical_form" : "chronologie",
+    "other_forms" : [ "chronologies" ]
+  }, {
+    "canonical_form" : "existence",
+    "other_forms" : [ "existences" ]
+  }, {
+    "canonical_form" : "généalogie",
+    "other_forms" : [ "généalogies" ]
+  }, {
+    "canonical_form" : "hagiographie",
+    "other_forms" : [ "hagiographies" ]
+  } ]
+}

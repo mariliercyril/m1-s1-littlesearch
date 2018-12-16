@@ -1,0 +1,31 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "chinois",
+    "other_forms" : [ "chinoise", "chinoises" ]
+  }, {
+    "canonical_form" : "pointilleux",
+    "other_forms" : [ "pointilleuse", "pointilleuses" ]
+  }, {
+    "canonical_form" : "original",
+    "other_forms" : [ "originale", "originales", "originaux" ]
+  }, {
+    "canonical_form" : "mandarin",
+    "other_forms" : [ "mandarins" ]
+  }, {
+    "canonical_form" : "jaune",
+    "other_forms" : [ "jaunes" ]
+  }, {
+    "canonical_form" : "difficile",
+    "other_forms" : [ "difficiles" ]
+  }, {
+    "canonical_form" : "byzantin",
+    "other_forms" : [ "byzantine", "byzantines", "byzantins" ]
+  }, {
+    "canonical_form" : "bizarre",
+    "other_forms" : [ "bizarres" ]
+  }, {
+    "canonical_form" : "asiatique",
+    "other_forms" : [ "asiatiques" ]
+  } ]
+}

@@ -1,0 +1,37 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "historien",
+    "other_forms" : [ "historienne", "historiennes", "historiens" ]
+  }, {
+    "canonical_form" : "annaliste",
+    "other_forms" : [ "annalistes" ]
+  }, {
+    "canonical_form" : "auteur",
+    "other_forms" : [ "auteurs" ]
+  }, {
+    "canonical_form" : "chroniqueur",
+    "other_forms" : [ "chroniqueurs", "chroniqueuse", "chroniqueuses" ]
+  }, {
+    "canonical_form" : "historiographe",
+    "other_forms" : [ "historiographes" ]
+  }, {
+    "canonical_form" : "écrivain",
+    "other_forms" : [ "écrivains" ]
+  }, {
+    "canonical_form" : "narrateur",
+    "other_forms" : [ "narrateurs", "narratrice", "narratrices" ]
+  }, {
+    "canonical_form" : "mémorialiste",
+    "other_forms" : [ "mémorialistes" ]
+  }, {
+    "canonical_form" : "biographe",
+    "other_forms" : [ "biographes" ]
+  }, {
+    "canonical_form" : "chronologiste",
+    "other_forms" : [ "chronologistes" ]
+  }, {
+    "canonical_form" : "logographe",
+    "other_forms" : [ "logographes" ]
+  } ]
+}

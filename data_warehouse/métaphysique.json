@@ -1,0 +1,28 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "métaphysique",
+    "other_forms" : [ "métaphysiques" ]
+  }, {
+    "canonical_form" : "transcendant",
+    "other_forms" : [ "transcendante", "transcendantes", "transcendants" ]
+  }, {
+    "canonical_form" : "théologique",
+    "other_forms" : [ "théologiques" ]
+  }, {
+    "canonical_form" : "thaumaturgique",
+    "other_forms" : [ "thaumaturgiques" ]
+  }, {
+    "canonical_form" : "surnaturel",
+    "other_forms" : [ "surnaturelle", "surnaturelles", "surnaturels" ]
+  }, {
+    "canonical_form" : "spéculatif",
+    "other_forms" : [ "spéculatifs", "spéculative", "spéculatives" ]
+  }, {
+    "canonical_form" : "profond",
+    "other_forms" : [ "profonde", "profondes", "profonds" ]
+  }, {
+    "canonical_form" : "métempirique",
+    "other_forms" : [ "métempiriques" ]
+  } ]
+}

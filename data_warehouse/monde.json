@@ -1,0 +1,115 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "monde",
+    "other_forms" : [ "mondes" ]
+  }, {
+    "canonical_form" : "univers",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "société",
+    "other_forms" : [ "sociétés" ]
+  }, {
+    "canonical_form" : "gens",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "terre",
+    "other_forms" : [ "terres" ]
+  }, {
+    "canonical_form" : "nature",
+    "other_forms" : [ "natures" ]
+  }, {
+    "canonical_form" : "foule",
+    "other_forms" : [ "foules" ]
+  }, {
+    "canonical_form" : "domesticité",
+    "other_forms" : [ "domesticités" ]
+  }, {
+    "canonical_form" : "globe",
+    "other_forms" : [ "globes" ]
+  }, {
+    "canonical_form" : "sphère",
+    "other_forms" : [ "sphères" ]
+  }, {
+    "canonical_form" : "multitude",
+    "other_forms" : [ "multitudes" ]
+  }, {
+    "canonical_form" : "milieu",
+    "other_forms" : [ "milieux" ]
+  }, {
+    "canonical_form" : "maison",
+    "other_forms" : [ "maisons" ]
+  }, {
+    "canonical_form" : "humanité",
+    "other_forms" : [ "humanités" ]
+  }, {
+    "canonical_form" : "homme",
+    "other_forms" : [ "hommes" ]
+  }, {
+    "canonical_form" : "gentry",
+    "other_forms" : [ "gentrys" ]
+  }, {
+    "canonical_form" : "domaine",
+    "other_forms" : [ "domaines" ]
+  }, {
+    "canonical_form" : "macrocosme",
+    "other_forms" : [ "macrocosmes" ]
+  }, {
+    "canonical_form" : "maisonnée",
+    "other_forms" : [ "maisonnées" ]
+  }, {
+    "canonical_form" : "microcosme",
+    "other_forms" : [ "microcosmes" ]
+  }, {
+    "canonical_form" : "planète",
+    "other_forms" : [ "planètes" ]
+  }, {
+    "canonical_form" : "quantité",
+    "other_forms" : [ "quantités" ]
+  }, {
+    "canonical_form" : "règne",
+    "other_forms" : [ "règnes" ]
+  }, {
+    "canonical_form" : "réalité",
+    "other_forms" : [ "réalités" ]
+  }, {
+    "canonical_form" : "serviteur",
+    "other_forms" : [ "serviteurs" ]
+  }, {
+    "canonical_form" : "siècle",
+    "other_forms" : [ "siècles" ]
+  }, {
+    "canonical_form" : "valetaille",
+    "other_forms" : [ "valetailles" ]
+  }, {
+    "canonical_form" : "gratin",
+    "other_forms" : [ "gratins" ]
+  }, {
+    "canonical_form" : "gotha",
+    "other_forms" : [ "gothas" ]
+  }, {
+    "canonical_form" : "aristocratie",
+    "other_forms" : [ "aristocraties" ]
+  }, {
+    "canonical_form" : "assemblage",
+    "other_forms" : [ "assemblages" ]
+  }, {
+    "canonical_form" : "civilisation",
+    "other_forms" : [ "civilisations" ]
+  }, {
+    "canonical_form" : "cosmos",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "création",
+    "other_forms" : [ "créations" ]
+  }, {
+    "canonical_form" : "entourage",
+    "other_forms" : [ "entourages" ]
+  }, {
+    "canonical_form" : "galerie",
+    "other_forms" : [ "galeries" ]
+  }, {
+    "canonical_form" : "affluence",
+    "other_forms" : [ "affluences" ]
+  } ]
+}

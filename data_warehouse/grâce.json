@@ -1,0 +1,253 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "grâce",
+    "other_forms" : [ "grâces" ]
+  }, {
+    "canonical_form" : "délicatesse",
+    "other_forms" : [ "délicatesses" ]
+  }, {
+    "canonical_form" : "faveur",
+    "other_forms" : [ "faveurs" ]
+  }, {
+    "canonical_form" : "bonté",
+    "other_forms" : [ "bontés" ]
+  }, {
+    "canonical_form" : "douceur",
+    "other_forms" : [ "douceurs" ]
+  }, {
+    "canonical_form" : "agrément",
+    "other_forms" : [ "agréments" ]
+  }, {
+    "canonical_form" : "amabilité",
+    "other_forms" : [ "amabilités" ]
+  }, {
+    "canonical_form" : "beauté",
+    "other_forms" : [ "beautés" ]
+  }, {
+    "canonical_form" : "don",
+    "other_forms" : [ "dons" ]
+  }, {
+    "canonical_form" : "charme",
+    "other_forms" : [ "charmes" ]
+  }, {
+    "canonical_form" : "élégance",
+    "other_forms" : [ "élégances" ]
+  }, {
+    "canonical_form" : "aide",
+    "other_forms" : [ "aides" ]
+  }, {
+    "canonical_form" : "avantage",
+    "other_forms" : [ "avantages" ]
+  }, {
+    "canonical_form" : "bien",
+    "other_forms" : [ "biens" ]
+  }, {
+    "canonical_form" : "bienfait",
+    "other_forms" : [ "bienfaits" ]
+  }, {
+    "canonical_form" : "galanterie",
+    "other_forms" : [ "galanteries" ]
+  }, {
+    "canonical_form" : "indulgence",
+    "other_forms" : [ "indulgences" ]
+  }, {
+    "canonical_form" : "service",
+    "other_forms" : [ "services" ]
+  }, {
+    "canonical_form" : "gentillesse",
+    "other_forms" : [ "gentillesses" ]
+  }, {
+    "canonical_form" : "finesse",
+    "other_forms" : [ "finesses" ]
+  }, {
+    "canonical_form" : "amitié",
+    "other_forms" : [ "amitiés" ]
+  }, {
+    "canonical_form" : "bienveillance",
+    "other_forms" : [ "bienveillances" ]
+  }, {
+    "canonical_form" : "joliesse",
+    "other_forms" : [ "joliesses" ]
+  }, {
+    "canonical_form" : "miséricorde",
+    "other_forms" : [ "miséricordes" ]
+  }, {
+    "canonical_form" : "mollesse",
+    "other_forms" : [ "mollesses" ]
+  }, {
+    "canonical_form" : "légèreté",
+    "other_forms" : [ "légèretés" ]
+  }, {
+    "canonical_form" : "honneur",
+    "other_forms" : [ "honneurs" ]
+  }, {
+    "canonical_form" : "esprit",
+    "other_forms" : [ "esprits" ]
+  }, {
+    "canonical_form" : "aménité",
+    "other_forms" : [ "aménités" ]
+  }, {
+    "canonical_form" : "amour",
+    "other_forms" : [ "amours" ]
+  }, {
+    "canonical_form" : "aisance",
+    "other_forms" : [ "aisances" ]
+  }, {
+    "canonical_form" : "affabilité",
+    "other_forms" : [ "affabilités" ]
+  }, {
+    "canonical_form" : "suavité",
+    "other_forms" : [ "suavités" ]
+  }, {
+    "canonical_form" : "rémission",
+    "other_forms" : [ "rémissions" ]
+  }, {
+    "canonical_form" : "pureté",
+    "other_forms" : [ "puretés" ]
+  }, {
+    "canonical_form" : "privilège",
+    "other_forms" : [ "privilèges" ]
+  }, {
+    "canonical_form" : "plaisir",
+    "other_forms" : [ "plaisirs" ]
+  }, {
+    "canonical_form" : "pardon",
+    "other_forms" : [ "pardons" ]
+  }, {
+    "canonical_form" : "merci",
+    "other_forms" : [ "mercis" ]
+  }, {
+    "canonical_form" : "goût",
+    "other_forms" : [ "goûts" ]
+  }, {
+    "canonical_form" : "coquetterie",
+    "other_forms" : [ "coquetteries" ]
+  }, {
+    "canonical_form" : "bénéfice",
+    "other_forms" : [ "bénéfices" ]
+  }, {
+    "canonical_form" : "bénédiction",
+    "other_forms" : [ "bénédictions" ]
+  }, {
+    "canonical_form" : "protection",
+    "other_forms" : [ "protections" ]
+  }, {
+    "canonical_form" : "pitié",
+    "other_forms" : [ "pitiés" ]
+  }, {
+    "canonical_form" : "harmonie",
+    "other_forms" : [ "harmonies" ]
+  }, {
+    "canonical_form" : "gracieuseté",
+    "other_forms" : [ "gracieusetés" ]
+  }, {
+    "canonical_form" : "aumône",
+    "other_forms" : [ "aumônes" ]
+  }, {
+    "canonical_form" : "absolution",
+    "other_forms" : [ "absolutions" ]
+  }, {
+    "canonical_form" : "inspiration",
+    "other_forms" : [ "inspirations" ]
+  }, {
+    "canonical_form" : "langueur",
+    "other_forms" : [ "langueurs" ]
+  }, {
+    "canonical_form" : "ornement",
+    "other_forms" : [ "ornements" ]
+  }, {
+    "canonical_form" : "poésie",
+    "other_forms" : [ "poésies" ]
+  }, {
+    "canonical_form" : "prérogative",
+    "other_forms" : [ "prérogatives" ]
+  }, {
+    "canonical_form" : "simagrée",
+    "other_forms" : [ "simagrées" ]
+  }, {
+    "canonical_form" : "subside",
+    "other_forms" : [ "subsides" ]
+  }, {
+    "canonical_form" : "fraîcheur",
+    "other_forms" : [ "fraîcheurs" ]
+  }, {
+    "canonical_form" : "façon",
+    "other_forms" : [ "façons" ]
+  }, {
+    "canonical_form" : "exemption",
+    "other_forms" : [ "exemptions" ]
+  }, {
+    "canonical_form" : "agilité",
+    "other_forms" : [ "agilités" ]
+  }, {
+    "canonical_form" : "appas",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "attrait",
+    "other_forms" : [ "attraits" ]
+  }, {
+    "canonical_form" : "candeur",
+    "other_forms" : [ "candeurs" ]
+  }, {
+    "canonical_form" : "divinité",
+    "other_forms" : [ "divinités" ]
+  }, {
+    "canonical_form" : "déesse",
+    "other_forms" : [ "déesses" ]
+  }, {
+    "canonical_form" : "excellence",
+    "other_forms" : [ "excellences" ]
+  }, {
+    "canonical_form" : "minauderie",
+    "other_forms" : [ "minauderies" ]
+  }, {
+    "canonical_form" : "morbidesse",
+    "other_forms" : [ "morbidesses" ]
+  }, {
+    "canonical_form" : "quartier",
+    "other_forms" : [ "quartiers" ]
+  }, {
+    "canonical_form" : "remerciement",
+    "other_forms" : [ "remerciements" ]
+  }, {
+    "canonical_form" : "sex-appeal",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "volonté",
+    "other_forms" : [ "volontés" ]
+  }, {
+    "canonical_form" : "mamours",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "joliveté",
+    "other_forms" : [ "jolité", "jolités", "jolivetés" ]
+  }, {
+    "canonical_form" : "jolité",
+    "other_forms" : [ "jolités" ]
+  }, {
+    "canonical_form" : "abolition",
+    "other_forms" : [ "abolitions" ]
+  }, {
+    "canonical_form" : "air",
+    "other_forms" : [ "airs" ]
+  }, {
+    "canonical_form" : "alanguissement",
+    "other_forms" : [ "alanguissements" ]
+  }, {
+    "canonical_form" : "amnistie",
+    "other_forms" : [ "amnisties" ]
+  }, {
+    "canonical_form" : "atermoiement",
+    "other_forms" : [ "atermoiements" ]
+  }, {
+    "canonical_form" : "considération",
+    "other_forms" : [ "considérations" ]
+  }, {
+    "canonical_form" : "désinvolture",
+    "other_forms" : [ "désinvoltures" ]
+  }, {
+    "canonical_form" : "vénusté",
+    "other_forms" : [ "vénustés" ]
+  } ]
+}

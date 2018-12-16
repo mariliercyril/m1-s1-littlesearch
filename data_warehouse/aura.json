@@ -1,0 +1,40 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "aura",
+    "other_forms" : [ "auras", "aure", "aures" ]
+  }, {
+    "canonical_form" : "émanation",
+    "other_forms" : [ "émanations" ]
+  }, {
+    "canonical_form" : "atmosphère",
+    "other_forms" : [ "atmosphères" ]
+  }, {
+    "canonical_form" : "auréole",
+    "other_forms" : [ "auréoles" ]
+  }, {
+    "canonical_form" : "halo",
+    "other_forms" : [ "halos" ]
+  }, {
+    "canonical_form" : "semence",
+    "other_forms" : [ "semences" ]
+  }, {
+    "canonical_form" : "phosphorescence",
+    "other_forms" : [ "phosphorescences" ]
+  }, {
+    "canonical_form" : "nimbe",
+    "other_forms" : [ "nimbes" ]
+  }, {
+    "canonical_form" : "milieu",
+    "other_forms" : [ "milieux" ]
+  }, {
+    "canonical_form" : "exhalaison",
+    "other_forms" : [ "exhalaisons" ]
+  }, {
+    "canonical_form" : "ambiance",
+    "other_forms" : [ "ambiances" ]
+  }, {
+    "canonical_form" : "souffle",
+    "other_forms" : [ "souffles" ]
+  } ]
+}

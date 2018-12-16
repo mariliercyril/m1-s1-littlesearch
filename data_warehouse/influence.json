@@ -1,0 +1,184 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "influence",
+    "other_forms" : [ "influences" ]
+  }, {
+    "canonical_form" : "autorité",
+    "other_forms" : [ "autorités" ]
+  }, {
+    "canonical_form" : "pouvoir",
+    "other_forms" : [ "pouvoirs" ]
+  }, {
+    "canonical_form" : "empire",
+    "other_forms" : [ "empires" ]
+  }, {
+    "canonical_form" : "force",
+    "other_forms" : [ "forces" ]
+  }, {
+    "canonical_form" : "puissance",
+    "other_forms" : [ "puissances" ]
+  }, {
+    "canonical_form" : "prestige",
+    "other_forms" : [ "prestiges" ]
+  }, {
+    "canonical_form" : "domination",
+    "other_forms" : [ "dominations" ]
+  }, {
+    "canonical_form" : "crédit",
+    "other_forms" : [ "crédits" ]
+  }, {
+    "canonical_form" : "emprise",
+    "other_forms" : [ "emprises" ]
+  }, {
+    "canonical_form" : "impression",
+    "other_forms" : [ "impressions" ]
+  }, {
+    "canonical_form" : "pression",
+    "other_forms" : [ "pressions" ]
+  }, {
+    "canonical_form" : "poids",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "importance",
+    "other_forms" : [ "importances" ]
+  }, {
+    "canonical_form" : "fascination",
+    "other_forms" : [ "fascinations" ]
+  }, {
+    "canonical_form" : "action",
+    "other_forms" : [ "actions" ]
+  }, {
+    "canonical_form" : "magnétisme",
+    "other_forms" : [ "magnétismes" ]
+  }, {
+    "canonical_form" : "inspiration",
+    "other_forms" : [ "inspirations" ]
+  }, {
+    "canonical_form" : "hégémonie",
+    "other_forms" : [ "hégémonies" ]
+  }, {
+    "canonical_form" : "effet",
+    "other_forms" : [ "effets" ]
+  }, {
+    "canonical_form" : "bras",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "air",
+    "other_forms" : [ "airs" ]
+  }, {
+    "canonical_form" : "tyrannie",
+    "other_forms" : [ "tyrannies" ]
+  }, {
+    "canonical_form" : "séduction",
+    "other_forms" : [ "séductions" ]
+  }, {
+    "canonical_form" : "suggestion",
+    "other_forms" : [ "suggestions" ]
+  }, {
+    "canonical_form" : "prépondérance",
+    "other_forms" : [ "prépondérances" ]
+  }, {
+    "canonical_form" : "impulsion",
+    "other_forms" : [ "impulsions" ]
+  }, {
+    "canonical_form" : "griffe",
+    "other_forms" : [ "griffes" ]
+  }, {
+    "canonical_form" : "efficacité",
+    "other_forms" : [ "efficacités" ]
+  }, {
+    "canonical_form" : "direction",
+    "other_forms" : [ "directions" ]
+  }, {
+    "canonical_form" : "atmosphère",
+    "other_forms" : [ "atmosphères" ]
+  }, {
+    "canonical_form" : "appui",
+    "other_forms" : [ "appuis" ]
+  }, {
+    "canonical_form" : "souffle",
+    "other_forms" : [ "souffles" ]
+  }, {
+    "canonical_form" : "rayonnement",
+    "other_forms" : [ "rayonnements" ]
+  }, {
+    "canonical_form" : "mainmise",
+    "other_forms" : [ "mainmises" ]
+  }, {
+    "canonical_form" : "coupe",
+    "other_forms" : [ "coupes" ]
+  }, {
+    "canonical_form" : "auspice",
+    "other_forms" : [ "auspices" ]
+  }, {
+    "canonical_form" : "aide",
+    "other_forms" : [ "aides" ]
+  }, {
+    "canonical_form" : "impact",
+    "other_forms" : [ "impacts" ]
+  }, {
+    "canonical_form" : "incidence",
+    "other_forms" : [ "incidences" ]
+  }, {
+    "canonical_form" : "incitation",
+    "other_forms" : [ "incitations" ]
+  }, {
+    "canonical_form" : "influx",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "intercession",
+    "other_forms" : [ "intercessions" ]
+  }, {
+    "canonical_form" : "maléfice",
+    "other_forms" : [ "maléfices" ]
+  }, {
+    "canonical_form" : "osmose",
+    "other_forms" : [ "osmoses" ]
+  }, {
+    "canonical_form" : "royauté",
+    "other_forms" : [ "royautés" ]
+  }, {
+    "canonical_form" : "répercussion",
+    "other_forms" : [ "répercussions" ]
+  }, {
+    "canonical_form" : "rôle",
+    "other_forms" : [ "rôles" ]
+  }, {
+    "canonical_form" : "imitation",
+    "other_forms" : [ "imitations" ]
+  }, {
+    "canonical_form" : "efficience",
+    "other_forms" : [ "efficiences" ]
+  }, {
+    "canonical_form" : "ambiance",
+    "other_forms" : [ "ambiances" ]
+  }, {
+    "canonical_form" : "aspect",
+    "other_forms" : [ "aspects" ]
+  }, {
+    "canonical_form" : "attirance",
+    "other_forms" : [ "attirances" ]
+  }, {
+    "canonical_form" : "attraction",
+    "other_forms" : [ "attractions" ]
+  }, {
+    "canonical_form" : "champ",
+    "other_forms" : [ "champs" ]
+  }, {
+    "canonical_form" : "contact",
+    "other_forms" : [ "contacts" ]
+  }, {
+    "canonical_form" : "contagion",
+    "other_forms" : [ "contagions" ]
+  }, {
+    "canonical_form" : "créance",
+    "other_forms" : [ "créances" ]
+  }, {
+    "canonical_form" : "discipline",
+    "other_forms" : [ "disciplines" ]
+  }, {
+    "canonical_form" : "soutien",
+    "other_forms" : [ "soutiens" ]
+  } ]
+}

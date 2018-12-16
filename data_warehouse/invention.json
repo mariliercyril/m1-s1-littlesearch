@@ -1,0 +1,148 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "invention",
+    "other_forms" : [ "inventions" ]
+  }, {
+    "canonical_form" : "imagination",
+    "other_forms" : [ "imaginations" ]
+  }, {
+    "canonical_form" : "mensonge",
+    "other_forms" : [ "mensonges" ]
+  }, {
+    "canonical_form" : "fable",
+    "other_forms" : [ "fables" ]
+  }, {
+    "canonical_form" : "tromperie",
+    "other_forms" : [ "tromperies" ]
+  }, {
+    "canonical_form" : "histoire",
+    "other_forms" : [ "histoires" ]
+  }, {
+    "canonical_form" : "truc",
+    "other_forms" : [ "trucs" ]
+  }, {
+    "canonical_form" : "ruse",
+    "other_forms" : [ "ruses" ]
+  }, {
+    "canonical_form" : "idée",
+    "other_forms" : [ "idées" ]
+  }, {
+    "canonical_form" : "création",
+    "other_forms" : [ "créations" ]
+  }, {
+    "canonical_form" : "artifice",
+    "other_forms" : [ "artifices" ]
+  }, {
+    "canonical_form" : "conte",
+    "other_forms" : [ "contes" ]
+  }, {
+    "canonical_form" : "sournoiserie",
+    "other_forms" : [ "sournoiseries" ]
+  }, {
+    "canonical_form" : "simulation",
+    "other_forms" : [ "simulations" ]
+  }, {
+    "canonical_form" : "rêve",
+    "other_forms" : [ "rêves" ]
+  }, {
+    "canonical_form" : "mythe",
+    "other_forms" : [ "mythes" ]
+  }, {
+    "canonical_form" : "esprit",
+    "other_forms" : [ "esprits" ]
+  }, {
+    "canonical_form" : "chimère",
+    "other_forms" : [ "chimères" ]
+  }, {
+    "canonical_form" : "bateau",
+    "other_forms" : [ "bateaux" ]
+  }, {
+    "canonical_form" : "astuce",
+    "other_forms" : [ "astuces" ]
+  }, {
+    "canonical_form" : "trouvaille",
+    "other_forms" : [ "trouvailles" ]
+  }, {
+    "canonical_form" : "ressource",
+    "other_forms" : [ "ressources" ]
+  }, {
+    "canonical_form" : "légende",
+    "other_forms" : [ "légendes" ]
+  }, {
+    "canonical_form" : "inspiration",
+    "other_forms" : [ "inspirations" ]
+  }, {
+    "canonical_form" : "fiction",
+    "other_forms" : [ "fictions" ]
+  }, {
+    "canonical_form" : "façon",
+    "other_forms" : [ "façons" ]
+  }, {
+    "canonical_form" : "fantaisie",
+    "other_forms" : [ "fantaisies" ]
+  }, {
+    "canonical_form" : "conception",
+    "other_forms" : [ "conceptions" ]
+  }, {
+    "canonical_form" : "innovation",
+    "other_forms" : [ "innovations" ]
+  }, {
+    "canonical_form" : "habileté",
+    "other_forms" : [ "habiletés" ]
+  }, {
+    "canonical_form" : "fabulation",
+    "other_forms" : [ "fabulations" ]
+  }, {
+    "canonical_form" : "craque",
+    "other_forms" : [ "craques" ]
+  }, {
+    "canonical_form" : "comédie",
+    "other_forms" : [ "comédies" ]
+  }, {
+    "canonical_form" : "apparition",
+    "other_forms" : [ "apparitions" ]
+  }, {
+    "canonical_form" : "affabulation",
+    "other_forms" : [ "affabulations" ]
+  }, {
+    "canonical_form" : "galéjade",
+    "other_forms" : [ "galéjades" ]
+  }, {
+    "canonical_form" : "industrie",
+    "other_forms" : [ "industries" ]
+  }, {
+    "canonical_form" : "inventivité",
+    "other_forms" : [ "inventivités" ]
+  }, {
+    "canonical_form" : "néologisme",
+    "other_forms" : [ "néologismes" ]
+  }, {
+    "canonical_form" : "saga",
+    "other_forms" : [ "sagas" ]
+  }, {
+    "canonical_form" : "fumisterie",
+    "other_forms" : [ "fumisteries" ]
+  }, {
+    "canonical_form" : "fabrication",
+    "other_forms" : [ "fabrications" ]
+  }, {
+    "canonical_form" : "duperie",
+    "other_forms" : [ "duperies" ]
+  }, {
+    "canonical_form" : "divagation",
+    "other_forms" : [ "divagations" ]
+  }, {
+    "canonical_form" : "combinaison",
+    "other_forms" : [ "combinaisons" ]
+  }, {
+    "canonical_form" : "calomnie",
+    "other_forms" : [ "calomnies" ]
+  }, {
+    "canonical_form" : "bourde",
+    "other_forms" : [ "bourdes" ]
+  }, {
+    "canonical_form" : "songe",
+    "other_forms" : [ "songes" ]
+  } ]
+}

@@ -1,0 +1,16 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "été",
+    "other_forms" : [ "étés" ]
+  }, {
+    "canonical_form" : "avant-deux",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "canicule",
+    "other_forms" : [ "canicules" ]
+  }, {
+    "canonical_form" : "chaleur",
+    "other_forms" : [ "chaleurs" ]
+  } ]
+}

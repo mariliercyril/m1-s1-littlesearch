@@ -1,0 +1,190 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "mal",
+    "other_forms" : [ "maux" ]
+  }, {
+    "canonical_form" : "peine",
+    "other_forms" : [ "peines" ]
+  }, {
+    "canonical_form" : "affliction",
+    "other_forms" : [ "afflictions" ]
+  }, {
+    "canonical_form" : "ennui",
+    "other_forms" : [ "ennuis" ]
+  }, {
+    "canonical_form" : "douleur",
+    "other_forms" : [ "douleurs" ]
+  }, {
+    "canonical_form" : "tristesse",
+    "other_forms" : [ "tristesses" ]
+  }, {
+    "canonical_form" : "tourment",
+    "other_forms" : [ "tourments" ]
+  }, {
+    "canonical_form" : "souffrance",
+    "other_forms" : [ "souffrances" ]
+  }, {
+    "canonical_form" : "malheur",
+    "other_forms" : [ "malheurs" ]
+  }, {
+    "canonical_form" : "désolation",
+    "other_forms" : [ "désolations" ]
+  }, {
+    "canonical_form" : "tribulation",
+    "other_forms" : [ "tribulations" ]
+  }, {
+    "canonical_form" : "épreuve",
+    "other_forms" : [ "épreuves" ]
+  }, {
+    "canonical_form" : "amertume",
+    "other_forms" : [ "amertumes" ]
+  }, {
+    "canonical_form" : "calamité",
+    "other_forms" : [ "calamités" ]
+  }, {
+    "canonical_form" : "défaut",
+    "other_forms" : [ "défauts" ]
+  }, {
+    "canonical_form" : "inquiétude",
+    "other_forms" : [ "inquiétudes" ]
+  }, {
+    "canonical_form" : "maladie",
+    "other_forms" : [ "maladies" ]
+  }, {
+    "canonical_form" : "supplice",
+    "other_forms" : [ "supplices" ]
+  }, {
+    "canonical_form" : "vice",
+    "other_forms" : [ "vices" ]
+  }, {
+    "canonical_form" : "méchanceté",
+    "other_forms" : [ "méchancetés" ]
+  }, {
+    "canonical_form" : "faute",
+    "other_forms" : [ "fautes" ]
+  }, {
+    "canonical_form" : "déplaisir",
+    "other_forms" : [ "déplaisirs" ]
+  }, {
+    "canonical_form" : "torture",
+    "other_forms" : [ "tortures" ]
+  }, {
+    "canonical_form" : "inconvénient",
+    "other_forms" : [ "inconvénients" ]
+  }, {
+    "canonical_form" : "imperfection",
+    "other_forms" : [ "imperfections" ]
+  }, {
+    "canonical_form" : "effort",
+    "other_forms" : [ "efforts" ]
+  }, {
+    "canonical_form" : "dommage",
+    "other_forms" : [ "dommages" ]
+  }, {
+    "canonical_form" : "croix",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "travail",
+    "other_forms" : [ "travaux" ]
+  }, {
+    "canonical_form" : "tort",
+    "other_forms" : [ "torts" ]
+  }, {
+    "canonical_form" : "perte",
+    "other_forms" : [ "pertes" ]
+  }, {
+    "canonical_form" : "injustice",
+    "other_forms" : [ "injustices" ]
+  }, {
+    "canonical_form" : "difficulté",
+    "other_forms" : [ "difficultés" ]
+  }, {
+    "canonical_form" : "cruauté",
+    "other_forms" : [ "cruautés" ]
+  }, {
+    "canonical_form" : "crime",
+    "other_forms" : [ "crimes" ]
+  }, {
+    "canonical_form" : "mélancolie",
+    "other_forms" : [ "mélancolies" ]
+  }, {
+    "canonical_form" : "plaie",
+    "other_forms" : [ "plaies" ]
+  }, {
+    "canonical_form" : "préjudice",
+    "other_forms" : [ "préjudices" ]
+  }, {
+    "canonical_form" : "ravage",
+    "other_forms" : [ "ravages" ]
+  }, {
+    "canonical_form" : "tare",
+    "other_forms" : [ "tares" ]
+  }, {
+    "canonical_form" : "tintouin",
+    "other_forms" : [ "tintouins" ]
+  }, {
+    "canonical_form" : "violence",
+    "other_forms" : [ "violences" ]
+  }, {
+    "canonical_form" : "martyre",
+    "other_forms" : [ "martyres" ]
+  }, {
+    "canonical_form" : "acharnement",
+    "other_forms" : [ "acharnements" ]
+  }, {
+    "canonical_form" : "calice",
+    "other_forms" : [ "calices" ]
+  }, {
+    "canonical_form" : "damnation",
+    "other_forms" : [ "damnations" ]
+  }, {
+    "canonical_form" : "fiel",
+    "other_forms" : [ "fiels" ]
+  }, {
+    "canonical_form" : "indignité",
+    "other_forms" : [ "indignités" ]
+  }, {
+    "canonical_form" : "indisposition",
+    "other_forms" : [ "indispositions" ]
+  }, {
+    "canonical_form" : "larme",
+    "other_forms" : [ "larmes" ]
+  }, {
+    "canonical_form" : "malfaçon",
+    "other_forms" : [ "malfaçons" ]
+  }, {
+    "canonical_form" : "insuffisance",
+    "other_forms" : [ "insuffisances" ]
+  }, {
+    "canonical_form" : "mortification",
+    "other_forms" : [ "mortifications" ]
+  }, {
+    "canonical_form" : "mécontentement",
+    "other_forms" : [ "mécontentements" ]
+  }, {
+    "canonical_form" : "perversion",
+    "other_forms" : [ "perversions" ]
+  }, {
+    "canonical_form" : "perversité",
+    "other_forms" : [ "perversités" ]
+  }, {
+    "canonical_form" : "affection",
+    "other_forms" : [ "affections" ]
+  }, {
+    "canonical_form" : "application",
+    "other_forms" : [ "applications" ]
+  }, {
+    "canonical_form" : "bobo",
+    "other_forms" : [ "bobos" ]
+  }, {
+    "canonical_form" : "enfer",
+    "other_forms" : [ "enfers" ]
+  }, {
+    "canonical_form" : "ennemi",
+    "other_forms" : [ "ennemie", "ennemies", "ennemis" ]
+  }, {
+    "canonical_form" : "abus",
+    "other_forms" : [ ]
+  } ]
+}

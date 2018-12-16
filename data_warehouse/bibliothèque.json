@@ -1,0 +1,40 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "bibliothèque",
+    "other_forms" : [ "bibliothèques" ]
+  }, {
+    "canonical_form" : "cabinet",
+    "other_forms" : [ "cabinets" ]
+  }, {
+    "canonical_form" : "bureau",
+    "other_forms" : [ "bureaux" ]
+  }, {
+    "canonical_form" : "collection",
+    "other_forms" : [ "collections" ]
+  }, {
+    "canonical_form" : "tablette",
+    "other_forms" : [ "tablettes" ]
+  }, {
+    "canonical_form" : "rayonnage",
+    "other_forms" : [ "rayonnages" ]
+  }, {
+    "canonical_form" : "librairie",
+    "other_forms" : [ "librairies" ]
+  }, {
+    "canonical_form" : "casier",
+    "other_forms" : [ "casiers" ]
+  }, {
+    "canonical_form" : "bibliobus",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "armoire",
+    "other_forms" : [ "armoires" ]
+  }, {
+    "canonical_form" : "amas",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "étagère",
+    "other_forms" : [ "étagères" ]
+  } ]
+}

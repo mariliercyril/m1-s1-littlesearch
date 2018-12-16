@@ -1,0 +1,31 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "majorité",
+    "other_forms" : [ "majorités" ]
+  }, {
+    "canonical_form" : "multitude",
+    "other_forms" : [ "multitudes" ]
+  }, {
+    "canonical_form" : "généralité",
+    "other_forms" : [ "généralités" ]
+  }, {
+    "canonical_form" : "pluralité",
+    "other_forms" : [ "pluralités" ]
+  }, {
+    "canonical_form" : "quorum",
+    "other_forms" : [ "quorums" ]
+  }, {
+    "canonical_form" : "maturité",
+    "other_forms" : [ "maturités" ]
+  }, {
+    "canonical_form" : "masse",
+    "other_forms" : [ "masses" ]
+  }, {
+    "canonical_form" : "foule",
+    "other_forms" : [ "foules" ]
+  }, {
+    "canonical_form" : "émancipation",
+    "other_forms" : [ "émancipations" ]
+  } ]
+}

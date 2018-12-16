@@ -1,0 +1,121 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "attitude",
+    "other_forms" : [ "attitudes" ]
+  }, {
+    "canonical_form" : "air",
+    "other_forms" : [ "airs" ]
+  }, {
+    "canonical_form" : "allure",
+    "other_forms" : [ "allures" ]
+  }, {
+    "canonical_form" : "comportement",
+    "other_forms" : [ "comportements" ]
+  }, {
+    "canonical_form" : "maintien",
+    "other_forms" : [ "maintiens" ]
+  }, {
+    "canonical_form" : "figure",
+    "other_forms" : [ "figures" ]
+  }, {
+    "canonical_form" : "contenance",
+    "other_forms" : [ "contenances" ]
+  }, {
+    "canonical_form" : "genre",
+    "other_forms" : [ "genres" ]
+  }, {
+    "canonical_form" : "visage",
+    "other_forms" : [ "visages" ]
+  }, {
+    "canonical_form" : "aspect",
+    "other_forms" : [ "aspects" ]
+  }, {
+    "canonical_form" : "démarche",
+    "other_forms" : [ "démarches" ]
+  }, {
+    "canonical_form" : "position",
+    "other_forms" : [ "positions" ]
+  }, {
+    "canonical_form" : "disposition",
+    "other_forms" : [ "dispositions" ]
+  }, {
+    "canonical_form" : "posture",
+    "other_forms" : [ "postures" ]
+  }, {
+    "canonical_form" : "dégaine",
+    "other_forms" : [ "dégaines" ]
+  }, {
+    "canonical_form" : "geste",
+    "other_forms" : [ "gestes" ]
+  }, {
+    "canonical_form" : "type",
+    "other_forms" : [ "types" ]
+  }, {
+    "canonical_form" : "physionomie",
+    "other_forms" : [ "physionomies" ]
+  }, {
+    "canonical_form" : "manière",
+    "other_forms" : [ "manières" ]
+  }, {
+    "canonical_form" : "dehors",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "expression",
+    "other_forms" : [ "expressions" ]
+  }, {
+    "canonical_form" : "situation",
+    "other_forms" : [ "situations" ]
+  }, {
+    "canonical_form" : "pose",
+    "other_forms" : [ "poses" ]
+  }, {
+    "canonical_form" : "port",
+    "other_forms" : [ "ports" ]
+  }, {
+    "canonical_form" : "orientation",
+    "other_forms" : [ "orientations" ]
+  }, {
+    "canonical_form" : "mouvement",
+    "other_forms" : [ "mouvements" ]
+  }, {
+    "canonical_form" : "affectation",
+    "other_forms" : [ "affectations" ]
+  }, {
+    "canonical_form" : "état",
+    "other_forms" : [ "états" ]
+  }, {
+    "canonical_form" : "tendance",
+    "other_forms" : [ "tendances" ]
+  }, {
+    "canonical_form" : "mime",
+    "other_forms" : [ "mimes" ]
+  }, {
+    "canonical_form" : "équilibre",
+    "other_forms" : [ "équilibres" ]
+  }, {
+    "canonical_form" : "station",
+    "other_forms" : [ "stations" ]
+  }, {
+    "canonical_form" : "réaction",
+    "other_forms" : [ "réactions" ]
+  }, {
+    "canonical_form" : "particularisme",
+    "other_forms" : [ "particularismes" ]
+  }, {
+    "canonical_form" : "humeur",
+    "other_forms" : [ "humeurs" ]
+  }, {
+    "canonical_form" : "habitude",
+    "other_forms" : [ "habitudes" ]
+  }, {
+    "canonical_form" : "front",
+    "other_forms" : [ "fronts" ]
+  }, {
+    "canonical_form" : "décision",
+    "other_forms" : [ "décisions" ]
+  }, {
+    "canonical_form" : "étude",
+    "other_forms" : [ "études" ]
+  } ]
+}

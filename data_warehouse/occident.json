@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "occident",
+    "other_forms" : [ "occidents" ]
+  }, {
+    "canonical_form" : "ouest",
+    "other_forms" : [ "ouests" ]
+  }, {
+    "canonical_form" : "ponant",
+    "other_forms" : [ "ponants" ]
+  } ]
+}

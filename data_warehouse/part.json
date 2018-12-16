@@ -1,0 +1,94 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "part",
+    "other_forms" : [ "parts" ]
+  }, {
+    "canonical_form" : "morceau",
+    "other_forms" : [ "morceaux" ]
+  }, {
+    "canonical_form" : "portion",
+    "other_forms" : [ "portions" ]
+  }, {
+    "canonical_form" : "apport",
+    "other_forms" : [ "apports" ]
+  }, {
+    "canonical_form" : "division",
+    "other_forms" : [ "divisions" ]
+  }, {
+    "canonical_form" : "fraction",
+    "other_forms" : [ "fractions" ]
+  }, {
+    "canonical_form" : "lot",
+    "other_forms" : [ "lots" ]
+  }, {
+    "canonical_form" : "tronçon",
+    "other_forms" : [ "tronçons" ]
+  }, {
+    "canonical_form" : "quota",
+    "other_forms" : [ "quotas" ]
+  }, {
+    "canonical_form" : "parcelle",
+    "other_forms" : [ "parcelles" ]
+  }, {
+    "canonical_form" : "fragment",
+    "other_forms" : [ "fragments" ]
+  }, {
+    "canonical_form" : "ramification",
+    "other_forms" : [ "ramifications" ]
+  }, {
+    "canonical_form" : "ration",
+    "other_forms" : [ "rations" ]
+  }, {
+    "canonical_form" : "quote-part",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "partage",
+    "other_forms" : [ "partages" ]
+  }, {
+    "canonical_form" : "contribution",
+    "other_forms" : [ "contributions" ]
+  }, {
+    "canonical_form" : "tranche",
+    "other_forms" : [ "tranches" ]
+  }, {
+    "canonical_form" : "sort",
+    "other_forms" : [ "sorts" ]
+  }, {
+    "canonical_form" : "quotité",
+    "other_forms" : [ "quotités" ]
+  }, {
+    "canonical_form" : "participation",
+    "other_forms" : [ "participations" ]
+  }, {
+    "canonical_form" : "bribe",
+    "other_forms" : [ "bribes" ]
+  }, {
+    "canonical_form" : "action",
+    "other_forms" : [ "actions" ]
+  }, {
+    "canonical_form" : "prorata",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "parturition",
+    "other_forms" : [ "parturitions" ]
+  }, {
+    "canonical_form" : "lotissement",
+    "other_forms" : [ "lotissements" ]
+  }, {
+    "canonical_form" : "lieu",
+    "other_forms" : [ "lieus", "lieux" ]
+  }, {
+    "canonical_form" : "destin",
+    "other_forms" : [ "destins" ]
+  }, {
+    "canonical_form" : "attribution",
+    "other_forms" : [ "attributions" ]
+  }, {
+    "canonical_form" : "appoint",
+    "other_forms" : [ "appoints" ]
+  }, {
+    "canonical_form" : "valeur",
+    "other_forms" : [ "valeurs" ]
+  } ]
+}

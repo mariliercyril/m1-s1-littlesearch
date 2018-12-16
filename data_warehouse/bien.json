@@ -1,0 +1,163 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "bien",
+    "other_forms" : [ "biens" ]
+  }, {
+    "canonical_form" : "propriété",
+    "other_forms" : [ "propriétés" ]
+  }, {
+    "canonical_form" : "avantage",
+    "other_forms" : [ "avantages" ]
+  }, {
+    "canonical_form" : "bienfait",
+    "other_forms" : [ "bienfaits" ]
+  }, {
+    "canonical_form" : "bénéfice",
+    "other_forms" : [ "bénéfices" ]
+  }, {
+    "canonical_form" : "faveur",
+    "other_forms" : [ "faveurs" ]
+  }, {
+    "canonical_form" : "bonheur",
+    "other_forms" : [ "bonheurs" ]
+  }, {
+    "canonical_form" : "grâce",
+    "other_forms" : [ "grâces" ]
+  }, {
+    "canonical_form" : "service",
+    "other_forms" : [ "services" ]
+  }, {
+    "canonical_form" : "possession",
+    "other_forms" : [ "possessions" ]
+  }, {
+    "canonical_form" : "bonté",
+    "other_forms" : [ "bontés" ]
+  }, {
+    "canonical_form" : "vertu",
+    "other_forms" : [ "vertus" ]
+  }, {
+    "canonical_form" : "profit",
+    "other_forms" : [ "profits" ]
+  }, {
+    "canonical_form" : "patrimoine",
+    "other_forms" : [ "patrimoines" ]
+  }, {
+    "canonical_form" : "don",
+    "other_forms" : [ "dons" ]
+  }, {
+    "canonical_form" : "richesse",
+    "other_forms" : [ "richesses" ]
+  }, {
+    "canonical_form" : "utilité",
+    "other_forms" : [ "utilités" ]
+  }, {
+    "canonical_form" : "valeur",
+    "other_forms" : [ "valeurs" ]
+  }, {
+    "canonical_form" : "charité",
+    "other_forms" : [ "charités" ]
+  }, {
+    "canonical_form" : "domaine",
+    "other_forms" : [ "domaines" ]
+  }, {
+    "canonical_form" : "perfection",
+    "other_forms" : [ "perfections" ]
+  }, {
+    "canonical_form" : "fortune",
+    "other_forms" : [ "fortunes" ]
+  }, {
+    "canonical_form" : "chose",
+    "other_forms" : [ "choses" ]
+  }, {
+    "canonical_form" : "avoir",
+    "other_forms" : [ "avoirs" ]
+  }, {
+    "canonical_form" : "prospérité",
+    "other_forms" : [ "prospérités" ]
+  }, {
+    "canonical_form" : "succès",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "intérêt",
+    "other_forms" : [ "intérêts" ]
+  }, {
+    "canonical_form" : "justice",
+    "other_forms" : [ "justices" ]
+  }, {
+    "canonical_form" : "honneur",
+    "other_forms" : [ "honneurs" ]
+  }, {
+    "canonical_form" : "tout",
+    "other_forms" : [ "touts" ]
+  }, {
+    "canonical_form" : "apanage",
+    "other_forms" : [ "apanages" ]
+  }, {
+    "canonical_form" : "bien-être",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "bénédiction",
+    "other_forms" : [ "bénédictions" ]
+  }, {
+    "canonical_form" : "fond",
+    "other_forms" : [ "fonds" ]
+  }, {
+    "canonical_form" : "rente",
+    "other_forms" : [ "rentes" ]
+  }, {
+    "canonical_form" : "soulagement",
+    "other_forms" : [ "soulagements" ]
+  }, {
+    "canonical_form" : "terre",
+    "other_forms" : [ "terres" ]
+  }, {
+    "canonical_form" : "chance",
+    "other_forms" : [ "chances" ]
+  }, {
+    "canonical_form" : "argent",
+    "other_forms" : [ "argents" ]
+  }, {
+    "canonical_form" : "acquêt",
+    "other_forms" : [ "acquêts" ]
+  }, {
+    "canonical_form" : "fruit",
+    "other_forms" : [ "fruits" ]
+  }, {
+    "canonical_form" : "environ",
+    "other_forms" : [ "environs" ]
+  }, {
+    "canonical_form" : "devoir",
+    "other_forms" : [ "devoirs" ]
+  }, {
+    "canonical_form" : "héritage",
+    "other_forms" : [ "héritages" ]
+  }, {
+    "canonical_form" : "récolte",
+    "other_forms" : [ "récoltes" ]
+  }, {
+    "canonical_form" : "succession",
+    "other_forms" : [ "successions" ]
+  }, {
+    "canonical_form" : "satisfaction",
+    "other_forms" : [ "satisfactions" ]
+  }, {
+    "canonical_form" : "bravo",
+    "other_forms" : [ "bravos" ]
+  }, {
+    "canonical_form" : "achèvement",
+    "other_forms" : [ "achèvements" ]
+  }, {
+    "canonical_form" : "cheptel",
+    "other_forms" : [ "cheptels" ]
+  }, {
+    "canonical_form" : "dotation",
+    "other_forms" : [ "dotations" ]
+  }, {
+    "canonical_form" : "conquête",
+    "other_forms" : [ "conquêtes" ]
+  }, {
+    "canonical_form" : "conquêt",
+    "other_forms" : [ "conquêts" ]
+  } ]
+}

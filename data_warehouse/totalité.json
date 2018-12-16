@@ -1,0 +1,43 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "totalité",
+    "other_forms" : [ "totalités" ]
+  }, {
+    "canonical_form" : "intégralité",
+    "other_forms" : [ "intégralités" ]
+  }, {
+    "canonical_form" : "tout",
+    "other_forms" : [ "touts" ]
+  }, {
+    "canonical_form" : "masse",
+    "other_forms" : [ "masses" ]
+  }, {
+    "canonical_form" : "bloc",
+    "other_forms" : [ "blocs" ]
+  }, {
+    "canonical_form" : "unanimité",
+    "other_forms" : [ "unanimités" ]
+  }, {
+    "canonical_form" : "réunion",
+    "other_forms" : [ "réunions" ]
+  }, {
+    "canonical_form" : "plénitude",
+    "other_forms" : [ "plénitudes" ]
+  }, {
+    "canonical_form" : "intégrité",
+    "other_forms" : [ "intégrités" ]
+  }, {
+    "canonical_form" : "généralité",
+    "other_forms" : [ "généralités" ]
+  }, {
+    "canonical_form" : "globalité",
+    "other_forms" : [ "globalités" ]
+  }, {
+    "canonical_form" : "exhaustivité",
+    "other_forms" : [ "exhaustivités" ]
+  }, {
+    "canonical_form" : "universalité",
+    "other_forms" : [ "universalités" ]
+  } ]
+}

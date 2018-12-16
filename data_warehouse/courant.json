@@ -1,0 +1,79 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "courant",
+    "other_forms" : [ "courante", "courantes", "courants" ]
+  }, {
+    "canonical_form" : "ordinaire",
+    "other_forms" : [ "ordinaires" ]
+  }, {
+    "canonical_form" : "commun",
+    "other_forms" : [ "commune", "communes", "communs" ]
+  }, {
+    "canonical_form" : "habituel",
+    "other_forms" : [ "habituelle", "habituelles", "habituels" ]
+  }, {
+    "canonical_form" : "banal",
+    "other_forms" : [ "banale", "banales", "banals", "banaux" ]
+  }, {
+    "canonical_form" : "vulgaire",
+    "other_forms" : [ "vulgaires" ]
+  }, {
+    "canonical_form" : "simple",
+    "other_forms" : [ "simples" ]
+  }, {
+    "canonical_form" : "quotidien",
+    "other_forms" : [ "quotidienne", "quotidiennes", "quotidiens" ]
+  }, {
+    "canonical_form" : "quelconque",
+    "other_forms" : [ "quelconques" ]
+  }, {
+    "canonical_form" : "moyen",
+    "other_forms" : [ "moyenne", "moyennes", "moyens" ]
+  }, {
+    "canonical_form" : "familier",
+    "other_forms" : [ "familiers", "familière", "familières" ]
+  }, {
+    "canonical_form" : "usuel",
+    "other_forms" : [ "usuelle", "usuelles", "usuels" ]
+  }, {
+    "canonical_form" : "usité",
+    "other_forms" : [ "usitée", "usitées", "usités" ]
+  }, {
+    "canonical_form" : "trivial",
+    "other_forms" : [ "triviale", "triviales", "triviaux" ]
+  }, {
+    "canonical_form" : "normal",
+    "other_forms" : [ "normale", "normales", "normaux" ]
+  }, {
+    "canonical_form" : "fréquent",
+    "other_forms" : [ "fréquente", "fréquentes", "fréquents" ]
+  }, {
+    "canonical_form" : "facile",
+    "other_forms" : [ "faciles" ]
+  }, {
+    "canonical_form" : "classique",
+    "other_forms" : [ "classiques" ]
+  }, {
+    "canonical_form" : "présent",
+    "other_forms" : [ "présente", "présentes", "présents" ]
+  }, {
+    "canonical_form" : "standard",
+    "other_forms" : [ "standards" ]
+  }, {
+    "canonical_form" : "vernaculaire",
+    "other_forms" : [ "vernaculaires" ]
+  }, {
+    "canonical_form" : "général",
+    "other_forms" : [ "générale", "générales", "généraux" ]
+  }, {
+    "canonical_form" : "fluide",
+    "other_forms" : [ "fluides" ]
+  }, {
+    "canonical_form" : "abondant",
+    "other_forms" : [ "abondante", "abondantes", "abondants" ]
+  }, {
+    "canonical_form" : "actuel",
+    "other_forms" : [ "actuelle", "actuelles", "actuels" ]
+  } ]
+}

@@ -1,0 +1,43 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "existence",
+    "other_forms" : [ "existences" ]
+  }, {
+    "canonical_form" : "vie",
+    "other_forms" : [ "vies" ]
+  }, {
+    "canonical_form" : "état",
+    "other_forms" : [ "états" ]
+  }, {
+    "canonical_form" : "destin",
+    "other_forms" : [ "destins" ]
+  }, {
+    "canonical_form" : "nature",
+    "other_forms" : [ "natures" ]
+  }, {
+    "canonical_form" : "réalité",
+    "other_forms" : [ "réalités" ]
+  }, {
+    "canonical_form" : "être",
+    "other_forms" : [ "êtres" ]
+  }, {
+    "canonical_form" : "présence",
+    "other_forms" : [ "présences" ]
+  }, {
+    "canonical_form" : "jour",
+    "other_forms" : [ "jours" ]
+  }, {
+    "canonical_form" : "jour",
+    "other_forms" : [ "jours" ]
+  }, {
+    "canonical_form" : "histoire",
+    "other_forms" : [ "histoires" ]
+  }, {
+    "canonical_form" : "cénesthésie",
+    "other_forms" : [ "cénesthésies" ]
+  }, {
+    "canonical_form" : "âge",
+    "other_forms" : [ "âges" ]
+  } ]
+}

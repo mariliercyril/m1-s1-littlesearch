@@ -1,0 +1,44 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "impliquer"
+  }, {
+    "canonical_form" : "entraîner"
+  }, {
+    "canonical_form" : "comprendre"
+  }, {
+    "canonical_form" : "résulter"
+  }, {
+    "canonical_form" : "renfermer"
+  }, {
+    "canonical_form" : "inclure"
+  }, {
+    "canonical_form" : "envelopper"
+  }, {
+    "canonical_form" : "emporter"
+  }, {
+    "canonical_form" : "comporter"
+  }, {
+    "canonical_form" : "supposer"
+  }, {
+    "canonical_form" : "signifier"
+  }, {
+    "canonical_form" : "nécessiter"
+  }, {
+    "canonical_form" : "mêler"
+  }, {
+    "canonical_form" : "engager"
+  }, {
+    "canonical_form" : "enfermer"
+  }, {
+    "canonical_form" : "découler"
+  }, {
+    "canonical_form" : "contenir"
+  }, {
+    "canonical_form" : "concerner"
+  }, {
+    "canonical_form" : "compromettre"
+  }, {
+    "canonical_form" : "accuser"
+  } ]
+}

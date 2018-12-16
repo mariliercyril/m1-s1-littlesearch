@@ -1,0 +1,106 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "jour",
+    "other_forms" : [ "jours" ]
+  }, {
+    "canonical_form" : "aspect",
+    "other_forms" : [ "aspects" ]
+  }, {
+    "canonical_form" : "lumière",
+    "other_forms" : [ "lumières" ]
+  }, {
+    "canonical_form" : "ouverture",
+    "other_forms" : [ "ouvertures" ]
+  }, {
+    "canonical_form" : "perspective",
+    "other_forms" : [ "perspectives" ]
+  }, {
+    "canonical_form" : "point de vue",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "tournure",
+    "other_forms" : [ "tournures" ]
+  }, {
+    "canonical_form" : "vie",
+    "other_forms" : [ "vies" ]
+  }, {
+    "canonical_form" : "angle",
+    "other_forms" : [ "angles" ]
+  }, {
+    "canonical_form" : "clarté",
+    "other_forms" : [ "clartés" ]
+  }, {
+    "canonical_form" : "époque",
+    "other_forms" : [ "époques" ]
+  }, {
+    "canonical_form" : "éclairage",
+    "other_forms" : [ "éclairages" ]
+  }, {
+    "canonical_form" : "temps",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "semblance",
+    "other_forms" : [ "semblances" ]
+  }, {
+    "canonical_form" : "moment",
+    "other_forms" : [ "moments" ]
+  }, {
+    "canonical_form" : "journée",
+    "other_forms" : [ "journées" ]
+  }, {
+    "canonical_form" : "fenêtre",
+    "other_forms" : [ "fenêtres" ]
+  }, {
+    "canonical_form" : "date",
+    "other_forms" : [ "dates" ]
+  }, {
+    "canonical_form" : "apparence",
+    "other_forms" : [ "apparences" ]
+  }, {
+    "canonical_form" : "naissance",
+    "other_forms" : [ "naissances" ]
+  }, {
+    "canonical_form" : "page",
+    "other_forms" : [ "pages" ]
+  }, {
+    "canonical_form" : "quantième",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "rendez-vous",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "rétribution",
+    "other_forms" : [ "rétributions" ]
+  }, {
+    "canonical_form" : "soleil",
+    "other_forms" : [ "soleils" ]
+  }, {
+    "canonical_form" : "luminosité",
+    "other_forms" : [ "luminosités" ]
+  }, {
+    "canonical_form" : "lueur",
+    "other_forms" : [ "lueurs" ]
+  }, {
+    "canonical_form" : "judas",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "férie",
+    "other_forms" : [ "féries" ]
+  }, {
+    "canonical_form" : "fissure",
+    "other_forms" : [ "fissures" ]
+  }, {
+    "canonical_form" : "fente",
+    "other_forms" : [ "fentes" ]
+  }, {
+    "canonical_form" : "existence",
+    "other_forms" : [ "existences" ]
+  }, {
+    "canonical_form" : "ajour",
+    "other_forms" : [ "ajours" ]
+  }, {
+    "canonical_form" : "traitement",
+    "other_forms" : [ "traitements" ]
+  } ]
+}

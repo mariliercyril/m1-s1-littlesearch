@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "paradigme",
+    "other_forms" : [ "paradigmes" ]
+  }, {
+    "canonical_form" : "conjugaison",
+    "other_forms" : [ "conjugaisons" ]
+  }, {
+    "canonical_form" : "exemple",
+    "other_forms" : [ "exemples" ]
+  } ]
+}

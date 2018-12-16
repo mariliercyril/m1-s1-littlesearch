@@ -1,0 +1,247 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "réserve",
+    "other_forms" : [ "réserves" ]
+  }, {
+    "canonical_form" : "décence",
+    "other_forms" : [ "décences" ]
+  }, {
+    "canonical_form" : "circonspection",
+    "other_forms" : [ "circonspections" ]
+  }, {
+    "canonical_form" : "pudeur",
+    "other_forms" : [ "pudeurs" ]
+  }, {
+    "canonical_form" : "discrétion",
+    "other_forms" : [ "discrétions" ]
+  }, {
+    "canonical_form" : "délicatesse",
+    "other_forms" : [ "délicatesses" ]
+  }, {
+    "canonical_form" : "mesure",
+    "other_forms" : [ "mesures" ]
+  }, {
+    "canonical_form" : "provision",
+    "other_forms" : [ "provisions" ]
+  }, {
+    "canonical_form" : "sagesse",
+    "other_forms" : [ "sagesses" ]
+  }, {
+    "canonical_form" : "prudence",
+    "other_forms" : [ "prudences" ]
+  }, {
+    "canonical_form" : "honnêteté",
+    "other_forms" : [ "honnêtetés" ]
+  }, {
+    "canonical_form" : "bienséance",
+    "other_forms" : [ "bienséances" ]
+  }, {
+    "canonical_form" : "honte",
+    "other_forms" : [ "hontes" ]
+  }, {
+    "canonical_form" : "modération",
+    "other_forms" : [ "modérations" ]
+  }, {
+    "canonical_form" : "précaution",
+    "other_forms" : [ "précautions" ]
+  }, {
+    "canonical_form" : "tact",
+    "other_forms" : [ "tacts" ]
+  }, {
+    "canonical_form" : "économie",
+    "other_forms" : [ "économies" ]
+  }, {
+    "canonical_form" : "ménagement",
+    "other_forms" : [ "ménagements" ]
+  }, {
+    "canonical_form" : "vertu",
+    "other_forms" : [ "vertus" ]
+  }, {
+    "canonical_form" : "sobriété",
+    "other_forms" : [ "sobriétés" ]
+  }, {
+    "canonical_form" : "respect",
+    "other_forms" : [ "respects" ]
+  }, {
+    "canonical_form" : "politesse",
+    "other_forms" : [ "politesses" ]
+  }, {
+    "canonical_form" : "modestie",
+    "other_forms" : [ "modesties" ]
+  }, {
+    "canonical_form" : "magasin",
+    "other_forms" : [ "magasins" ]
+  }, {
+    "canonical_form" : "soin",
+    "other_forms" : [ "soins" ]
+  }, {
+    "canonical_form" : "dépôt",
+    "other_forms" : [ "dépôts" ]
+  }, {
+    "canonical_form" : "convenance",
+    "other_forms" : [ "convenances" ]
+  }, {
+    "canonical_form" : "épargne",
+    "other_forms" : [ "épargnes" ]
+  }, {
+    "canonical_form" : "timidité",
+    "other_forms" : [ "timidités" ]
+  }, {
+    "canonical_form" : "tempérance",
+    "other_forms" : [ "tempérances" ]
+  }, {
+    "canonical_form" : "réticence",
+    "other_forms" : [ "réticences" ]
+  }, {
+    "canonical_form" : "restriction",
+    "other_forms" : [ "restrictions" ]
+  }, {
+    "canonical_form" : "humilité",
+    "other_forms" : [ "humilités" ]
+  }, {
+    "canonical_form" : "dignité",
+    "other_forms" : [ "dignités" ]
+  }, {
+    "canonical_form" : "componction",
+    "other_forms" : [ "componctions" ]
+  }, {
+    "canonical_form" : "chasteté",
+    "other_forms" : [ "chastetés" ]
+  }, {
+    "canonical_form" : "approvisionnement",
+    "other_forms" : [ "approvisionnements" ]
+  }, {
+    "canonical_form" : "silo",
+    "other_forms" : [ "silos" ]
+  }, {
+    "canonical_form" : "stock",
+    "other_forms" : [ "stocks" ]
+  }, {
+    "canonical_form" : "trésor",
+    "other_forms" : [ "trésors" ]
+  }, {
+    "canonical_form" : "réservoir",
+    "other_forms" : [ "réservoirs" ]
+  }, {
+    "canonical_form" : "resserre",
+    "other_forms" : [ "resserres" ]
+  }, {
+    "canonical_form" : "puissance",
+    "other_forms" : [ "puissances" ]
+  }, {
+    "canonical_form" : "pudicité",
+    "other_forms" : [ "pudicités" ]
+  }, {
+    "canonical_form" : "pruderie",
+    "other_forms" : [ "pruderies" ]
+  }, {
+    "canonical_form" : "flegme",
+    "other_forms" : [ "flegmes" ]
+  }, {
+    "canonical_form" : "arrière-pensée",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "amas",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "ressource",
+    "other_forms" : [ "ressources" ]
+  }, {
+    "canonical_form" : "ravitaillement",
+    "other_forms" : [ "ravitaillements" ]
+  }, {
+    "canonical_form" : "quant-à-soi",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "pudibonderie",
+    "other_forms" : [ "pudibonderies" ]
+  }, {
+    "canonical_form" : "parc",
+    "other_forms" : [ "parcs" ]
+  }, {
+    "canonical_form" : "non-activité",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "révérence",
+    "other_forms" : [ "révérences" ]
+  }, {
+    "canonical_form" : "sanctuaire",
+    "other_forms" : [ "sanctuaires" ]
+  }, {
+    "canonical_form" : "succession",
+    "other_forms" : [ "successions" ]
+  }, {
+    "canonical_form" : "territoire",
+    "other_forms" : [ "territoires" ]
+  }, {
+    "canonical_form" : "viatique",
+    "other_forms" : [ "viatiques" ]
+  }, {
+    "canonical_form" : "victuaille",
+    "other_forms" : [ "victuailles" ]
+  }, {
+    "canonical_form" : "vivre",
+    "other_forms" : [ "vivres" ]
+  }, {
+    "canonical_form" : "établissement",
+    "other_forms" : [ "établissements" ]
+  }, {
+    "canonical_form" : "maîtrise",
+    "other_forms" : [ "maîtrises" ]
+  }, {
+    "canonical_form" : "matelas",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "manutention",
+    "other_forms" : [ "manutentions" ]
+  }, {
+    "canonical_form" : "avance",
+    "other_forms" : [ "avances" ]
+  }, {
+    "canonical_form" : "boutique",
+    "other_forms" : [ "boutiques" ]
+  }, {
+    "canonical_form" : "cargaison",
+    "other_forms" : [ "cargaisons" ]
+  }, {
+    "canonical_form" : "cassette",
+    "other_forms" : [ "cassettes" ]
+  }, {
+    "canonical_form" : "congruité",
+    "other_forms" : [ "congruités" ]
+  }, {
+    "canonical_form" : "correction",
+    "other_forms" : [ "corrections" ]
+  }, {
+    "canonical_form" : "disponibilité",
+    "other_forms" : [ "disponibilités" ]
+  }, {
+    "canonical_form" : "défiance",
+    "other_forms" : [ "défiances" ]
+  }, {
+    "canonical_form" : "dépense",
+    "other_forms" : [ "dépenses" ]
+  }, {
+    "canonical_form" : "en-cas",
+    "other_forms" : [ "encas" ]
+  }, {
+    "canonical_form" : "entrepôt",
+    "other_forms" : [ "entrepôts" ]
+  }, {
+    "canonical_form" : "exception",
+    "other_forms" : [ "exceptions" ]
+  }, {
+    "canonical_form" : "fierté",
+    "other_forms" : [ "fiertés" ]
+  }, {
+    "canonical_form" : "fourniture",
+    "other_forms" : [ "fournitures" ]
+  }, {
+    "canonical_form" : "froideur",
+    "other_forms" : [ "froideurs" ]
+  }, {
+    "canonical_form" : "accumulation",
+    "other_forms" : [ "accumulations" ]
+  } ]
+}

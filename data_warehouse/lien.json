@@ -1,0 +1,166 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "lien",
+    "other_forms" : [ "liens" ]
+  }, {
+    "canonical_form" : "attache",
+    "other_forms" : [ "attaches" ]
+  }, {
+    "canonical_form" : "chaîne",
+    "other_forms" : [ "chaînes" ]
+  }, {
+    "canonical_form" : "liaison",
+    "other_forms" : [ "liaisons" ]
+  }, {
+    "canonical_form" : "rapport",
+    "other_forms" : [ "rapports" ]
+  }, {
+    "canonical_form" : "attachement",
+    "other_forms" : [ "attachements" ]
+  }, {
+    "canonical_form" : "corde",
+    "other_forms" : [ "cordes" ]
+  }, {
+    "canonical_form" : "fil",
+    "other_forms" : [ "fils" ]
+  }, {
+    "canonical_form" : "relation",
+    "other_forms" : [ "relations" ]
+  }, {
+    "canonical_form" : "assujettissement",
+    "other_forms" : [ "assujettissements" ]
+  }, {
+    "canonical_form" : "ligature",
+    "other_forms" : [ "ligatures" ]
+  }, {
+    "canonical_form" : "servitude",
+    "other_forms" : [ "servitudes" ]
+  }, {
+    "canonical_form" : "union",
+    "other_forms" : [ "unions" ]
+  }, {
+    "canonical_form" : "similitude",
+    "other_forms" : [ "similitudes" ]
+  }, {
+    "canonical_form" : "joug",
+    "other_forms" : [ "jougs" ]
+  }, {
+    "canonical_form" : "enchaînement",
+    "other_forms" : [ "enchaînements" ]
+  }, {
+    "canonical_form" : "corrélation",
+    "other_forms" : [ "corrélations" ]
+  }, {
+    "canonical_form" : "cordon",
+    "other_forms" : [ "cordons" ]
+  }, {
+    "canonical_form" : "affinité",
+    "other_forms" : [ "affinités" ]
+  }, {
+    "canonical_form" : "ressemblance",
+    "other_forms" : [ "ressemblances" ]
+  }, {
+    "canonical_form" : "licou",
+    "other_forms" : [ "licous" ]
+  }, {
+    "canonical_form" : "licol",
+    "other_forms" : [ "licols", "licou", "licous" ]
+  }, {
+    "canonical_form" : "entrave",
+    "other_forms" : [ "entraves" ]
+  }, {
+    "canonical_form" : "courroie",
+    "other_forms" : [ "courroies" ]
+  }, {
+    "canonical_form" : "cage",
+    "other_forms" : [ "cages" ]
+  }, {
+    "canonical_form" : "bande",
+    "other_forms" : [ "bandes" ]
+  }, {
+    "canonical_form" : "analogie",
+    "other_forms" : [ "analogies" ]
+  }, {
+    "canonical_form" : "amarrage",
+    "other_forms" : [ "amarrages" ]
+  }, {
+    "canonical_form" : "affection",
+    "other_forms" : [ "affections" ]
+  }, {
+    "canonical_form" : "suite",
+    "other_forms" : [ "suites" ]
+  }, {
+    "canonical_form" : "sangle",
+    "other_forms" : [ "sangles" ]
+  }, {
+    "canonical_form" : "obligation",
+    "other_forms" : [ "obligations" ]
+  }, {
+    "canonical_form" : "noeud",
+    "other_forms" : [ "noeuds" ]
+  }, {
+    "canonical_form" : "fréquentation",
+    "other_forms" : [ "fréquentations" ]
+  }, {
+    "canonical_form" : "filiation",
+    "other_forms" : [ "filiations" ]
+  }, {
+    "canonical_form" : "fraternité",
+    "other_forms" : [ "fraternités" ]
+  }, {
+    "canonical_form" : "garrot",
+    "other_forms" : [ "garrots" ]
+  }, {
+    "canonical_form" : "hart",
+    "other_forms" : [ "harts" ]
+  }, {
+    "canonical_form" : "lacet",
+    "other_forms" : [ "lacets" ]
+  }, {
+    "canonical_form" : "laisse",
+    "other_forms" : [ "laisses" ]
+  }, {
+    "canonical_form" : "prison",
+    "other_forms" : [ "prisons" ]
+  }, {
+    "canonical_form" : "racine",
+    "other_forms" : [ "racines" ]
+  }, {
+    "canonical_form" : "rouette",
+    "other_forms" : [ "rouettes" ]
+  }, {
+    "canonical_form" : "cousinage",
+    "other_forms" : [ "cousinages" ]
+  }, {
+    "canonical_form" : "accointance",
+    "other_forms" : [ "accointances" ]
+  }, {
+    "canonical_form" : "accolure",
+    "other_forms" : [ "accolures" ]
+  }, {
+    "canonical_form" : "boulet",
+    "other_forms" : [ "boulets" ]
+  }, {
+    "canonical_form" : "bride",
+    "other_forms" : [ "brides" ]
+  }, {
+    "canonical_form" : "bridure",
+    "other_forms" : [ "bridures" ]
+  }, {
+    "canonical_form" : "bulletin",
+    "other_forms" : [ "bulletins" ]
+  }, {
+    "canonical_form" : "carcan",
+    "other_forms" : [ "carcans" ]
+  }, {
+    "canonical_form" : "cep",
+    "other_forms" : [ "ceps" ]
+  }, {
+    "canonical_form" : "ciment",
+    "other_forms" : [ "ciments" ]
+  }, {
+    "canonical_form" : "trait d'union",
+    "other_forms" : [ ]
+  } ]
+}

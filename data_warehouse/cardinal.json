@@ -1,0 +1,25 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "cardinal",
+    "other_forms" : [ "cardinale", "cardinales", "cardinaux" ]
+  }, {
+    "canonical_form" : "principal",
+    "other_forms" : [ "principale", "principales", "principaux" ]
+  }, {
+    "canonical_form" : "primordial",
+    "other_forms" : [ "primordiale", "primordiales", "primordiaux" ]
+  }, {
+    "canonical_form" : "fondamental",
+    "other_forms" : [ "fondamentale", "fondamentales", "fondamentaux" ]
+  }, {
+    "canonical_form" : "essentiel",
+    "other_forms" : [ "essentielle", "essentielles", "essentiels" ]
+  }, {
+    "canonical_form" : "capital",
+    "other_forms" : [ "capitale", "capitales", "capitaux" ]
+  }, {
+    "canonical_form" : "éminentissime",
+    "other_forms" : [ "éminentissimes" ]
+  } ]
+}

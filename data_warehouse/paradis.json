@@ -1,0 +1,49 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "paradis",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "ciel",
+    "other_forms" : [ "ciels", "cieux" ]
+  }, {
+    "canonical_form" : "éden",
+    "other_forms" : [ "édens" ]
+  }, {
+    "canonical_form" : "eldorado",
+    "other_forms" : [ "eldorados" ]
+  }, {
+    "canonical_form" : "poulailler",
+    "other_forms" : [ "poulaillers" ]
+  }, {
+    "canonical_form" : "élysée",
+    "other_forms" : [ "élysées" ]
+  }, {
+    "canonical_form" : "balcon",
+    "other_forms" : [ "balcons" ]
+  }, {
+    "canonical_form" : "nirvana",
+    "other_forms" : [ "nirvanas", "nirvâna", "nirvânas" ]
+  }, {
+    "canonical_form" : "oasis",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "olympe",
+    "other_forms" : [ "olympes" ]
+  }, {
+    "canonical_form" : "jardin",
+    "other_forms" : [ "jardins" ]
+  }, {
+    "canonical_form" : "galerie",
+    "other_forms" : [ "galeries" ]
+  }, {
+    "canonical_form" : "cocagne",
+    "other_forms" : [ "cocagnes" ]
+  }, {
+    "canonical_form" : "amphithéâtre",
+    "other_forms" : [ "amphithéâtres" ]
+  }, {
+    "canonical_form" : "walhalla",
+    "other_forms" : [ ]
+  } ]
+}

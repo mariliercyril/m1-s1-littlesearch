@@ -1,0 +1,22 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "infinité",
+    "other_forms" : [ "infinités" ]
+  }, {
+    "canonical_form" : "immensité",
+    "other_forms" : [ "immensités" ]
+  }, {
+    "canonical_form" : "quantité",
+    "other_forms" : [ "quantités" ]
+  }, {
+    "canonical_form" : "infinitude",
+    "other_forms" : [ "infinitudes" ]
+  }, {
+    "canonical_form" : "multitude",
+    "other_forms" : [ "multitudes" ]
+  }, {
+    "canonical_form" : "myriade",
+    "other_forms" : [ "myriades" ]
+  } ]
+}

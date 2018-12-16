@@ -1,0 +1,49 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "interprétation",
+    "other_forms" : [ "interprétations" ]
+  }, {
+    "canonical_form" : "explication",
+    "other_forms" : [ "explications" ]
+  }, {
+    "canonical_form" : "traduction",
+    "other_forms" : [ "traductions" ]
+  }, {
+    "canonical_form" : "version",
+    "other_forms" : [ "versions" ]
+  }, {
+    "canonical_form" : "paraphrase",
+    "other_forms" : [ "paraphrases" ]
+  }, {
+    "canonical_form" : "exégèse",
+    "other_forms" : [ "exégèses" ]
+  }, {
+    "canonical_form" : "commentaire",
+    "other_forms" : [ "commentaires" ]
+  }, {
+    "canonical_form" : "métaphrase",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "jeu",
+    "other_forms" : [ "jeux" ]
+  }, {
+    "canonical_form" : "interprétariat",
+    "other_forms" : [ "interprétariats" ]
+  }, {
+    "canonical_form" : "glose",
+    "other_forms" : [ "gloses" ]
+  }, {
+    "canonical_form" : "exécution",
+    "other_forms" : [ "exécutions" ]
+  }, {
+    "canonical_form" : "cabale",
+    "other_forms" : [ "cabales" ]
+  }, {
+    "canonical_form" : "adaptation",
+    "other_forms" : [ "adaptations" ]
+  }, {
+    "canonical_form" : "sens",
+    "other_forms" : [ "sen" ]
+  } ]
+}

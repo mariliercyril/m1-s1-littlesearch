@@ -1,0 +1,43 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "maniement",
+    "other_forms" : [ "maniements" ]
+  }, {
+    "canonical_form" : "manoeuvre",
+    "other_forms" : [ "manoeuvres" ]
+  }, {
+    "canonical_form" : "usage",
+    "other_forms" : [ "usages" ]
+  }, {
+    "canonical_form" : "manipulation",
+    "other_forms" : [ "manipulations" ]
+  }, {
+    "canonical_form" : "maniage",
+    "other_forms" : [ "maniages" ]
+  }, {
+    "canonical_form" : "hampe",
+    "other_forms" : [ "hampes" ]
+  }, {
+    "canonical_form" : "gouvernement",
+    "other_forms" : [ "gouvernements" ]
+  }, {
+    "canonical_form" : "gestion",
+    "other_forms" : [ "gestions" ]
+  }, {
+    "canonical_form" : "fonctionnement",
+    "other_forms" : [ "fonctionnements" ]
+  }, {
+    "canonical_form" : "emploi",
+    "other_forms" : [ "emplois" ]
+  }, {
+    "canonical_form" : "direction",
+    "other_forms" : [ "directions" ]
+  }, {
+    "canonical_form" : "administration",
+    "other_forms" : [ "administrations" ]
+  }, {
+    "canonical_form" : "utilisation",
+    "other_forms" : [ "utilisations" ]
+  } ]
+}

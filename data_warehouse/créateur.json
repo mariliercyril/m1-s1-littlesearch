@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "créateur",
+    "other_forms" : [ "créateurs", "créatrice", "créatrices" ]
+  }, {
+    "canonical_form" : "dieu",
+    "other_forms" : [ "dieux" ]
+  }, {
+    "canonical_form" : "providence",
+    "other_forms" : [ "providences" ]
+  } ]
+}

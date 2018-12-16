@@ -1,0 +1,28 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "conscient",
+    "other_forms" : [ "consciente", "conscientes", "conscients" ]
+  }, {
+    "canonical_form" : "clair",
+    "other_forms" : [ "claire", "claires", "clairs" ]
+  }, {
+    "canonical_form" : "clairvoyant",
+    "other_forms" : [ "clairvoyante", "clairvoyantes", "clairvoyants" ]
+  }, {
+    "canonical_form" : "intentionnel",
+    "other_forms" : [ "intentionnelle", "intentionnelles", "intentionnels" ]
+  }, {
+    "canonical_form" : "lucide",
+    "other_forms" : [ "lucides" ]
+  }, {
+    "canonical_form" : "perspicace",
+    "other_forms" : [ "perspicaces" ]
+  }, {
+    "canonical_form" : "réfléchi",
+    "other_forms" : [ "réfléchie", "réfléchies", "réfléchis" ]
+  }, {
+    "canonical_form" : "évident",
+    "other_forms" : [ "évidente", "évidentes", "évidents" ]
+  } ]
+}

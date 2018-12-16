@@ -1,0 +1,97 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "trouble",
+    "other_forms" : [ "troubles" ]
+  }, {
+    "canonical_form" : "malais",
+    "other_forms" : [ "malaise", "malaises" ]
+  }, {
+    "canonical_form" : "obscur",
+    "other_forms" : [ "obscure", "obscures", "obscurs" ]
+  }, {
+    "canonical_form" : "nébuleux",
+    "other_forms" : [ "nébuleuse", "nébuleuses" ]
+  }, {
+    "canonical_form" : "vague",
+    "other_forms" : [ "vagues" ]
+  }, {
+    "canonical_form" : "ténébreux",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "sibyllin",
+    "other_forms" : [ "sibylline", "sibyllines", "sibyllins" ]
+  }, {
+    "canonical_form" : "confus",
+    "other_forms" : [ "confuse", "confuses" ]
+  }, {
+    "canonical_form" : "timide",
+    "other_forms" : [ "timides" ]
+  }, {
+    "canonical_form" : "flou",
+    "other_forms" : [ "floue", "floues", "flous" ]
+  }, {
+    "canonical_form" : "douteux",
+    "other_forms" : [ "douteur", "douteurs", "douteuse", "douteuses" ]
+  }, {
+    "canonical_form" : "indécis",
+    "other_forms" : [ "indécise", "indécises" ]
+  }, {
+    "canonical_form" : "louche",
+    "other_forms" : [ "louches" ]
+  }, {
+    "canonical_form" : "indistinct",
+    "other_forms" : [ "indistincte", "indistinctes", "indistincts" ]
+  }, {
+    "canonical_form" : "fumeux",
+    "other_forms" : [ "fumeuse", "fumeuses" ]
+  }, {
+    "canonical_form" : "nuageux",
+    "other_forms" : [ "nuageuse", "nuageuses" ]
+  }, {
+    "canonical_form" : "inextricable",
+    "other_forms" : [ "inextricables" ]
+  }, {
+    "canonical_form" : "vaseux",
+    "other_forms" : [ "vaseuse", "vaseuses" ]
+  }, {
+    "canonical_form" : "boueux",
+    "other_forms" : [ "boueuse", "boueuses" ]
+  }, {
+    "canonical_form" : "bourbeux",
+    "other_forms" : [ "bourbeuse", "bourbeuses" ]
+  }, {
+    "canonical_form" : "fangeux",
+    "other_forms" : [ "fangeuse", "fangeuses" ]
+  }, {
+    "canonical_form" : "brumeux",
+    "other_forms" : [ "brumeuse", "brumeuses" ]
+  }, {
+    "canonical_form" : "indéfini",
+    "other_forms" : [ "indéfinie", "indéfinies", "indéfinis" ]
+  }, {
+    "canonical_form" : "inquiétant",
+    "other_forms" : [ "inquiétante", "inquiétantes", "inquiétants" ]
+  }, {
+    "canonical_form" : "limoneux",
+    "other_forms" : [ "limoneuse", "limoneuses" ]
+  }, {
+    "canonical_form" : "opaque",
+    "other_forms" : [ "opaques" ]
+  }, {
+    "canonical_form" : "suspect",
+    "other_forms" : [ "suspecte", "suspectes", "suspects" ]
+  }, {
+    "canonical_form" : "indébrouillable",
+    "other_forms" : [ "indébrouillables" ]
+  }, {
+    "canonical_form" : "impur",
+    "other_forms" : [ "impure", "impures", "impurs" ]
+  }, {
+    "canonical_form" : "complexe",
+    "other_forms" : [ "complexes" ]
+  }, {
+    "canonical_form" : "terne",
+    "other_forms" : [ "ternes" ]
+  } ]
+}

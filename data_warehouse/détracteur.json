@@ -1,0 +1,19 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "détracteur",
+    "other_forms" : [ "détracteurs" ]
+  }, {
+    "canonical_form" : "calomniateur",
+    "other_forms" : [ "calomniateurs", "calomniatrice", "calomniatrices" ]
+  }, {
+    "canonical_form" : "ennemi",
+    "other_forms" : [ "ennemie", "ennemies", "ennemis" ]
+  }, {
+    "canonical_form" : "censeur",
+    "other_forms" : [ "censeurs" ]
+  }, {
+    "canonical_form" : "zoïle",
+    "other_forms" : [ "zoïles" ]
+  } ]
+}

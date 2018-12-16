@@ -1,0 +1,94 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "intervention",
+    "other_forms" : [ "interventions" ]
+  }, {
+    "canonical_form" : "aide",
+    "other_forms" : [ "aides" ]
+  }, {
+    "canonical_form" : "ministère",
+    "other_forms" : [ "ministères" ]
+  }, {
+    "canonical_form" : "médiation",
+    "other_forms" : [ "médiations" ]
+  }, {
+    "canonical_form" : "opération",
+    "other_forms" : [ "opérations" ]
+  }, {
+    "canonical_form" : "service",
+    "other_forms" : [ "services" ]
+  }, {
+    "canonical_form" : "soutien",
+    "other_forms" : [ "soutiens" ]
+  }, {
+    "canonical_form" : "office",
+    "other_forms" : [ "offices" ]
+  }, {
+    "canonical_form" : "interposition",
+    "other_forms" : [ "interpositions" ]
+  }, {
+    "canonical_form" : "entremise",
+    "other_forms" : [ "entremises" ]
+  }, {
+    "canonical_form" : "appui",
+    "other_forms" : [ "appuis" ]
+  }, {
+    "canonical_form" : "action",
+    "other_forms" : [ "actions" ]
+  }, {
+    "canonical_form" : "traitement",
+    "other_forms" : [ "traitements" ]
+  }, {
+    "canonical_form" : "piston",
+    "other_forms" : [ "pistons" ]
+  }, {
+    "canonical_form" : "intrusion",
+    "other_forms" : [ "intrusions" ]
+  }, {
+    "canonical_form" : "ingérence",
+    "other_forms" : [ "ingérences" ]
+  }, {
+    "canonical_form" : "agression",
+    "other_forms" : [ "agressions" ]
+  }, {
+    "canonical_form" : "interruption",
+    "other_forms" : [ "interruptions" ]
+  }, {
+    "canonical_form" : "interventionnisme",
+    "other_forms" : [ "interventionnismes" ]
+  }, {
+    "canonical_form" : "recommandation",
+    "other_forms" : [ "recommandations" ]
+  }, {
+    "canonical_form" : "rescousse",
+    "other_forms" : [ "rescousses" ]
+  }, {
+    "canonical_form" : "rôle",
+    "other_forms" : [ "rôles" ]
+  }, {
+    "canonical_form" : "interpellation",
+    "other_forms" : [ "interpellations" ]
+  }, {
+    "canonical_form" : "intercession",
+    "other_forms" : [ "intercessions" ]
+  }, {
+    "canonical_form" : "initiative",
+    "other_forms" : [ "initiatives" ]
+  }, {
+    "canonical_form" : "incursion",
+    "other_forms" : [ "incursions" ]
+  }, {
+    "canonical_form" : "immixtion",
+    "other_forms" : [ "immixtions" ]
+  }, {
+    "canonical_form" : "facteur",
+    "other_forms" : [ "facteurs" ]
+  }, {
+    "canonical_form" : "campagne",
+    "other_forms" : [ "campagnes" ]
+  }, {
+    "canonical_form" : "acte",
+    "other_forms" : [ "actes" ]
+  } ]
+}

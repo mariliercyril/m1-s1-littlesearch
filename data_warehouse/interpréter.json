@@ -1,0 +1,56 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "interpréter"
+  }, {
+    "canonical_form" : "déchiffrer"
+  }, {
+    "canonical_form" : "jouer"
+  }, {
+    "canonical_form" : "comprendre"
+  }, {
+    "canonical_form" : "expliquer"
+  }, {
+    "canonical_form" : "faire"
+  }, {
+    "canonical_form" : "saisir"
+  }, {
+    "canonical_form" : "traduire"
+  }, {
+    "canonical_form" : "représenter"
+  }, {
+    "canonical_form" : "pénétrer"
+  }, {
+    "canonical_form" : "prendre"
+  }, {
+    "canonical_form" : "deviner"
+  }, {
+    "canonical_form" : "tourner"
+  }, {
+    "canonical_form" : "lire"
+  }, {
+    "canonical_form" : "illustrer"
+  }, {
+    "canonical_form" : "gloser"
+  }, {
+    "canonical_form" : "exécuter"
+  }, {
+    "canonical_form" : "commenter"
+  }, {
+    "canonical_form" : "translater"
+  }, {
+    "canonical_form" : "torturer"
+  }, {
+    "canonical_form" : "tirer"
+  }, {
+    "canonical_form" : "styliser"
+  }, {
+    "canonical_form" : "incarner"
+  }, {
+    "canonical_form" : "entendre"
+  }, {
+    "canonical_form" : "créer"
+  }, {
+    "canonical_form" : "élucider"
+  } ]
+}

@@ -1,0 +1,10 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "russe",
+    "other_forms" : [ "russes" ]
+  }, {
+    "canonical_form" : "soviétique",
+    "other_forms" : [ "soviétiques" ]
+  } ]
+}

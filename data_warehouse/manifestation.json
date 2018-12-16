@@ -1,0 +1,124 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "manifestation",
+    "other_forms" : [ "manifestations" ]
+  }, {
+    "canonical_form" : "démonstration",
+    "other_forms" : [ "démonstrations" ]
+  }, {
+    "canonical_form" : "expression",
+    "other_forms" : [ "expressions" ]
+  }, {
+    "canonical_form" : "témoignage",
+    "other_forms" : [ "témoignages" ]
+  }, {
+    "canonical_form" : "signe",
+    "other_forms" : [ "signes" ]
+  }, {
+    "canonical_form" : "déclaration",
+    "other_forms" : [ "déclarations" ]
+  }, {
+    "canonical_form" : "apparition",
+    "other_forms" : [ "apparitions" ]
+  }, {
+    "canonical_form" : "émanation",
+    "other_forms" : [ "émanations" ]
+  }, {
+    "canonical_form" : "révolte",
+    "other_forms" : [ "révoltes" ]
+  }, {
+    "canonical_form" : "protestation",
+    "other_forms" : [ "protestations" ]
+  }, {
+    "canonical_form" : "marque",
+    "other_forms" : [ "marques" ]
+  }, {
+    "canonical_form" : "communication",
+    "other_forms" : [ "communications" ]
+  }, {
+    "canonical_form" : "agitation",
+    "other_forms" : [ "agitations" ]
+  }, {
+    "canonical_form" : "affirmation",
+    "other_forms" : [ "affirmations" ]
+  }, {
+    "canonical_form" : "proclamation",
+    "other_forms" : [ "proclamations" ]
+  }, {
+    "canonical_form" : "rassemblement",
+    "other_forms" : [ "rassemblements" ]
+  }, {
+    "canonical_form" : "réunion",
+    "other_forms" : [ "réunions" ]
+  }, {
+    "canonical_form" : "sédition",
+    "other_forms" : [ "séditions" ]
+  }, {
+    "canonical_form" : "transport",
+    "other_forms" : [ "transports" ]
+  }, {
+    "canonical_form" : "image",
+    "other_forms" : [ "images" ]
+  }, {
+    "canonical_form" : "festival",
+    "other_forms" : [ "festivals" ]
+  }, {
+    "canonical_form" : "explosion",
+    "other_forms" : [ "explosions" ]
+  }, {
+    "canonical_form" : "déploiement",
+    "other_forms" : [ "déploiements" ]
+  }, {
+    "canonical_form" : "affiche",
+    "other_forms" : [ "affiches" ]
+  }, {
+    "canonical_form" : "symptôme",
+    "other_forms" : [ "symptômes" ]
+  }, {
+    "canonical_form" : "tendresse",
+    "other_forms" : [ "tendresses" ]
+  }, {
+    "canonical_form" : "témoin",
+    "other_forms" : [ "témoins" ]
+  }, {
+    "canonical_form" : "éclosion",
+    "other_forms" : [ "éclosions" ]
+  }, {
+    "canonical_form" : "épiphanie",
+    "other_forms" : [ "épiphanies" ]
+  }, {
+    "canonical_form" : "phénomène",
+    "other_forms" : [ "phénomènes" ]
+  }, {
+    "canonical_form" : "meeting",
+    "other_forms" : [ "meetings" ]
+  }, {
+    "canonical_form" : "marche",
+    "other_forms" : [ "marches" ]
+  }, {
+    "canonical_form" : "manif",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "incarnation",
+    "other_forms" : [ "incarnations" ]
+  }, {
+    "canonical_form" : "festivité",
+    "other_forms" : [ "festivités" ]
+  }, {
+    "canonical_form" : "dérivation",
+    "other_forms" : [ "dérivations" ]
+  }, {
+    "canonical_form" : "barrage",
+    "other_forms" : [ "barrages" ]
+  }, {
+    "canonical_form" : "attroupement",
+    "other_forms" : [ "attroupements" ]
+  }, {
+    "canonical_form" : "acte",
+    "other_forms" : [ "actes" ]
+  }, {
+    "canonical_form" : "événement",
+    "other_forms" : [ "événements" ]
+  } ]
+}

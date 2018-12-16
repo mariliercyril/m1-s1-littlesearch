@@ -1,0 +1,151 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "intérêt",
+    "other_forms" : [ "intérêts" ]
+  }, {
+    "canonical_form" : "gain",
+    "other_forms" : [ "gains" ]
+  }, {
+    "canonical_form" : "rapport",
+    "other_forms" : [ "rapports" ]
+  }, {
+    "canonical_form" : "avantage",
+    "other_forms" : [ "avantages" ]
+  }, {
+    "canonical_form" : "valeur",
+    "other_forms" : [ "valeurs" ]
+  }, {
+    "canonical_form" : "profit",
+    "other_forms" : [ "profits" ]
+  }, {
+    "canonical_form" : "affection",
+    "other_forms" : [ "affections" ]
+  }, {
+    "canonical_form" : "rente",
+    "other_forms" : [ "rentes" ]
+  }, {
+    "canonical_form" : "passion",
+    "other_forms" : [ "passions" ]
+  }, {
+    "canonical_form" : "loyer",
+    "other_forms" : [ "loyers" ]
+  }, {
+    "canonical_form" : "bonté",
+    "other_forms" : [ "bontés" ]
+  }, {
+    "canonical_form" : "bien",
+    "other_forms" : [ "biens" ]
+  }, {
+    "canonical_form" : "attachement",
+    "other_forms" : [ "attachements" ]
+  }, {
+    "canonical_form" : "amour",
+    "other_forms" : [ "amours" ]
+  }, {
+    "canonical_form" : "utilité",
+    "other_forms" : [ "utilités" ]
+  }, {
+    "canonical_form" : "rémunération",
+    "other_forms" : [ "rémunérations" ]
+  }, {
+    "canonical_form" : "ressource",
+    "other_forms" : [ "ressources" ]
+  }, {
+    "canonical_form" : "prix",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "commission",
+    "other_forms" : [ "commissions" ]
+  }, {
+    "canonical_form" : "bienveillance",
+    "other_forms" : [ "bienveillances" ]
+  }, {
+    "canonical_form" : "agio",
+    "other_forms" : [ "agios" ]
+  }, {
+    "canonical_form" : "pourcentage",
+    "other_forms" : [ "pourcentages" ]
+  }, {
+    "canonical_form" : "sollicitude",
+    "other_forms" : [ "sollicitudes" ]
+  }, {
+    "canonical_form" : "sympathie",
+    "other_forms" : [ "sympathies" ]
+  }, {
+    "canonical_form" : "taux",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "usure",
+    "other_forms" : [ "usures" ]
+  }, {
+    "canonical_form" : "poids",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "ardeur",
+    "other_forms" : [ "ardeurs" ]
+  }, {
+    "canonical_form" : "attache",
+    "other_forms" : [ "attaches" ]
+  }, {
+    "canonical_form" : "attention",
+    "other_forms" : [ "attentions" ]
+  }, {
+    "canonical_form" : "charge",
+    "other_forms" : [ "charges" ]
+  }, {
+    "canonical_form" : "curiosité",
+    "other_forms" : [ "curiosités" ]
+  }, {
+    "canonical_form" : "désir",
+    "other_forms" : [ "désirs" ]
+  }, {
+    "canonical_form" : "escompte",
+    "other_forms" : [ "escomptes" ]
+  }, {
+    "canonical_form" : "importance",
+    "other_forms" : [ "importances" ]
+  }, {
+    "canonical_form" : "intrigue",
+    "other_forms" : [ "intrigues" ]
+  }, {
+    "canonical_form" : "originalité",
+    "other_forms" : [ "originalités" ]
+  }, {
+    "canonical_form" : "piment",
+    "other_forms" : [ "piments" ]
+  }, {
+    "canonical_form" : "rentabilité",
+    "other_forms" : [ "rentabilités" ]
+  }, {
+    "canonical_form" : "dommage",
+    "other_forms" : [ "dommages" ]
+  }, {
+    "canonical_form" : "dividende",
+    "other_forms" : [ "dividendes" ]
+  }, {
+    "canonical_form" : "denier",
+    "other_forms" : [ "deniers" ]
+  }, {
+    "canonical_form" : "compte",
+    "other_forms" : [ "comptes" ]
+  }, {
+    "canonical_form" : "charme",
+    "other_forms" : [ "charmes" ]
+  }, {
+    "canonical_form" : "cause",
+    "other_forms" : [ "causes" ]
+  }, {
+    "canonical_form" : "arrérages",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "annuité",
+    "other_forms" : [ "annuités" ]
+  }, {
+    "canonical_form" : "anatocisme",
+    "other_forms" : [ "anatocismes" ]
+  }, {
+    "canonical_form" : "soif",
+    "other_forms" : [ "soifs" ]
+  } ]
+}

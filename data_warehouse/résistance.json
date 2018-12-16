@@ -1,0 +1,181 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "résistance",
+    "other_forms" : [ "résistances" ]
+  }, {
+    "canonical_form" : "opposition",
+    "other_forms" : [ "oppositions" ]
+  }, {
+    "canonical_form" : "rébellion",
+    "other_forms" : [ "rébellions" ]
+  }, {
+    "canonical_form" : "révolte",
+    "other_forms" : [ "révoltes" ]
+  }, {
+    "canonical_form" : "fermeté",
+    "other_forms" : [ "fermetés" ]
+  }, {
+    "canonical_form" : "obstacle",
+    "other_forms" : [ "obstacles" ]
+  }, {
+    "canonical_form" : "solidité",
+    "other_forms" : [ "solidités" ]
+  }, {
+    "canonical_form" : "force",
+    "other_forms" : [ "forces" ]
+  }, {
+    "canonical_form" : "contestation",
+    "other_forms" : [ "contestations" ]
+  }, {
+    "canonical_form" : "difficulté",
+    "other_forms" : [ "difficultés" ]
+  }, {
+    "canonical_form" : "lutte",
+    "other_forms" : [ "luttes" ]
+  }, {
+    "canonical_form" : "traverse",
+    "other_forms" : [ "traverses" ]
+  }, {
+    "canonical_form" : "soulèvement",
+    "other_forms" : [ "soulèvements" ]
+  }, {
+    "canonical_form" : "indiscipline",
+    "other_forms" : [ "indisciplines" ]
+  }, {
+    "canonical_form" : "empêchement",
+    "other_forms" : [ "empêchements" ]
+  }, {
+    "canonical_form" : "effort",
+    "other_forms" : [ "efforts" ]
+  }, {
+    "canonical_form" : "défense",
+    "other_forms" : [ "défenses" ]
+  }, {
+    "canonical_form" : "ténacité",
+    "other_forms" : [ "ténacités" ]
+  }, {
+    "canonical_form" : "ressort",
+    "other_forms" : [ "ressorts" ]
+  }, {
+    "canonical_form" : "opiniâtreté",
+    "other_forms" : [ "opiniâtretés" ]
+  }, {
+    "canonical_form" : "endurance",
+    "other_forms" : [ "endurances" ]
+  }, {
+    "canonical_form" : "désobéissance",
+    "other_forms" : [ "désobéissances" ]
+  }, {
+    "canonical_form" : "barrage",
+    "other_forms" : [ "barrages" ]
+  }, {
+    "canonical_form" : "tirage",
+    "other_forms" : [ "tirages" ]
+  }, {
+    "canonical_form" : "sédition",
+    "other_forms" : [ "séditions" ]
+  }, {
+    "canonical_form" : "réaction",
+    "other_forms" : [ "réactions" ]
+  }, {
+    "canonical_form" : "obstruction",
+    "other_forms" : [ "obstructions" ]
+  }, {
+    "canonical_form" : "mutinerie",
+    "other_forms" : [ "mutineries" ]
+  }, {
+    "canonical_form" : "insurrection",
+    "other_forms" : [ "insurrections" ]
+  }, {
+    "canonical_form" : "endurcissement",
+    "other_forms" : [ "endurcissements" ]
+  }, {
+    "canonical_form" : "dureté",
+    "other_forms" : [ "duretés" ]
+  }, {
+    "canonical_form" : "accroc",
+    "other_forms" : [ "accrocs" ]
+  }, {
+    "canonical_form" : "regimbement",
+    "other_forms" : [ "regimbements" ]
+  }, {
+    "canonical_form" : "refus",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "ohm",
+    "other_forms" : [ "ohms" ]
+  }, {
+    "canonical_form" : "rigidité",
+    "other_forms" : [ "rigidités" ]
+  }, {
+    "canonical_form" : "robustesse",
+    "other_forms" : [ "robustesses" ]
+  }, {
+    "canonical_form" : "rusticité",
+    "other_forms" : [ "rusticités" ]
+  }, {
+    "canonical_form" : "réluctance",
+    "other_forms" : [ "réluctances" ]
+  }, {
+    "canonical_form" : "rénitence",
+    "other_forms" : [ "rénitences" ]
+  }, {
+    "canonical_form" : "résilience",
+    "other_forms" : [ "résiliences" ]
+  }, {
+    "canonical_form" : "résistivité",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "tâtonnement",
+    "other_forms" : [ "tâtonnements" ]
+  }, {
+    "canonical_form" : "non-violence",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "maquis",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "boudin",
+    "other_forms" : [ "boudins" ]
+  }, {
+    "canonical_form" : "combat",
+    "other_forms" : [ "combats" ]
+  }, {
+    "canonical_form" : "combativité",
+    "other_forms" : [ "combativités" ]
+  }, {
+    "canonical_form" : "complication",
+    "other_forms" : [ "complications" ]
+  }, {
+    "canonical_form" : "cordon",
+    "other_forms" : [ "cordons" ]
+  }, {
+    "canonical_form" : "courage",
+    "other_forms" : [ "courages" ]
+  }, {
+    "canonical_form" : "cran",
+    "other_forms" : [ "crans" ]
+  }, {
+    "canonical_form" : "durabilité",
+    "other_forms" : [ "durabilités" ]
+  }, {
+    "canonical_form" : "entêtement",
+    "other_forms" : [ "entêtements" ]
+  }, {
+    "canonical_form" : "frein",
+    "other_forms" : [ "freins" ]
+  }, {
+    "canonical_form" : "hésitation",
+    "other_forms" : [ "hésitations" ]
+  }, {
+    "canonical_form" : "impédance",
+    "other_forms" : [ "impédances" ]
+  }, {
+    "canonical_form" : "inertie",
+    "other_forms" : [ "inerties" ]
+  }, {
+    "canonical_form" : "viscosité",
+    "other_forms" : [ "viscosités" ]
+  } ]
+}

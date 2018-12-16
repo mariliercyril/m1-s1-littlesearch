@@ -1,0 +1,70 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "hostile",
+    "other_forms" : [ "hostiles" ]
+  }, {
+    "canonical_form" : "contraire",
+    "other_forms" : [ "contraires" ]
+  }, {
+    "canonical_form" : "inhospitalier",
+    "other_forms" : [ "inhospitaliers", "inhospitalière", "inhospitalières" ]
+  }, {
+    "canonical_form" : "mauvais",
+    "other_forms" : [ "mauvaise", "mauvaises" ]
+  }, {
+    "canonical_form" : "malveillant",
+    "other_forms" : [ "malveillante", "malveillantes", "malveillants" ]
+  }, {
+    "canonical_form" : "inamical",
+    "other_forms" : [ "inamicale", "inamicales", "inamicaux" ]
+  }, {
+    "canonical_form" : "froid",
+    "other_forms" : [ "froide", "froides", "froids" ]
+  }, {
+    "canonical_form" : "farouche",
+    "other_forms" : [ "farouches" ]
+  }, {
+    "canonical_form" : "désagréable",
+    "other_forms" : [ "désagréables" ]
+  }, {
+    "canonical_form" : "défavorable",
+    "other_forms" : [ "défavorables" ]
+  }, {
+    "canonical_form" : "cruel",
+    "other_forms" : [ "cruelle", "cruelles", "cruels" ]
+  }, {
+    "canonical_form" : "néfaste",
+    "other_forms" : [ "néfastes" ]
+  }, {
+    "canonical_form" : "nuisible",
+    "other_forms" : [ "nuisibles" ]
+  }, {
+    "canonical_form" : "inhumain",
+    "other_forms" : [ "inhumaine", "inhumaines", "inhumains" ]
+  }, {
+    "canonical_form" : "ingrat",
+    "other_forms" : [ "ingrate", "ingrates", "ingrats" ]
+  }, {
+    "canonical_form" : "antagoniste",
+    "other_forms" : [ "antagonistes" ]
+  }, {
+    "canonical_form" : "antagonique",
+    "other_forms" : [ "antagoniques" ]
+  }, {
+    "canonical_form" : "adverse",
+    "other_forms" : [ "adverses" ]
+  }, {
+    "canonical_form" : "défensif",
+    "other_forms" : [ "défensifs", "défensive", "défensives" ]
+  }, {
+    "canonical_form" : "belliqueux",
+    "other_forms" : [ "belliqueuse", "belliqueuses" ]
+  }, {
+    "canonical_form" : "attentatoire",
+    "other_forms" : [ "attentatoires" ]
+  }, {
+    "canonical_form" : "alarmant",
+    "other_forms" : [ "alarmante", "alarmantes", "alarmants" ]
+  } ]
+}

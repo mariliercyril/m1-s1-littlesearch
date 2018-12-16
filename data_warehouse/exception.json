@@ -1,0 +1,34 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "exception",
+    "other_forms" : [ "exceptions" ]
+  }, {
+    "canonical_form" : "anomalie",
+    "other_forms" : [ "anomalies" ]
+  }, {
+    "canonical_form" : "défense",
+    "other_forms" : [ "défenses" ]
+  }, {
+    "canonical_form" : "dérogation",
+    "other_forms" : [ "dérogations" ]
+  }, {
+    "canonical_form" : "exclusion",
+    "other_forms" : [ "exclusions" ]
+  }, {
+    "canonical_form" : "irrégularité",
+    "other_forms" : [ "irrégularités" ]
+  }, {
+    "canonical_form" : "particularité",
+    "other_forms" : [ "particularités" ]
+  }, {
+    "canonical_form" : "restriction",
+    "other_forms" : [ "restrictions" ]
+  }, {
+    "canonical_form" : "réserve",
+    "other_forms" : [ "réserves" ]
+  }, {
+    "canonical_form" : "singularité",
+    "other_forms" : [ "singularités" ]
+  } ]
+}

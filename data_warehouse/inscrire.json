@@ -1,0 +1,60 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "inscrire"
+  }, {
+    "canonical_form" : "marquer"
+  }, {
+    "canonical_form" : "noter"
+  }, {
+    "canonical_form" : "mentionner"
+  }, {
+    "canonical_form" : "mettre"
+  }, {
+    "canonical_form" : "transcrire"
+  }, {
+    "canonical_form" : "graver"
+  }, {
+    "canonical_form" : "relever"
+  }, {
+    "canonical_form" : "enregistrer"
+  }, {
+    "canonical_form" : "consigner"
+  }, {
+    "canonical_form" : "afficher"
+  }, {
+    "canonical_form" : "indiquer"
+  }, {
+    "canonical_form" : "immatriculer"
+  }, {
+    "canonical_form" : "écrire"
+  }, {
+    "canonical_form" : "tracer"
+  }, {
+    "canonical_form" : "répertorier"
+  }, {
+    "canonical_form" : "copier"
+  }, {
+    "canonical_form" : "affilier"
+  }, {
+    "canonical_form" : "adhérer"
+  }, {
+    "canonical_form" : "matriculer"
+  }, {
+    "canonical_form" : "incruster"
+  }, {
+    "canonical_form" : "inclure"
+  }, {
+    "canonical_form" : "imprimer"
+  }, {
+    "canonical_form" : "enrôler"
+  }, {
+    "canonical_form" : "empreindre"
+  }, {
+    "canonical_form" : "cataloguer"
+  }, {
+    "canonical_form" : "buriner"
+  }, {
+    "canonical_form" : "tatouer"
+  } ]
+}

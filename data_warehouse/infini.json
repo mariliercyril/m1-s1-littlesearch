@@ -1,0 +1,97 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "infini",
+    "other_forms" : [ "infinie", "infinies", "infinis" ]
+  }, {
+    "canonical_form" : "immense",
+    "other_forms" : [ "immenses" ]
+  }, {
+    "canonical_form" : "grand",
+    "other_forms" : [ "grande", "grandes", "grands" ]
+  }, {
+    "canonical_form" : "démesuré",
+    "other_forms" : [ "démesurée", "démesurées", "démesurés" ]
+  }, {
+    "canonical_form" : "éternel",
+    "other_forms" : [ "éternelle", "éternelles", "éternels" ]
+  }, {
+    "canonical_form" : "incommensurable",
+    "other_forms" : [ "incommensurables" ]
+  }, {
+    "canonical_form" : "interminable",
+    "other_forms" : [ "interminables" ]
+  }, {
+    "canonical_form" : "illimité",
+    "other_forms" : [ "illimitée", "illimitées", "illimités" ]
+  }, {
+    "canonical_form" : "profond",
+    "other_forms" : [ "profonde", "profondes", "profonds" ]
+  }, {
+    "canonical_form" : "énorme",
+    "other_forms" : [ "énormes" ]
+  }, {
+    "canonical_form" : "sempiternel",
+    "other_forms" : [ "sempiternelle", "sempiternelles", "sempiternels" ]
+  }, {
+    "canonical_form" : "indéfini",
+    "other_forms" : [ "indéfinie", "indéfinies", "indéfinis" ]
+  }, {
+    "canonical_form" : "incalculable",
+    "other_forms" : [ "incalculables" ]
+  }, {
+    "canonical_form" : "extrême",
+    "other_forms" : [ "extrêmes" ]
+  }, {
+    "canonical_form" : "long",
+    "other_forms" : [ "longs", "longue", "longues" ]
+  }, {
+    "canonical_form" : "inépuisable",
+    "other_forms" : [ "inépuisables" ]
+  }, {
+    "canonical_form" : "excessif",
+    "other_forms" : [ "excessifs", "excessive", "excessives" ]
+  }, {
+    "canonical_form" : "continu",
+    "other_forms" : [ "continue", "continues", "continus" ]
+  }, {
+    "canonical_form" : "absolu",
+    "other_forms" : [ "absolue", "absolues", "absolus" ]
+  }, {
+    "canonical_form" : "suprême",
+    "other_forms" : [ "suprêmes" ]
+  }, {
+    "canonical_form" : "suivi",
+    "other_forms" : [ "suivie", "suivies", "suivis" ]
+  }, {
+    "canonical_form" : "perpétuel",
+    "other_forms" : [ "perpétuelle", "perpétuelles", "perpétuels" ]
+  }, {
+    "canonical_form" : "insondable",
+    "other_forms" : [ "insondables" ]
+  }, {
+    "canonical_form" : "universel",
+    "other_forms" : [ "universelle", "universelles", "universels" ]
+  }, {
+    "canonical_form" : "perdurable",
+    "other_forms" : [ "perdurables" ]
+  }, {
+    "canonical_form" : "innombrable",
+    "other_forms" : [ "innombrables" ]
+  }, {
+    "canonical_form" : "inexhaustible",
+    "other_forms" : [ "inexhaustibles" ]
+  }, {
+    "canonical_form" : "indénombrable",
+    "other_forms" : [ "indénombrables" ]
+  }, {
+    "canonical_form" : "inconditionné",
+    "other_forms" : [ "inconditionnée", "inconditionnées", "inconditionnés" ]
+  }, {
+    "canonical_form" : "illimitable",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "colossal",
+    "other_forms" : [ "colossale", "colossales", "colossaux" ]
+  } ]
+}

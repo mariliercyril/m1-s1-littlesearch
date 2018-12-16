@@ -1,0 +1,94 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "débat",
+    "other_forms" : [ "débats" ]
+  }, {
+    "canonical_form" : "discussion",
+    "other_forms" : [ "discussions" ]
+  }, {
+    "canonical_form" : "dispute",
+    "other_forms" : [ "disputes" ]
+  }, {
+    "canonical_form" : "contestation",
+    "other_forms" : [ "contestations" ]
+  }, {
+    "canonical_form" : "querelle",
+    "other_forms" : [ "querelles" ]
+  }, {
+    "canonical_form" : "conversation",
+    "other_forms" : [ "conversations" ]
+  }, {
+    "canonical_form" : "conférence",
+    "other_forms" : [ "conférences" ]
+  }, {
+    "canonical_form" : "altercation",
+    "other_forms" : [ "altercations" ]
+  }, {
+    "canonical_form" : "séance",
+    "other_forms" : [ "séances" ]
+  }, {
+    "canonical_form" : "réunion",
+    "other_forms" : [ "réunions" ]
+  }, {
+    "canonical_form" : "litige",
+    "other_forms" : [ "litiges" ]
+  }, {
+    "canonical_form" : "délibération",
+    "other_forms" : [ "délibérations" ]
+  }, {
+    "canonical_form" : "différend",
+    "other_forms" : [ "différends" ]
+  }, {
+    "canonical_form" : "controverse",
+    "other_forms" : [ "controverses" ]
+  }, {
+    "canonical_form" : "symposium",
+    "other_forms" : [ "symposiums" ]
+  }, {
+    "canonical_form" : "session",
+    "other_forms" : [ "sessions" ]
+  }, {
+    "canonical_form" : "conflit",
+    "other_forms" : [ "conflits" ]
+  }, {
+    "canonical_form" : "colloque",
+    "other_forms" : [ "colloques" ]
+  }, {
+    "canonical_form" : "lutte",
+    "other_forms" : [ "luttes" ]
+  }, {
+    "canonical_form" : "examen",
+    "other_forms" : [ "examens" ]
+  }, {
+    "canonical_form" : "congrès",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "attaque",
+    "other_forms" : [ "attaques" ]
+  }, {
+    "canonical_form" : "procès",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "pourparler",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "panel",
+    "other_forms" : [ "panels" ]
+  }, {
+    "canonical_form" : "palabre",
+    "other_forms" : [ "palabres" ]
+  }, {
+    "canonical_form" : "explication",
+    "other_forms" : [ "explications" ]
+  }, {
+    "canonical_form" : "dialogue",
+    "other_forms" : [ "dialogues" ]
+  }, {
+    "canonical_form" : "contention",
+    "other_forms" : [ "contentions" ]
+  }, {
+    "canonical_form" : "combat",
+    "other_forms" : [ "combats" ]
+  } ]
+}

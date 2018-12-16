@@ -1,0 +1,34 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "probable",
+    "other_forms" : [ "probables" ]
+  }, {
+    "canonical_form" : "possible",
+    "other_forms" : [ "possibles" ]
+  }, {
+    "canonical_form" : "vraisemblable",
+    "other_forms" : [ "vraisemblables" ]
+  }, {
+    "canonical_form" : "envisageable",
+    "other_forms" : [ "envisageables" ]
+  }, {
+    "canonical_form" : "plausible",
+    "other_forms" : [ "plausibles" ]
+  }, {
+    "canonical_form" : "prévisible",
+    "other_forms" : [ "prévisibles" ]
+  }, {
+    "canonical_form" : "admissible",
+    "other_forms" : [ "admissibles" ]
+  }, {
+    "canonical_form" : "apparent",
+    "other_forms" : [ "apparente", "apparentes", "apparents" ]
+  }, {
+    "canonical_form" : "croyable",
+    "other_forms" : [ "croyables" ]
+  }, {
+    "canonical_form" : "réalisable",
+    "other_forms" : [ "réalisables" ]
+  } ]
+}

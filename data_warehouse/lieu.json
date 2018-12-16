@@ -1,0 +1,136 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "lieu",
+    "other_forms" : [ "lieus", "lieux" ]
+  }, {
+    "canonical_form" : "endroit",
+    "other_forms" : [ "endroits" ]
+  }, {
+    "canonical_form" : "place",
+    "other_forms" : [ "places" ]
+  }, {
+    "canonical_form" : "emplacement",
+    "other_forms" : [ "emplacements" ]
+  }, {
+    "canonical_form" : "coin",
+    "other_forms" : [ "coins" ]
+  }, {
+    "canonical_form" : "situation",
+    "other_forms" : [ "situations" ]
+  }, {
+    "canonical_form" : "site",
+    "other_forms" : [ "sites" ]
+  }, {
+    "canonical_form" : "matière",
+    "other_forms" : [ "matières" ]
+  }, {
+    "canonical_form" : "terrain",
+    "other_forms" : [ "terrains" ]
+  }, {
+    "canonical_form" : "secteur",
+    "other_forms" : [ "secteurs" ]
+  }, {
+    "canonical_form" : "région",
+    "other_forms" : [ "régions" ]
+  }, {
+    "canonical_form" : "pays",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "origine",
+    "other_forms" : [ "origines" ]
+  }, {
+    "canonical_form" : "cause",
+    "other_forms" : [ "causes" ]
+  }, {
+    "canonical_form" : "position",
+    "other_forms" : [ "positions" ]
+  }, {
+    "canonical_form" : "occasion",
+    "other_forms" : [ "occasions" ]
+  }, {
+    "canonical_form" : "zone",
+    "other_forms" : [ "zones" ]
+  }, {
+    "canonical_form" : "rang",
+    "other_forms" : [ "rangs" ]
+  }, {
+    "canonical_form" : "parage",
+    "other_forms" : [ "parages" ]
+  }, {
+    "canonical_form" : "milieu",
+    "other_forms" : [ "milieux" ]
+  }, {
+    "canonical_form" : "maison",
+    "other_forms" : [ "maisons" ]
+  }, {
+    "canonical_form" : "espace",
+    "other_forms" : [ "espaces" ]
+  }, {
+    "canonical_form" : "canton",
+    "other_forms" : [ "cantons" ]
+  }, {
+    "canonical_form" : "terre",
+    "other_forms" : [ "terres" ]
+  }, {
+    "canonical_form" : "séjour",
+    "other_forms" : [ "séjours" ]
+  }, {
+    "canonical_form" : "résidence",
+    "other_forms" : [ "résidences" ]
+  }, {
+    "canonical_form" : "raison",
+    "other_forms" : [ "raisons" ]
+  }, {
+    "canonical_form" : "prétexte",
+    "other_forms" : [ "prétextes" ]
+  }, {
+    "canonical_form" : "poste",
+    "other_forms" : [ "postes" ]
+  }, {
+    "canonical_form" : "domicile",
+    "other_forms" : [ "domiciles" ]
+  }, {
+    "canonical_form" : "cas",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "berceau",
+    "other_forms" : [ "berceaux" ]
+  }, {
+    "canonical_form" : "objet",
+    "other_forms" : [ "objets" ]
+  }, {
+    "canonical_form" : "part",
+    "other_forms" : [ "parts" ]
+  }, {
+    "canonical_form" : "passage",
+    "other_forms" : [ "passages" ]
+  }, {
+    "canonical_form" : "théâtre",
+    "other_forms" : [ "théâtres" ]
+  }, {
+    "canonical_form" : "merlan",
+    "other_forms" : [ "merlans" ]
+  }, {
+    "canonical_form" : "localité",
+    "other_forms" : [ "localités" ]
+  }, {
+    "canonical_form" : "lieu-dit",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "extraction",
+    "other_forms" : [ "extractions" ]
+  }, {
+    "canonical_form" : "colin",
+    "other_forms" : [ "colins" ]
+  }, {
+    "canonical_form" : "catégorie",
+    "other_forms" : [ "catégories" ]
+  }, {
+    "canonical_form" : "adresse",
+    "other_forms" : [ "adresses" ]
+  }, {
+    "canonical_form" : "étape",
+    "other_forms" : [ "étapes" ]
+  } ]
+}

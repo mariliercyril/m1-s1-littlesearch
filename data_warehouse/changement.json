@@ -1,0 +1,310 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "changement",
+    "other_forms" : [ "changements" ]
+  }, {
+    "canonical_form" : "variation",
+    "other_forms" : [ "variations" ]
+  }, {
+    "canonical_form" : "transformation",
+    "other_forms" : [ "transformations" ]
+  }, {
+    "canonical_form" : "modification",
+    "other_forms" : [ "modifications" ]
+  }, {
+    "canonical_form" : "fluctuation",
+    "other_forms" : [ "fluctuations" ]
+  }, {
+    "canonical_form" : "instabilité",
+    "other_forms" : [ "instabilités" ]
+  }, {
+    "canonical_form" : "évolution",
+    "other_forms" : [ "évolutions" ]
+  }, {
+    "canonical_form" : "métamorphose",
+    "other_forms" : [ "métamorphoses" ]
+  }, {
+    "canonical_form" : "altération",
+    "other_forms" : [ "altérations" ]
+  }, {
+    "canonical_form" : "mouvement",
+    "other_forms" : [ "mouvements" ]
+  }, {
+    "canonical_form" : "révolution",
+    "other_forms" : [ "révolutions" ]
+  }, {
+    "canonical_form" : "revirement",
+    "other_forms" : [ "revirements" ]
+  }, {
+    "canonical_form" : "retournement",
+    "other_forms" : [ "retournements" ]
+  }, {
+    "canonical_form" : "retour",
+    "other_forms" : [ "retours" ]
+  }, {
+    "canonical_form" : "oscillation",
+    "other_forms" : [ "oscillations" ]
+  }, {
+    "canonical_form" : "amélioration",
+    "other_forms" : [ "améliorations" ]
+  }, {
+    "canonical_form" : "renversement",
+    "other_forms" : [ "renversements" ]
+  }, {
+    "canonical_form" : "mutation",
+    "other_forms" : [ "mutations" ]
+  }, {
+    "canonical_form" : "inversion",
+    "other_forms" : [ "inversions" ]
+  }, {
+    "canonical_form" : "caprice",
+    "other_forms" : [ "caprices" ]
+  }, {
+    "canonical_form" : "balancement",
+    "other_forms" : [ "balancements" ]
+  }, {
+    "canonical_form" : "différence",
+    "other_forms" : [ "différences" ]
+  }, {
+    "canonical_form" : "inconstance",
+    "other_forms" : [ "inconstances" ]
+  }, {
+    "canonical_form" : "nouveauté",
+    "other_forms" : [ "nouveautés" ]
+  }, {
+    "canonical_form" : "volte-face",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "toquade",
+    "other_forms" : [ "toquades" ]
+  }, {
+    "canonical_form" : "réforme",
+    "other_forms" : [ "réformes" ]
+  }, {
+    "canonical_form" : "chambardement",
+    "other_forms" : [ "chambardements" ]
+  }, {
+    "canonical_form" : "renouvellement",
+    "other_forms" : [ "renouvellements" ]
+  }, {
+    "canonical_form" : "rénovation",
+    "other_forms" : [ "rénovations" ]
+  }, {
+    "canonical_form" : "saute",
+    "other_forms" : [ "sautes" ]
+  }, {
+    "canonical_form" : "transmutation",
+    "other_forms" : [ "transmutations" ]
+  }, {
+    "canonical_form" : "transposition",
+    "other_forms" : [ "transpositions" ]
+  }, {
+    "canonical_form" : "versatilité",
+    "other_forms" : [ "versatilités" ]
+  }, {
+    "canonical_form" : "vicissitude",
+    "other_forms" : [ "vicissitudes" ]
+  }, {
+    "canonical_form" : "échange",
+    "other_forms" : [ "échanges" ]
+  }, {
+    "canonical_form" : "remplacement",
+    "other_forms" : [ "remplacements" ]
+  }, {
+    "canonical_form" : "mobilité",
+    "other_forms" : [ "mobilités" ]
+  }, {
+    "canonical_form" : "interversion",
+    "other_forms" : [ "interversions" ]
+  }, {
+    "canonical_form" : "abandon",
+    "other_forms" : [ "abandons" ]
+  }, {
+    "canonical_form" : "alternance",
+    "other_forms" : [ "alternances" ]
+  }, {
+    "canonical_form" : "bouleversement",
+    "other_forms" : [ "bouleversements" ]
+  }, {
+    "canonical_form" : "conversion",
+    "other_forms" : [ "conversions" ]
+  }, {
+    "canonical_form" : "déplacement",
+    "other_forms" : [ "déplacements" ]
+  }, {
+    "canonical_form" : "dérangement",
+    "other_forms" : [ "dérangements" ]
+  }, {
+    "canonical_form" : "déviation",
+    "other_forms" : [ "déviations" ]
+  }, {
+    "canonical_form" : "innovation",
+    "other_forms" : [ "innovations" ]
+  }, {
+    "canonical_form" : "variété",
+    "other_forms" : [ "variétés" ]
+  }, {
+    "canonical_form" : "remue-ménage",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "phase",
+    "other_forms" : [ "phases" ]
+  }, {
+    "canonical_form" : "permutation",
+    "other_forms" : [ "permutations" ]
+  }, {
+    "canonical_form" : "légèreté",
+    "other_forms" : [ "légèretés" ]
+  }, {
+    "canonical_form" : "inégalité",
+    "other_forms" : [ "inégalités" ]
+  }, {
+    "canonical_form" : "incertitude",
+    "other_forms" : [ "incertitudes" ]
+  }, {
+    "canonical_form" : "flux",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "distraction",
+    "other_forms" : [ "distractions" ]
+  }, {
+    "canonical_form" : "devenir",
+    "other_forms" : [ "devenirs" ]
+  }, {
+    "canonical_form" : "rétractation",
+    "other_forms" : [ "rétractations" ]
+  }, {
+    "canonical_form" : "pirouette",
+    "other_forms" : [ "pirouettes" ]
+  }, {
+    "canonical_form" : "palinodie",
+    "other_forms" : [ "palinodies" ]
+  }, {
+    "canonical_form" : "ondoiement",
+    "other_forms" : [ "ondoiements" ]
+  }, {
+    "canonical_form" : "substitution",
+    "other_forms" : [ "substitutions" ]
+  }, {
+    "canonical_form" : "tohu-bohu",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "transition",
+    "other_forms" : [ "transitions" ]
+  }, {
+    "canonical_form" : "travestissement",
+    "other_forms" : [ "travestissements" ]
+  }, {
+    "canonical_form" : "vacillement",
+    "other_forms" : [ "vacillements" ]
+  }, {
+    "canonical_form" : "novation",
+    "other_forms" : [ "novations" ]
+  }, {
+    "canonical_form" : "modulation",
+    "other_forms" : [ "modulations" ]
+  }, {
+    "canonical_form" : "amendement",
+    "other_forms" : [ "amendements" ]
+  }, {
+    "canonical_form" : "avatar",
+    "other_forms" : [ "avatars" ]
+  }, {
+    "canonical_form" : "bascule",
+    "other_forms" : [ "bascules" ]
+  }, {
+    "canonical_form" : "bifurcation",
+    "other_forms" : [ "bifurcations" ]
+  }, {
+    "canonical_form" : "change",
+    "other_forms" : [ "changes" ]
+  }, {
+    "canonical_form" : "déformation",
+    "other_forms" : [ "déformations" ]
+  }, {
+    "canonical_form" : "déguisement",
+    "other_forms" : [ "déguisements" ]
+  }, {
+    "canonical_form" : "falsification",
+    "other_forms" : [ "falsifications" ]
+  }, {
+    "canonical_form" : "infidélité",
+    "other_forms" : [ "infidélités" ]
+  }, {
+    "canonical_form" : "inflexion",
+    "other_forms" : [ "inflexions" ]
+  }, {
+    "canonical_form" : "réformation",
+    "other_forms" : [ "réformations" ]
+  }, {
+    "canonical_form" : "remaniement",
+    "other_forms" : [ "remaniements" ]
+  }, {
+    "canonical_form" : "refonte",
+    "other_forms" : [ "refontes" ]
+  }, {
+    "canonical_form" : "métaplasme",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "transfiguration",
+    "other_forms" : [ "transfigurations" ]
+  }, {
+    "canonical_form" : "transsubstantiation",
+    "other_forms" : [ "transsubstantiations" ]
+  }, {
+    "canonical_form" : "troc",
+    "other_forms" : [ "trocs" ]
+  }, {
+    "canonical_form" : "virage",
+    "other_forms" : [ "virages" ]
+  }, {
+    "canonical_form" : "voltigement",
+    "other_forms" : [ "voltigements" ]
+  }, {
+    "canonical_form" : "écart",
+    "other_forms" : [ "écarts" ]
+  }, {
+    "canonical_form" : "éclaircie",
+    "other_forms" : [ "éclaircies" ]
+  }, {
+    "canonical_form" : "évasion",
+    "other_forms" : [ "évasions" ]
+  }, {
+    "canonical_form" : "impermanence",
+    "other_forms" : [ "impermanences" ]
+  }, {
+    "canonical_form" : "aiguillage",
+    "other_forms" : [ "aiguillages" ]
+  }, {
+    "canonical_form" : "branchement",
+    "other_forms" : [ "branchements" ]
+  }, {
+    "canonical_form" : "cession",
+    "other_forms" : [ "cessions" ]
+  }, {
+    "canonical_form" : "commutation",
+    "other_forms" : [ "commutations" ]
+  }, {
+    "canonical_form" : "correspondance",
+    "other_forms" : [ "correspondances" ]
+  }, {
+    "canonical_form" : "diversion",
+    "other_forms" : [ "diversions" ]
+  }, {
+    "canonical_form" : "dénaturation",
+    "other_forms" : [ "dénaturations" ]
+  }, {
+    "canonical_form" : "exotisme",
+    "other_forms" : [ "exotismes" ]
+  }, {
+    "canonical_form" : "glissement",
+    "other_forms" : [ "glissements" ]
+  }, {
+    "canonical_form" : "gradation",
+    "other_forms" : [ "gradations" ]
+  }, {
+    "canonical_form" : "aggravation",
+    "other_forms" : [ "aggravations" ]
+  } ]
+}

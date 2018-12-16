@@ -1,0 +1,31 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "kyste",
+    "other_forms" : [ "kystes" ]
+  }, {
+    "canonical_form" : "abcès",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "tumeur",
+    "other_forms" : [ "tumeurs" ]
+  }, {
+    "canonical_form" : "ganglion",
+    "other_forms" : [ "ganglions" ]
+  }, {
+    "canonical_form" : "germe",
+    "other_forms" : [ "germes" ]
+  }, {
+    "canonical_form" : "grosseur",
+    "other_forms" : [ "grosseurs" ]
+  }, {
+    "canonical_form" : "induration",
+    "other_forms" : [ "indurations" ]
+  }, {
+    "canonical_form" : "pustule",
+    "other_forms" : [ "pustules" ]
+  }, {
+    "canonical_form" : "ulcération",
+    "other_forms" : [ "ulcérations" ]
+  } ]
+}

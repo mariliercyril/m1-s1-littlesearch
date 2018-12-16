@@ -1,0 +1,163 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "dépression",
+    "other_forms" : [ "dépressions" ]
+  }, {
+    "canonical_form" : "abattement",
+    "other_forms" : [ "abattements" ]
+  }, {
+    "canonical_form" : "langueur",
+    "other_forms" : [ "langueurs" ]
+  }, {
+    "canonical_form" : "affaiblissement",
+    "other_forms" : [ "affaiblissements" ]
+  }, {
+    "canonical_form" : "affaissement",
+    "other_forms" : [ "affaissements" ]
+  }, {
+    "canonical_form" : "anéantissement",
+    "other_forms" : [ "anéantissements" ]
+  }, {
+    "canonical_form" : "torpeur",
+    "other_forms" : [ "torpeurs" ]
+  }, {
+    "canonical_form" : "mélancolie",
+    "other_forms" : [ "mélancolies" ]
+  }, {
+    "canonical_form" : "accablement",
+    "other_forms" : [ "accablements" ]
+  }, {
+    "canonical_form" : "fatigue",
+    "other_forms" : [ "fatigues" ]
+  }, {
+    "canonical_form" : "faiblesse",
+    "other_forms" : [ "faiblesses" ]
+  }, {
+    "canonical_form" : "tristesse",
+    "other_forms" : [ "tristesses" ]
+  }, {
+    "canonical_form" : "asthénie",
+    "other_forms" : [ "asthénies" ]
+  }, {
+    "canonical_form" : "découragement",
+    "other_forms" : [ "découragements" ]
+  }, {
+    "canonical_form" : "neurasthénie",
+    "other_forms" : [ "neurasthénies" ]
+  }, {
+    "canonical_form" : "diminution",
+    "other_forms" : [ "diminutions" ]
+  }, {
+    "canonical_form" : "cafard",
+    "other_forms" : [ "cafards" ]
+  }, {
+    "canonical_form" : "anémie",
+    "other_forms" : [ "anémies" ]
+  }, {
+    "canonical_form" : "adynamie",
+    "other_forms" : [ "adynamies" ]
+  }, {
+    "canonical_form" : "prostration",
+    "other_forms" : [ "prostrations" ]
+  }, {
+    "canonical_form" : "peine",
+    "other_forms" : [ "peines" ]
+  }, {
+    "canonical_form" : "aplatissement",
+    "other_forms" : [ "aplatissements" ]
+  }, {
+    "canonical_form" : "apathie",
+    "other_forms" : [ "apathies" ]
+  }, {
+    "canonical_form" : "alanguissement",
+    "other_forms" : [ "alanguissements" ]
+  }, {
+    "canonical_form" : "abaissement",
+    "other_forms" : [ "abaissements" ]
+  }, {
+    "canonical_form" : "renfoncement",
+    "other_forms" : [ "renfoncements" ]
+  }, {
+    "canonical_form" : "marasme",
+    "other_forms" : [ "marasmes" ]
+  }, {
+    "canonical_form" : "lassitude",
+    "other_forms" : [ "lassitudes" ]
+  }, {
+    "canonical_form" : "excavation",
+    "other_forms" : [ "excavations" ]
+  }, {
+    "canonical_form" : "cuvette",
+    "other_forms" : [ "cuvettes" ]
+  }, {
+    "canonical_form" : "crise",
+    "other_forms" : [ "crises" ]
+  }, {
+    "canonical_form" : "baisse",
+    "other_forms" : [ "baisses" ]
+  }, {
+    "canonical_form" : "atonie",
+    "other_forms" : [ "atonies" ]
+  }, {
+    "canonical_form" : "assoupissement",
+    "other_forms" : [ "assoupissements" ]
+  }, {
+    "canonical_form" : "fosse",
+    "other_forms" : [ "fosses" ]
+  }, {
+    "canonical_form" : "enfoncement",
+    "other_forms" : [ "enfoncements" ]
+  }, {
+    "canonical_form" : "effondrement",
+    "other_forms" : [ "effondrements" ]
+  }, {
+    "canonical_form" : "coma",
+    "other_forms" : [ "comas" ]
+  }, {
+    "canonical_form" : "aliénation",
+    "other_forms" : [ "aliénations" ]
+  }, {
+    "canonical_form" : "pessimisme",
+    "other_forms" : [ "pessimismes" ]
+  }, {
+    "canonical_form" : "pli",
+    "other_forms" : [ "plis" ]
+  }, {
+    "canonical_form" : "pénurie",
+    "other_forms" : [ "pénuries" ]
+  }, {
+    "canonical_form" : "repli",
+    "other_forms" : [ "replis" ]
+  }, {
+    "canonical_form" : "récession",
+    "other_forms" : [ "récessions" ]
+  }, {
+    "canonical_form" : "sidération",
+    "other_forms" : [ "sidérations" ]
+  }, {
+    "canonical_form" : "spleen",
+    "other_forms" : [ "spleens" ]
+  }, {
+    "canonical_form" : "folie",
+    "other_forms" : [ "folies" ]
+  }, {
+    "canonical_form" : "dépréciation",
+    "other_forms" : [ "dépréciations" ]
+  }, {
+    "canonical_form" : "concavité",
+    "other_forms" : [ "concavités" ]
+  }, {
+    "canonical_form" : "bassin",
+    "other_forms" : [ "bassins" ]
+  }, {
+    "canonical_form" : "bas-fond",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "affouillement",
+    "other_forms" : [ "affouillements" ]
+  }, {
+    "canonical_form" : "vallée",
+    "other_forms" : [ "vallées" ]
+  } ]
+}

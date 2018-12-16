@@ -1,0 +1,28 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "définir"
+  }, {
+    "canonical_form" : "déterminer"
+  }, {
+    "canonical_form" : "fixer"
+  }, {
+    "canonical_form" : "indiquer"
+  }, {
+    "canonical_form" : "préciser"
+  }, {
+    "canonical_form" : "délimiter"
+  }, {
+    "canonical_form" : "spécifier"
+  }, {
+    "canonical_form" : "expliquer"
+  }, {
+    "canonical_form" : "décider"
+  }, {
+    "canonical_form" : "circonscrire"
+  }, {
+    "canonical_form" : "caractériser"
+  }, {
+    "canonical_form" : "trancher"
+  } ]
+}

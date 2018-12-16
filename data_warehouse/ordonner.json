@@ -1,0 +1,108 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "ordonner"
+  }, {
+    "canonical_form" : "organiser"
+  }, {
+    "canonical_form" : "disposer"
+  }, {
+    "canonical_form" : "arranger"
+  }, {
+    "canonical_form" : "commander"
+  }, {
+    "canonical_form" : "distribuer"
+  }, {
+    "canonical_form" : "sommer"
+  }, {
+    "canonical_form" : "prescrire"
+  }, {
+    "canonical_form" : "décider"
+  }, {
+    "canonical_form" : "demander"
+  }, {
+    "canonical_form" : "classer"
+  }, {
+    "canonical_form" : "harmoniser"
+  }, {
+    "canonical_form" : "agencer"
+  }, {
+    "canonical_form" : "enjoindre"
+  }, {
+    "canonical_form" : "régler"
+  }, {
+    "canonical_form" : "requérir"
+  }, {
+    "canonical_form" : "exiger"
+  }, {
+    "canonical_form" : "hiérarchiser"
+  }, {
+    "canonical_form" : "décréter"
+  }, {
+    "canonical_form" : "placer"
+  }, {
+    "canonical_form" : "revendiquer"
+  }, {
+    "canonical_form" : "trancher"
+  }, {
+    "canonical_form" : "prononcer"
+  }, {
+    "canonical_form" : "imposer"
+  }, {
+    "canonical_form" : "classifier"
+  }, {
+    "canonical_form" : "caser"
+  }, {
+    "canonical_form" : "signifier"
+  }, {
+    "canonical_form" : "répartir"
+  }, {
+    "canonical_form" : "ordonnancer"
+  }, {
+    "canonical_form" : "diriger"
+  }, {
+    "canonical_form" : "dicter"
+  }, {
+    "canonical_form" : "contraindre"
+  }, {
+    "canonical_form" : "composer"
+  }, {
+    "canonical_form" : "combiner"
+  }, {
+    "canonical_form" : "aménager"
+  }, {
+    "canonical_form" : "ajuster"
+  }, {
+    "canonical_form" : "orchestrer"
+  }, {
+    "canonical_form" : "planifier"
+  }, {
+    "canonical_form" : "statuer"
+  }, {
+    "canonical_form" : "structurer"
+  }, {
+    "canonical_form" : "mander"
+  }, {
+    "canonical_form" : "inventorier"
+  }, {
+    "canonical_form" : "démêler"
+  }, {
+    "canonical_form" : "débrouiller"
+  }, {
+    "canonical_form" : "coordonner"
+  }, {
+    "canonical_form" : "notifier"
+  }, {
+    "canonical_form" : "inviter"
+  }, {
+    "canonical_form" : "discipliner"
+  }, {
+    "canonical_form" : "consigner"
+  }, {
+    "canonical_form" : "consacrer"
+  }, {
+    "canonical_form" : "apprêter"
+  }, {
+    "canonical_form" : "adjurer"
+  } ]
+}

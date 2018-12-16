@@ -1,0 +1,202 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "profond",
+    "other_forms" : [ "profonde", "profondes", "profonds" ]
+  }, {
+    "canonical_form" : "fort",
+    "other_forms" : [ "forte", "fortes", "forts" ]
+  }, {
+    "canonical_form" : "gros",
+    "other_forms" : [ "grosse", "grosses" ]
+  }, {
+    "canonical_form" : "grand",
+    "other_forms" : [ "grande", "grandes", "grands" ]
+  }, {
+    "canonical_form" : "haut",
+    "other_forms" : [ "haute", "hautes", "hauts" ]
+  }, {
+    "canonical_form" : "important",
+    "other_forms" : [ "importante", "importantes", "importants" ]
+  }, {
+    "canonical_form" : "obscur",
+    "other_forms" : [ "obscure", "obscures", "obscurs" ]
+  }, {
+    "canonical_form" : "intense",
+    "other_forms" : [ "intenses" ]
+  }, {
+    "canonical_form" : "large",
+    "other_forms" : [ "larges" ]
+  }, {
+    "canonical_form" : "impénétrable",
+    "other_forms" : [ "impénétrables" ]
+  }, {
+    "canonical_form" : "essentiel",
+    "other_forms" : [ "essentielle", "essentielles", "essentiels" ]
+  }, {
+    "canonical_form" : "vif",
+    "other_forms" : [ "vifs", "vive", "vives" ]
+  }, {
+    "canonical_form" : "sérieux",
+    "other_forms" : [ "sérieuse", "sérieuses" ]
+  }, {
+    "canonical_form" : "secret",
+    "other_forms" : [ "secrets", "secrète", "secrètes" ]
+  }, {
+    "canonical_form" : "riche",
+    "other_forms" : [ "riches" ]
+  }, {
+    "canonical_form" : "intime",
+    "other_forms" : [ "intimes" ]
+  }, {
+    "canonical_form" : "infini",
+    "other_forms" : [ "infinie", "infinies", "infinis" ]
+  }, {
+    "canonical_form" : "grave",
+    "other_forms" : [ "graves" ]
+  }, {
+    "canonical_form" : "difficile",
+    "other_forms" : [ "difficiles" ]
+  }, {
+    "canonical_form" : "beau",
+    "other_forms" : [ "beaux", "bel", "belle", "belles" ]
+  }, {
+    "canonical_form" : "épais",
+    "other_forms" : [ "épaisse", "épaisses" ]
+  }, {
+    "canonical_form" : "énorme",
+    "other_forms" : [ "énormes" ]
+  }, {
+    "canonical_form" : "sombre",
+    "other_forms" : [ "sombres" ]
+  }, {
+    "canonical_form" : "intelligent",
+    "other_forms" : [ "intelligente", "intelligentes", "intelligents" ]
+  }, {
+    "canonical_form" : "insondable",
+    "other_forms" : [ "insondables" ]
+  }, {
+    "canonical_form" : "immense",
+    "other_forms" : [ "immenses" ]
+  }, {
+    "canonical_form" : "bas",
+    "other_forms" : [ "basse", "basses" ]
+  }, {
+    "canonical_form" : "aigu",
+    "other_forms" : [ "aigus", "aiguë", "aiguës" ]
+  }, {
+    "canonical_form" : "absolu",
+    "other_forms" : [ "absolue", "absolues", "absolus" ]
+  }, {
+    "canonical_form" : "savant",
+    "other_forms" : [ "savante", "savantes", "savants" ]
+  }, {
+    "canonical_form" : "sévère",
+    "other_forms" : [ "sévères" ]
+  }, {
+    "canonical_form" : "vrai",
+    "other_forms" : [ "vraie", "vraies", "vrais" ]
+  }, {
+    "canonical_form" : "ésotérique",
+    "other_forms" : [ "ésotériques" ]
+  }, {
+    "canonical_form" : "pénétrant",
+    "other_forms" : [ "pénétrante", "pénétrantes", "pénétrants" ]
+  }, {
+    "canonical_form" : "approfondi",
+    "other_forms" : [ "approfondie", "approfondies", "approfondis" ]
+  }, {
+    "canonical_form" : "caverneux",
+    "other_forms" : [ "caverneuse", "caverneuses" ]
+  }, {
+    "canonical_form" : "complet",
+    "other_forms" : [ "complets", "complète", "complètes" ]
+  }, {
+    "canonical_form" : "creux",
+    "other_forms" : [ "creuse", "creuses" ]
+  }, {
+    "canonical_form" : "dense",
+    "other_forms" : [ "denses" ]
+  }, {
+    "canonical_form" : "intérieur",
+    "other_forms" : [ "intérieure", "intérieures", "intérieurs" ]
+  }, {
+    "canonical_form" : "puissant",
+    "other_forms" : [ "puissante", "puissantes", "puissants" ]
+  }, {
+    "canonical_form" : "sépulcral",
+    "other_forms" : [ "sépulcrale", "sépulcrales", "sépulcraux" ]
+  }, {
+    "canonical_form" : "éternel",
+    "other_forms" : [ "éternelle", "éternelles", "éternels" ]
+  }, {
+    "canonical_form" : "mystérieux",
+    "other_forms" : [ "mystérieuse", "mystérieuses" ]
+  }, {
+    "canonical_form" : "lucide",
+    "other_forms" : [ "lucides" ]
+  }, {
+    "canonical_form" : "foncier",
+    "other_forms" : [ "fonciers", "foncière", "foncières" ]
+  }, {
+    "canonical_form" : "abstrus",
+    "other_forms" : [ "abstruse", "abstruses" ]
+  }, {
+    "canonical_form" : "durable",
+    "other_forms" : [ "durables" ]
+  }, {
+    "canonical_form" : "extrême",
+    "other_forms" : [ "extrêmes" ]
+  }, {
+    "canonical_form" : "majeur",
+    "other_forms" : [ "majeure", "majeures", "majeurs" ]
+  }, {
+    "canonical_form" : "métaphysique",
+    "other_forms" : [ "métaphysiques" ]
+  }, {
+    "canonical_form" : "personnel",
+    "other_forms" : [ "personnelle", "personnelles", "personnels" ]
+  }, {
+    "canonical_form" : "perspicace",
+    "other_forms" : [ "perspicaces" ]
+  }, {
+    "canonical_form" : "plongeant",
+    "other_forms" : [ "plongeante", "plongeantes", "plongeants" ]
+  }, {
+    "canonical_form" : "sagace",
+    "other_forms" : [ "sagaces" ]
+  }, {
+    "canonical_form" : "viscéral",
+    "other_forms" : [ "viscérale", "viscérales", "viscéraux" ]
+  }, {
+    "canonical_form" : "vital",
+    "other_forms" : [ "vitale", "vitales", "vitaux" ]
+  }, {
+    "canonical_form" : "éthéré",
+    "other_forms" : [ "éthérée", "éthérées", "éthérés" ]
+  }, {
+    "canonical_form" : "lointain",
+    "other_forms" : [ "lointaine", "lointaines", "lointains" ]
+  }, {
+    "canonical_form" : "latent",
+    "other_forms" : [ "latente", "latentes", "latents" ]
+  }, {
+    "canonical_form" : "ardent",
+    "other_forms" : [ "ardente", "ardentes", "ardents" ]
+  }, {
+    "canonical_form" : "clairvoyant",
+    "other_forms" : [ "clairvoyante", "clairvoyantes", "clairvoyants" ]
+  }, {
+    "canonical_form" : "cordial",
+    "other_forms" : [ "cordiale", "cordiales", "cordiaux" ]
+  }, {
+    "canonical_form" : "extatique",
+    "other_forms" : [ "extatiques" ]
+  }, {
+    "canonical_form" : "inférieur",
+    "other_forms" : [ "inférieure", "inférieures", "inférieurs" ]
+  }, {
+    "canonical_form" : "abyssal",
+    "other_forms" : [ "abyssale", "abyssales", "abyssaux" ]
+  } ]
+}

@@ -1,0 +1,6 @@
+# Others (as stop words)
+coordination.conjunctions=mais ou et donc or ni car
+
+other.stop.words=à ici là y vers sur sous dans en n ne ni pas jamais plus moins fois
+
+stop.characters=- –

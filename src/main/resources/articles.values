@@ -1,0 +1,3 @@
+# Articles (as stop words)
+articles.definite=l la le les d de des du à au aux
+articles.indefinite=un une d de des

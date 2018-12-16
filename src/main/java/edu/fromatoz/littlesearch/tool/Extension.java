@@ -17,7 +17,12 @@ public enum Extension {
 	/**
 	 * The singleton instance for the extension of <b>text</b>.
 	 */
-	TEXT("txt");
+	TEXT("txt"),
+
+	/**
+	 * The singleton instance for the extension of <b>values</b>.
+	 */
+	VALUES("values");
 
 	private final String value;
 

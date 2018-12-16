@@ -2,22 +2,4 @@
 
 # This script allows to use the search engine in a fairly natural way.
 
-words="$*";
-
-words=${words//à/\\u00e0};
-words=${words//â/\\u00e2};
-words=${words//ä/\\u00e4};
-words=${words//ç/\\u00e7};
-words=${words//è/\\u00e8};
-words=${words//é/\\u00e9};
-words=${words//ê/\\u00ea};
-words=${words//ë/\\u00eb};
-words=${words//î/\\u00ee};
-words=${words//ï/\\u00ef};
-words=${words//ô/\\u00f4};
-words=${words//ö/\\u00f6};
-words=${words//ù/\\u00f9};
-words=${words//û/\\u00fb};
-words=${words//ü/\\u00fc};
-
-mvn exec:java -Dexec.mainClass="edu.fromatoz.littlesearch.app.SearchEngine" -Dexec.args="${words}";
+mvn exec:java -Dexec.mainClass="edu.fromatoz.littlesearch.app.SearchEngine" -Dexec.args="$*";

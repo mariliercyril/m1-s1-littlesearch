@@ -1,7 +1,7 @@
 package edu.fromatoz.littlesearch.app;
 
 import java.io.File;
-
+import java.io.UnsupportedEncodingException;
 import java.util.List;
 import java.util.ListIterator;
 
@@ -52,8 +52,10 @@ public class SearchEngine {
 		String words = "";
 		if (args.length > 0) {
 			for (String word : args) {
-				for (SpecialCharacter specialCharacter : SpecialCharacter.values()) {
-					word = word.replace(specialCharacter.getKey(), specialCharacter.getValue());
+				try {
+					word = new String(word.getBytes("UTF-8"));
+				} catch (UnsupportedEncodingException uee) {
+					uee.printStackTrace();
 				}
 				wordsBuilder.append(word + " ");
 			}
@@ -82,54 +84,6 @@ public class SearchEngine {
 					System.out.println("Document " + ++i + ":\n" + hitDocument.get("content"));
 				}
 			}
-		}
-	}
-
-	private enum SpecialCharacter {
-
-		A_GRAVE_ACCENT("\\u00e0", "à"),
-		A_CIRCUMFLEX_ACCENT("\\u00e2", "â"),
-		A_UMLAUT("\\u00e4", "ä"),
-		C_CEDILLA("\\u00e7", "ç"),
-		E_GRAVE_ACCENT("\\u00e8", "è"),
-		E_ACUTE_ACCENT("\\u00e9", "é"),
-		E_CIRCUMFLEX_ACCENT("\\u00ea", "ê"),
-		E_UMLAUT("\\u00eb", "ë"),
-		I_CIRCUMFLEX_ACCENT("\\u00ee", "î"),
-		I_UMLAUT("\\u00ef", "ï"),
-		O_CIRCUMFLEX_ACCENT("\\u00f4", "ô"),
-		O_UMLAUT("\\u00f6", "ö"),
-		U_GRAVE_ACCENT("\\u00f9", "ù"),
-		U_CIRCUMFLEX_ACCENT("\\u00fb", "û"),
-		U_UMLAUT("\\u00fc", "ü");
-
-		private final String key;
-		private final String value;
-
-		private SpecialCharacter(String key, String value) {
-
-			this.key = key;
-			this.value = value;
-		}
-
-		/**
-		 * Returns the key of the special character.
-		 * 
-		 * @return the key of the special character
-		 */
-		private String getKey() {
-
-			return key;
-		}
-
-		/**
-		 * Returns the value of the special character.
-		 * 
-		 * @return the value of the special character
-		 */
-		private String getValue() {
-
-			return value;
 		}
 	}
 

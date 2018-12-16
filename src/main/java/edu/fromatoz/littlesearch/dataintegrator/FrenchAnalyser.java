@@ -61,7 +61,6 @@ public class FrenchAnalyser {
 		// Does the task 6: Disambiguates "être" tokens
 		tokens = disambiguate(tokens, "été", "être");
 		tokens = disambiguate(tokens, "est", "être");
-		tokens = disambiguate(tokens, "Être", "être");
 		// Does the task 7: Disambiguates "avoir" tokens
 		tokens = disambiguate(tokens, "a", "avoir");
 		// Does the task 8: Disambiguates "aujourd'hui" tokens

@@ -4,13 +4,7 @@ import java.util.Arrays;
 import java.util.Set;
 import java.util.TreeSet;
 
-import org.jsoup.nodes.Element;
-
-import edu.fromatoz.littlesearch.app.DataIntegrator;
-import edu.fromatoz.littlesearch.app.DataIntegrator.CNRTLParser;
-
 import edu.fromatoz.littlesearch.tool.ValuesFileReader;
-import edu.fromatoz.littlesearch.tool.Separator;
 
 /**
  * The {@code FrenchAnalyser} class defines an analyser for the French language.
@@ -25,15 +19,11 @@ public class FrenchAnalyser {
 
 	private String text;
 
-	private CNRTLParser cnrtlParser;
-
 	public FrenchAnalyser(String text) {
 
 		this.text = text;
 		// For monitoring...
 		System.out.print("\n" + this.text);
-
-		cnrtlParser = new CNRTLParser();
 	}
 
 	/**
@@ -45,8 +35,7 @@ public class FrenchAnalyser {
 	 * <li><b>discard the digits</b> (by the method "{@code discardDigits}");</li>
 	 * <li><b>tokenize the text</b> (by the method "{@code tokenizeByWhitespace}"), task which returns a first set of <i>tokens</i>;</li>
 	 * <li><b>filter the stop words</b> (by the method "{@code filterStopWords}");</li>
-	 * <li><b>filter the proper nouns</b> (by the method "{@code filterProperNouns}");</li>
-	 * <li><b>annotate proper nouns which have not been filtered</b> (by the method "{@code annotate}");</li>
+	 * <li><b>annotate proper nouns</b> (by the method "{@code annotate}");</li>
 	 * <li><b>disambiguate "être" tokens</b> (by the method "{@code disambiguate}");</li>
 	 * <li><b>disambiguate "avoir" tokens</b> (by the method "{@code disambiguate}");</li>
 	 * <li><b>disambiguate "aujourd'hui" tokens</b> (by the method "{@code disambiguate}");</li>
@@ -67,20 +56,15 @@ public class FrenchAnalyser {
 		Set<String> tokens = tokenizeByWhitespace();
 		// Does the task 4: Filters the stop words
 		tokens = filterStopWords(tokens);
-		/*
-		 * A NER (Named-Entity Recognition) for proper noun...
-		 */
-		// Does the task 5: Filters the proper nouns
-		tokens = filterProperNouns(tokens);
-		// Does the task 6: Annotates proper nouns which have not been filtered
+		// Does the task 5: Annotates proper nouns (for a NER (Named-Entity Recognition) for proper noun)
 		tokens = annotate(tokens, "proper.noun");
-		// Does the task 7: Disambiguates "être" tokens
+		// Does the task 6: Disambiguates "être" tokens
 		tokens = disambiguate(tokens, "été", "être");
 		tokens = disambiguate(tokens, "est", "être");
 		tokens = disambiguate(tokens, "Être", "être");
-		// Does the task 8: Disambiguates "avoir" tokens
+		// Does the task 7: Disambiguates "avoir" tokens
 		tokens = disambiguate(tokens, "a", "avoir");
-		// Does the task 9: Disambiguates "aujourd'hui" tokens
+		// Does the task 8: Disambiguates "aujourd'hui" tokens
 		tokens = disambiguate(tokens, "aujourd", "aujourd'hui");
 		tokens = disambiguate(tokens, "hui", "aujourd'hui");
 
@@ -139,45 +123,19 @@ public class FrenchAnalyser {
 	}
 
 	/**
-	 * Filter the proper nouns and returns the set of tokens.
-	 * 
-	 * @param tokens
-	 * 	an initial version of the set of tokens
-	 * 
-	 * @return a final version of the set of tokens (it could be the initial version)
-	 */
-	private Set<String> filterProperNouns(Set<String> tokens) {
-
-		tokens.removeIf(t -> {
-			// Gets the initial...
-			String initial = String.valueOf(t.charAt(0));
-			// If the initial is in uppercase, tries to find the token in question...
-			if (initial.equals(initial.toUpperCase())) {
-				String url = String.format(DataIntegrator.SYNONYMY_FORMAT, t + Separator.SLASH.getValue());
-				Element htmlElement = cnrtlParser.getFirstHTMLElement(url, "li[id=vitemselected]");
-				return (htmlElement == null);
-			} else {
-				return false;
-			}
-		});
-
-		return tokens;
-	}
-
-	/**
 	 * Annotates a token which is contained by the set of tokens and returns the set of tokens.
 	 * 
 	 * @param tokens
 	 * 	an initial version of the set of tokens
-	 * @param nameEntityFileName
-	 *  the name of the name entity file
+	 * @param namedEntityFileName
+	 *  the name of the named-entity file
 	 * 
 	 * @return a final version of the set of tokens (it could be the initial version)
 	 */
-	private Set<String> annotate(Set<String> tokens, String nameEntityFileName) {
+	private Set<String> annotate(Set<String> tokens, String namedEntityFileName) {
 
-		for (String properNoun : getWords(nameEntityFileName)) {
-			tokens = disambiguate(tokens, properNoun, properNoun + "[" + nameEntityFileName.toUpperCase() + "]");
+		for (String properNoun : getWords(namedEntityFileName)) {
+			tokens = disambiguate(tokens, properNoun, properNoun + "[" + namedEntityFileName.toUpperCase() + "]");
 		}
 
 		return tokens;
@@ -205,6 +163,14 @@ public class FrenchAnalyser {
 		return tokens;
 	}
 
+	/**
+	 * Returns words as a set of {@code String}.
+	 * 
+	 * @param valuesFileName
+	 *  the name of the values file
+	 * 
+	 * @return words as a {@code Set<String>}
+	 */
 	private Set<String> getWords(String valuesFileName) {
 
 		Set<String> words = new TreeSet<>();

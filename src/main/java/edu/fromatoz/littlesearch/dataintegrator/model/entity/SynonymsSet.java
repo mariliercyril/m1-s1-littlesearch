@@ -36,7 +36,7 @@ public class SynonymsSet {
 	private static final String LOG_FORMAT = " [canonical_form: %S; part_of_speech: %S]";
 
 	// The date format for logs...
-	private final SimpleDateFormat SIMPLE_DATE_FORMAT = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+	private SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 
 	private String partOfSpeech;
 	private Word[] synonyms;
@@ -101,14 +101,8 @@ public class SynonymsSet {
 	private void monitor(FrenchTagger tagger) {
 
 		// TODO: To replace by log...
-		System.out.print(SIMPLE_DATE_FORMAT.format(new Date()));
+		System.out.print(simpleDateFormat.format(new Date()));
 		System.out.println(String.format(LOG_FORMAT, tagger.getCanonicalForm(), tagger.getPartOfSpeech()));
-		try {
-			Thread.sleep(10_000);
-		} catch (InterruptedException ie) {
-			ie.printStackTrace();
-			Thread.currentThread().interrupt();
-		}
 	}
 
 }

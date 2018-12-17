@@ -80,7 +80,7 @@ public class DataIntegrator {
 	public static void main(String[] args) {
 
 		// Gives the text file name to the integrator...
-		String textFileName = "GOTTFRIED_WILHELM_LEIBNIZ";
+		String textFileName = "HYPATIE";
 		if (args.length > 0) {
 			textFileName = args[0];
 		}
@@ -88,14 +88,13 @@ public class DataIntegrator {
 
 		JSONWriter jsonWriter = new JSONWriter();
 
-		BufferedReader bufferedReader = null;
-		try {
-			bufferedReader = new BufferedReader(new InputStreamReader(new FileInputStream(textFilePath)));
-			String text = "";
+		try (BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(new FileInputStream(textFilePath)))) {
+			StringBuilder textBuilder = new StringBuilder();
 			String paragraph;
 			while ((paragraph = bufferedReader.readLine()) != null) {
-				text += paragraph + "\n";
+				textBuilder.append(paragraph + "\n");
 			}
+			String text = textBuilder.toString();
 			if (!(text.isEmpty())) {
 				// Injects the text in question to the French analyser...
 				FrenchAnalyser frenchAnalyser = new FrenchAnalyser(text);
@@ -112,14 +111,6 @@ public class DataIntegrator {
 			fnfe.printStackTrace();
 		} catch (IOException ioe) {
 			ioe.printStackTrace();
-		} finally {
-			try {
-				if (bufferedReader != null) {
-					bufferedReader.close();
-				}
-			} catch (IOException ioe) {
-				ioe.printStackTrace();
-			}
 		}
 	}
 
@@ -190,12 +181,14 @@ public class DataIntegrator {
 			Elements elements = null;
 
 			try {
+				Thread.sleep(2_000);
+				
 				Document document = (Jsoup.connect(url)).get();
 				if (document != null) {
 					elements = document.select(cssQuery);
 				}
-			} catch (IOException ioe) {
-				//ioe.printStackTrace();
+			} catch (InterruptedException | IOException ie) {
+				Thread.currentThread().interrupt();
 			}
 
 			return elements;

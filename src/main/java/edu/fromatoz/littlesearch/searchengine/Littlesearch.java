@@ -126,14 +126,6 @@ public class Littlesearch {
 			}
 		} catch (IOException ioe) {
 			ioe.printStackTrace();
-		} finally {
-			try {
-				if (indexWriter != null) {
-					indexWriter.close();
-				}
-			} catch (IOException ioe) {
-				ioe.printStackTrace();
-			}
 		}
 
 		return false;
@@ -165,25 +157,17 @@ public class Littlesearch {
 
 		String text = "";
 
-		BufferedReader bufferedReader = null;
-		try {
-			bufferedReader = new BufferedReader(new InputStreamReader(new FileInputStream(textFilePath.toString())));
+		try (BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(new FileInputStream(textFilePath.toString())))) {
+			StringBuilder textBuilder = new StringBuilder();
 			String paragraph;
 			while ((paragraph = bufferedReader.readLine()) != null) {
-				text += paragraph + "\n";
+				textBuilder.append(paragraph + "\n");
 			}
+			text = textBuilder.toString();
 		} catch (FileNotFoundException fnfe) {
 			fnfe.printStackTrace();
 		} catch (IOException ioe) {
 			ioe.printStackTrace();
-		} finally {
-			try {
-				if (bufferedReader != null) {
-					bufferedReader.close();
-				}
-			} catch (IOException ioe) {
-				ioe.printStackTrace();
-			}
 		}
 
 		return text;
@@ -199,7 +183,7 @@ public class Littlesearch {
 	 */
 	public static List<Document> search(String words) {
 
-		List<Document> hitDocs = new ArrayList<Document>();
+		List<Document> hitDocs = new ArrayList<>();
 
 		try {
 			// Opens the directory where the index was stored...

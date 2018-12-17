@@ -29,9 +29,9 @@ public class FrenchTagger {
 
 		String htmlElementTextForPartOfSpeech = getHTMLElementTextForPartOfSpeech(word);
 		if (htmlElementTextForPartOfSpeech != null) {
-			for (PartOfSpeech partOfSpeech : PartOfSpeech.values()) {
-				if (htmlElementTextForPartOfSpeech.contains(partOfSpeech.getCNRTLValue())) {
-					this.partOfSpeech = partOfSpeech;
+			for (PartOfSpeech pos : PartOfSpeech.values()) {
+				if (htmlElementTextForPartOfSpeech.contains(pos.getCNRTLValue())) {
+					this.partOfSpeech = pos;
 					canonicalForm = lemmatise(word);
 					break;
 				}

@@ -19,6 +19,8 @@ public class FrenchAnalyser {
 
 	private String text;
 
+	private Set<String> tokens;
+
 	public FrenchAnalyser(String text) {
 
 		this.text = text;
@@ -53,19 +55,19 @@ public class FrenchAnalyser {
 		// TODO: POSSIBLE FEATURE: To develop a NER (Named-Entity Recognition) for date (in particular).
 		discardDigits();
 		// Does the task 3: Tokenizes the text by whitespace (HORIZONTAL_TABULATION, LINE_FEED, FORM_FEED and CARRIAGE_RETURN)
-		Set<String> tokens = tokenizeByWhitespace();
+		tokens = tokenizeByWhitespace();
 		// Does the task 4: Filters the stop words
-		tokens = filterStopWords(tokens);
+		filterStopWords();
 		// Does the task 5: Annotates proper nouns (for a NER (Named-Entity Recognition) for proper noun)
-		tokens = annotate(tokens, "proper.noun");
+		annotate("proper.noun");
 		// Does the task 6: Disambiguates "être" tokens
-		tokens = disambiguate(tokens, "été", "être");
-		tokens = disambiguate(tokens, "est", "être");
+		disambiguate("être", "été");
+		disambiguate("être", "est");
 		// Does the task 7: Disambiguates "avoir" tokens
-		tokens = disambiguate(tokens, "a", "avoir");
+		disambiguate("avoir", "a");
 		// Does the task 8: Disambiguates "aujourd'hui" tokens
-		tokens = disambiguate(tokens, "aujourd", "aujourd'hui");
-		tokens = disambiguate(tokens, "hui", "aujourd'hui");
+		disambiguate("aujourd'hui", "aujourd");
+		disambiguate("aujourd'hui", "hui");
 
 		// For monitoring...
 		System.out.println(tokens);
@@ -100,14 +102,9 @@ public class FrenchAnalyser {
 	}
 
 	/**
-	 * Filter the stop words and returns the set of tokens.
-	 * 
-	 * @param tokens
-	 * 	an initial version of the set of tokens
-	 * 
-	 * @return a final version of the set of tokens (it could be the initial version)
+	 * Filters the stop words.
 	 */
-	private Set<String> filterStopWords(Set<String> tokens) {
+	private void filterStopWords() {
 
 		Set<String> stopWords = getWords("pronouns");
 		stopWords.addAll(getWords("determinants"));
@@ -116,50 +113,36 @@ public class FrenchAnalyser {
 
 		stopWords.stream().forEach(w -> tokens.removeIf(t -> (t.toLowerCase()).equals(w)));
 
-		tokens.removeIf(t -> t.isEmpty());
-
-		return tokens;
+		tokens.removeIf(String::isEmpty);
 	}
 
 	/**
-	 * Annotates a token which is contained by the set of tokens and returns the set of tokens.
+	 * Annotates a token which is contained by the set of tokens.
 	 * 
-	 * @param tokens
-	 * 	an initial version of the set of tokens
 	 * @param namedEntityFileName
 	 *  the name of the named-entity file
-	 * 
-	 * @return a final version of the set of tokens (it could be the initial version)
 	 */
-	private Set<String> annotate(Set<String> tokens, String namedEntityFileName) {
+	private void annotate(String namedEntityFileName) {
 
 		for (String properNoun : getWords(namedEntityFileName)) {
-			tokens = disambiguate(tokens, properNoun, properNoun + "[" + namedEntityFileName.toUpperCase() + "]");
+			disambiguate(properNoun + "[" + namedEntityFileName.toUpperCase() + "]", properNoun);
 		}
-
-		return tokens;
 	}
 
 	/**
-	 * Disambiguates a token which is contained by the set of tokens and returns the set of tokens.
+	 * Disambiguates a token which is contained by the set of tokens.
 	 * 
-	 * @param tokens
-	 * 	an initial version of the set of tokens
-	 * @param ambiguousToken
-	 *  the token to be disambiguated
 	 * @param disambiguatedToken
 	 *  a token for disambiguating the token in question
-	 * 
-	 * @return a final version of the set of tokens (it could be the initial version)
+	 * @param ambiguousToken
+	 *  the token to be disambiguated
 	 */
-	private Set<String> disambiguate(Set<String> tokens, String ambiguousToken, String disambiguatedToken) {
+	private void disambiguate(String disambiguatedToken, String ambiguousToken) {
 
 		if (tokens.contains(ambiguousToken)) {
 			tokens.add(disambiguatedToken);
 			tokens.remove(ambiguousToken);
 		}
-
-		return tokens;
 	}
 
 	/**

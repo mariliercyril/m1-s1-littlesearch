@@ -106,6 +106,7 @@ public class FrenchLemmatiser {
 		String url = String.format(DataIntegrator.DEFINITION_FORMAT, canonicalForm + Separator.SLASH.getValue() + partOfSpeech.getValue());
 		Element htmlElement = cnrtlParser.getFirstHTMLElement(url, "li[id=vitemselected]");
 
+		// TODO: To refactor...
 		if (htmlElement != null) {
 			String htmlElementText = (htmlElement.select("span")).text();
 			// Parses the HTML element text in the <span> tag...
@@ -115,7 +116,7 @@ public class FrenchLemmatiser {
 				if (termination.contains(Separator.COMMA.getValue())) {
 					termination = termination.substring(0, termination.indexOf(Separator.COMMA.getValue()));
 				}
-				if (termination.contains("(") && termination.contains(")")) {
+				if (containParentheses(termination)) {
 					termination = termination.replaceAll("\\(|\\)", "");
 				}
 				termination = termination.trim();
@@ -132,6 +133,11 @@ public class FrenchLemmatiser {
 		}
 
 		return singularForm;
+	}
+
+	private boolean containParentheses(String termination) {
+
+		return (termination.contains("(") && termination.contains(")"));
 	}
 
 	/**

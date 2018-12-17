@@ -1,14 +1,11 @@
 package edu.fromatoz.littlesearch.dataintegrator.model;
 
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
 
 import java.nio.charset.StandardCharsets;
-
-import com.fasterxml.jackson.core.JsonProcessingException;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectWriter;
@@ -52,10 +49,6 @@ public class JSONWriter {
 						objectWripper.writeValue(new OutputStreamWriter(new FileOutputStream(jsonFile), StandardCharsets.ISO_8859_1), synonymsSet);
 						// TODO: To replace by log...
 						System.out.println(objectWripper.writeValueAsString(synonymsSet));
-					} catch (JsonProcessingException jpe) {
-						jpe.printStackTrace();
-					} catch (FileNotFoundException fnfe) {
-						fnfe.printStackTrace();
 					} catch (IOException ioe) {
 						ioe.printStackTrace();
 					}

@@ -60,7 +60,7 @@ public class SearchEngine {
 				wordsBuilder.append(word + " ");
 			}
 			words = wordsBuilder.toString();
-			words = words.substring(0, words.lastIndexOf(" "));
+			words = words.substring(0, words.lastIndexOf(' '));
 		} else {
 			System.out.println("Use: ./searchFor <word>...");
 			System.exit(0);

@@ -1,0 +1,61 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "linguiste",
+    "other_forms" : [ "linguistes" ]
+  }, {
+    "canonical_form" : "lexicographe",
+    "other_forms" : [ "lexicographes" ]
+  }, {
+    "canonical_form" : "lexicologue",
+    "other_forms" : [ "lexicologues" ]
+  }, {
+    "canonical_form" : "philologue",
+    "other_forms" : [ "philologues" ]
+  }, {
+    "canonical_form" : "phonologue",
+    "other_forms" : [ "phonologiste", "phonologistes", "phonologues" ]
+  }, {
+    "canonical_form" : "phonéticien",
+    "other_forms" : [ "phonéticienne", "phonéticiennes", "phonéticiens" ]
+  }, {
+    "canonical_form" : "sinologue",
+    "other_forms" : [ "sinologues" ]
+  }, {
+    "canonical_form" : "slaviste",
+    "other_forms" : [ "slavistes" ]
+  }, {
+    "canonical_form" : "syntacticien",
+    "other_forms" : [ "syntacticienne", "syntacticiennes", "syntacticiens" ]
+  }, {
+    "canonical_form" : "sémanticien",
+    "other_forms" : [ "sémanticienne", "sémanticiennes", "sémanticiens" ]
+  }, {
+    "canonical_form" : "latiniste",
+    "other_forms" : [ "latinistes" ]
+  }, {
+    "canonical_form" : "africaniste",
+    "other_forms" : [ "africanistes" ]
+  }, {
+    "canonical_form" : "arabisant",
+    "other_forms" : [ "arabisante", "arabisantes", "arabisants" ]
+  }, {
+    "canonical_form" : "dialectologue",
+    "other_forms" : [ "dialectologues" ]
+  }, {
+    "canonical_form" : "germaniste",
+    "other_forms" : [ "germanistes" ]
+  }, {
+    "canonical_form" : "helléniste",
+    "other_forms" : [ "hellénistes" ]
+  }, {
+    "canonical_form" : "hispaniste",
+    "other_forms" : [ "hispanistes" ]
+  }, {
+    "canonical_form" : "hébraïsant",
+    "other_forms" : [ "hébraïsante", "hébraïsantes", "hébraïsants" ]
+  }, {
+    "canonical_form" : "étymologiste",
+    "other_forms" : [ "étymologistes" ]
+  } ]
+}

@@ -1,0 +1,88 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "mot",
+    "other_forms" : [ "mots" ]
+  }, {
+    "canonical_form" : "parole",
+    "other_forms" : [ "paroles" ]
+  }, {
+    "canonical_form" : "pique",
+    "other_forms" : [ "piques" ]
+  }, {
+    "canonical_form" : "terme",
+    "other_forms" : [ "termes" ]
+  }, {
+    "canonical_form" : "boutade",
+    "other_forms" : [ "boutades" ]
+  }, {
+    "canonical_form" : "nom",
+    "other_forms" : [ "noms" ]
+  }, {
+    "canonical_form" : "vocable",
+    "other_forms" : [ "vocables" ]
+  }, {
+    "canonical_form" : "saillie",
+    "other_forms" : [ "saillies" ]
+  }, {
+    "canonical_form" : "rosserie",
+    "other_forms" : [ "rosseries" ]
+  }, {
+    "canonical_form" : "invective",
+    "other_forms" : [ "invectives" ]
+  }, {
+    "canonical_form" : "expression",
+    "other_forms" : [ "expressions" ]
+  }, {
+    "canonical_form" : "sentence",
+    "other_forms" : [ "sentences" ]
+  }, {
+    "canonical_form" : "repartie",
+    "other_forms" : [ "reparties" ]
+  }, {
+    "canonical_form" : "injure",
+    "other_forms" : [ "injures" ]
+  }, {
+    "canonical_form" : "dénomination",
+    "other_forms" : [ "dénominations" ]
+  }, {
+    "canonical_form" : "appellation",
+    "other_forms" : [ "appellations" ]
+  }, {
+    "canonical_form" : "pli",
+    "other_forms" : [ "plis" ]
+  }, {
+    "canonical_form" : "prétexte",
+    "other_forms" : [ "prétextes" ]
+  }, {
+    "canonical_form" : "sottise",
+    "other_forms" : [ "sottises" ]
+  }, {
+    "canonical_form" : "verbe",
+    "other_forms" : [ "verbes" ]
+  }, {
+    "canonical_form" : "pas",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "particule",
+    "other_forms" : [ "particules" ]
+  }, {
+    "canonical_form" : "message",
+    "other_forms" : [ "messages" ]
+  }, {
+    "canonical_form" : "lettre",
+    "other_forms" : [ "lettres" ]
+  }, {
+    "canonical_form" : "dicton",
+    "other_forms" : [ "dictons" ]
+  }, {
+    "canonical_form" : "billet",
+    "other_forms" : [ "billets" ]
+  }, {
+    "canonical_form" : "allocution",
+    "other_forms" : [ "allocutions" ]
+  }, {
+    "canonical_form" : "épigramme",
+    "other_forms" : [ "épigrammes" ]
+  } ]
+}

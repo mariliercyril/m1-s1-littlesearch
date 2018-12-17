@@ -1,0 +1,38 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "assassiner"
+  }, {
+    "canonical_form" : "tuer"
+  }, {
+    "canonical_form" : "abattre"
+  }, {
+    "canonical_form" : "assommer"
+  }, {
+    "canonical_form" : "fatiguer"
+  }, {
+    "canonical_form" : "frapper"
+  }, {
+    "canonical_form" : "égorger"
+  }, {
+    "canonical_form" : "étrangler"
+  }, {
+    "canonical_form" : "supprimer"
+  }, {
+    "canonical_form" : "poignarder"
+  }, {
+    "canonical_form" : "massacrer"
+  }, {
+    "canonical_form" : "accabler"
+  }, {
+    "canonical_form" : "calomnier"
+  }, {
+    "canonical_form" : "exécuter"
+  }, {
+    "canonical_form" : "immoler"
+  }, {
+    "canonical_form" : "importuner"
+  }, {
+    "canonical_form" : "maltraiter"
+  } ]
+}

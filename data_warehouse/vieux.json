@@ -1,0 +1,55 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "vieux",
+    "other_forms" : [ "vieil", "vieille", "vieilles" ]
+  }, {
+    "canonical_form" : "démodé",
+    "other_forms" : [ "démodée", "démodées", "démodés" ]
+  }, {
+    "canonical_form" : "suranné",
+    "other_forms" : [ "surannée", "surannées", "surannés" ]
+  }, {
+    "canonical_form" : "ancien",
+    "other_forms" : [ "ancienne", "anciennes", "anciens" ]
+  }, {
+    "canonical_form" : "antique",
+    "other_forms" : [ "antiques" ]
+  }, {
+    "canonical_form" : "désuet",
+    "other_forms" : [ "désuets", "désuète", "désuètes" ]
+  }, {
+    "canonical_form" : "vétuste",
+    "other_forms" : [ "vétustes" ]
+  }, {
+    "canonical_form" : "périmé",
+    "other_forms" : [ "périmée", "périmées", "périmés" ]
+  }, {
+    "canonical_form" : "vieillot",
+    "other_forms" : [ "vieillots", "vieillotte", "vieillottes" ]
+  }, {
+    "canonical_form" : "vieilli",
+    "other_forms" : [ "vieillie", "vieillies", "vieillis" ]
+  }, {
+    "canonical_form" : "archaïque",
+    "other_forms" : [ "archaïques" ]
+  }, {
+    "canonical_form" : "caduc",
+    "other_forms" : [ "caducs", "caduque", "caduques" ]
+  }, {
+    "canonical_form" : "usagé",
+    "other_forms" : [ "usagée", "usagées", "usagés" ]
+  }, {
+    "canonical_form" : "rococo",
+    "other_forms" : [ "rococos" ]
+  }, {
+    "canonical_form" : "âgé",
+    "other_forms" : [ "âgée", "âgées", "âgés" ]
+  }, {
+    "canonical_form" : "séculaire",
+    "other_forms" : [ "séculaires" ]
+  }, {
+    "canonical_form" : "décrépit",
+    "other_forms" : [ "décrépite", "décrépites", "décrépits" ]
+  } ]
+}

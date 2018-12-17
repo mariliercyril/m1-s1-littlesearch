@@ -1,0 +1,85 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "destin",
+    "other_forms" : [ "destins" ]
+  }, {
+    "canonical_form" : "sort",
+    "other_forms" : [ "sorts" ]
+  }, {
+    "canonical_form" : "fortune",
+    "other_forms" : [ "fortunes" ]
+  }, {
+    "canonical_form" : "hasard",
+    "other_forms" : [ "hasards" ]
+  }, {
+    "canonical_form" : "événement",
+    "other_forms" : [ "événements" ]
+  }, {
+    "canonical_form" : "vie",
+    "other_forms" : [ "vies" ]
+  }, {
+    "canonical_form" : "fatalité",
+    "other_forms" : [ "fatalités" ]
+  }, {
+    "canonical_form" : "état",
+    "other_forms" : [ "états" ]
+  }, {
+    "canonical_form" : "prédiction",
+    "other_forms" : [ "prédictions" ]
+  }, {
+    "canonical_form" : "providence",
+    "other_forms" : [ "providences" ]
+  }, {
+    "canonical_form" : "condition",
+    "other_forms" : [ "conditions" ]
+  }, {
+    "canonical_form" : "aventure",
+    "other_forms" : [ "aventures" ]
+  }, {
+    "canonical_form" : "avenir",
+    "other_forms" : [ "avenirs" ]
+  }, {
+    "canonical_form" : "étoile",
+    "other_forms" : [ "étoiles" ]
+  }, {
+    "canonical_form" : "malheur",
+    "other_forms" : [ "malheurs" ]
+  }, {
+    "canonical_form" : "lot",
+    "other_forms" : [ "lots" ]
+  }, {
+    "canonical_form" : "existence",
+    "other_forms" : [ "existences" ]
+  }, {
+    "canonical_form" : "chance",
+    "other_forms" : [ "chances" ]
+  }, {
+    "canonical_form" : "aléa",
+    "other_forms" : [ "aléas" ]
+  }, {
+    "canonical_form" : "oracle",
+    "other_forms" : [ "oracles" ]
+  }, {
+    "canonical_form" : "horoscope",
+    "other_forms" : [ "horoscopes" ]
+  }, {
+    "canonical_form" : "fatum",
+    "other_forms" : [ "fatums" ]
+  }, {
+    "canonical_form" : "dieu",
+    "other_forms" : [ "dieux" ]
+  }, {
+    "canonical_form" : "ciel",
+    "other_forms" : [ "ciels", "cieux" ]
+  }, {
+    "canonical_form" : "astre",
+    "other_forms" : [ "astres" ]
+  }, {
+    "canonical_form" : "adversité",
+    "other_forms" : [ "adversités" ]
+  }, {
+    "canonical_form" : "part",
+    "other_forms" : [ "parts" ]
+  } ]
+}

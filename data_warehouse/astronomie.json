@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "astronomie",
+    "other_forms" : [ "astronomies" ]
+  }, {
+    "canonical_form" : "cosmogonie",
+    "other_forms" : [ "cosmogonies" ]
+  }, {
+    "canonical_form" : "astrologie",
+    "other_forms" : [ "astrologies" ]
+  } ]
+}

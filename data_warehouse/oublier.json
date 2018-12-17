@@ -1,0 +1,50 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "oublier"
+  }, {
+    "canonical_form" : "négliger"
+  }, {
+    "canonical_form" : "abandonner"
+  }, {
+    "canonical_form" : "délaisser"
+  }, {
+    "canonical_form" : "laisser"
+  }, {
+    "canonical_form" : "passer"
+  }, {
+    "canonical_form" : "pardonner"
+  }, {
+    "canonical_form" : "omettre"
+  }, {
+    "canonical_form" : "manquer"
+  }, {
+    "canonical_form" : "transgresser"
+  }, {
+    "canonical_form" : "sauter"
+  }, {
+    "canonical_form" : "pécher"
+  }, {
+    "canonical_form" : "perdre"
+  }, {
+    "canonical_form" : "excepter"
+  }, {
+    "canonical_form" : "méconnaître"
+  }, {
+    "canonical_form" : "faillir"
+  }, {
+    "canonical_form" : "enterrer"
+  }, {
+    "canonical_form" : "effacer"
+  }, {
+    "canonical_form" : "déserter"
+  }, {
+    "canonical_form" : "désapprendre"
+  }, {
+    "canonical_form" : "dormir"
+  }, {
+    "canonical_form" : "amnistier"
+  }, {
+    "canonical_form" : "épargner"
+  } ]
+}

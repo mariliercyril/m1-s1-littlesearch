@@ -1,0 +1,61 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "universel",
+    "other_forms" : [ "universelle", "universelles", "universels" ]
+  }, {
+    "canonical_form" : "général",
+    "other_forms" : [ "générale", "générales", "généraux" ]
+  }, {
+    "canonical_form" : "international",
+    "other_forms" : [ "internationale", "internationales", "internationaux" ]
+  }, {
+    "canonical_form" : "unanime",
+    "other_forms" : [ "unanimes" ]
+  }, {
+    "canonical_form" : "planétaire",
+    "other_forms" : [ "planétaires" ]
+  }, {
+    "canonical_form" : "mondial",
+    "other_forms" : [ "mondiale", "mondiales", "mondiaux" ]
+  }, {
+    "canonical_form" : "cosmique",
+    "other_forms" : [ "cosmiques" ]
+  }, {
+    "canonical_form" : "commun",
+    "other_forms" : [ "commune", "communes", "communs" ]
+  }, {
+    "canonical_form" : "universaliste",
+    "other_forms" : [ "universalistes" ]
+  }, {
+    "canonical_form" : "public",
+    "other_forms" : [ "publics", "publique", "publiques" ]
+  }, {
+    "canonical_form" : "proverbial",
+    "other_forms" : [ "proverbiale", "proverbiales", "proverbiaux" ]
+  }, {
+    "canonical_form" : "polyvalent",
+    "other_forms" : [ "polyvalente", "polyvalentes", "polyvalents" ]
+  }, {
+    "canonical_form" : "omniscient",
+    "other_forms" : [ "omnisciente", "omniscientes", "omniscients" ]
+  }, {
+    "canonical_form" : "oecuménique",
+    "other_forms" : [ "oecuméniques" ]
+  }, {
+    "canonical_form" : "infini",
+    "other_forms" : [ "infinie", "infinies", "infinis" ]
+  }, {
+    "canonical_form" : "encyclopédique",
+    "other_forms" : [ "encyclopédiques" ]
+  }, {
+    "canonical_form" : "céleste",
+    "other_forms" : [ "célestes" ]
+  }, {
+    "canonical_form" : "complet",
+    "other_forms" : [ "complets", "complète", "complètes" ]
+  }, {
+    "canonical_form" : "astral",
+    "other_forms" : [ "astrale", "astrales", "astraux" ]
+  } ]
+}

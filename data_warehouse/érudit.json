@@ -1,0 +1,25 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "érudit",
+    "other_forms" : [ "érudite", "érudites", "érudits" ]
+  }, {
+    "canonical_form" : "savant",
+    "other_forms" : [ "savante", "savantes", "savants" ]
+  }, {
+    "canonical_form" : "lettré",
+    "other_forms" : [ "lettrée", "lettrées", "lettrés" ]
+  }, {
+    "canonical_form" : "habile",
+    "other_forms" : [ "habiles" ]
+  }, {
+    "canonical_form" : "docte",
+    "other_forms" : [ "doctes" ]
+  }, {
+    "canonical_form" : "chercheur",
+    "other_forms" : [ "chercheurs", "chercheuse", "chercheuses" ]
+  }, {
+    "canonical_form" : "mandarin",
+    "other_forms" : [ "mandarins" ]
+  } ]
+}

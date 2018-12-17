@@ -1,0 +1,133 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "travers",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "manie",
+    "other_forms" : [ "manies" ]
+  }, {
+    "canonical_form" : "tic",
+    "other_forms" : [ "tics" ]
+  }, {
+    "canonical_form" : "imperfection",
+    "other_forms" : [ "imperfections" ]
+  }, {
+    "canonical_form" : "défaut",
+    "other_forms" : [ "défauts" ]
+  }, {
+    "canonical_form" : "vice",
+    "other_forms" : [ "vices" ]
+  }, {
+    "canonical_form" : "faiblesse",
+    "other_forms" : [ "faiblesses" ]
+  }, {
+    "canonical_form" : "marotte",
+    "other_forms" : [ "marottes" ]
+  }, {
+    "canonical_form" : "toquade",
+    "other_forms" : [ "toquades" ]
+  }, {
+    "canonical_form" : "maladie",
+    "other_forms" : [ "maladies" ]
+  }, {
+    "canonical_form" : "goût",
+    "other_forms" : [ "goûts" ]
+  }, {
+    "canonical_form" : "défectuosité",
+    "other_forms" : [ "défectuosités" ]
+  }, {
+    "canonical_form" : "rage",
+    "other_forms" : [ "rages" ]
+  }, {
+    "canonical_form" : "infirmité",
+    "other_forms" : [ "infirmités" ]
+  }, {
+    "canonical_form" : "habitude",
+    "other_forms" : [ "habitudes" ]
+  }, {
+    "canonical_form" : "fureur",
+    "other_forms" : [ "fureurs" ]
+  }, {
+    "canonical_form" : "frénésie",
+    "other_forms" : [ "frénésies" ]
+  }, {
+    "canonical_form" : "caprice",
+    "other_forms" : [ "caprices" ]
+  }, {
+    "canonical_form" : "tort",
+    "other_forms" : [ "torts" ]
+  }, {
+    "canonical_form" : "tare",
+    "other_forms" : [ "tares" ]
+  }, {
+    "canonical_form" : "tache",
+    "other_forms" : [ "taches" ]
+  }, {
+    "canonical_form" : "manière",
+    "other_forms" : [ "manières" ]
+  }, {
+    "canonical_form" : "démérite",
+    "other_forms" : [ "démérites" ]
+  }, {
+    "canonical_form" : "démangeaison",
+    "other_forms" : [ "démangeaisons" ]
+  }, {
+    "canonical_form" : "difformité",
+    "other_forms" : [ "difformités" ]
+  }, {
+    "canonical_form" : "côté",
+    "other_forms" : [ "côtés" ]
+  }, {
+    "canonical_form" : "bizarrerie",
+    "other_forms" : [ "bizarreries" ]
+  }, {
+    "canonical_form" : "loup",
+    "other_forms" : [ "loups", "louve", "louves" ]
+  }, {
+    "canonical_form" : "malfaçon",
+    "other_forms" : [ "malfaçons" ]
+  }, {
+    "canonical_form" : "monomanie",
+    "other_forms" : [ "monomanies" ]
+  }, {
+    "canonical_form" : "petitesse",
+    "other_forms" : [ "petitesses" ]
+  }, {
+    "canonical_form" : "prurit",
+    "other_forms" : [ "prurits" ]
+  }, {
+    "canonical_form" : "rictus",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "turlutaine",
+    "other_forms" : [ "turlutaines" ]
+  }, {
+    "canonical_form" : "largeur",
+    "other_forms" : [ "largeurs" ]
+  }, {
+    "canonical_form" : "lacune",
+    "other_forms" : [ "lacunes" ]
+  }, {
+    "canonical_form" : "grossièreté",
+    "other_forms" : [ "grossièretés" ]
+  }, {
+    "canonical_form" : "grimace",
+    "other_forms" : [ "grimaces" ]
+  }, {
+    "canonical_form" : "flanc",
+    "other_forms" : [ "flancs" ]
+  }, {
+    "canonical_form" : "fièvre",
+    "other_forms" : [ "fièvres" ]
+  }, {
+    "canonical_form" : "fantaisie",
+    "other_forms" : [ "fantaisies" ]
+  }, {
+    "canonical_form" : "dada",
+    "other_forms" : [ "dadas" ]
+  }, {
+    "canonical_form" : "épidémie",
+    "other_forms" : [ "épidémies" ]
+  } ]
+}

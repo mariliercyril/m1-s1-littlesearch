@@ -1,0 +1,124 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "moyen",
+    "other_forms" : [ "moyenne", "moyennes", "moyens" ]
+  }, {
+    "canonical_form" : "médiocre",
+    "other_forms" : [ "médiocres" ]
+  }, {
+    "canonical_form" : "tactique",
+    "other_forms" : [ "tactiques" ]
+  }, {
+    "canonical_form" : "raisonnable",
+    "other_forms" : [ "raisonnables" ]
+  }, {
+    "canonical_form" : "expédient",
+    "other_forms" : [ "expédiente", "expédientes", "expédients" ]
+  }, {
+    "canonical_form" : "correct",
+    "other_forms" : [ "correcte", "correctes", "corrects" ]
+  }, {
+    "canonical_form" : "convenable",
+    "other_forms" : [ "convenables" ]
+  }, {
+    "canonical_form" : "bon",
+    "other_forms" : [ "bonne", "bonnes", "bons" ]
+  }, {
+    "canonical_form" : "issu",
+    "other_forms" : [ "issue", "issues", "issus" ]
+  }, {
+    "canonical_form" : "honnête",
+    "other_forms" : [ "honnêtes" ]
+  }, {
+    "canonical_form" : "commun",
+    "other_forms" : [ "commune", "communes", "communs" ]
+  }, {
+    "canonical_form" : "acceptable",
+    "other_forms" : [ "acceptables" ]
+  }, {
+    "canonical_form" : "passable",
+    "other_forms" : [ "passables" ]
+  }, {
+    "canonical_form" : "pauvre",
+    "other_forms" : [ "pauvres" ]
+  }, {
+    "canonical_form" : "plan",
+    "other_forms" : [ "plane", "planes", "plans" ]
+  }, {
+    "canonical_form" : "quelconque",
+    "other_forms" : [ "quelconques" ]
+  }, {
+    "canonical_form" : "secret",
+    "other_forms" : [ "secrets", "secrète", "secrètes" ]
+  }, {
+    "canonical_form" : "ordinaire",
+    "other_forms" : [ "ordinaires" ]
+  }, {
+    "canonical_form" : "modeste",
+    "other_forms" : [ "modestes" ]
+  }, {
+    "canonical_form" : "courant",
+    "other_forms" : [ "courante", "courantes", "courants" ]
+  }, {
+    "canonical_form" : "faible",
+    "other_forms" : [ "faibles" ]
+  }, {
+    "canonical_form" : "insuffisant",
+    "other_forms" : [ "insuffisante", "insuffisantes", "insuffisants" ]
+  }, {
+    "canonical_form" : "intermédiaire",
+    "other_forms" : [ "intermédiaires" ]
+  }, {
+    "canonical_form" : "mitoyen",
+    "other_forms" : [ "mitoyenne", "mitoyennes", "mitoyens" ]
+  }, {
+    "canonical_form" : "palliatif",
+    "other_forms" : [ "palliatifs", "palliative", "palliatives" ]
+  }, {
+    "canonical_form" : "porte",
+    "other_forms" : [ "portes" ]
+  }, {
+    "canonical_form" : "maigre",
+    "other_forms" : [ "maigres" ]
+  }, {
+    "canonical_form" : "banal",
+    "other_forms" : [ "banale", "banales", "banals", "banaux" ]
+  }, {
+    "canonical_form" : "biais",
+    "other_forms" : [ "biaise", "biaises" ]
+  }, {
+    "canonical_form" : "normal",
+    "other_forms" : [ "normale", "normales", "normaux" ]
+  }, {
+    "canonical_form" : "potable",
+    "other_forms" : [ "potables" ]
+  }, {
+    "canonical_form" : "modique",
+    "other_forms" : [ "modiques" ]
+  }, {
+    "canonical_form" : "honorable",
+    "other_forms" : [ "honorables" ]
+  }, {
+    "canonical_form" : "juste",
+    "other_forms" : [ "justes" ]
+  }, {
+    "canonical_form" : "terne",
+    "other_forms" : [ "ternes" ]
+  }, {
+    "canonical_form" : "tolérable",
+    "other_forms" : [ "tolérables" ]
+  }, {
+    "canonical_form" : "tournant",
+    "other_forms" : [ "tournante", "tournantes", "tournants" ]
+  }, {
+    "canonical_form" : "mûr",
+    "other_forms" : [ "mûre", "mûres", "mûrs" ]
+  }, {
+    "canonical_form" : "bourgeois",
+    "other_forms" : [ "bourgeoise", "bourgeoises" ]
+  }, {
+    "canonical_form" : "médian",
+    "other_forms" : [ "médiane", "médianes", "médians" ]
+  } ]
+}

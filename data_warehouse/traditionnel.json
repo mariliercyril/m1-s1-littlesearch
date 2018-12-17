@@ -1,0 +1,70 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "traditionnel",
+    "other_forms" : [ "traditionnelle", "traditionnelles", "traditionnels" ]
+  }, {
+    "canonical_form" : "habituel",
+    "other_forms" : [ "habituelle", "habituelles", "habituels" ]
+  }, {
+    "canonical_form" : "ordinaire",
+    "other_forms" : [ "ordinaires" ]
+  }, {
+    "canonical_form" : "conventionnel",
+    "other_forms" : [ "conventionnelle", "conventionnelles", "conventionnels" ]
+  }, {
+    "canonical_form" : "rituel",
+    "other_forms" : [ "rituelle", "rituelles", "rituels" ]
+  }, {
+    "canonical_form" : "usuel",
+    "other_forms" : [ "usuelle", "usuelles", "usuels" ]
+  }, {
+    "canonical_form" : "usité",
+    "other_forms" : [ "usitée", "usitées", "usités" ]
+  }, {
+    "canonical_form" : "routinier",
+    "other_forms" : [ "routiniers", "routinière", "routinières" ]
+  }, {
+    "canonical_form" : "classique",
+    "other_forms" : [ "classiques" ]
+  }, {
+    "canonical_form" : "officiel",
+    "other_forms" : [ "officielle", "officielles", "officiels" ]
+  }, {
+    "canonical_form" : "normal",
+    "other_forms" : [ "normale", "normales", "normaux" ]
+  }, {
+    "canonical_form" : "orthodoxe",
+    "other_forms" : [ "orthodoxes" ]
+  }, {
+    "canonical_form" : "patriarcal",
+    "other_forms" : [ "patriarcale", "patriarcales", "patriarcaux" ]
+  }, {
+    "canonical_form" : "proverbial",
+    "other_forms" : [ "proverbiale", "proverbiales", "proverbiaux" ]
+  }, {
+    "canonical_form" : "sacramentel",
+    "other_forms" : [ "sacramentelle", "sacramentelles", "sacramentels" ]
+  }, {
+    "canonical_form" : "sacro-saint",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "légendaire",
+    "other_forms" : [ "légendaires" ]
+  }, {
+    "canonical_form" : "invétéré",
+    "other_forms" : [ "invétérée", "invétérées", "invétérés" ]
+  }, {
+    "canonical_form" : "intouchable",
+    "other_forms" : [ "intouchables" ]
+  }, {
+    "canonical_form" : "héréditaire",
+    "other_forms" : [ "héréditaires" ]
+  }, {
+    "canonical_form" : "hiératique",
+    "other_forms" : [ "hiératiques" ]
+  }, {
+    "canonical_form" : "bien-pensant",
+    "other_forms" : [ ]
+  } ]
+}

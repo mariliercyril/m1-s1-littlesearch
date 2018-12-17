@@ -1,0 +1,151 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "place",
+    "other_forms" : [ "places" ]
+  }, {
+    "canonical_form" : "situation",
+    "other_forms" : [ "situations" ]
+  }, {
+    "canonical_form" : "lieu",
+    "other_forms" : [ "lieus", "lieux" ]
+  }, {
+    "canonical_form" : "position",
+    "other_forms" : [ "positions" ]
+  }, {
+    "canonical_form" : "fonction",
+    "other_forms" : [ "fonctions" ]
+  }, {
+    "canonical_form" : "emplacement",
+    "other_forms" : [ "emplacements" ]
+  }, {
+    "canonical_form" : "emploi",
+    "other_forms" : [ "emplois" ]
+  }, {
+    "canonical_form" : "métier",
+    "other_forms" : [ "métiers" ]
+  }, {
+    "canonical_form" : "charge",
+    "other_forms" : [ "charges" ]
+  }, {
+    "canonical_form" : "endroit",
+    "other_forms" : [ "endroits" ]
+  }, {
+    "canonical_form" : "poste",
+    "other_forms" : [ "postes" ]
+  }, {
+    "canonical_form" : "rang",
+    "other_forms" : [ "rangs" ]
+  }, {
+    "canonical_form" : "travail",
+    "other_forms" : [ "travaux" ]
+  }, {
+    "canonical_form" : "disposition",
+    "other_forms" : [ "dispositions" ]
+  }, {
+    "canonical_form" : "square",
+    "other_forms" : [ "squares" ]
+  }, {
+    "canonical_form" : "site",
+    "other_forms" : [ "sites" ]
+  }, {
+    "canonical_form" : "ordre",
+    "other_forms" : [ "ordres" ]
+  }, {
+    "canonical_form" : "condition",
+    "other_forms" : [ "conditions" ]
+  }, {
+    "canonical_form" : "coin",
+    "other_forms" : [ "coins" ]
+  }, {
+    "canonical_form" : "terrain",
+    "other_forms" : [ "terrains" ]
+  }, {
+    "canonical_form" : "siège",
+    "other_forms" : [ "sièges" ]
+  }, {
+    "canonical_form" : "quinconce",
+    "other_forms" : [ "quinconces" ]
+  }, {
+    "canonical_form" : "office",
+    "other_forms" : [ "offices" ]
+  }, {
+    "canonical_form" : "espace",
+    "other_forms" : [ "espaces" ]
+  }, {
+    "canonical_form" : "dignité",
+    "other_forms" : [ "dignités" ]
+  }, {
+    "canonical_form" : "arrangement",
+    "other_forms" : [ "arrangements" ]
+  }, {
+    "canonical_form" : "aire",
+    "other_forms" : [ "aires" ]
+  }, {
+    "canonical_form" : "agora",
+    "other_forms" : [ "agoras" ]
+  }, {
+    "canonical_form" : "agencement",
+    "other_forms" : [ "agencements" ]
+  }, {
+    "canonical_form" : "poids",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "placette",
+    "other_forms" : [ "placettes" ]
+  }, {
+    "canonical_form" : "peau",
+    "other_forms" : [ "peaux" ]
+  }, {
+    "canonical_form" : "parvis",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "protocole",
+    "other_forms" : [ "protocoles" ]
+  }, {
+    "canonical_form" : "redoute",
+    "other_forms" : [ "redoutes" ]
+  }, {
+    "canonical_form" : "rond-point",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "stalle",
+    "other_forms" : [ "stalles" ]
+  }, {
+    "canonical_form" : "volume",
+    "other_forms" : [ "volumes" ]
+  }, {
+    "canonical_form" : "maison",
+    "other_forms" : [ "maisons" ]
+  }, {
+    "canonical_form" : "job",
+    "other_forms" : [ "jobs" ]
+  }, {
+    "canonical_form" : "berceau",
+    "other_forms" : [ "berceaux" ]
+  }, {
+    "canonical_form" : "caserne",
+    "other_forms" : [ "casernes" ]
+  }, {
+    "canonical_form" : "citadelle",
+    "other_forms" : [ "citadelles" ]
+  }, {
+    "canonical_form" : "esplanade",
+    "other_forms" : [ "esplanades" ]
+  }, {
+    "canonical_form" : "fauteuil",
+    "other_forms" : [ "fauteuils" ]
+  }, {
+    "canonical_form" : "filon",
+    "other_forms" : [ "filons" ]
+  }, {
+    "canonical_form" : "forum",
+    "other_forms" : [ "forums" ]
+  }, {
+    "canonical_form" : "gagne-pain",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "installation",
+    "other_forms" : [ "installations" ]
+  } ]
+}

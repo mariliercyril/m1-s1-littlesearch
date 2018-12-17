@@ -1,0 +1,124 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "proposition",
+    "other_forms" : [ "propositions" ]
+  }, {
+    "canonical_form" : "affirmation",
+    "other_forms" : [ "affirmations" ]
+  }, {
+    "canonical_form" : "démonstration",
+    "other_forms" : [ "démonstrations" ]
+  }, {
+    "canonical_form" : "principe",
+    "other_forms" : [ "principes" ]
+  }, {
+    "canonical_form" : "axiome",
+    "other_forms" : [ "axiomes" ]
+  }, {
+    "canonical_form" : "maxime",
+    "other_forms" : [ "maximes" ]
+  }, {
+    "canonical_form" : "précepte",
+    "other_forms" : [ "préceptes" ]
+  }, {
+    "canonical_form" : "résolution",
+    "other_forms" : [ "résolutions" ]
+  }, {
+    "canonical_form" : "projet",
+    "other_forms" : [ "projets" ]
+  }, {
+    "canonical_form" : "offre",
+    "other_forms" : [ "offres" ]
+  }, {
+    "canonical_form" : "expression",
+    "other_forms" : [ "expressions" ]
+  }, {
+    "canonical_form" : "déclaration",
+    "other_forms" : [ "déclarations" ]
+  }, {
+    "canonical_form" : "conseil",
+    "other_forms" : [ "conseils" ]
+  }, {
+    "canonical_form" : "énonciation",
+    "other_forms" : [ "énonciations" ]
+  }, {
+    "canonical_form" : "théorème",
+    "other_forms" : [ "théorèmes" ]
+  }, {
+    "canonical_form" : "soumission",
+    "other_forms" : [ "soumissions" ]
+  }, {
+    "canonical_form" : "prémisse",
+    "other_forms" : [ "prémisses" ]
+  }, {
+    "canonical_form" : "promesse",
+    "other_forms" : [ "promesses" ]
+  }, {
+    "canonical_form" : "hypothèse",
+    "other_forms" : [ "hypothèses" ]
+  }, {
+    "canonical_form" : "dessein",
+    "other_forms" : [ "desseins" ]
+  }, {
+    "canonical_form" : "conclusion",
+    "other_forms" : [ "conclusions" ]
+  }, {
+    "canonical_form" : "aphorisme",
+    "other_forms" : [ "aphorismes" ]
+  }, {
+    "canonical_form" : "allégation",
+    "other_forms" : [ "allégations" ]
+  }, {
+    "canonical_form" : "négation",
+    "other_forms" : [ "négations" ]
+  }, {
+    "canonical_form" : "ouverture",
+    "other_forms" : [ "ouvertures" ]
+  }, {
+    "canonical_form" : "paradoxe",
+    "other_forms" : [ "paradoxes" ]
+  }, {
+    "canonical_form" : "phrase",
+    "other_forms" : [ "phrases" ]
+  }, {
+    "canonical_form" : "postulat",
+    "other_forms" : [ "postulats" ]
+  }, {
+    "canonical_form" : "suggestion",
+    "other_forms" : [ "suggestions" ]
+  }, {
+    "canonical_form" : "thèse",
+    "other_forms" : [ "thèses" ]
+  }, {
+    "canonical_form" : "motion",
+    "other_forms" : [ "motions" ]
+  }, {
+    "canonical_form" : "loi",
+    "other_forms" : [ "lois" ]
+  }, {
+    "canonical_form" : "jugement",
+    "other_forms" : [ "jugements" ]
+  }, {
+    "canonical_form" : "intention",
+    "other_forms" : [ "intentions" ]
+  }, {
+    "canonical_form" : "initiative",
+    "other_forms" : [ "initiatives" ]
+  }, {
+    "canonical_form" : "corollaire",
+    "other_forms" : [ "corollaires" ]
+  }, {
+    "canonical_form" : "conversion",
+    "other_forms" : [ "conversions" ]
+  }, {
+    "canonical_form" : "avance",
+    "other_forms" : [ "avances" ]
+  }, {
+    "canonical_form" : "assertion",
+    "other_forms" : [ "assertions" ]
+  }, {
+    "canonical_form" : "ultimatum",
+    "other_forms" : [ "ultimatums" ]
+  } ]
+}

@@ -1,0 +1,52 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "omnipotence",
+    "other_forms" : [ "omnipotences" ]
+  }, {
+    "canonical_form" : "autorité",
+    "other_forms" : [ "autorités" ]
+  }, {
+    "canonical_form" : "despotisme",
+    "other_forms" : [ "despotismes" ]
+  }, {
+    "canonical_form" : "puissance",
+    "other_forms" : [ "puissances" ]
+  }, {
+    "canonical_form" : "domination",
+    "other_forms" : [ "dominations" ]
+  }, {
+    "canonical_form" : "pouvoir",
+    "other_forms" : [ "pouvoirs" ]
+  }, {
+    "canonical_form" : "souveraineté",
+    "other_forms" : [ "souverainetés" ]
+  }, {
+    "canonical_form" : "toute-puissance",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "tyrannie",
+    "other_forms" : [ "tyrannies" ]
+  }, {
+    "canonical_form" : "suprématie",
+    "other_forms" : [ "suprématies" ]
+  }, {
+    "canonical_form" : "prééminence",
+    "other_forms" : [ "prééminences" ]
+  }, {
+    "canonical_form" : "absolutisme",
+    "other_forms" : [ "absolutismes" ]
+  }, {
+    "canonical_form" : "autocratie",
+    "other_forms" : [ "autocraties" ]
+  }, {
+    "canonical_form" : "commandement",
+    "other_forms" : [ "commandements" ]
+  }, {
+    "canonical_form" : "césarisme",
+    "other_forms" : [ "césarismes" ]
+  }, {
+    "canonical_form" : "totalitarisme",
+    "other_forms" : [ "totalitarismes" ]
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "permanence",
+    "other_forms" : [ "permanences" ]
+  }, {
+    "canonical_form" : "continuité",
+    "other_forms" : [ "continuités" ]
+  }, {
+    "canonical_form" : "constance",
+    "other_forms" : [ "constances" ]
+  }, {
+    "canonical_form" : "stabilité",
+    "other_forms" : [ "stabilités" ]
+  }, {
+    "canonical_form" : "durabilité",
+    "other_forms" : [ "durabilités" ]
+  }, {
+    "canonical_form" : "pérennité",
+    "other_forms" : [ "pérennités" ]
+  }, {
+    "canonical_form" : "persistance",
+    "other_forms" : [ "persistances" ]
+  }, {
+    "canonical_form" : "perpétuité",
+    "other_forms" : [ "perpétuités" ]
+  }, {
+    "canonical_form" : "invariabilité",
+    "other_forms" : [ "invariabilités" ]
+  }, {
+    "canonical_form" : "immutabilité",
+    "other_forms" : [ "immutabilités" ]
+  }, {
+    "canonical_form" : "fixité",
+    "other_forms" : [ "fixités" ]
+  }, {
+    "canonical_form" : "éternité",
+    "other_forms" : [ "éternités" ]
+  }, {
+    "canonical_form" : "perpétuation",
+    "other_forms" : [ "perpétuations" ]
+  }, {
+    "canonical_form" : "subsistance",
+    "other_forms" : [ "subsistances" ]
+  }, {
+    "canonical_form" : "siège",
+    "other_forms" : [ "sièges" ]
+  }, {
+    "canonical_form" : "service",
+    "other_forms" : [ "services" ]
+  }, {
+    "canonical_form" : "salle",
+    "other_forms" : [ "salles" ]
+  }, {
+    "canonical_form" : "profondeur",
+    "other_forms" : [ "profondeurs" ]
+  }, {
+    "canonical_form" : "invariance",
+    "other_forms" : [ "invariances" ]
+  }, {
+    "canonical_form" : "identité",
+    "other_forms" : [ "identités" ]
+  }, {
+    "canonical_form" : "bureau",
+    "other_forms" : [ "bureaux" ]
+  }, {
+    "canonical_form" : "survivance",
+    "other_forms" : [ "survivances" ]
+  } ]
+}

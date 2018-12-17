@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "régnant",
+    "other_forms" : [ "régnante", "régnantes", "régnants" ]
+  }, {
+    "canonical_form" : "dominant",
+    "other_forms" : [ "dominante", "dominantes", "dominants" ]
+  }, {
+    "canonical_form" : "prédominant",
+    "other_forms" : [ "prédominante", "prédominantes", "prédominants" ]
+  } ]
+}

@@ -1,0 +1,103 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "représentant",
+    "other_forms" : [ "représentante", "représentantes", "représentants" ]
+  }, {
+    "canonical_form" : "négociateur",
+    "other_forms" : [ "négociateurs", "négociatrice", "négociatrices" ]
+  }, {
+    "canonical_form" : "agent",
+    "other_forms" : [ "agents" ]
+  }, {
+    "canonical_form" : "mandataire",
+    "other_forms" : [ "mandataires" ]
+  }, {
+    "canonical_form" : "placier",
+    "other_forms" : [ "placiers", "placière", "placières" ]
+  }, {
+    "canonical_form" : "émissaire",
+    "other_forms" : [ "émissaires" ]
+  }, {
+    "canonical_form" : "défenseur",
+    "other_forms" : [ "défenseurs" ]
+  }, {
+    "canonical_form" : "voyageur",
+    "other_forms" : [ "voyageurs", "voyageuse", "voyageuses" ]
+  }, {
+    "canonical_form" : "légat",
+    "other_forms" : [ "légats" ]
+  }, {
+    "canonical_form" : "courtier",
+    "other_forms" : [ "courtiers", "courtière", "courtières" ]
+  }, {
+    "canonical_form" : "spécimen",
+    "other_forms" : [ "spécimens" ]
+  }, {
+    "canonical_form" : "truchement",
+    "other_forms" : [ "truchements" ]
+  }, {
+    "canonical_form" : "tuteur",
+    "other_forms" : [ "tuteurs", "tutrice", "tutrices" ]
+  }, {
+    "canonical_form" : "type",
+    "other_forms" : [ "types" ]
+  }, {
+    "canonical_form" : "échantillon",
+    "other_forms" : [ "échantillons" ]
+  }, {
+    "canonical_form" : "porte-parole",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "plénipotentiaire",
+    "other_forms" : [ "plénipotentiaires" ]
+  }, {
+    "canonical_form" : "organe",
+    "other_forms" : [ "organes" ]
+  }, {
+    "canonical_form" : "nonce",
+    "other_forms" : [ "nonces" ]
+  }, {
+    "canonical_form" : "persona grata",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "placeur",
+    "other_forms" : [ "placeurs", "placeuse", "placeuses" ]
+  }, {
+    "canonical_form" : "prête-nom",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "substitut",
+    "other_forms" : [ "substituts" ]
+  }, {
+    "canonical_form" : "syndic",
+    "other_forms" : [ "syndics" ]
+  }, {
+    "canonical_form" : "totem",
+    "other_forms" : [ "totems" ]
+  }, {
+    "canonical_form" : "visiteur",
+    "other_forms" : [ "visiteurs", "visiteuse", "visiteuses" ]
+  }, {
+    "canonical_form" : "ministre",
+    "other_forms" : [ "ministres" ]
+  }, {
+    "canonical_form" : "avocat",
+    "other_forms" : [ "avocate", "avocates", "avocats" ]
+  }, {
+    "canonical_form" : "conseil",
+    "other_forms" : [ "conseils" ]
+  }, {
+    "canonical_form" : "consul",
+    "other_forms" : [ "consuls" ]
+  }, {
+    "canonical_form" : "démarcheur",
+    "other_forms" : [ "démarcheurs", "démarcheuse", "démarcheuses" ]
+  }, {
+    "canonical_form" : "figurant",
+    "other_forms" : [ "figurante", "figurantes", "figurants" ]
+  }, {
+    "canonical_form" : "individu",
+    "other_forms" : [ "individus" ]
+  } ]
+}

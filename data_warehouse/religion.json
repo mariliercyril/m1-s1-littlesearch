@@ -1,0 +1,106 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "religion",
+    "other_forms" : [ "religions" ]
+  }, {
+    "canonical_form" : "dévotion",
+    "other_forms" : [ "dévotions" ]
+  }, {
+    "canonical_form" : "croyance",
+    "other_forms" : [ "croyances" ]
+  }, {
+    "canonical_form" : "foi",
+    "other_forms" : [ "fois" ]
+  }, {
+    "canonical_form" : "culte",
+    "other_forms" : [ "cultes" ]
+  }, {
+    "canonical_form" : "credo",
+    "other_forms" : [ "credos" ]
+  }, {
+    "canonical_form" : "principe",
+    "other_forms" : [ "principes" ]
+  }, {
+    "canonical_form" : "opinion",
+    "other_forms" : [ "opinions" ]
+  }, {
+    "canonical_form" : "dogme",
+    "other_forms" : [ "dogmes" ]
+  }, {
+    "canonical_form" : "doctrine",
+    "other_forms" : [ "doctrines" ]
+  }, {
+    "canonical_form" : "zèle",
+    "other_forms" : [ "zèles" ]
+  }, {
+    "canonical_form" : "théisme",
+    "other_forms" : [ "théismes" ]
+  }, {
+    "canonical_form" : "spiritualité",
+    "other_forms" : [ "spiritualités" ]
+  }, {
+    "canonical_form" : "piété",
+    "other_forms" : [ "piétés" ]
+  }, {
+    "canonical_form" : "idolâtrie",
+    "other_forms" : [ "idolâtries" ]
+  }, {
+    "canonical_form" : "ferveur",
+    "other_forms" : [ "ferveurs" ]
+  }, {
+    "canonical_form" : "confession",
+    "other_forms" : [ "confessions" ]
+  }, {
+    "canonical_form" : "communion",
+    "other_forms" : [ "communions" ]
+  }, {
+    "canonical_form" : "attachement",
+    "other_forms" : [ "attachements" ]
+  }, {
+    "canonical_form" : "adoration",
+    "other_forms" : [ "adorations" ]
+  }, {
+    "canonical_form" : "église",
+    "other_forms" : [ "églises" ]
+  }, {
+    "canonical_form" : "théorie",
+    "other_forms" : [ "théories" ]
+  }, {
+    "canonical_form" : "théogonie",
+    "other_forms" : [ "théogonies" ]
+  }, {
+    "canonical_form" : "secte",
+    "other_forms" : [ "sectes" ]
+  }, {
+    "canonical_form" : "mysticisme",
+    "other_forms" : [ "mysticismes" ]
+  }, {
+    "canonical_form" : "fétichisme",
+    "other_forms" : [ "fétichismes" ]
+  }, {
+    "canonical_form" : "théosophie",
+    "other_forms" : [ "théosophies" ]
+  }, {
+    "canonical_form" : "société",
+    "other_forms" : [ "sociétés" ]
+  }, {
+    "canonical_form" : "religiosité",
+    "other_forms" : [ "religiosités" ]
+  }, {
+    "canonical_form" : "panthéisme",
+    "other_forms" : [ "panthéismes" ]
+  }, {
+    "canonical_form" : "obligation",
+    "other_forms" : [ "obligations" ]
+  }, {
+    "canonical_form" : "déisme",
+    "other_forms" : [ "déismes" ]
+  }, {
+    "canonical_form" : "devoir",
+    "other_forms" : [ "devoirs" ]
+  }, {
+    "canonical_form" : "totémisme",
+    "other_forms" : [ "totémismes" ]
+  } ]
+}

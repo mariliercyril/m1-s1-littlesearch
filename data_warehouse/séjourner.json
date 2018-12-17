@@ -1,0 +1,42 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "séjourner"
+  }, {
+    "canonical_form" : "demeurer"
+  }, {
+    "canonical_form" : "habiter"
+  }, {
+    "canonical_form" : "loger"
+  }, {
+    "canonical_form" : "rester"
+  }, {
+    "canonical_form" : "résider"
+  }, {
+    "canonical_form" : "stationner"
+  }, {
+    "canonical_form" : "descendre"
+  }, {
+    "canonical_form" : "croupir"
+  }, {
+    "canonical_form" : "camper"
+  }, {
+    "canonical_form" : "villégiaturer"
+  }, {
+    "canonical_form" : "tarder"
+  }, {
+    "canonical_form" : "stagner"
+  }, {
+    "canonical_form" : "occuper"
+  }, {
+    "canonical_form" : "nicher"
+  }, {
+    "canonical_form" : "jucher"
+  }, {
+    "canonical_form" : "gîter"
+  }, {
+    "canonical_form" : "crécher"
+  }, {
+    "canonical_form" : "attendre"
+  } ]
+}

@@ -1,0 +1,76 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "objet",
+    "other_forms" : [ "objets" ]
+  }, {
+    "canonical_form" : "matière",
+    "other_forms" : [ "matières" ]
+  }, {
+    "canonical_form" : "cause",
+    "other_forms" : [ "causes" ]
+  }, {
+    "canonical_form" : "substance",
+    "other_forms" : [ "substances" ]
+  }, {
+    "canonical_form" : "thème",
+    "other_forms" : [ "thèmes" ]
+  }, {
+    "canonical_form" : "intention",
+    "other_forms" : [ "intentions" ]
+  }, {
+    "canonical_form" : "fond",
+    "other_forms" : [ "fonds" ]
+  }, {
+    "canonical_form" : "dessein",
+    "other_forms" : [ "desseins" ]
+  }, {
+    "canonical_form" : "ustensile",
+    "other_forms" : [ "ustensiles" ]
+  }, {
+    "canonical_form" : "réalité",
+    "other_forms" : [ "réalités" ]
+  }, {
+    "canonical_form" : "propos",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "outil",
+    "other_forms" : [ "outils" ]
+  }, {
+    "canonical_form" : "corps",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "chose",
+    "other_forms" : [ "choses" ]
+  }, {
+    "canonical_form" : "chapitre",
+    "other_forms" : [ "chapitres" ]
+  }, {
+    "canonical_form" : "bidule",
+    "other_forms" : [ "bidules" ]
+  }, {
+    "canonical_form" : "article",
+    "other_forms" : [ "articles" ]
+  }, {
+    "canonical_form" : "lieu",
+    "other_forms" : [ "lieus", "lieux" ]
+  }, {
+    "canonical_form" : "concept",
+    "other_forms" : [ "concepts" ]
+  }, {
+    "canonical_form" : "champ",
+    "other_forms" : [ "champs" ]
+  }, {
+    "canonical_form" : "bibelot",
+    "other_forms" : [ "bibelots" ]
+  }, {
+    "canonical_form" : "ambition",
+    "other_forms" : [ "ambitions" ]
+  }, {
+    "canonical_form" : "agent",
+    "other_forms" : [ "agents" ]
+  }, {
+    "canonical_form" : "teneur",
+    "other_forms" : [ "teneurs" ]
+  } ]
+}

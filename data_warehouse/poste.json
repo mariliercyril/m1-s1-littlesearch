@@ -1,0 +1,106 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "poste",
+    "other_forms" : [ "postes" ]
+  }, {
+    "canonical_form" : "charge",
+    "other_forms" : [ "charges" ]
+  }, {
+    "canonical_form" : "fonction",
+    "other_forms" : [ "fonctions" ]
+  }, {
+    "canonical_form" : "emploi",
+    "other_forms" : [ "emplois" ]
+  }, {
+    "canonical_form" : "place",
+    "other_forms" : [ "places" ]
+  }, {
+    "canonical_form" : "mission",
+    "other_forms" : [ "missions" ]
+  }, {
+    "canonical_form" : "position",
+    "other_forms" : [ "positions" ]
+  }, {
+    "canonical_form" : "étape",
+    "other_forms" : [ "étapes" ]
+  }, {
+    "canonical_form" : "situation",
+    "other_forms" : [ "situations" ]
+  }, {
+    "canonical_form" : "office",
+    "other_forms" : [ "offices" ]
+  }, {
+    "canonical_form" : "travail",
+    "other_forms" : [ "travaux" ]
+  }, {
+    "canonical_form" : "station",
+    "other_forms" : [ "stations" ]
+  }, {
+    "canonical_form" : "messagerie",
+    "other_forms" : [ "messageries" ]
+  }, {
+    "canonical_form" : "lieu",
+    "other_forms" : [ "lieus", "lieux" ]
+  }, {
+    "canonical_form" : "courrier",
+    "other_forms" : [ "courriers" ]
+  }, {
+    "canonical_form" : "chasse",
+    "other_forms" : [ "chasses" ]
+  }, {
+    "canonical_form" : "observatoire",
+    "other_forms" : [ "observatoires" ]
+  }, {
+    "canonical_form" : "préside",
+    "other_forms" : [ "présides" ]
+  }, {
+    "canonical_form" : "radio",
+    "other_forms" : [ "radios" ]
+  }, {
+    "canonical_form" : "relais",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "responsabilité",
+    "other_forms" : [ "responsabilités" ]
+  }, {
+    "canonical_form" : "sacerdoce",
+    "other_forms" : [ "sacerdoces" ]
+  }, {
+    "canonical_form" : "transport",
+    "other_forms" : [ "transports" ]
+  }, {
+    "canonical_form" : "mandat",
+    "other_forms" : [ "mandats" ]
+  }, {
+    "canonical_form" : "honneur",
+    "other_forms" : [ "honneurs" ]
+  }, {
+    "canonical_form" : "guérite",
+    "other_forms" : [ "guérites" ]
+  }, {
+    "canonical_form" : "affectation",
+    "other_forms" : [ "affectations" ]
+  }, {
+    "canonical_form" : "affût",
+    "other_forms" : [ "affûts" ]
+  }, {
+    "canonical_form" : "appareil",
+    "other_forms" : [ "appareils" ]
+  }, {
+    "canonical_form" : "auberge",
+    "other_forms" : [ "auberges" ]
+  }, {
+    "canonical_form" : "avant-poste",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "cabine",
+    "other_forms" : [ "cabines" ]
+  }, {
+    "canonical_form" : "coche",
+    "other_forms" : [ "coches" ]
+  }, {
+    "canonical_form" : "vigie",
+    "other_forms" : [ "vigies" ]
+  } ]
+}

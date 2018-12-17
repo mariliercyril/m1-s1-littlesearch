@@ -1,0 +1,43 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "patrimoine",
+    "other_forms" : [ "patrimoines" ]
+  }, {
+    "canonical_form" : "bien",
+    "other_forms" : [ "biens" ]
+  }, {
+    "canonical_form" : "chose",
+    "other_forms" : [ "choses" ]
+  }, {
+    "canonical_form" : "succession",
+    "other_forms" : [ "successions" ]
+  }, {
+    "canonical_form" : "richesse",
+    "other_forms" : [ "richesses" ]
+  }, {
+    "canonical_form" : "propriété",
+    "other_forms" : [ "propriétés" ]
+  }, {
+    "canonical_form" : "héritage",
+    "other_forms" : [ "héritages" ]
+  }, {
+    "canonical_form" : "fortune",
+    "other_forms" : [ "fortunes" ]
+  }, {
+    "canonical_form" : "domaine",
+    "other_forms" : [ "domaines" ]
+  }, {
+    "canonical_form" : "apanage",
+    "other_forms" : [ "apanages" ]
+  }, {
+    "canonical_form" : "hérédité",
+    "other_forms" : [ "hérédités" ]
+  }, {
+    "canonical_form" : "legs",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "trésor",
+    "other_forms" : [ "trésors" ]
+  } ]
+}

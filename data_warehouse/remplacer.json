@@ -1,0 +1,46 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "remplacer"
+  }, {
+    "canonical_form" : "servir"
+  }, {
+    "canonical_form" : "succéder"
+  }, {
+    "canonical_form" : "suppléer"
+  }, {
+    "canonical_form" : "supplanter"
+  }, {
+    "canonical_form" : "substituer"
+  }, {
+    "canonical_form" : "subroger"
+  }, {
+    "canonical_form" : "relever"
+  }, {
+    "canonical_form" : "relayer"
+  }, {
+    "canonical_form" : "changer"
+  }, {
+    "canonical_form" : "suivre"
+  }, {
+    "canonical_form" : "représenter"
+  }, {
+    "canonical_form" : "repousser"
+  }, {
+    "canonical_form" : "remettre"
+  }, {
+    "canonical_form" : "troquer"
+  }, {
+    "canonical_form" : "révolutionner"
+  }, {
+    "canonical_form" : "renouveler"
+  }, {
+    "canonical_form" : "détrôner"
+  }, {
+    "canonical_form" : "doubler"
+  }, {
+    "canonical_form" : "commuter"
+  }, {
+    "canonical_form" : "échanger"
+  } ]
+}

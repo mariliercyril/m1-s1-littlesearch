@@ -1,0 +1,28 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "théologie",
+    "other_forms" : [ "théologies" ]
+  }, {
+    "canonical_form" : "théogonie",
+    "other_forms" : [ "théogonies" ]
+  }, {
+    "canonical_form" : "théodicée",
+    "other_forms" : [ "théodicées" ]
+  }, {
+    "canonical_form" : "théisme",
+    "other_forms" : [ "théismes" ]
+  }, {
+    "canonical_form" : "gnose",
+    "other_forms" : [ "gnoses" ]
+  }, {
+    "canonical_form" : "doctrine",
+    "other_forms" : [ "doctrines" ]
+  }, {
+    "canonical_form" : "disputation",
+    "other_forms" : [ "disputations" ]
+  }, {
+    "canonical_form" : "catholicisme",
+    "other_forms" : [ "catholicismes" ]
+  } ]
+}

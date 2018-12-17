@@ -1,0 +1,82 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "philosophie",
+    "other_forms" : [ "philosophies" ]
+  }, {
+    "canonical_form" : "théorie",
+    "other_forms" : [ "théories" ]
+  }, {
+    "canonical_form" : "système",
+    "other_forms" : [ "systèmes" ]
+  }, {
+    "canonical_form" : "tendance",
+    "other_forms" : [ "tendances" ]
+  }, {
+    "canonical_form" : "position",
+    "other_forms" : [ "positions" ]
+  }, {
+    "canonical_form" : "doctrine",
+    "other_forms" : [ "doctrines" ]
+  }, {
+    "canonical_form" : "principe",
+    "other_forms" : [ "principes" ]
+  }, {
+    "canonical_form" : "raison",
+    "other_forms" : [ "raisons" ]
+  }, {
+    "canonical_form" : "école",
+    "other_forms" : [ "écoles" ]
+  }, {
+    "canonical_form" : "sérénité",
+    "other_forms" : [ "sérénités" ]
+  }, {
+    "canonical_form" : "indifférence",
+    "other_forms" : [ "indifférences" ]
+  }, {
+    "canonical_form" : "idée",
+    "other_forms" : [ "idées" ]
+  }, {
+    "canonical_form" : "sens",
+    "other_forms" : [ "sen" ]
+  }, {
+    "canonical_form" : "sagesse",
+    "other_forms" : [ "sagesses" ]
+  }, {
+    "canonical_form" : "insouciance",
+    "other_forms" : [ "insouciances" ]
+  }, {
+    "canonical_form" : "impassibilité",
+    "other_forms" : [ "impassibilités" ]
+  }, {
+    "canonical_form" : "idée",
+    "other_forms" : [ "idées" ]
+  }, {
+    "canonical_form" : "tact",
+    "other_forms" : [ "tacts" ]
+  }, {
+    "canonical_form" : "thèse",
+    "other_forms" : [ "thèses" ]
+  }, {
+    "canonical_form" : "épistémologie",
+    "other_forms" : [ "épistémologies" ]
+  }, {
+    "canonical_form" : "équanimité",
+    "other_forms" : [ "équanimités" ]
+  }, {
+    "canonical_form" : "secte",
+    "other_forms" : [ "sectes" ]
+  }, {
+    "canonical_form" : "résignation",
+    "other_forms" : [ "résignations" ]
+  }, {
+    "canonical_form" : "légèreté",
+    "other_forms" : [ "légèretés" ]
+  }, {
+    "canonical_form" : "idéologie",
+    "other_forms" : [ "idéologies" ]
+  }, {
+    "canonical_form" : "ataraxie",
+    "other_forms" : [ "ataraxies" ]
+  } ]
+}

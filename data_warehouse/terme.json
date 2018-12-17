@@ -1,0 +1,124 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "terme",
+    "other_forms" : [ "termes" ]
+  }, {
+    "canonical_form" : "achèvement",
+    "other_forms" : [ "achèvements" ]
+  }, {
+    "canonical_form" : "extrémité",
+    "other_forms" : [ "extrémités" ]
+  }, {
+    "canonical_form" : "limite",
+    "other_forms" : [ "limites" ]
+  }, {
+    "canonical_form" : "mot",
+    "other_forms" : [ "mots" ]
+  }, {
+    "canonical_form" : "échéance",
+    "other_forms" : [ "échéances" ]
+  }, {
+    "canonical_form" : "résolution",
+    "other_forms" : [ "résolutions" ]
+  }, {
+    "canonical_form" : "expression",
+    "other_forms" : [ "expressions" ]
+  }, {
+    "canonical_form" : "borne",
+    "other_forms" : [ "bornes" ]
+  }, {
+    "canonical_form" : "aboutissement",
+    "other_forms" : [ "aboutissements" ]
+  }, {
+    "canonical_form" : "solution",
+    "other_forms" : [ "solutions" ]
+  }, {
+    "canonical_form" : "mesure",
+    "other_forms" : [ "mesures" ]
+  }, {
+    "canonical_form" : "frontière",
+    "other_forms" : [ "frontières" ]
+  }, {
+    "canonical_form" : "dénouement",
+    "other_forms" : [ "dénouements", "dénoûment", "dénoûments" ]
+  }, {
+    "canonical_form" : "cessation",
+    "other_forms" : [ "cessations" ]
+  }, {
+    "canonical_form" : "vocable",
+    "other_forms" : [ "vocables" ]
+  }, {
+    "canonical_form" : "unité",
+    "other_forms" : [ "unités" ]
+  }, {
+    "canonical_form" : "rapport",
+    "other_forms" : [ "rapports" ]
+  }, {
+    "canonical_form" : "quartier",
+    "other_forms" : [ "quartiers" ]
+  }, {
+    "canonical_form" : "parole",
+    "other_forms" : [ "paroles" ]
+  }, {
+    "canonical_form" : "nom",
+    "other_forms" : [ "noms" ]
+  }, {
+    "canonical_form" : "formule",
+    "other_forms" : [ "formules" ]
+  }, {
+    "canonical_form" : "expiration",
+    "other_forms" : [ "expirations" ]
+  }, {
+    "canonical_form" : "délai",
+    "other_forms" : [ "délais" ]
+  }, {
+    "canonical_form" : "loyer",
+    "other_forms" : [ "loyers" ]
+  }, {
+    "canonical_form" : "mensualité",
+    "other_forms" : [ "mensualités" ]
+  }, {
+    "canonical_form" : "particule",
+    "other_forms" : [ "particules" ]
+  }, {
+    "canonical_form" : "relation",
+    "other_forms" : [ "relations" ]
+  }, {
+    "canonical_form" : "signe",
+    "other_forms" : [ "signes" ]
+  }, {
+    "canonical_form" : "stade",
+    "other_forms" : [ "stades" ]
+  }, {
+    "canonical_form" : "tournure",
+    "other_forms" : [ "tournures" ]
+  }, {
+    "canonical_form" : "trimestre",
+    "other_forms" : [ "trimestres" ]
+  }, {
+    "canonical_form" : "accomplissement",
+    "other_forms" : [ "accomplissements" ]
+  }, {
+    "canonical_form" : "conclusion",
+    "other_forms" : [ "conclusions" ]
+  }, {
+    "canonical_form" : "confins",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "crédit",
+    "other_forms" : [ "crédits" ]
+  }, {
+    "canonical_form" : "date",
+    "other_forms" : [ "dates" ]
+  }, {
+    "canonical_form" : "dette",
+    "other_forms" : [ "dettes" ]
+  }, {
+    "canonical_form" : "dénomination",
+    "other_forms" : [ "dénominations" ]
+  }, {
+    "canonical_form" : "fermage",
+    "other_forms" : [ "fermages" ]
+  } ]
+}

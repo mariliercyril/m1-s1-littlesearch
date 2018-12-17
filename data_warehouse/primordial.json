@@ -1,0 +1,73 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "primordial",
+    "other_forms" : [ "primordiale", "primordiales", "primordiaux" ]
+  }, {
+    "canonical_form" : "premier",
+    "other_forms" : [ "premiers", "première", "premières" ]
+  }, {
+    "canonical_form" : "principal",
+    "other_forms" : [ "principale", "principales", "principaux" ]
+  }, {
+    "canonical_form" : "essentiel",
+    "other_forms" : [ "essentielle", "essentielles", "essentiels" ]
+  }, {
+    "canonical_form" : "fondamental",
+    "other_forms" : [ "fondamentale", "fondamentales", "fondamentaux" ]
+  }, {
+    "canonical_form" : "capital",
+    "other_forms" : [ "capitale", "capitales", "capitaux" ]
+  }, {
+    "canonical_form" : "vital",
+    "other_forms" : [ "vitale", "vitales", "vitaux" ]
+  }, {
+    "canonical_form" : "majeur",
+    "other_forms" : [ "majeure", "majeures", "majeurs" ]
+  }, {
+    "canonical_form" : "important",
+    "other_forms" : [ "importante", "importantes", "importants" ]
+  }, {
+    "canonical_form" : "nécessaire",
+    "other_forms" : [ "nécessaires" ]
+  }, {
+    "canonical_form" : "élémentaire",
+    "other_forms" : [ "élémentaires" ]
+  }, {
+    "canonical_form" : "prédominant",
+    "other_forms" : [ "prédominante", "prédominantes", "prédominants" ]
+  }, {
+    "canonical_form" : "indispensable",
+    "other_forms" : [ "indispensables" ]
+  }, {
+    "canonical_form" : "dominant",
+    "other_forms" : [ "dominante", "dominantes", "dominants" ]
+  }, {
+    "canonical_form" : "initial",
+    "other_forms" : [ "initiale", "initiales", "initiaux" ]
+  }, {
+    "canonical_form" : "maître",
+    "other_forms" : [ "maîtres", "maîtresse", "maîtresses" ]
+  }, {
+    "canonical_form" : "primitif",
+    "other_forms" : [ "primitifs", "primitive", "primitives" ]
+  }, {
+    "canonical_form" : "substantiel",
+    "other_forms" : [ "substantielle", "substantielles", "substantiels" ]
+  }, {
+    "canonical_form" : "prioritaire",
+    "other_forms" : [ "prioritaires" ]
+  }, {
+    "canonical_form" : "obligatoire",
+    "other_forms" : [ "obligatoires" ]
+  }, {
+    "canonical_form" : "liminaire",
+    "other_forms" : [ "liminaires" ]
+  }, {
+    "canonical_form" : "cardinal",
+    "other_forms" : [ "cardinale", "cardinales", "cardinaux" ]
+  }, {
+    "canonical_form" : "prééminent",
+    "other_forms" : [ "prééminente", "prééminentes", "prééminents" ]
+  } ]
+}

@@ -1,0 +1,118 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "personnalité",
+    "other_forms" : [ "personnalités" ]
+  }, {
+    "canonical_form" : "notabilité",
+    "other_forms" : [ "notabilités" ]
+  }, {
+    "canonical_form" : "sommité",
+    "other_forms" : [ "sommités" ]
+  }, {
+    "canonical_form" : "personnage",
+    "other_forms" : [ "personnages" ]
+  }, {
+    "canonical_form" : "caractère",
+    "other_forms" : [ "caractères" ]
+  }, {
+    "canonical_form" : "esprit",
+    "other_forms" : [ "esprits" ]
+  }, {
+    "canonical_form" : "âme",
+    "other_forms" : [ "âmes" ]
+  }, {
+    "canonical_form" : "nature",
+    "other_forms" : [ "natures" ]
+  }, {
+    "canonical_form" : "personne",
+    "other_forms" : [ "personnes" ]
+  }, {
+    "canonical_form" : "manitou",
+    "other_forms" : [ "manitous" ]
+  }, {
+    "canonical_form" : "magnat",
+    "other_forms" : [ "magnats" ]
+  }, {
+    "canonical_form" : "individualité",
+    "other_forms" : [ "individualités" ]
+  }, {
+    "canonical_form" : "figure",
+    "other_forms" : [ "figures" ]
+  }, {
+    "canonical_form" : "célébrité",
+    "other_forms" : [ "célébrités" ]
+  }, {
+    "canonical_form" : "bonze",
+    "other_forms" : [ "bonzes" ]
+  }, {
+    "canonical_form" : "être",
+    "other_forms" : [ "êtres" ]
+  }, {
+    "canonical_form" : "égoïsme",
+    "other_forms" : [ "égoïsmes" ]
+  }, {
+    "canonical_form" : "visage",
+    "other_forms" : [ "visages" ]
+  }, {
+    "canonical_form" : "vedette",
+    "other_forms" : [ "vedettes" ]
+  }, {
+    "canonical_form" : "tempérament",
+    "other_forms" : [ "tempéraments" ]
+  }, {
+    "canonical_form" : "self",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "huile",
+    "other_forms" : [ "huiles" ]
+  }, {
+    "canonical_form" : "notoriété",
+    "other_forms" : [ "notoriétés" ]
+  }, {
+    "canonical_form" : "originalité",
+    "other_forms" : [ "originalités" ]
+  }, {
+    "canonical_form" : "personnalisme",
+    "other_forms" : [ "personnalismes" ]
+  }, {
+    "canonical_form" : "pontife",
+    "other_forms" : [ "pontifes" ]
+  }, {
+    "canonical_form" : "satrape",
+    "other_forms" : [ "satrapes" ]
+  }, {
+    "canonical_form" : "volonté",
+    "other_forms" : [ "volontés" ]
+  }, {
+    "canonical_form" : "narcissisme",
+    "other_forms" : [ "narcissismes" ]
+  }, {
+    "canonical_form" : "monsieur",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "légume",
+    "other_forms" : [ "légumes" ]
+  }, {
+    "canonical_form" : "lumière",
+    "other_forms" : [ "lumières" ]
+  }, {
+    "canonical_form" : "entêtement",
+    "other_forms" : [ "entêtements" ]
+  }, {
+    "canonical_form" : "constitution",
+    "other_forms" : [ "constitutions" ]
+  }, {
+    "canonical_form" : "baron",
+    "other_forms" : [ "baronne", "baronnes", "barons" ]
+  }, {
+    "canonical_form" : "autonomie",
+    "other_forms" : [ "autonomies" ]
+  }, {
+    "canonical_form" : "abattage",
+    "other_forms" : [ "abatage", "abatages", "abattages" ]
+  }, {
+    "canonical_form" : "égocentrisme",
+    "other_forms" : [ "égocentrismes" ]
+  } ]
+}

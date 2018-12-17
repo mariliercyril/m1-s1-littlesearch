@@ -1,0 +1,10 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "oncle",
+    "other_forms" : [ "oncles" ]
+  }, {
+    "canonical_form" : "tonton",
+    "other_forms" : [ "tontons" ]
+  } ]
+}

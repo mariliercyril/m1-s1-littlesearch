@@ -1,0 +1,72 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "résoudre"
+  }, {
+    "canonical_form" : "décider"
+  }, {
+    "canonical_form" : "trancher"
+  }, {
+    "canonical_form" : "régler"
+  }, {
+    "canonical_form" : "arrêter"
+  }, {
+    "canonical_form" : "conclure"
+  }, {
+    "canonical_form" : "dissoudre"
+  }, {
+    "canonical_form" : "déterminer"
+  }, {
+    "canonical_form" : "juger"
+  }, {
+    "canonical_form" : "dénouer"
+  }, {
+    "canonical_form" : "déchiffrer"
+  }, {
+    "canonical_form" : "annuler"
+  }, {
+    "canonical_form" : "calculer"
+  }, {
+    "canonical_form" : "deviner"
+  }, {
+    "canonical_form" : "démêler"
+  }, {
+    "canonical_form" : "finir"
+  }, {
+    "canonical_form" : "résilier"
+  }, {
+    "canonical_form" : "statuer"
+  }, {
+    "canonical_form" : "trouver"
+  }, {
+    "canonical_form" : "entraîner"
+  }, {
+    "canonical_form" : "délier"
+  }, {
+    "canonical_form" : "délibérer"
+  }, {
+    "canonical_form" : "décomposer"
+  }, {
+    "canonical_form" : "débrouiller"
+  }, {
+    "canonical_form" : "convenir"
+  }, {
+    "canonical_form" : "analyser"
+  }, {
+    "canonical_form" : "solutionner"
+  }, {
+    "canonical_form" : "traiter"
+  }, {
+    "canonical_form" : "résorber"
+  }, {
+    "canonical_form" : "jurer"
+  }, {
+    "canonical_form" : "fondre"
+  }, {
+    "canonical_form" : "amener"
+  }, {
+    "canonical_form" : "abolir"
+  }, {
+    "canonical_form" : "vider"
+  } ]
+}

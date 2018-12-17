@@ -1,0 +1,58 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "transcendant",
+    "other_forms" : [ "transcendante", "transcendantes", "transcendants" ]
+  }, {
+    "canonical_form" : "supérieur",
+    "other_forms" : [ "supérieure", "supérieures", "supérieurs" ]
+  }, {
+    "canonical_form" : "extraordinaire",
+    "other_forms" : [ "extraordinaires" ]
+  }, {
+    "canonical_form" : "éminent",
+    "other_forms" : [ "éminente", "éminentes", "éminents" ]
+  }, {
+    "canonical_form" : "remarquable",
+    "other_forms" : [ "remarquables" ]
+  }, {
+    "canonical_form" : "grand",
+    "other_forms" : [ "grande", "grandes", "grands" ]
+  }, {
+    "canonical_form" : "sublime",
+    "other_forms" : [ "sublimes" ]
+  }, {
+    "canonical_form" : "unique",
+    "other_forms" : [ "uniques" ]
+  }, {
+    "canonical_form" : "incomparable",
+    "other_forms" : [ "incomparables" ]
+  }, {
+    "canonical_form" : "idéal",
+    "other_forms" : [ "idéale", "idéales", "idéals", "idéaux" ]
+  }, {
+    "canonical_form" : "haut",
+    "other_forms" : [ "haute", "hautes", "hauts" ]
+  }, {
+    "canonical_form" : "émérite",
+    "other_forms" : [ "émérites" ]
+  }, {
+    "canonical_form" : "métaphysique",
+    "other_forms" : [ "métaphysiques" ]
+  }, {
+    "canonical_form" : "fameux",
+    "other_forms" : [ "fameuse", "fameuses" ]
+  }, {
+    "canonical_form" : "exceptionnel",
+    "other_forms" : [ "exceptionnelle", "exceptionnelles", "exceptionnels" ]
+  }, {
+    "canonical_form" : "métempirique",
+    "other_forms" : [ "métempiriques" ]
+  }, {
+    "canonical_form" : "suréminent",
+    "other_forms" : [ "suréminente", "suréminentes", "suréminents" ]
+  }, {
+    "canonical_form" : "transcendantal",
+    "other_forms" : [ "transcendantale", "transcendantales", "transcendantaux" ]
+  } ]
+}

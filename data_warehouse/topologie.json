@@ -1,0 +1,10 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "topologie",
+    "other_forms" : [ "topologies" ]
+  }, {
+    "canonical_form" : "géométrie",
+    "other_forms" : [ "géométries" ]
+  } ]
+}

@@ -9,10 +9,15 @@ import edu.fromatoz.littlesearch.dataintegrator.model.entity.word.Noun;
 import edu.fromatoz.littlesearch.dataintegrator.model.entity.word.Verb;
 import edu.fromatoz.littlesearch.tool.Extension;
 import edu.fromatoz.littlesearch.tool.Separator;
+import org.apache.lucene.analysis.TokenStream;
+import org.apache.lucene.analysis.fr.FrenchAnalyzer;
+import org.apache.lucene.analysis.tokenattributes.CharTermAttribute;
+import org.tartarus.snowball.ext.FrenchStemmer;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 /**
  * @author Andrei Zabolotnîi
@@ -26,57 +31,68 @@ public class SynonymsSearcher {
     // The JSON file path format...
     private static final String JSON_FILE_PATH_FORMAT = DATA_WAREHOUSE + (Separator.SLASH).getValue() + JSON_FILE_NAME_EXTENDED_FORMAT;
 
-    public String searchSynonyms(String words) {
-        String[] separatedWords = words.split(" ");
+    public String searchSynonyms(String words) throws IOException {
+        List<String> separatedWordsAndSteamed = new ArrayList<>();
+        FrenchStemmer frenchStemmer = new FrenchStemmer();
+
         StringBuilder allWordsToSearch = new StringBuilder();
+        for (String w: words.split(" ")) {
+            String lowerCase = w.toLowerCase();
+            if(!separatedWordsAndSteamed.contains(lowerCase))
+                separatedWordsAndSteamed.add(lowerCase);
 
-        for (String word : separatedWords) {
-            FrenchTagger frenchTagger = new FrenchTagger(word);
+            frenchStemmer.setCurrent(lowerCase);
+            frenchStemmer.stem();
+            if(!separatedWordsAndSteamed.contains(frenchStemmer.getCurrent()))
+                separatedWordsAndSteamed.add(frenchStemmer.getCurrent());
+        }
 
-            if (frenchTagger.getPartOfSpeech() != null) {
-                //get the json file form data_warehouse
-                File jsonFile = new File(String.format(JSON_FILE_PATH_FORMAT, frenchTagger.getCanonicalForm()));
-                if ((jsonFile.exists())) {
-                    ObjectMapper objectMapper = new ObjectMapper();
-                    ObjectReader objectReader = objectMapper.reader();
-                    try {
-                        JsonNode synonymsNode = objectReader.readTree(new InputStreamReader(new FileInputStream(jsonFile),StandardCharsets.ISO_8859_1));
-                        //get array of synonyms from jsonNode
-                        String data = synonymsNode.get("synonyms").toString();
-                        switch (frenchTagger.getPartOfSpeech()){
-                            case VERB:
+        for (String word : separatedWordsAndSteamed) {
+            //get the json file form data_warehouse
+            File jsonFile = new File(String.format(JSON_FILE_PATH_FORMAT, word));
+            allWordsToSearch.append(word).append(Separator.SPACE.getValue());
+            if ((jsonFile.exists())) {
+                ObjectMapper objectMapper = new ObjectMapper();
+                ObjectReader objectReader = objectMapper.reader();
+                JsonNode synonymsNode = objectReader.readTree(new InputStreamReader(new FileInputStream(jsonFile),StandardCharsets.ISO_8859_1));
+                //get array of synonyms from jsonNode
+                String data = synonymsNode.get("synonyms").toString();
+                //get partOfSpeech from jsonNode
+                String partOfSpeech = synonymsNode.get("part_of_speech").asText();
+                if (partOfSpeech != null) {
+                        switch (partOfSpeech){
+                            case "verbe":
                                 List<Verb> verbList = objectMapper.readValue(data,
                                         objectMapper.getTypeFactory().constructCollectionType(List.class, Verb.class));
                                 if(!verbList.isEmpty()){
                                     for (Verb v:verbList) {
-                                        allWordsToSearch.append(v.getCanonicalForm()).append(Separator.SPACE.getValue());
+                                        if(!allWordsToSearch.toString().contains(v.getCanonicalForm()))
+                                            allWordsToSearch.append(v.getCanonicalForm()).append(Separator.SPACE.getValue());
                                     }
                                 }
                                 break;
-                            case NOUN:
-                            case ADJECTIVE:
+                            case "substantif":
+                            case "adjectif":
                                 List<Noun> nounList = objectMapper.readValue(data,
                                         objectMapper.getTypeFactory().constructCollectionType(List.class, Noun.class));
                                 if(!nounList.isEmpty()){
                                     for (Noun n : nounList) {
+                                        if(!allWordsToSearch.toString().contains(n.getCanonicalForm()))
                                         allWordsToSearch.append(n.getCanonicalForm()).append(Separator.SPACE.getValue());
                                         if(n.getOtherForms().length > 0){
                                             for (Object otherForm:n.getOtherForms()) {
-                                                allWordsToSearch.append(otherForm.toString()).append(Separator.SPACE.getValue());
+                                                if(!allWordsToSearch.toString().contains(otherForm.toString()))
+                                                    allWordsToSearch.append(otherForm.toString()).append(Separator.SPACE.getValue());
                                             }
                                         }
                                     }
                                 }
                                 break;
                         }
-                    } catch (IOException e) {
-                        e.printStackTrace();
-                    }
                 }
-                else allWordsToSearch.append(word).append(Separator.SPACE.getValue());
             }
-            else allWordsToSearch.append(word).append(Separator.SPACE.getValue());
         }
+        //System.out.println(allWordsToSearch.toString());
         return allWordsToSearch.toString();
     }
 }

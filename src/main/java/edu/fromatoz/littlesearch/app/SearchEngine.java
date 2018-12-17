@@ -1,6 +1,7 @@
 package edu.fromatoz.littlesearch.app;
 
 import java.io.File;
+import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.util.List;
 import java.util.ListIterator;
@@ -46,7 +47,7 @@ public class SearchEngine {
 	 * @param args
 	 *  the words which we would to find
 	 */
-	public static void main(String[] args) {
+	public static void main(String[] args) throws IOException, IOException {
         SynonymsSearcher synonymsSearcher = new SynonymsSearcher();
 		// Gives the search words to the engine...
 		StringBuilder wordsBuilder = new StringBuilder();

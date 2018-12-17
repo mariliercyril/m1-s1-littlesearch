@@ -32,10 +32,11 @@ import edu.fromatoz.littlesearch.tool.Separator;
 @JsonPropertyOrder({ "part_of_speech", "synonyms" })
 public class SynonymsSet {
 
-	// The date format for logs...
-	private static final SimpleDateFormat SIMPLE_DATE_FORMAT = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 	// The log format...
 	private static final String LOG_FORMAT = " [canonical_form: %S; part_of_speech: %S]";
+
+	// The date format for logs...
+	private final SimpleDateFormat SIMPLE_DATE_FORMAT = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 
 	private String partOfSpeech;
 	private Word[] synonyms;
@@ -106,6 +107,7 @@ public class SynonymsSet {
 			Thread.sleep(10_000);
 		} catch (InterruptedException ie) {
 			ie.printStackTrace();
+			Thread.currentThread().interrupt();
 		}
 	}
 

@@ -1,6 +1,7 @@
 package edu.fromatoz.littlesearch.dataintegrator.model.entity.word;
 
 import com.fasterxml.jackson.annotation.JsonGetter;
+import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 
 import edu.fromatoz.littlesearch.dataintegrator.model.entity.Word;
@@ -18,7 +19,7 @@ public final class Noun extends Word {
 
 	private Object[] otherForms;
 
-	public Noun(String canonicalForm, Object[] otherForms) {
+	public Noun(@JsonProperty("canonical_form")String canonicalForm,@JsonProperty("other_forms")Object[] otherForms) {
 
 		super(canonicalForm);
 		this.otherForms = otherForms;

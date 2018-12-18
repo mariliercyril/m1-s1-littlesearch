@@ -1,0 +1,112 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "conflit",
+    "other_forms" : [ "conflits" ]
+  }, {
+    "canonical_form" : "dispute",
+    "other_forms" : [ "disputes" ]
+  }, {
+    "canonical_form" : "opposition",
+    "other_forms" : [ "oppositions" ]
+  }, {
+    "canonical_form" : "lutte",
+    "other_forms" : [ "luttes" ]
+  }, {
+    "canonical_form" : "contestation",
+    "other_forms" : [ "contestations" ]
+  }, {
+    "canonical_form" : "désaccord",
+    "other_forms" : [ "désaccords" ]
+  }, {
+    "canonical_form" : "querelle",
+    "other_forms" : [ "querelles" ]
+  }, {
+    "canonical_form" : "combat",
+    "other_forms" : [ "combats" ]
+  }, {
+    "canonical_form" : "guerre",
+    "other_forms" : [ "guerres" ]
+  }, {
+    "canonical_form" : "heurt",
+    "other_forms" : [ "heurts" ]
+  }, {
+    "canonical_form" : "difficulté",
+    "other_forms" : [ "difficultés" ]
+  }, {
+    "canonical_form" : "discussion",
+    "other_forms" : [ "discussions" ]
+  }, {
+    "canonical_form" : "dissension",
+    "other_forms" : [ "dissensions" ]
+  }, {
+    "canonical_form" : "chicane",
+    "other_forms" : [ "chicanes" ]
+  }, {
+    "canonical_form" : "contradiction",
+    "other_forms" : [ "contradictions" ]
+  }, {
+    "canonical_form" : "divergence",
+    "other_forms" : [ "divergences" ]
+  }, {
+    "canonical_form" : "choc",
+    "other_forms" : [ "chocs" ]
+  }, {
+    "canonical_form" : "bataille",
+    "other_forms" : [ "batailles" ]
+  }, {
+    "canonical_form" : "antagonisme",
+    "other_forms" : [ "antagonismes" ]
+  }, {
+    "canonical_form" : "affrontement",
+    "other_forms" : [ "affrontements" ]
+  }, {
+    "canonical_form" : "différend",
+    "other_forms" : [ "différends" ]
+  }, {
+    "canonical_form" : "discorde",
+    "other_forms" : [ "discordes" ]
+  }, {
+    "canonical_form" : "tiraillement",
+    "other_forms" : [ "tiraillements" ]
+  }, {
+    "canonical_form" : "débat",
+    "other_forms" : [ "débats" ]
+  }, {
+    "canonical_form" : "divorce",
+    "other_forms" : [ "divorces" ]
+  }, {
+    "canonical_form" : "belligérance",
+    "other_forms" : [ "belligérances" ]
+  }, {
+    "canonical_form" : "rivalité",
+    "other_forms" : [ "rivalités" ]
+  }, {
+    "canonical_form" : "dissonance",
+    "other_forms" : [ "dissonances" ]
+  }, {
+    "canonical_form" : "compétition",
+    "other_forms" : [ "compétitions" ]
+  }, {
+    "canonical_form" : "collision",
+    "other_forms" : [ "collisions" ]
+  }, {
+    "canonical_form" : "tiraillerie",
+    "other_forms" : [ "tirailleries" ]
+  }, {
+    "canonical_form" : "litige",
+    "other_forms" : [ "litiges" ]
+  }, {
+    "canonical_form" : "hostilité",
+    "other_forms" : [ "hostilités" ]
+  }, {
+    "canonical_form" : "froissement",
+    "other_forms" : [ "froissements" ]
+  }, {
+    "canonical_form" : "dissentiment",
+    "other_forms" : [ "dissentiments" ]
+  }, {
+    "canonical_form" : "conflagration",
+    "other_forms" : [ "conflagrations" ]
+  } ]
+}

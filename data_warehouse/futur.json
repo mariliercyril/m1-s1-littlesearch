@@ -1,0 +1,28 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "futur",
+    "other_forms" : [ "future", "futures", "futurs" ]
+  }, {
+    "canonical_form" : "suivant",
+    "other_forms" : [ "suivante", "suivantes", "suivants" ]
+  }, {
+    "canonical_form" : "ultérieur",
+    "other_forms" : [ "ultérieure", "ultérieures", "ultérieurs" ]
+  }, {
+    "canonical_form" : "prochain",
+    "other_forms" : [ "prochaine", "prochaines", "prochains" ]
+  }, {
+    "canonical_form" : "postérieur",
+    "other_forms" : [ "postérieure", "postérieures", "postérieurs" ]
+  }, {
+    "canonical_form" : "proche",
+    "other_forms" : [ "proches" ]
+  }, {
+    "canonical_form" : "possible",
+    "other_forms" : [ "possibles" ]
+  }, {
+    "canonical_form" : "immortel",
+    "other_forms" : [ "immortelle", "immortelles", "immortels" ]
+  } ]
+}

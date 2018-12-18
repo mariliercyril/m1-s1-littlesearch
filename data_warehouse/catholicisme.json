@@ -1,0 +1,31 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "catholicisme",
+    "other_forms" : [ "catholicismes" ]
+  }, {
+    "canonical_form" : "liturgie",
+    "other_forms" : [ "liturgies" ]
+  }, {
+    "canonical_form" : "catholicité",
+    "other_forms" : [ "catholicités" ]
+  }, {
+    "canonical_form" : "christianisme",
+    "other_forms" : [ "christianismes" ]
+  }, {
+    "canonical_form" : "culte",
+    "other_forms" : [ "cultes" ]
+  }, {
+    "canonical_form" : "papisme",
+    "other_forms" : [ "papismes" ]
+  }, {
+    "canonical_form" : "sacrement",
+    "other_forms" : [ "sacrements" ]
+  }, {
+    "canonical_form" : "théologie",
+    "other_forms" : [ "théologies" ]
+  }, {
+    "canonical_form" : "église",
+    "other_forms" : [ "églises" ]
+  } ]
+}

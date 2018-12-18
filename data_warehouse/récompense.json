@@ -1,0 +1,115 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "récompense",
+    "other_forms" : [ "récompenses" ]
+  }, {
+    "canonical_form" : "rémunération",
+    "other_forms" : [ "rémunérations" ]
+  }, {
+    "canonical_form" : "salaire",
+    "other_forms" : [ "salaires" ]
+  }, {
+    "canonical_form" : "prix",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "rétribution",
+    "other_forms" : [ "rétributions" ]
+  }, {
+    "canonical_form" : "paiement",
+    "other_forms" : [ "paiements", "payement", "payements" ]
+  }, {
+    "canonical_form" : "gratification",
+    "other_forms" : [ "gratifications" ]
+  }, {
+    "canonical_form" : "indemnité",
+    "other_forms" : [ "indemnités" ]
+  }, {
+    "canonical_form" : "traitement",
+    "other_forms" : [ "traitements" ]
+  }, {
+    "canonical_form" : "pourboire",
+    "other_forms" : [ "pourboires" ]
+  }, {
+    "canonical_form" : "bénéfice",
+    "other_forms" : [ "bénéfices" ]
+  }, {
+    "canonical_form" : "dédommagement",
+    "other_forms" : [ "dédommagements" ]
+  }, {
+    "canonical_form" : "médaille",
+    "other_forms" : [ "médailles" ]
+  }, {
+    "canonical_form" : "paye",
+    "other_forms" : [ "paie", "paies", "payes" ]
+  }, {
+    "canonical_form" : "émolument",
+    "other_forms" : [ "émoluments" ]
+  }, {
+    "canonical_form" : "trophée",
+    "other_forms" : [ "trophées" ]
+  }, {
+    "canonical_form" : "solde",
+    "other_forms" : [ "soldes" ]
+  }, {
+    "canonical_form" : "loyer",
+    "other_forms" : [ "loyers" ]
+  }, {
+    "canonical_form" : "honoraires",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "faveur",
+    "other_forms" : [ "faveurs" ]
+  }, {
+    "canonical_form" : "encouragement",
+    "other_forms" : [ "encouragements" ]
+  }, {
+    "canonical_form" : "oscar",
+    "other_forms" : [ "oscars" ]
+  }, {
+    "canonical_form" : "pension",
+    "other_forms" : [ "pensions" ]
+  }, {
+    "canonical_form" : "reconnaissance",
+    "other_forms" : [ "reconnaissances" ]
+  }, {
+    "canonical_form" : "salut",
+    "other_forms" : [ "saluts" ]
+  }, {
+    "canonical_form" : "satisfecit",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "tribut",
+    "other_forms" : [ "tributs" ]
+  }, {
+    "canonical_form" : "mention",
+    "other_forms" : [ "mentions" ]
+  }, {
+    "canonical_form" : "gage",
+    "other_forms" : [ "gages" ]
+  }, {
+    "canonical_form" : "fruit",
+    "other_forms" : [ "fruits" ]
+  }, {
+    "canonical_form" : "décoration",
+    "other_forms" : [ "décorations" ]
+  }, {
+    "canonical_form" : "diplôme",
+    "other_forms" : [ "diplômes" ]
+  }, {
+    "canonical_form" : "couronne",
+    "other_forms" : [ "couronnes" ]
+  }, {
+    "canonical_form" : "compensation",
+    "other_forms" : [ "compensations" ]
+  }, {
+    "canonical_form" : "citation",
+    "other_forms" : [ "citations" ]
+  }, {
+    "canonical_form" : "accessit",
+    "other_forms" : [ "accessits" ]
+  }, {
+    "canonical_form" : "échange",
+    "other_forms" : [ "échanges" ]
+  } ]
+}

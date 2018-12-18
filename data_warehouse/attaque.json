@@ -1,0 +1,217 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "attaque",
+    "other_forms" : [ "attaques" ]
+  }, {
+    "canonical_form" : "action",
+    "other_forms" : [ "actions" ]
+  }, {
+    "canonical_form" : "coup",
+    "other_forms" : [ "coups" ]
+  }, {
+    "canonical_form" : "choc",
+    "other_forms" : [ "chocs" ]
+  }, {
+    "canonical_form" : "accusation",
+    "other_forms" : [ "accusations" ]
+  }, {
+    "canonical_form" : "agression",
+    "other_forms" : [ "agressions" ]
+  }, {
+    "canonical_form" : "assaut",
+    "other_forms" : [ "assauts" ]
+  }, {
+    "canonical_form" : "lutte",
+    "other_forms" : [ "luttes" ]
+  }, {
+    "canonical_form" : "guerre",
+    "other_forms" : [ "guerres" ]
+  }, {
+    "canonical_form" : "charge",
+    "other_forms" : [ "charges" ]
+  }, {
+    "canonical_form" : "affaire",
+    "other_forms" : [ "affaires" ]
+  }, {
+    "canonical_form" : "querelle",
+    "other_forms" : [ "querelles" ]
+  }, {
+    "canonical_form" : "épreuve",
+    "other_forms" : [ "épreuves" ]
+  }, {
+    "canonical_form" : "rencontre",
+    "other_forms" : [ "rencontres" ]
+  }, {
+    "canonical_form" : "invasion",
+    "other_forms" : [ "invasions" ]
+  }, {
+    "canonical_form" : "insulte",
+    "other_forms" : [ "insultes" ]
+  }, {
+    "canonical_form" : "attentat",
+    "other_forms" : [ "attentats" ]
+  }, {
+    "canonical_form" : "outrage",
+    "other_forms" : [ "outrages" ]
+  }, {
+    "canonical_form" : "maladie",
+    "other_forms" : [ "maladies" ]
+  }, {
+    "canonical_form" : "injure",
+    "other_forms" : [ "injures" ]
+  }, {
+    "canonical_form" : "descente",
+    "other_forms" : [ "descentes" ]
+  }, {
+    "canonical_form" : "calomnie",
+    "other_forms" : [ "calomnies" ]
+  }, {
+    "canonical_form" : "approche",
+    "other_forms" : [ "approches" ]
+  }, {
+    "canonical_form" : "appel",
+    "other_forms" : [ "appels" ]
+  }, {
+    "canonical_form" : "algarade",
+    "other_forms" : [ "algarades" ]
+  }, {
+    "canonical_form" : "imputation",
+    "other_forms" : [ "imputations" ]
+  }, {
+    "canonical_form" : "incursion",
+    "other_forms" : [ "incursions" ]
+  }, {
+    "canonical_form" : "insinuation",
+    "other_forms" : [ "insinuations" ]
+  }, {
+    "canonical_form" : "moquerie",
+    "other_forms" : [ "moqueries" ]
+  }, {
+    "canonical_form" : "provocation",
+    "other_forms" : [ "provocations" ]
+  }, {
+    "canonical_form" : "raid",
+    "other_forms" : [ "raids" ]
+  }, {
+    "canonical_form" : "sollicitation",
+    "other_forms" : [ "sollicitations" ]
+  }, {
+    "canonical_form" : "dénigrement",
+    "other_forms" : [ "dénigrements" ]
+  }, {
+    "canonical_form" : "débat",
+    "other_forms" : [ "débats" ]
+  }, {
+    "canonical_form" : "diffamation",
+    "other_forms" : [ "diffamations" ]
+  }, {
+    "canonical_form" : "accès",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "affront",
+    "other_forms" : [ "affronts" ]
+  }, {
+    "canonical_form" : "affrontement",
+    "other_forms" : [ "affrontements" ]
+  }, {
+    "canonical_form" : "altercation",
+    "other_forms" : [ "altercations" ]
+  }, {
+    "canonical_form" : "apoplexie",
+    "other_forms" : [ "apoplexies" ]
+  }, {
+    "canonical_form" : "avance",
+    "other_forms" : [ "avances" ]
+  }, {
+    "canonical_form" : "conquête",
+    "other_forms" : [ "conquêtes" ]
+  }, {
+    "canonical_form" : "crise",
+    "other_forms" : [ "crises" ]
+  }, {
+    "canonical_form" : "invite",
+    "other_forms" : [ "invites" ]
+  }, {
+    "canonical_form" : "initiative",
+    "other_forms" : [ "initiatives" ]
+  }, {
+    "canonical_form" : "incrimination",
+    "other_forms" : [ "incriminations" ]
+  }, {
+    "canonical_form" : "ictus",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "guet-apens",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "irruption",
+    "other_forms" : [ "irruptions" ]
+  }, {
+    "canonical_form" : "morsure",
+    "other_forms" : [ "morsures" ]
+  }, {
+    "canonical_form" : "paralysie",
+    "other_forms" : [ "paralysies" ]
+  }, {
+    "canonical_form" : "ruade",
+    "other_forms" : [ "ruades" ]
+  }, {
+    "canonical_form" : "réprobation",
+    "other_forms" : [ "réprobations" ]
+  }, {
+    "canonical_form" : "siège",
+    "other_forms" : [ "sièges" ]
+  }, {
+    "canonical_form" : "sortie",
+    "other_forms" : [ "sorties" ]
+  }, {
+    "canonical_form" : "estocade",
+    "other_forms" : [ "estocades" ]
+  }, {
+    "canonical_form" : "début",
+    "other_forms" : [ "débuts" ]
+  }, {
+    "canonical_form" : "abordage",
+    "other_forms" : [ "abordages" ]
+  }, {
+    "canonical_form" : "allonge",
+    "other_forms" : [ "allonges" ]
+  }, {
+    "canonical_form" : "altération",
+    "other_forms" : [ "altérations" ]
+  }, {
+    "canonical_form" : "amorce",
+    "other_forms" : [ "amorces" ]
+  }, {
+    "canonical_form" : "argumentation",
+    "other_forms" : [ "argumentations" ]
+  }, {
+    "canonical_form" : "blâme",
+    "other_forms" : [ "blâmes" ]
+  }, {
+    "canonical_form" : "botte",
+    "other_forms" : [ "bottes" ]
+  }, {
+    "canonical_form" : "braquage",
+    "other_forms" : [ "braquages" ]
+  }, {
+    "canonical_form" : "commencement",
+    "other_forms" : [ "commencements" ]
+  }, {
+    "canonical_form" : "condamnation",
+    "other_forms" : [ "condamnations" ]
+  }, {
+    "canonical_form" : "congestion",
+    "other_forms" : [ "congestions" ]
+  }, {
+    "canonical_form" : "destruction",
+    "other_forms" : [ "destructions" ]
+  }, {
+    "canonical_form" : "diatribe",
+    "other_forms" : [ "diatribes" ]
+  }, {
+    "canonical_form" : "vol",
+    "other_forms" : [ "vols" ]
+  } ]
+}

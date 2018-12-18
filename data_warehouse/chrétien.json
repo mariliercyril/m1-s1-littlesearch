@@ -1,0 +1,25 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "chrétien",
+    "other_forms" : [ "chrétienne", "chrétiennes", "chrétiens" ]
+  }, {
+    "canonical_form" : "catholique",
+    "other_forms" : [ "catholiques" ]
+  }, {
+    "canonical_form" : "fidèle",
+    "other_forms" : [ "fidèles" ]
+  }, {
+    "canonical_form" : "copte",
+    "other_forms" : [ "coptes" ]
+  }, {
+    "canonical_form" : "orthodoxe",
+    "other_forms" : [ "orthodoxes" ]
+  }, {
+    "canonical_form" : "protestant",
+    "other_forms" : [ "protestante", "protestantes", "protestants" ]
+  }, {
+    "canonical_form" : "évangélique",
+    "other_forms" : [ "évangéliques" ]
+  } ]
+}

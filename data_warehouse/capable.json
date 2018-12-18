@@ -1,0 +1,73 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "capable",
+    "other_forms" : [ "capables" ]
+  }, {
+    "canonical_form" : "habile",
+    "other_forms" : [ "habiles" ]
+  }, {
+    "canonical_form" : "bon",
+    "other_forms" : [ "bonne", "bonnes", "bons" ]
+  }, {
+    "canonical_form" : "fort",
+    "other_forms" : [ "forte", "fortes", "forts" ]
+  }, {
+    "canonical_form" : "propre",
+    "other_forms" : [ "propres" ]
+  }, {
+    "canonical_form" : "compétent",
+    "other_forms" : [ "compétente", "compétentes", "compétents" ]
+  }, {
+    "canonical_form" : "adroit",
+    "other_forms" : [ "adroite", "adroites", "adroits" ]
+  }, {
+    "canonical_form" : "apte",
+    "other_forms" : [ "aptes" ]
+  }, {
+    "canonical_form" : "expert",
+    "other_forms" : [ "experte", "expertes", "experts" ]
+  }, {
+    "canonical_form" : "susceptible",
+    "other_forms" : [ "susceptibles" ]
+  }, {
+    "canonical_form" : "intelligent",
+    "other_forms" : [ "intelligente", "intelligentes", "intelligents" ]
+  }, {
+    "canonical_form" : "efficace",
+    "other_forms" : [ "efficaces" ]
+  }, {
+    "canonical_form" : "ingénieux",
+    "other_forms" : [ "ingénieuse", "ingénieuses" ]
+  }, {
+    "canonical_form" : "savant",
+    "other_forms" : [ "savante", "savantes", "savants" ]
+  }, {
+    "canonical_form" : "valable",
+    "other_forms" : [ "valables" ]
+  }, {
+    "canonical_form" : "malin",
+    "other_forms" : [ "maligne", "malignes", "maline", "malines", "malins" ]
+  }, {
+    "canonical_form" : "talentueux",
+    "other_forms" : [ "talentueuse", "talentueuses" ]
+  }, {
+    "canonical_form" : "puissant",
+    "other_forms" : [ "puissante", "puissantes", "puissants" ]
+  }, {
+    "canonical_form" : "irrésistible",
+    "other_forms" : [ "irrésistibles" ]
+  }, {
+    "canonical_form" : "industrieux",
+    "other_forms" : [ "industrieuse", "industrieuses" ]
+  }, {
+    "canonical_form" : "idoine",
+    "other_forms" : [ "idoines" ]
+  }, {
+    "canonical_form" : "efficient",
+    "other_forms" : [ "efficiente", "efficientes", "efficients" ]
+  }, {
+    "canonical_form" : "dégourdi",
+    "other_forms" : [ "dégourdie", "dégourdies", "dégourdis" ]
+  } ]
+}

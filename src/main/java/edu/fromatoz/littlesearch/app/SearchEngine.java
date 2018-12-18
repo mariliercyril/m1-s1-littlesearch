@@ -25,7 +25,7 @@ public class SearchEngine {
 	/**
 	 * The name of the directory of the Text Corpus.
 	 */
-	private static final String TEXT_CORPUS_DIRECTORY_NAME = "texts";
+	private static final String TEXT_CORPUS_DIRECTORY_NAME = "mathematicians";
 	/**
 	 * The directory of the Text Corpus.
 	 */

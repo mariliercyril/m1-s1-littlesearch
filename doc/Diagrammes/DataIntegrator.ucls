@@ -54,18 +54,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <enumeration id="6" language="java" name="edu.fromatoz.littlesearch.dataintegrator.FrenchAnalyser.StopFrenchWords" 
-    project="littlesearch" 
-    file="/littlesearch/src/main/java/edu/fromatoz/littlesearch/dataintegrator/FrenchAnalyser.java" binary="false" 
-    corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="-114" y="-35"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
-      sort-features="false" accessors="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
-      <operations public="true" package="true" protected="true" private="true" static="true"/>    
-    </display>  
-  </enumeration>  
-  <class id="7" language="java" name="edu.fromatoz.littlesearch.dataintegrator.FrenchAnalyser" project="littlesearch" 
+  <class id="6" language="java" name="edu.fromatoz.littlesearch.dataintegrator.FrenchAnalyser" project="littlesearch" 
     file="/littlesearch/src/main/java/edu/fromatoz/littlesearch/dataintegrator/FrenchAnalyser.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="-112" y="-303"/>    
@@ -75,7 +64,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="8" language="java" name="edu.fromatoz.littlesearch.dataintegrator.controller.FrenchTagger" 
+  <class id="7" language="java" name="edu.fromatoz.littlesearch.dataintegrator.controller.FrenchTagger" 
     project="littlesearch" 
     file="/littlesearch/src/main/java/edu/fromatoz/littlesearch/dataintegrator/controller/FrenchTagger.java" 
     binary="false" corner="BOTTOM_RIGHT">    
@@ -86,18 +75,18 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <enumeration id="9" language="java" 
+  <enumeration id="8" language="java" 
     name="edu.fromatoz.littlesearch.dataintegrator.controller.FrenchTagger.PartOfSpeech" project="littlesearch" 
     file="/littlesearch/src/main/java/edu/fromatoz/littlesearch/dataintegrator/controller/FrenchTagger.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="1039" y="230"/>    
+    <position height="-1" width="-1" x="1031" y="264"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </enumeration>  
-  <class id="10" language="java" name="edu.fromatoz.littlesearch.dataintegrator.model.entity.word.Noun" 
+  <class id="9" language="java" name="edu.fromatoz.littlesearch.dataintegrator.model.entity.word.Noun" 
     project="littlesearch" 
     file="/littlesearch/src/main/java/edu/fromatoz/littlesearch/dataintegrator/model/entity/word/Noun.java" 
     binary="false" corner="BOTTOM_RIGHT">    
@@ -108,7 +97,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="11" language="java" name="edu.fromatoz.littlesearch.dataintegrator.model.entity.Word" 
+  <class id="10" language="java" name="edu.fromatoz.littlesearch.dataintegrator.model.entity.Word" 
     project="littlesearch" 
     file="/littlesearch/src/main/java/edu/fromatoz/littlesearch/dataintegrator/model/entity/Word.java" binary="false" 
     corner="BOTTOM_RIGHT">    
@@ -119,45 +108,41 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <dependency id="12">    
+  <dependency id="11">    
     <end type="SOURCE" refId="1"/>    
-    <end type="TARGET" refId="11"/>  
+    <end type="TARGET" refId="7"/>  
   </dependency>  
-  <nesting id="13">    
-    <end type="SOURCE" refId="8"/>    
-    <end type="TARGET" refId="9"/>  
-  </nesting>  
+  <dependency id="12">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <generalization id="13">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
   <nesting id="14">    
     <end type="SOURCE" refId="7"/>    
-    <end type="TARGET" refId="6"/>  
+    <end type="TARGET" refId="8"/>  
   </nesting>  
   <dependency id="15">    
     <end type="SOURCE" refId="1"/>    
-    <end type="TARGET" refId="8"/>  
+    <end type="TARGET" refId="10"/>  
   </dependency>  
-  <dependency id="16">    
-    <end type="SOURCE" refId="3"/>    
-    <end type="TARGET" refId="1"/>  
-  </dependency>  
-  <generalization id="17">    
-    <end type="SOURCE" refId="2"/>    
-    <end type="TARGET" refId="11"/>  
+  <generalization id="16">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="10"/>  
   </generalization>  
-  <generalization id="18">    
-    <end type="SOURCE" refId="10"/>    
-    <end type="TARGET" refId="11"/>  
-  </generalization>  
-  <dependency id="19">    
+  <dependency id="17">    
     <end type="SOURCE" refId="1"/>    
     <end type="TARGET" refId="4"/>  
   </dependency>  
-  <dependency id="20">    
+  <dependency id="18">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="19">    
     <end type="SOURCE" refId="5"/>    
     <end type="TARGET" refId="3"/>  
-  </dependency>  
-  <dependency id="21">    
-    <end type="SOURCE" refId="5"/>    
-    <end type="TARGET" refId="7"/>  
   </dependency>  
   <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
     sort-features="false" accessors="true" visibility="true">    

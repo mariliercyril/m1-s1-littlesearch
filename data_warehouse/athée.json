@@ -1,0 +1,43 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "athée",
+    "other_forms" : [ "athées" ]
+  }, {
+    "canonical_form" : "incroyant",
+    "other_forms" : [ "incroyante", "incroyantes", "incroyants" ]
+  }, {
+    "canonical_form" : "incrédule",
+    "other_forms" : [ "incrédules" ]
+  }, {
+    "canonical_form" : "irréligieux",
+    "other_forms" : [ "irréligieuse", "irréligieuses" ]
+  }, {
+    "canonical_form" : "impie",
+    "other_forms" : [ "impies" ]
+  }, {
+    "canonical_form" : "sceptique",
+    "other_forms" : [ "sceptiques" ]
+  }, {
+    "canonical_form" : "voltairien",
+    "other_forms" : [ "voltairienne", "voltairiennes", "voltairiens" ]
+  }, {
+    "canonical_form" : "païen",
+    "other_forms" : [ "païenne", "païennes", "païens" ]
+  }, {
+    "canonical_form" : "non-croyant",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "mécréant",
+    "other_forms" : [ "mécréante", "mécréantes", "mécréants" ]
+  }, {
+    "canonical_form" : "indifférent",
+    "other_forms" : [ "indifférente", "indifférentes", "indifférents" ]
+  }, {
+    "canonical_form" : "areligieux",
+    "other_forms" : [ "areligieuse", "areligieuses" ]
+  }, {
+    "canonical_form" : "libertin",
+    "other_forms" : [ "libertine", "libertines", "libertins" ]
+  } ]
+}

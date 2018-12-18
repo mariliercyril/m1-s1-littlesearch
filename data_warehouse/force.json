@@ -1,0 +1,268 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "force",
+    "other_forms" : [ "forces" ]
+  }, {
+    "canonical_form" : "vigueur",
+    "other_forms" : [ "vigueurs" ]
+  }, {
+    "canonical_form" : "énergie",
+    "other_forms" : [ "énergies" ]
+  }, {
+    "canonical_form" : "ardeur",
+    "other_forms" : [ "ardeurs" ]
+  }, {
+    "canonical_form" : "puissance",
+    "other_forms" : [ "puissances" ]
+  }, {
+    "canonical_form" : "fermeté",
+    "other_forms" : [ "fermetés" ]
+  }, {
+    "canonical_form" : "valeur",
+    "other_forms" : [ "valeurs" ]
+  }, {
+    "canonical_form" : "solidité",
+    "other_forms" : [ "solidités" ]
+  }, {
+    "canonical_form" : "courage",
+    "other_forms" : [ "courages" ]
+  }, {
+    "canonical_form" : "chaleur",
+    "other_forms" : [ "chaleurs" ]
+  }, {
+    "canonical_form" : "violence",
+    "other_forms" : [ "violences" ]
+  }, {
+    "canonical_form" : "ressort",
+    "other_forms" : [ "ressorts" ]
+  }, {
+    "canonical_form" : "capacité",
+    "other_forms" : [ "capacités" ]
+  }, {
+    "canonical_form" : "pouvoir",
+    "other_forms" : [ "pouvoirs" ]
+  }, {
+    "canonical_form" : "âme",
+    "other_forms" : [ "âmes" ]
+  }, {
+    "canonical_form" : "action",
+    "other_forms" : [ "actions" ]
+  }, {
+    "canonical_form" : "grandeur",
+    "other_forms" : [ "grandeurs" ]
+  }, {
+    "canonical_form" : "vertu",
+    "other_forms" : [ "vertus" ]
+  }, {
+    "canonical_form" : "efficacité",
+    "other_forms" : [ "efficacités" ]
+  }, {
+    "canonical_form" : "influence",
+    "other_forms" : [ "influences" ]
+  }, {
+    "canonical_form" : "poids",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "profondeur",
+    "other_forms" : [ "profondeurs" ]
+  }, {
+    "canonical_form" : "vie",
+    "other_forms" : [ "vies" ]
+  }, {
+    "canonical_form" : "volonté",
+    "other_forms" : [ "volontés" ]
+  }, {
+    "canonical_form" : "effort",
+    "other_forms" : [ "efforts" ]
+  }, {
+    "canonical_form" : "dynamisme",
+    "other_forms" : [ "dynamismes" ]
+  }, {
+    "canonical_form" : "autorité",
+    "other_forms" : [ "autorités" ]
+  }, {
+    "canonical_form" : "véhémence",
+    "other_forms" : [ "véhémences" ]
+  }, {
+    "canonical_form" : "sève",
+    "other_forms" : [ "sèves" ]
+  }, {
+    "canonical_form" : "résistance",
+    "other_forms" : [ "résistances" ]
+  }, {
+    "canonical_form" : "bras",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "bouillonnement",
+    "other_forms" : [ "bouillonnements" ]
+  }, {
+    "canonical_form" : "vitalité",
+    "other_forms" : [ "vitalités" ]
+  }, {
+    "canonical_form" : "tendance",
+    "other_forms" : [ "tendances" ]
+  }, {
+    "canonical_form" : "talent",
+    "other_forms" : [ "talents" ]
+  }, {
+    "canonical_form" : "pression",
+    "other_forms" : [ "pressions" ]
+  }, {
+    "canonical_form" : "intensité",
+    "other_forms" : [ "intensités" ]
+  }, {
+    "canonical_form" : "impétuosité",
+    "other_forms" : [ "impétuosités" ]
+  }, {
+    "canonical_form" : "importance",
+    "other_forms" : [ "importances" ]
+  }, {
+    "canonical_form" : "générosité",
+    "other_forms" : [ "générosités" ]
+  }, {
+    "canonical_form" : "robustesse",
+    "other_forms" : [ "robustesses" ]
+  }, {
+    "canonical_form" : "nerf",
+    "other_forms" : [ "nerfs" ]
+  }, {
+    "canonical_form" : "habileté",
+    "other_forms" : [ "habiletés" ]
+  }, {
+    "canonical_form" : "faculté",
+    "other_forms" : [ "facultés" ]
+  }, {
+    "canonical_form" : "exigence",
+    "other_forms" : [ "exigences" ]
+  }, {
+    "canonical_form" : "endurance",
+    "other_forms" : [ "endurances" ]
+  }, {
+    "canonical_form" : "cran",
+    "other_forms" : [ "crans" ]
+  }, {
+    "canonical_form" : "bonté",
+    "other_forms" : [ "bontés" ]
+  }, {
+    "canonical_form" : "beauté",
+    "other_forms" : [ "beautés" ]
+  }, {
+    "canonical_form" : "agent",
+    "other_forms" : [ "agents" ]
+  }, {
+    "canonical_form" : "oppression",
+    "other_forms" : [ "oppressions" ]
+  }, {
+    "canonical_form" : "possibilité",
+    "other_forms" : [ "possibilités" ]
+  }, {
+    "canonical_form" : "quantité",
+    "other_forms" : [ "quantités" ]
+  }, {
+    "canonical_form" : "travail",
+    "other_forms" : [ "travaux" ]
+  }, {
+    "canonical_form" : "virilité",
+    "other_forms" : [ "virilités" ]
+  }, {
+    "canonical_form" : "obligation",
+    "other_forms" : [ "obligations" ]
+  }, {
+    "canonical_form" : "mérite",
+    "other_forms" : [ "mérites" ]
+  }, {
+    "canonical_form" : "biceps",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "constance",
+    "other_forms" : [ "constances" ]
+  }, {
+    "canonical_form" : "densité",
+    "other_forms" : [ "densités" ]
+  }, {
+    "canonical_form" : "désir",
+    "other_forms" : [ "désirs" ]
+  }, {
+    "canonical_form" : "pesanteur",
+    "other_forms" : [ "pesanteurs" ]
+  }, {
+    "canonical_form" : "punch",
+    "other_forms" : [ "punchs" ]
+  }, {
+    "canonical_form" : "signification",
+    "other_forms" : [ "significations" ]
+  }, {
+    "canonical_form" : "teneur",
+    "other_forms" : [ "teneurs" ]
+  }, {
+    "canonical_form" : "torrent",
+    "other_forms" : [ "torrents" ]
+  }, {
+    "canonical_form" : "verdeur",
+    "other_forms" : [ "verdeurs" ]
+  }, {
+    "canonical_form" : "éloquence",
+    "other_forms" : [ "éloquences" ]
+  }, {
+    "canonical_form" : "muscle",
+    "other_forms" : [ "muscles" ]
+  }, {
+    "canonical_form" : "brutalité",
+    "other_forms" : [ "brutalités" ]
+  }, {
+    "canonical_form" : "consistance",
+    "other_forms" : [ "consistances" ]
+  }, {
+    "canonical_form" : "couleur",
+    "other_forms" : [ "couleurs" ]
+  }, {
+    "canonical_form" : "dimension",
+    "other_forms" : [ "dimensions" ]
+  }, {
+    "canonical_form" : "impulsion",
+    "other_forms" : [ "impulsions" ]
+  }, {
+    "canonical_form" : "relief",
+    "other_forms" : [ "reliefs" ]
+  }, {
+    "canonical_form" : "rendement",
+    "other_forms" : [ "rendements" ]
+  }, {
+    "canonical_form" : "résilience",
+    "other_forms" : [ "résiliences" ]
+  }, {
+    "canonical_form" : "santé",
+    "other_forms" : [ "santés" ]
+  }, {
+    "canonical_form" : "soif",
+    "other_forms" : [ "soifs" ]
+  }, {
+    "canonical_form" : "suprématie",
+    "other_forms" : [ "suprématies" ]
+  }, {
+    "canonical_form" : "sûreté",
+    "other_forms" : [ "sûretés" ]
+  }, {
+    "canonical_form" : "propulsion",
+    "other_forms" : [ "propulsions" ]
+  }, {
+    "canonical_form" : "niveau",
+    "other_forms" : [ "niveaux" ]
+  }, {
+    "canonical_form" : "fleur",
+    "other_forms" : [ "fleurs" ]
+  }, {
+    "canonical_form" : "ferveur",
+    "other_forms" : [ "ferveurs" ]
+  }, {
+    "canonical_form" : "détermination",
+    "other_forms" : [ "déterminations" ]
+  }, {
+    "canonical_form" : "airain",
+    "other_forms" : [ "airains" ]
+  }, {
+    "canonical_form" : "vitesse",
+    "other_forms" : [ "vitesses" ]
+  } ]
+}

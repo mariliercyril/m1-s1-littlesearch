@@ -1,0 +1,34 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "terminologie",
+    "other_forms" : [ "terminologies" ]
+  }, {
+    "canonical_form" : "jargon",
+    "other_forms" : [ "jargons" ]
+  }, {
+    "canonical_form" : "langue",
+    "other_forms" : [ "langues" ]
+  }, {
+    "canonical_form" : "phraséologie",
+    "other_forms" : [ "phraséologies" ]
+  }, {
+    "canonical_form" : "vocabulaire",
+    "other_forms" : [ "vocabulaires" ]
+  }, {
+    "canonical_form" : "dialecte",
+    "other_forms" : [ "dialectes" ]
+  }, {
+    "canonical_form" : "nomenclature",
+    "other_forms" : [ "nomenclatures" ]
+  }, {
+    "canonical_form" : "style",
+    "other_forms" : [ "styles" ]
+  }, {
+    "canonical_form" : "taxinomie",
+    "other_forms" : [ "taxinomies", "taxonomie", "taxonomies" ]
+  }, {
+    "canonical_form" : "technologie",
+    "other_forms" : [ "technologies" ]
+  } ]
+}

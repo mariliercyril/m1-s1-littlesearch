@@ -1,0 +1,62 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "supposer"
+  }, {
+    "canonical_form" : "imaginer"
+  }, {
+    "canonical_form" : "croire"
+  }, {
+    "canonical_form" : "conjecturer"
+  }, {
+    "canonical_form" : "présumer"
+  }, {
+    "canonical_form" : "prendre"
+  }, {
+    "canonical_form" : "soupçonner"
+  }, {
+    "canonical_form" : "inventer"
+  }, {
+    "canonical_form" : "donner"
+  }, {
+    "canonical_form" : "compter"
+  }, {
+    "canonical_form" : "chercher"
+  }, {
+    "canonical_form" : "admettre"
+  }, {
+    "canonical_form" : "révéler"
+  }, {
+    "canonical_form" : "requérir"
+  }, {
+    "canonical_form" : "présupposer"
+  }, {
+    "canonical_form" : "marquer"
+  }, {
+    "canonical_form" : "indiquer"
+  }, {
+    "canonical_form" : "feindre"
+  }, {
+    "canonical_form" : "exiger"
+  }, {
+    "canonical_form" : "concevoir"
+  }, {
+    "canonical_form" : "réclamer"
+  }, {
+    "canonical_form" : "prêter"
+  }, {
+    "canonical_form" : "prétexter"
+  }, {
+    "canonical_form" : "poser"
+  }, {
+    "canonical_form" : "impliquer"
+  }, {
+    "canonical_form" : "dénoter"
+  }, {
+    "canonical_form" : "augurer"
+  }, {
+    "canonical_form" : "attribuer"
+  }, {
+    "canonical_form" : "substituer"
+  } ]
+}

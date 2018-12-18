@@ -1,0 +1,58 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "lire"
+  }, {
+    "canonical_form" : "déchiffrer"
+  }, {
+    "canonical_form" : "découvrir"
+  }, {
+    "canonical_form" : "repérer"
+  }, {
+    "canonical_form" : "pénétrer"
+  }, {
+    "canonical_form" : "voir"
+  }, {
+    "canonical_form" : "expliquer"
+  }, {
+    "canonical_form" : "deviner"
+  }, {
+    "canonical_form" : "épeler"
+  }, {
+    "canonical_form" : "percer"
+  }, {
+    "canonical_form" : "interpréter"
+  }, {
+    "canonical_form" : "feuilleter"
+  }, {
+    "canonical_form" : "discerner"
+  }, {
+    "canonical_form" : "consulter"
+  }, {
+    "canonical_form" : "survoler"
+  }, {
+    "canonical_form" : "réciter"
+  }, {
+    "canonical_form" : "prononcer"
+  }, {
+    "canonical_form" : "parcourir"
+  }, {
+    "canonical_form" : "fréquenter"
+  }, {
+    "canonical_form" : "dévorer"
+  }, {
+    "canonical_form" : "dépouiller"
+  }, {
+    "canonical_form" : "décrypter"
+  }, {
+    "canonical_form" : "décoder"
+  }, {
+    "canonical_form" : "débrouiller"
+  }, {
+    "canonical_form" : "compulser"
+  }, {
+    "canonical_form" : "bouquiner"
+  }, {
+    "canonical_form" : "ânonner"
+  } ]
+}

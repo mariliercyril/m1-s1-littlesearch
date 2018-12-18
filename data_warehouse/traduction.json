@@ -1,0 +1,37 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "traduction",
+    "other_forms" : [ "traductions" ]
+  }, {
+    "canonical_form" : "interprétation",
+    "other_forms" : [ "interprétations" ]
+  }, {
+    "canonical_form" : "adaptation",
+    "other_forms" : [ "adaptations" ]
+  }, {
+    "canonical_form" : "transposition",
+    "other_forms" : [ "transpositions" ]
+  }, {
+    "canonical_form" : "translation",
+    "other_forms" : [ "translations" ]
+  }, {
+    "canonical_form" : "transcodage",
+    "other_forms" : [ "transcodages" ]
+  }, {
+    "canonical_form" : "thème",
+    "other_forms" : [ "thèmes" ]
+  }, {
+    "canonical_form" : "représentation",
+    "other_forms" : [ "représentations" ]
+  }, {
+    "canonical_form" : "paraphrase",
+    "other_forms" : [ "paraphrases" ]
+  }, {
+    "canonical_form" : "expression",
+    "other_forms" : [ "expressions" ]
+  }, {
+    "canonical_form" : "version",
+    "other_forms" : [ "versions" ]
+  } ]
+}

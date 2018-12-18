@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "biblique",
+    "other_forms" : [ "bibliques" ]
+  }, {
+    "canonical_form" : "hébraïque",
+    "other_forms" : [ "hébraïques" ]
+  }, {
+    "canonical_form" : "judaïque",
+    "other_forms" : [ "judaïques" ]
+  } ]
+}

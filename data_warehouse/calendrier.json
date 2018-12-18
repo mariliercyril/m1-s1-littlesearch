@@ -1,0 +1,46 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "calendrier",
+    "other_forms" : [ "calendriers" ]
+  }, {
+    "canonical_form" : "agenda",
+    "other_forms" : [ "agendas" ]
+  }, {
+    "canonical_form" : "almanach",
+    "other_forms" : [ "almanachs" ]
+  }, {
+    "canonical_form" : "tableau",
+    "other_forms" : [ "tableaux" ]
+  }, {
+    "canonical_form" : "table",
+    "other_forms" : [ "tables" ]
+  }, {
+    "canonical_form" : "saison",
+    "other_forms" : [ "saisons" ]
+  }, {
+    "canonical_form" : "programme",
+    "other_forms" : [ "programmes" ]
+  }, {
+    "canonical_form" : "planning",
+    "other_forms" : [ "plannings" ]
+  }, {
+    "canonical_form" : "ordo",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "ménologe",
+    "other_forms" : [ "ménologes" ]
+  }, {
+    "canonical_form" : "martyrologe",
+    "other_forms" : [ "martyrologes" ]
+  }, {
+    "canonical_form" : "comput",
+    "other_forms" : [ "computs" ]
+  }, {
+    "canonical_form" : "chronologie",
+    "other_forms" : [ "chronologies" ]
+  }, {
+    "canonical_form" : "annuaire",
+    "other_forms" : [ "annuaires" ]
+  } ]
+}

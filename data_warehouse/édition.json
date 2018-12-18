@@ -1,0 +1,43 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "édition",
+    "other_forms" : [ "éditions" ]
+  }, {
+    "canonical_form" : "tirage",
+    "other_forms" : [ "tirages" ]
+  }, {
+    "canonical_form" : "publication",
+    "other_forms" : [ "publications" ]
+  }, {
+    "canonical_form" : "reproduction",
+    "other_forms" : [ "reproductions" ]
+  }, {
+    "canonical_form" : "réimpression",
+    "other_forms" : [ "réimpressions" ]
+  }, {
+    "canonical_form" : "princeps",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "livre",
+    "other_forms" : [ "livres" ]
+  }, {
+    "canonical_form" : "littérature",
+    "other_forms" : [ "littératures" ]
+  }, {
+    "canonical_form" : "librairie",
+    "other_forms" : [ "librairies" ]
+  }, {
+    "canonical_form" : "impression",
+    "other_forms" : [ "impressions" ]
+  }, {
+    "canonical_form" : "composition",
+    "other_forms" : [ "compositions" ]
+  }, {
+    "canonical_form" : "collection",
+    "other_forms" : [ "collections" ]
+  }, {
+    "canonical_form" : "réédition",
+    "other_forms" : [ "rééditions" ]
+  } ]
+}

@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "robin",
+    "other_forms" : [ "robins" ]
+  }, {
+    "canonical_form" : "juge",
+    "other_forms" : [ "juges" ]
+  }, {
+    "canonical_form" : "magistrat",
+    "other_forms" : [ "magistrats" ]
+  } ]
+}

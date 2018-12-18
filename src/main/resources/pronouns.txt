@@ -1,0 +1,11 @@
+# Pronouns (as stop words)
+pronouns.personal.subject=j je tu elle il on nous vous elles ils
+pronouns.personal.complement=m me moi t te toi s se soi la le lui nous vous eux les leur
+
+pronouns.possessive=mien mienne miennes miens tien tienne tiennes tiens sien sienne siennes siens nôtre nôtres vôtre vôtres leur leurs
+
+pronouns.relative.simple=dont où qu que qui quoi
+pronouns.relative.composed=laquelle lequel lesquelles lesquels auquel auxquelles auxquels desquelles desquels duquel
+
+pronouns.demonstrative.simple=c ç ce celle celles celui ceux
+pronouns.demonstrative.composed=ça ceci cela celle-ci celle-là celles-ci celles-là celui-ci celui-là ceux-ci ceux-là

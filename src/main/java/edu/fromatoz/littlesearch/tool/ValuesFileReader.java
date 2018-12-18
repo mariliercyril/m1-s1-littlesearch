@@ -12,7 +12,7 @@ import java.util.Set;
  */
 public final class ValuesFileReader {
 
-	private static final String VALUES_FILE_SUFFIX = (Separator.POINT).getValue() + (Extension.VALUES).getValue();
+	private static final String VALUES_FILE_SUFFIX = (Separator.POINT).getValue() + (Extension.TEXT).getValue();
 
 	private static final String VALUES_FILE_PATH_FORMAT = (Separator.SLASH).getValue() + "%s" + VALUES_FILE_SUFFIX;
 

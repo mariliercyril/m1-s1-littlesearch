@@ -25,11 +25,11 @@
         <directory>src/main/resources</directory>
         <includes>
           <include>log4j.properties</include>
-          <include>pronouns.values</include>
-          <include>determinants.values</include>
-          <include>articles.values</include>
-          <include>others.values</include>
-          <include>proper.noun.values</include>
+          <include>pronouns.txt</include>
+          <include>determinants.txt</include>
+          <include>articles.txt</include>
+          <include>others.txt</include>
+          <include>proper.noun.txt</include>
         </includes>
       </resource>
     </resources>

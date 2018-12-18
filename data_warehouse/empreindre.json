@@ -1,0 +1,24 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "empreindre"
+  }, {
+    "canonical_form" : "imprimer"
+  }, {
+    "canonical_form" : "marquer"
+  }, {
+    "canonical_form" : "graver"
+  }, {
+    "canonical_form" : "estamper"
+  }, {
+    "canonical_form" : "colorer"
+  }, {
+    "canonical_form" : "estampiller"
+  }, {
+    "canonical_form" : "frapper"
+  }, {
+    "canonical_form" : "inculquer"
+  }, {
+    "canonical_form" : "inscrire"
+  } ]
+}

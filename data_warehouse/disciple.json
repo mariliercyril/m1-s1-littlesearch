@@ -1,0 +1,37 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "disciple",
+    "other_forms" : [ "disciples" ]
+  }, {
+    "canonical_form" : "épigone",
+    "other_forms" : [ "épigones" ]
+  }, {
+    "canonical_form" : "prosélyte",
+    "other_forms" : [ "prosélytes" ]
+  }, {
+    "canonical_form" : "héritier",
+    "other_forms" : [ "héritiers", "héritière", "héritières" ]
+  }, {
+    "canonical_form" : "zélateur",
+    "other_forms" : [ "zélateurs", "zélatrice", "zélatrices" ]
+  }, {
+    "canonical_form" : "sectateur",
+    "other_forms" : [ "sectateurs", "sectatrice", "sectatrices" ]
+  }, {
+    "canonical_form" : "fil",
+    "other_forms" : [ "fils" ]
+  }, {
+    "canonical_form" : "continuateur",
+    "other_forms" : [ "continuateurs", "continuatrice", "continuatrices" ]
+  }, {
+    "canonical_form" : "apôtre",
+    "other_forms" : [ "apôtres" ]
+  }, {
+    "canonical_form" : "apprenti",
+    "other_forms" : [ "apprentie", "apprenties", "apprentis" ]
+  }, {
+    "canonical_form" : "émanation",
+    "other_forms" : [ "émanations" ]
+  } ]
+}

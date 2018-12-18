@@ -1,0 +1,19 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "apocryphe",
+    "other_forms" : [ "apocryphes" ]
+  }, {
+    "canonical_form" : "douteux",
+    "other_forms" : [ "douteur", "douteurs", "douteuse", "douteuses" ]
+  }, {
+    "canonical_form" : "hérétique",
+    "other_forms" : [ "hérétiques" ]
+  }, {
+    "canonical_form" : "inauthentique",
+    "other_forms" : [ "inauthentiques" ]
+  }, {
+    "canonical_form" : "suspect",
+    "other_forms" : [ "suspecte", "suspectes", "suspects" ]
+  } ]
+}

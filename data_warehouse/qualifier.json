@@ -1,0 +1,44 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "qualifier"
+  }, {
+    "canonical_form" : "nommer"
+  }, {
+    "canonical_form" : "appeler"
+  }, {
+    "canonical_form" : "désigner"
+  }, {
+    "canonical_form" : "dénommer"
+  }, {
+    "canonical_form" : "déterminer"
+  }, {
+    "canonical_form" : "traiter"
+  }, {
+    "canonical_form" : "surnommer"
+  }, {
+    "canonical_form" : "fixer"
+  }, {
+    "canonical_form" : "confirmer"
+  }, {
+    "canonical_form" : "baptiser"
+  }, {
+    "canonical_form" : "autoriser"
+  }, {
+    "canonical_form" : "intituler"
+  }, {
+    "canonical_form" : "homologuer"
+  }, {
+    "canonical_form" : "habiliter"
+  }, {
+    "canonical_form" : "garantir"
+  }, {
+    "canonical_form" : "caractériser"
+  }, {
+    "canonical_form" : "affubler"
+  }, {
+    "canonical_form" : "affecter"
+  }, {
+    "canonical_form" : "étiqueter"
+  } ]
+}

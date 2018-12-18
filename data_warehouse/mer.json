@@ -1,0 +1,49 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "mer",
+    "other_forms" : [ "mers" ]
+  }, {
+    "canonical_form" : "multitude",
+    "other_forms" : [ "multitudes" ]
+  }, {
+    "canonical_form" : "quantité",
+    "other_forms" : [ "quantités" ]
+  }, {
+    "canonical_form" : "océan",
+    "other_forms" : [ "océans" ]
+  }, {
+    "canonical_form" : "masse",
+    "other_forms" : [ "masses" ]
+  }, {
+    "canonical_form" : "fourmillement",
+    "other_forms" : [ "fourmillements" ]
+  }, {
+    "canonical_form" : "flot",
+    "other_forms" : [ "flots" ]
+  }, {
+    "canonical_form" : "déluge",
+    "other_forms" : [ "déluges" ]
+  }, {
+    "canonical_form" : "abondance",
+    "other_forms" : [ "abondances" ]
+  }, {
+    "canonical_form" : "fourmilière",
+    "other_forms" : [ "fourmilières" ]
+  }, {
+    "canonical_form" : "fleuve",
+    "other_forms" : [ "fleuves" ]
+  }, {
+    "canonical_form" : "essaim",
+    "other_forms" : [ "essaims" ]
+  }, {
+    "canonical_form" : "eau",
+    "other_forms" : [ "eaux" ]
+  }, {
+    "canonical_form" : "baille",
+    "other_forms" : [ "bailles" ]
+  }, {
+    "canonical_form" : "onde",
+    "other_forms" : [ "ondes" ]
+  } ]
+}

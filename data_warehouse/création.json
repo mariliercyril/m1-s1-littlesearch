@@ -1,0 +1,115 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "création",
+    "other_forms" : [ "créations" ]
+  }, {
+    "canonical_form" : "formation",
+    "other_forms" : [ "formations" ]
+  }, {
+    "canonical_form" : "production",
+    "other_forms" : [ "productions" ]
+  }, {
+    "canonical_form" : "constitution",
+    "other_forms" : [ "constitutions" ]
+  }, {
+    "canonical_form" : "conception",
+    "other_forms" : [ "conceptions" ]
+  }, {
+    "canonical_form" : "invention",
+    "other_forms" : [ "inventions" ]
+  }, {
+    "canonical_form" : "élaboration",
+    "other_forms" : [ "élaborations" ]
+  }, {
+    "canonical_form" : "établissement",
+    "other_forms" : [ "établissements" ]
+  }, {
+    "canonical_form" : "organisation",
+    "other_forms" : [ "organisations" ]
+  }, {
+    "canonical_form" : "génération",
+    "other_forms" : [ "générations" ]
+  }, {
+    "canonical_form" : "fondation",
+    "other_forms" : [ "fondations" ]
+  }, {
+    "canonical_form" : "apparition",
+    "other_forms" : [ "apparitions" ]
+  }, {
+    "canonical_form" : "fabrication",
+    "other_forms" : [ "fabrications" ]
+  }, {
+    "canonical_form" : "instauration",
+    "other_forms" : [ "instaurations" ]
+  }, {
+    "canonical_form" : "institution",
+    "other_forms" : [ "institutions" ]
+  }, {
+    "canonical_form" : "réalisation",
+    "other_forms" : [ "réalisations" ]
+  }, {
+    "canonical_form" : "origine",
+    "other_forms" : [ "origines" ]
+  }, {
+    "canonical_form" : "oeuvre",
+    "other_forms" : [ "oeuvres" ]
+  }, {
+    "canonical_form" : "naissance",
+    "other_forms" : [ "naissances" ]
+  }, {
+    "canonical_form" : "genèse",
+    "other_forms" : [ "genèses" ]
+  }, {
+    "canonical_form" : "façon",
+    "other_forms" : [ "façons" ]
+  }, {
+    "canonical_form" : "édification",
+    "other_forms" : [ "édifications" ]
+  }, {
+    "canonical_form" : "ouvrage",
+    "other_forms" : [ "ouvrages" ]
+  }, {
+    "canonical_form" : "nature",
+    "other_forms" : [ "natures" ]
+  }, {
+    "canonical_form" : "engendrement",
+    "other_forms" : [ "engendrements" ]
+  }, {
+    "canonical_form" : "enfantement",
+    "other_forms" : [ "enfantements" ]
+  }, {
+    "canonical_form" : "commencement",
+    "other_forms" : [ "commencements" ]
+  }, {
+    "canonical_form" : "univers",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "trouvaille",
+    "other_forms" : [ "trouvailles" ]
+  }, {
+    "canonical_form" : "survenance",
+    "other_forms" : [ "survenances" ]
+  }, {
+    "canonical_form" : "obtention",
+    "other_forms" : [ "obtentions" ]
+  }, {
+    "canonical_form" : "néologisme",
+    "other_forms" : [ "néologismes" ]
+  }, {
+    "canonical_form" : "monde",
+    "other_forms" : [ "mondes" ]
+  }, {
+    "canonical_form" : "innovation",
+    "other_forms" : [ "innovations" ]
+  }, {
+    "canonical_form" : "imagination",
+    "other_forms" : [ "imaginations" ]
+  }, {
+    "canonical_form" : "bâtiment",
+    "other_forms" : [ "bâtiments" ]
+  }, {
+    "canonical_form" : "vie",
+    "other_forms" : [ "vies" ]
+  } ]
+}

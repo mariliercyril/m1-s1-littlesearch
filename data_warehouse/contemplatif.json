@@ -1,0 +1,31 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "contemplatif",
+    "other_forms" : [ "contemplatifs", "contemplative", "contemplatives" ]
+  }, {
+    "canonical_form" : "rêveur",
+    "other_forms" : [ "rêveurs", "rêveuse", "rêveuses" ]
+  }, {
+    "canonical_form" : "méditatif",
+    "other_forms" : [ "méditatifs", "méditative", "méditatives" ]
+  }, {
+    "canonical_form" : "penseur",
+    "other_forms" : [ "penseurs", "penseuse", "penseuses" ]
+  }, {
+    "canonical_form" : "songeur",
+    "other_forms" : [ "songeurs", "songeuse", "songeuses" ]
+  }, {
+    "canonical_form" : "spéculatif",
+    "other_forms" : [ "spéculatifs", "spéculative", "spéculatives" ]
+  }, {
+    "canonical_form" : "pensif",
+    "other_forms" : [ "pensifs", "pensive", "pensives" ]
+  }, {
+    "canonical_form" : "mystique",
+    "other_forms" : [ "mystiques" ]
+  }, {
+    "canonical_form" : "anagogique",
+    "other_forms" : [ "anagogiques" ]
+  } ]
+}

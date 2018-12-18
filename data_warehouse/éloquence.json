@@ -1,0 +1,109 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "éloquence",
+    "other_forms" : [ "éloquences" ]
+  }, {
+    "canonical_form" : "faconde",
+    "other_forms" : [ "facondes" ]
+  }, {
+    "canonical_form" : "loquacité",
+    "other_forms" : [ "loquacités" ]
+  }, {
+    "canonical_form" : "brio",
+    "other_forms" : [ "brios" ]
+  }, {
+    "canonical_form" : "habileté",
+    "other_forms" : [ "habiletés" ]
+  }, {
+    "canonical_form" : "chaleur",
+    "other_forms" : [ "chaleurs" ]
+  }, {
+    "canonical_form" : "élégance",
+    "other_forms" : [ "élégances" ]
+  }, {
+    "canonical_form" : "élocution",
+    "other_forms" : [ "élocutions" ]
+  }, {
+    "canonical_form" : "volubilité",
+    "other_forms" : [ "volubilités" ]
+  }, {
+    "canonical_form" : "verbiage",
+    "other_forms" : [ "verbiages" ]
+  }, {
+    "canonical_form" : "prolixité",
+    "other_forms" : [ "prolixités" ]
+  }, {
+    "canonical_form" : "pathos",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "déclamation",
+    "other_forms" : [ "déclamations" ]
+  }, {
+    "canonical_form" : "bagou",
+    "other_forms" : [ "bagous" ]
+  }, {
+    "canonical_form" : "ardeur",
+    "other_forms" : [ "ardeurs" ]
+  }, {
+    "canonical_form" : "véhémence",
+    "other_forms" : [ "véhémences" ]
+  }, {
+    "canonical_form" : "verve",
+    "other_forms" : [ "verves" ]
+  }, {
+    "canonical_form" : "verbosité",
+    "other_forms" : [ "verbosités" ]
+  }, {
+    "canonical_form" : "platine",
+    "other_forms" : [ "platines" ]
+  }, {
+    "canonical_form" : "parole",
+    "other_forms" : [ "paroles" ]
+  }, {
+    "canonical_form" : "maîtrise",
+    "other_forms" : [ "maîtrises" ]
+  }, {
+    "canonical_form" : "force",
+    "other_forms" : [ "forces" ]
+  }, {
+    "canonical_form" : "débit",
+    "other_forms" : [ "débits" ]
+  }, {
+    "canonical_form" : "diction",
+    "other_forms" : [ "dictions" ]
+  }, {
+    "canonical_form" : "bien-dire",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "ithos",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "loquèle",
+    "other_forms" : [ "loquèles" ]
+  }, {
+    "canonical_form" : "persuasion",
+    "other_forms" : [ "persuasions" ]
+  }, {
+    "canonical_form" : "période",
+    "other_forms" : [ "périodes" ]
+  }, {
+    "canonical_form" : "flamme",
+    "other_forms" : [ "flammes" ]
+  }, {
+    "canonical_form" : "expression",
+    "other_forms" : [ "expressions" ]
+  }, {
+    "canonical_form" : "conviction",
+    "other_forms" : [ "convictions" ]
+  }, {
+    "canonical_form" : "charme",
+    "other_forms" : [ "charmes" ]
+  }, {
+    "canonical_form" : "art",
+    "other_forms" : [ "arts" ]
+  }, {
+    "canonical_form" : "vigueur",
+    "other_forms" : [ "vigueurs" ]
+  } ]
+}

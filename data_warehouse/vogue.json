@@ -1,0 +1,52 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "vogue",
+    "other_forms" : [ "vogues" ]
+  }, {
+    "canonical_form" : "célébrité",
+    "other_forms" : [ "célébrités" ]
+  }, {
+    "canonical_form" : "mode",
+    "other_forms" : [ "modes" ]
+  }, {
+    "canonical_form" : "crédit",
+    "other_forms" : [ "crédits" ]
+  }, {
+    "canonical_form" : "réputation",
+    "other_forms" : [ "réputations" ]
+  }, {
+    "canonical_form" : "renom",
+    "other_forms" : [ "renoms" ]
+  }, {
+    "canonical_form" : "popularité",
+    "other_forms" : [ "popularités" ]
+  }, {
+    "canonical_form" : "cour",
+    "other_forms" : [ "cours" ]
+  }, {
+    "canonical_form" : "succès",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "fureur",
+    "other_forms" : [ "fureurs" ]
+  }, {
+    "canonical_form" : "faveur",
+    "other_forms" : [ "faveurs" ]
+  }, {
+    "canonical_form" : "cote",
+    "other_forms" : [ "cotes" ]
+  }, {
+    "canonical_form" : "dada",
+    "other_forms" : [ "dadas" ]
+  }, {
+    "canonical_form" : "fête",
+    "other_forms" : [ "fêtes" ]
+  }, {
+    "canonical_form" : "kermesse",
+    "other_forms" : [ "kermesses" ]
+  }, {
+    "canonical_form" : "vent",
+    "other_forms" : [ "vents" ]
+  } ]
+}

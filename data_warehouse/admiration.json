@@ -1,0 +1,64 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "admiration",
+    "other_forms" : [ "admirations" ]
+  }, {
+    "canonical_form" : "enthousiasme",
+    "other_forms" : [ "enthousiasmes" ]
+  }, {
+    "canonical_form" : "passion",
+    "other_forms" : [ "passions" ]
+  }, {
+    "canonical_form" : "étonnement",
+    "other_forms" : [ "étonnements" ]
+  }, {
+    "canonical_form" : "adoration",
+    "other_forms" : [ "adorations" ]
+  }, {
+    "canonical_form" : "engouement",
+    "other_forms" : [ "engouements" ]
+  }, {
+    "canonical_form" : "émerveillement",
+    "other_forms" : [ "émerveillements" ]
+  }, {
+    "canonical_form" : "éblouissement",
+    "other_forms" : [ "éblouissements" ]
+  }, {
+    "canonical_form" : "ébahissement",
+    "other_forms" : [ "ébahissements" ]
+  }, {
+    "canonical_form" : "vénération",
+    "other_forms" : [ "vénérations" ]
+  }, {
+    "canonical_form" : "extase",
+    "other_forms" : [ "extases" ]
+  }, {
+    "canonical_form" : "emballement",
+    "other_forms" : [ "emballements" ]
+  }, {
+    "canonical_form" : "amour",
+    "other_forms" : [ "amours" ]
+  }, {
+    "canonical_form" : "transport",
+    "other_forms" : [ "transports" ]
+  }, {
+    "canonical_form" : "ravissement",
+    "other_forms" : [ "ravissements" ]
+  }, {
+    "canonical_form" : "exaltation",
+    "other_forms" : [ "exaltations" ]
+  }, {
+    "canonical_form" : "culte",
+    "other_forms" : [ "cultes" ]
+  }, {
+    "canonical_form" : "applaudissement",
+    "other_forms" : [ "applaudissements" ]
+  }, {
+    "canonical_form" : "fétichisme",
+    "other_forms" : [ "fétichismes" ]
+  }, {
+    "canonical_form" : "sensation",
+    "other_forms" : [ "sensations" ]
+  } ]
+}

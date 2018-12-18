@@ -1,0 +1,82 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "énigmatique",
+    "other_forms" : [ "énigmatiques" ]
+  }, {
+    "canonical_form" : "obscur",
+    "other_forms" : [ "obscure", "obscures", "obscurs" ]
+  }, {
+    "canonical_form" : "impénétrable",
+    "other_forms" : [ "impénétrables" ]
+  }, {
+    "canonical_form" : "mystérieux",
+    "other_forms" : [ "mystérieuse", "mystérieuses" ]
+  }, {
+    "canonical_form" : "sibyllin",
+    "other_forms" : [ "sibylline", "sibyllines", "sibyllins" ]
+  }, {
+    "canonical_form" : "ténébreux",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "nébuleux",
+    "other_forms" : [ "nébuleuse", "nébuleuses" ]
+  }, {
+    "canonical_form" : "secret",
+    "other_forms" : [ "secrets", "secrète", "secrètes" ]
+  }, {
+    "canonical_form" : "inexplicable",
+    "other_forms" : [ "inexplicables" ]
+  }, {
+    "canonical_form" : "hermétique",
+    "other_forms" : [ "hermétiques" ]
+  }, {
+    "canonical_form" : "inintelligible",
+    "other_forms" : [ "inintelligibles" ]
+  }, {
+    "canonical_form" : "difficile",
+    "other_forms" : [ "difficiles" ]
+  }, {
+    "canonical_form" : "incompréhensible",
+    "other_forms" : [ "incompréhensibles" ]
+  }, {
+    "canonical_form" : "ésotérique",
+    "other_forms" : [ "ésotériques" ]
+  }, {
+    "canonical_form" : "insaisissable",
+    "other_forms" : [ "insaisissables" ]
+  }, {
+    "canonical_form" : "abscons",
+    "other_forms" : [ "absconse", "absconses" ]
+  }, {
+    "canonical_form" : "étrange",
+    "other_forms" : [ "étranges" ]
+  }, {
+    "canonical_form" : "équivoque",
+    "other_forms" : [ "équivoques" ]
+  }, {
+    "canonical_form" : "introuvable",
+    "other_forms" : [ "introuvables" ]
+  }, {
+    "canonical_form" : "indéchiffrable",
+    "other_forms" : [ "indéchiffrables" ]
+  }, {
+    "canonical_form" : "inconnu",
+    "other_forms" : [ "inconnue", "inconnues", "inconnus" ]
+  }, {
+    "canonical_form" : "ambigu",
+    "other_forms" : [ "ambigus", "ambiguë", "ambiguës" ]
+  }, {
+    "canonical_form" : "indéfinissable",
+    "other_forms" : [ "indéfinissables" ]
+  }, {
+    "canonical_form" : "insondable",
+    "other_forms" : [ "insondables" ]
+  }, {
+    "canonical_form" : "embarrassant",
+    "other_forms" : [ "embarrassante", "embarrassantes", "embarrassants" ]
+  }, {
+    "canonical_form" : "évasif",
+    "other_forms" : [ "évasifs", "évasive", "évasives" ]
+  } ]
+}

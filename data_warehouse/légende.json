@@ -1,0 +1,46 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "légende",
+    "other_forms" : [ "légendes" ]
+  }, {
+    "canonical_form" : "mythe",
+    "other_forms" : [ "mythes" ]
+  }, {
+    "canonical_form" : "fable",
+    "other_forms" : [ "fables" ]
+  }, {
+    "canonical_form" : "histoire",
+    "other_forms" : [ "histoires" ]
+  }, {
+    "canonical_form" : "folklore",
+    "other_forms" : [ "folklores" ]
+  }, {
+    "canonical_form" : "invention",
+    "other_forms" : [ "inventions" ]
+  }, {
+    "canonical_form" : "récit",
+    "other_forms" : [ "récits" ]
+  }, {
+    "canonical_form" : "saga",
+    "other_forms" : [ "sagas" ]
+  }, {
+    "canonical_form" : "conte",
+    "other_forms" : [ "contes" ]
+  }, {
+    "canonical_form" : "devise",
+    "other_forms" : [ "devises" ]
+  }, {
+    "canonical_form" : "inscription",
+    "other_forms" : [ "inscriptions" ]
+  }, {
+    "canonical_form" : "lecture",
+    "other_forms" : [ "lectures" ]
+  }, {
+    "canonical_form" : "mythologie",
+    "other_forms" : [ "mythologies" ]
+  }, {
+    "canonical_form" : "tradition",
+    "other_forms" : [ "traditions" ]
+  } ]
+}

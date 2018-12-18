@@ -1,6 +1,7 @@
 package edu.fromatoz.littlesearch.dataintegrator;
 
 import java.io.UnsupportedEncodingException;
+
 import java.util.Arrays;
 import java.util.Set;
 import java.util.TreeSet;
@@ -42,6 +43,7 @@ public class FrenchAnalyser {
 	 * <li><b>disambiguate "être" tokens</b> (by the method "{@code disambiguate}");</li>
 	 * <li><b>disambiguate "avoir" tokens</b> (by the method "{@code disambiguate}");</li>
 	 * <li><b>disambiguate "aujourd'hui" tokens</b> (by the method "{@code disambiguate}");</li>
+	 * <li><b>disambiguate "J.-C." tokens</b> (by the method "{@code disambiguate}");</li>
 	 * </ol>
 	 * <p>(See the official page on the <a href="https://lucene.apache.org/solr/guide/7_5/language-analysis.html">Language Analysis</a>
 	 * for the <i>search platform</i> <b>Solr</b>, for example.)
@@ -69,6 +71,8 @@ public class FrenchAnalyser {
 		// Does the task 8: Disambiguates "aujourd'hui" tokens
 		disambiguate("aujourd'hui", "aujourd");
 		disambiguate("aujourd'hui", "hui");
+		// Does the task 9: Disambiguates "J.-C." tokens
+		disambiguate("J.-C.", "-C");
 
 		// For monitoring...
 		System.out.println(tokens);

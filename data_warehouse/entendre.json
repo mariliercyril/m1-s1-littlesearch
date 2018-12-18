@@ -1,0 +1,78 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "entendre"
+  }, {
+    "canonical_form" : "voir"
+  }, {
+    "canonical_form" : "connaître"
+  }, {
+    "canonical_form" : "comprendre"
+  }, {
+    "canonical_form" : "percevoir"
+  }, {
+    "canonical_form" : "pénétrer"
+  }, {
+    "canonical_form" : "saisir"
+  }, {
+    "canonical_form" : "concevoir"
+  }, {
+    "canonical_form" : "discerner"
+  }, {
+    "canonical_form" : "sentir"
+  }, {
+    "canonical_form" : "appréhender"
+  }, {
+    "canonical_form" : "apprécier"
+  }, {
+    "canonical_form" : "juger"
+  }, {
+    "canonical_form" : "distinguer"
+  }, {
+    "canonical_form" : "écouter"
+  }, {
+    "canonical_form" : "réaliser"
+  }, {
+    "canonical_form" : "reconnaître"
+  }, {
+    "canonical_form" : "pratiquer"
+  }, {
+    "canonical_form" : "admettre"
+  }, {
+    "canonical_form" : "posséder"
+  }, {
+    "canonical_form" : "embrasser"
+  }, {
+    "canonical_form" : "compter"
+  }, {
+    "canonical_form" : "exiger"
+  }, {
+    "canonical_form" : "interpréter"
+  }, {
+    "canonical_form" : "ouïr"
+  }, {
+    "canonical_form" : "préférer"
+  }, {
+    "canonical_form" : "prétendre"
+  }, {
+    "canonical_form" : "satisfaire"
+  }, {
+    "canonical_form" : "souhaiter"
+  }, {
+    "canonical_form" : "exaucer"
+  }, {
+    "canonical_form" : "désirer"
+  }, {
+    "canonical_form" : "assister"
+  }, {
+    "canonical_form" : "attraper"
+  }, {
+    "canonical_form" : "auditionner"
+  }, {
+    "canonical_form" : "confesser"
+  }, {
+    "canonical_form" : "consentir"
+  }, {
+    "canonical_form" : "cultiver"
+  } ]
+}

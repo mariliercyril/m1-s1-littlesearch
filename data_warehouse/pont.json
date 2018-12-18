@@ -1,0 +1,55 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "pont",
+    "other_forms" : [ "ponts" ]
+  }, {
+    "canonical_form" : "bordage",
+    "other_forms" : [ "bordages" ]
+  }, {
+    "canonical_form" : "ponceau",
+    "other_forms" : [ "ponceaux" ]
+  }, {
+    "canonical_form" : "passerelle",
+    "other_forms" : [ "passerelles" ]
+  }, {
+    "canonical_form" : "pontil",
+    "other_forms" : [ "pontils" ]
+  }, {
+    "canonical_form" : "spardeck",
+    "other_forms" : [ "spardecks" ]
+  }, {
+    "canonical_form" : "superstructure",
+    "other_forms" : [ "superstructures" ]
+  }, {
+    "canonical_form" : "tillac",
+    "other_forms" : [ "tillacs" ]
+  }, {
+    "canonical_form" : "transition",
+    "other_forms" : [ "transitions" ]
+  }, {
+    "canonical_form" : "vacance",
+    "other_forms" : [ "vacances" ]
+  }, {
+    "canonical_form" : "viaduc",
+    "other_forms" : [ "viaducs" ]
+  }, {
+    "canonical_form" : "passavant",
+    "other_forms" : [ "passavants" ]
+  }, {
+    "canonical_form" : "appontement",
+    "other_forms" : [ "appontements" ]
+  }, {
+    "canonical_form" : "aqueduc",
+    "other_forms" : [ "aqueducs" ]
+  }, {
+    "canonical_form" : "bau",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "dunette",
+    "other_forms" : [ "dunettes" ]
+  }, {
+    "canonical_form" : "wharf",
+    "other_forms" : [ "wharfs" ]
+  } ]
+}

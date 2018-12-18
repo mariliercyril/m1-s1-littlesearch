@@ -1,0 +1,46 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "mentionner"
+  }, {
+    "canonical_form" : "citer"
+  }, {
+    "canonical_form" : "inscrire"
+  }, {
+    "canonical_form" : "noter"
+  }, {
+    "canonical_form" : "indiquer"
+  }, {
+    "canonical_form" : "marquer"
+  }, {
+    "canonical_form" : "signaler"
+  }, {
+    "canonical_form" : "relever"
+  }, {
+    "canonical_form" : "rapporter"
+  }, {
+    "canonical_form" : "consigner"
+  }, {
+    "canonical_form" : "évoquer"
+  }, {
+    "canonical_form" : "enregistrer"
+  }, {
+    "canonical_form" : "énoncer"
+  }, {
+    "canonical_form" : "transcrire"
+  }, {
+    "canonical_form" : "retracer"
+  }, {
+    "canonical_form" : "rappeler"
+  }, {
+    "canonical_form" : "nommer"
+  }, {
+    "canonical_form" : "alléguer"
+  }, {
+    "canonical_form" : "mettre"
+  }, {
+    "canonical_form" : "répertorier"
+  }, {
+    "canonical_form" : "spécifier"
+  } ]
+}

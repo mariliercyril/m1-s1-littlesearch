@@ -1,0 +1,85 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "doute",
+    "other_forms" : [ "doutes" ]
+  }, {
+    "canonical_form" : "incertitude",
+    "other_forms" : [ "incertitudes" ]
+  }, {
+    "canonical_form" : "défiance",
+    "other_forms" : [ "défiances" ]
+  }, {
+    "canonical_form" : "hésitation",
+    "other_forms" : [ "hésitations" ]
+  }, {
+    "canonical_form" : "indécision",
+    "other_forms" : [ "indécisions" ]
+  }, {
+    "canonical_form" : "scepticisme",
+    "other_forms" : [ "scepticismes" ]
+  }, {
+    "canonical_form" : "tâtonnement",
+    "other_forms" : [ "tâtonnements" ]
+  }, {
+    "canonical_form" : "soupçon",
+    "other_forms" : [ "soupçons" ]
+  }, {
+    "canonical_form" : "ombre",
+    "other_forms" : [ "ombres" ]
+  }, {
+    "canonical_form" : "obscurité",
+    "other_forms" : [ "obscurités" ]
+  }, {
+    "canonical_form" : "méfiance",
+    "other_forms" : [ "méfiances" ]
+  }, {
+    "canonical_form" : "indétermination",
+    "other_forms" : [ "indéterminations" ]
+  }, {
+    "canonical_form" : "vacillation",
+    "other_forms" : [ "vacillations" ]
+  }, {
+    "canonical_form" : "perplexité",
+    "other_forms" : [ "perplexités" ]
+  }, {
+    "canonical_form" : "irrésolution",
+    "other_forms" : [ "irrésolutions" ]
+  }, {
+    "canonical_form" : "incrédulité",
+    "other_forms" : [ "incrédulités" ]
+  }, {
+    "canonical_form" : "clair-obscur",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "suspicion",
+    "other_forms" : [ "suspicions" ]
+  }, {
+    "canonical_form" : "supposition",
+    "other_forms" : [ "suppositions" ]
+  }, {
+    "canonical_form" : "scrupule",
+    "other_forms" : [ "scrupules" ]
+  }, {
+    "canonical_form" : "pyrrhonisme",
+    "other_forms" : [ "pyrrhonismes" ]
+  }, {
+    "canonical_form" : "jalousie",
+    "other_forms" : [ "jalousies" ]
+  }, {
+    "canonical_form" : "incroyance",
+    "other_forms" : [ "incroyances" ]
+  }, {
+    "canonical_form" : "flottement",
+    "other_forms" : [ "flottements" ]
+  }, {
+    "canonical_form" : "embarras",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "appréhension",
+    "other_forms" : [ "appréhensions" ]
+  }, {
+    "canonical_form" : "affres",
+    "other_forms" : [ ]
+  } ]
+}

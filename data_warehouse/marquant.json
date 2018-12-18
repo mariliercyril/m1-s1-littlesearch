@@ -1,0 +1,52 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "marquant",
+    "other_forms" : [ "marquante", "marquantes", "marquants" ]
+  }, {
+    "canonical_form" : "illustre",
+    "other_forms" : [ "illustres" ]
+  }, {
+    "canonical_form" : "grand",
+    "other_forms" : [ "grande", "grandes", "grands" ]
+  }, {
+    "canonical_form" : "remarquable",
+    "other_forms" : [ "remarquables" ]
+  }, {
+    "canonical_form" : "important",
+    "other_forms" : [ "importante", "importantes", "importants" ]
+  }, {
+    "canonical_form" : "éminent",
+    "other_forms" : [ "éminente", "éminentes", "éminents" ]
+  }, {
+    "canonical_form" : "fameux",
+    "other_forms" : [ "fameuse", "fameuses" ]
+  }, {
+    "canonical_form" : "célèbre",
+    "other_forms" : [ "célèbres" ]
+  }, {
+    "canonical_form" : "mémorable",
+    "other_forms" : [ "mémorables" ]
+  }, {
+    "canonical_form" : "notable",
+    "other_forms" : [ "notables" ]
+  }, {
+    "canonical_form" : "prestigieux",
+    "other_forms" : [ "prestigieuse", "prestigieuses" ]
+  }, {
+    "canonical_form" : "saillant",
+    "other_forms" : [ "saillante", "saillantes", "saillants" ]
+  }, {
+    "canonical_form" : "caractéristique",
+    "other_forms" : [ "caractéristiques" ]
+  }, {
+    "canonical_form" : "fort",
+    "other_forms" : [ "forte", "fortes", "forts" ]
+  }, {
+    "canonical_form" : "frappant",
+    "other_forms" : [ "frappante", "frappantes", "frappants" ]
+  }, {
+    "canonical_form" : "significatif",
+    "other_forms" : [ "significatifs", "significative", "significatives" ]
+  } ]
+}

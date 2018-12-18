@@ -1,0 +1,175 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "habile",
+    "other_forms" : [ "habiles" ]
+  }, {
+    "canonical_form" : "adroit",
+    "other_forms" : [ "adroite", "adroites", "adroits" ]
+  }, {
+    "canonical_form" : "capable",
+    "other_forms" : [ "capables" ]
+  }, {
+    "canonical_form" : "fin",
+    "other_forms" : [ "fine", "fines", "fins" ]
+  }, {
+    "canonical_form" : "astucieux",
+    "other_forms" : [ "astucieuse", "astucieuses" ]
+  }, {
+    "canonical_form" : "expert",
+    "other_forms" : [ "experte", "expertes", "experts" ]
+  }, {
+    "canonical_form" : "malin",
+    "other_forms" : [ "maligne", "malignes", "maline", "malines", "malins" ]
+  }, {
+    "canonical_form" : "bon",
+    "other_forms" : [ "bonne", "bonnes", "bons" ]
+  }, {
+    "canonical_form" : "intelligent",
+    "other_forms" : [ "intelligente", "intelligentes", "intelligents" ]
+  }, {
+    "canonical_form" : "ingénieux",
+    "other_forms" : [ "ingénieuse", "ingénieuses" ]
+  }, {
+    "canonical_form" : "subtil",
+    "other_forms" : [ "subtile", "subtiles", "subtils" ]
+  }, {
+    "canonical_form" : "compétent",
+    "other_forms" : [ "compétente", "compétentes", "compétents" ]
+  }, {
+    "canonical_form" : "futé",
+    "other_forms" : [ "futée", "futées", "futés" ]
+  }, {
+    "canonical_form" : "retors",
+    "other_forms" : [ "retorse", "retorses" ]
+  }, {
+    "canonical_form" : "savant",
+    "other_forms" : [ "savante", "savantes", "savants" ]
+  }, {
+    "canonical_form" : "fort",
+    "other_forms" : [ "forte", "fortes", "forts" ]
+  }, {
+    "canonical_form" : "roublard",
+    "other_forms" : [ "roublarde", "roublardes", "roublards" ]
+  }, {
+    "canonical_form" : "propre",
+    "other_forms" : [ "propres" ]
+  }, {
+    "canonical_form" : "délicat",
+    "other_forms" : [ "délicate", "délicates", "délicats" ]
+  }, {
+    "canonical_form" : "averti",
+    "other_forms" : [ "avertie", "averties", "avertis" ]
+  }, {
+    "canonical_form" : "beau",
+    "other_forms" : [ "beaux", "bel", "belle", "belles" ]
+  }, {
+    "canonical_form" : "prompt",
+    "other_forms" : [ "prompte", "promptes", "prompts" ]
+  }, {
+    "canonical_form" : "tortueux",
+    "other_forms" : [ "tortueuse", "tortueuses" ]
+  }, {
+    "canonical_form" : "souple",
+    "other_forms" : [ "souples" ]
+  }, {
+    "canonical_form" : "pénétrant",
+    "other_forms" : [ "pénétrante", "pénétrantes", "pénétrants" ]
+  }, {
+    "canonical_form" : "débrouillard",
+    "other_forms" : [ "débrouillarde", "débrouillardes", "débrouillards" ]
+  }, {
+    "canonical_form" : "diplomate",
+    "other_forms" : [ "diplomates" ]
+  }, {
+    "canonical_form" : "combinard",
+    "other_forms" : [ "combinarde", "combinardes", "combinards" ]
+  }, {
+    "canonical_form" : "agile",
+    "other_forms" : [ "agiles" ]
+  }, {
+    "canonical_form" : "vif",
+    "other_forms" : [ "vifs", "vive", "vives" ]
+  }, {
+    "canonical_form" : "prudent",
+    "other_forms" : [ "prudente", "prudentes", "prudents" ]
+  }, {
+    "canonical_form" : "matois",
+    "other_forms" : [ "matoise", "matoises" ]
+  }, {
+    "canonical_form" : "brillant",
+    "other_forms" : [ "brillante", "brillantes", "brillants" ]
+  }, {
+    "canonical_form" : "émérite",
+    "other_forms" : [ "émérites" ]
+  }, {
+    "canonical_form" : "sûr",
+    "other_forms" : [ "sûre", "sûres", "sûrs" ]
+  }, {
+    "canonical_form" : "politique",
+    "other_forms" : [ "politiques" ]
+  }, {
+    "canonical_form" : "industrieux",
+    "other_forms" : [ "industrieuse", "industrieuses" ]
+  }, {
+    "canonical_form" : "chevronné",
+    "other_forms" : [ "chevronnée", "chevronnées", "chevronnés" ]
+  }, {
+    "canonical_form" : "artificieux",
+    "other_forms" : [ "artificieuse", "artificieuses" ]
+  }, {
+    "canonical_form" : "apte",
+    "other_forms" : [ "aptes" ]
+  }, {
+    "canonical_form" : "inventif",
+    "other_forms" : [ "inventifs", "inventive", "inventives" ]
+  }, {
+    "canonical_form" : "leste",
+    "other_forms" : [ "lestes" ]
+  }, {
+    "canonical_form" : "madré",
+    "other_forms" : [ "madrée", "madrées", "madrés" ]
+  }, {
+    "canonical_form" : "preste",
+    "other_forms" : [ "prestes" ]
+  }, {
+    "canonical_form" : "insinuant",
+    "other_forms" : [ "insinuante", "insinuantes", "insinuants" ]
+  }, {
+    "canonical_form" : "finaud",
+    "other_forms" : [ "finaude", "finaudes", "finauds" ]
+  }, {
+    "canonical_form" : "exquis",
+    "other_forms" : [ "exquise", "exquises" ]
+  }, {
+    "canonical_form" : "cauteleux",
+    "other_forms" : [ "cauteleuse", "cauteleuses" ]
+  }, {
+    "canonical_form" : "captieux",
+    "other_forms" : [ "captieuse", "captieuses" ]
+  }, {
+    "canonical_form" : "érudit",
+    "other_forms" : [ "érudite", "érudites", "érudits" ]
+  }, {
+    "canonical_form" : "intrigant",
+    "other_forms" : [ "intrigante", "intrigantes", "intrigants" ]
+  }, {
+    "canonical_form" : "heureux",
+    "other_forms" : [ "heureuse", "heureuses" ]
+  }, {
+    "canonical_form" : "docte",
+    "other_forms" : [ "doctes" ]
+  }, {
+    "canonical_form" : "facile",
+    "other_forms" : [ "faciles" ]
+  }, {
+    "canonical_form" : "diplomatique",
+    "other_forms" : [ "diplomatiques" ]
+  }, {
+    "canonical_form" : "diligent",
+    "other_forms" : [ "diligente", "diligentes", "diligents" ]
+  }, {
+    "canonical_form" : "adextre",
+    "other_forms" : [ "adextres" ]
+  } ]
+}

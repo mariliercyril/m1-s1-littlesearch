@@ -1,0 +1,19 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "thaumaturge",
+    "other_forms" : [ "thaumaturges" ]
+  }, {
+    "canonical_form" : "sorcier",
+    "other_forms" : [ "sorciers", "sorcière", "sorcières" ]
+  }, {
+    "canonical_form" : "fakir",
+    "other_forms" : [ "fakirs", "faquir", "faquirs" ]
+  }, {
+    "canonical_form" : "magicien",
+    "other_forms" : [ "magicienne", "magiciennes", "magiciens" ]
+  }, {
+    "canonical_form" : "marabout",
+    "other_forms" : [ "marabouts" ]
+  } ]
+}

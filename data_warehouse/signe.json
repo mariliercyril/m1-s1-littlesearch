@@ -1,0 +1,196 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "signe",
+    "other_forms" : [ "signes" ]
+  }, {
+    "canonical_form" : "marque",
+    "other_forms" : [ "marques" ]
+  }, {
+    "canonical_form" : "caractère",
+    "other_forms" : [ "caractères" ]
+  }, {
+    "canonical_form" : "présage",
+    "other_forms" : [ "présages" ]
+  }, {
+    "canonical_form" : "symbole",
+    "other_forms" : [ "symboles" ]
+  }, {
+    "canonical_form" : "indice",
+    "other_forms" : [ "indices" ]
+  }, {
+    "canonical_form" : "annonce",
+    "other_forms" : [ "annonces" ]
+  }, {
+    "canonical_form" : "témoignage",
+    "other_forms" : [ "témoignages" ]
+  }, {
+    "canonical_form" : "figure",
+    "other_forms" : [ "figures" ]
+  }, {
+    "canonical_form" : "preuve",
+    "other_forms" : [ "preuves" ]
+  }, {
+    "canonical_form" : "expression",
+    "other_forms" : [ "expressions" ]
+  }, {
+    "canonical_form" : "avertissement",
+    "other_forms" : [ "avertissements" ]
+  }, {
+    "canonical_form" : "emblème",
+    "other_forms" : [ "emblèmes" ]
+  }, {
+    "canonical_form" : "indication",
+    "other_forms" : [ "indications" ]
+  }, {
+    "canonical_form" : "signal",
+    "other_forms" : [ "signaux" ]
+  }, {
+    "canonical_form" : "stigmate",
+    "other_forms" : [ "stigmates" ]
+  }, {
+    "canonical_form" : "symptôme",
+    "other_forms" : [ "symptômes" ]
+  }, {
+    "canonical_form" : "manifestation",
+    "other_forms" : [ "manifestations" ]
+  }, {
+    "canonical_form" : "critère",
+    "other_forms" : [ "critères" ]
+  }, {
+    "canonical_form" : "attribut",
+    "other_forms" : [ "attributs" ]
+  }, {
+    "canonical_form" : "chiffre",
+    "other_forms" : [ "chiffres" ]
+  }, {
+    "canonical_form" : "démonstration",
+    "other_forms" : [ "démonstrations" ]
+  }, {
+    "canonical_form" : "image",
+    "other_forms" : [ "images" ]
+  }, {
+    "canonical_form" : "prodrome",
+    "other_forms" : [ "prodromes" ]
+  }, {
+    "canonical_form" : "représentation",
+    "other_forms" : [ "représentations" ]
+  }, {
+    "canonical_form" : "témoin",
+    "other_forms" : [ "témoins" ]
+  }, {
+    "canonical_form" : "cachet",
+    "other_forms" : [ "cachets" ]
+  }, {
+    "canonical_form" : "vestige",
+    "other_forms" : [ "vestiges" ]
+  }, {
+    "canonical_form" : "sigle",
+    "other_forms" : [ "sigles" ]
+  }, {
+    "canonical_form" : "prodige",
+    "other_forms" : [ "prodiges" ]
+  }, {
+    "canonical_form" : "notation",
+    "other_forms" : [ "notations" ]
+  }, {
+    "canonical_form" : "mime",
+    "other_forms" : [ "mimes" ]
+  }, {
+    "canonical_form" : "geste",
+    "other_forms" : [ "gestes" ]
+  }, {
+    "canonical_form" : "enseigne",
+    "other_forms" : [ "enseignes" ]
+  }, {
+    "canonical_form" : "critérium",
+    "other_forms" : [ "critériums" ]
+  }, {
+    "canonical_form" : "cicatrice",
+    "other_forms" : [ "cicatrices" ]
+  }, {
+    "canonical_form" : "augure",
+    "other_forms" : [ "augures" ]
+  }, {
+    "canonical_form" : "appel",
+    "other_forms" : [ "appels" ]
+  }, {
+    "canonical_form" : "allégorie",
+    "other_forms" : [ "allégories" ]
+  }, {
+    "canonical_form" : "piste",
+    "other_forms" : [ "pistes" ]
+  }, {
+    "canonical_form" : "pictogramme",
+    "other_forms" : [ "pictogrammes" ]
+  }, {
+    "canonical_form" : "pas",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "miracle",
+    "other_forms" : [ "miracles" ]
+  }, {
+    "canonical_form" : "message",
+    "other_forms" : [ "messages" ]
+  }, {
+    "canonical_form" : "promesse",
+    "other_forms" : [ "promesses" ]
+  }, {
+    "canonical_form" : "pronostic",
+    "other_forms" : [ "pronostics" ]
+  }, {
+    "canonical_form" : "reste",
+    "other_forms" : [ "restes" ]
+  }, {
+    "canonical_form" : "scarification",
+    "other_forms" : [ "scarifications" ]
+  }, {
+    "canonical_form" : "substitut",
+    "other_forms" : [ "substituts" ]
+  }, {
+    "canonical_form" : "tache",
+    "other_forms" : [ "taches" ]
+  }, {
+    "canonical_form" : "terme",
+    "other_forms" : [ "termes" ]
+  }, {
+    "canonical_form" : "invitation",
+    "other_forms" : [ "invitations" ]
+  }, {
+    "canonical_form" : "abréviation",
+    "other_forms" : [ "abréviations" ]
+  }, {
+    "canonical_form" : "accent",
+    "other_forms" : [ "accents" ]
+  }, {
+    "canonical_form" : "astre",
+    "other_forms" : [ "astres" ]
+  }, {
+    "canonical_form" : "attestation",
+    "other_forms" : [ "attestations" ]
+  }, {
+    "canonical_form" : "auspice",
+    "other_forms" : [ "auspices" ]
+  }, {
+    "canonical_form" : "brassard",
+    "other_forms" : [ "brassards" ]
+  }, {
+    "canonical_form" : "couronne",
+    "other_forms" : [ "couronnes" ]
+  }, {
+    "canonical_form" : "cryptogramme",
+    "other_forms" : [ "cryptogrammes" ]
+  }, {
+    "canonical_form" : "graphie",
+    "other_forms" : [ "graphies" ]
+  }, {
+    "canonical_form" : "idiosyncrasie",
+    "other_forms" : [ "idiosyncrasies" ]
+  }, {
+    "canonical_form" : "idéogramme",
+    "other_forms" : [ "idéogrammes" ]
+  }, {
+    "canonical_form" : "totem",
+    "other_forms" : [ "totems" ]
+  } ]
+}

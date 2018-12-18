@@ -1,0 +1,106 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "magistrat",
+    "other_forms" : [ "magistrats" ]
+  }, {
+    "canonical_form" : "chef",
+    "other_forms" : [ "chefs" ]
+  }, {
+    "canonical_form" : "juge",
+    "other_forms" : [ "juges" ]
+  }, {
+    "canonical_form" : "échevin",
+    "other_forms" : [ "échevins" ]
+  }, {
+    "canonical_form" : "édile",
+    "other_forms" : [ "édiles" ]
+  }, {
+    "canonical_form" : "maire",
+    "other_forms" : [ "maires" ]
+  }, {
+    "canonical_form" : "gouverneur",
+    "other_forms" : [ "gouverneurs" ]
+  }, {
+    "canonical_form" : "consul",
+    "other_forms" : [ "consuls" ]
+  }, {
+    "canonical_form" : "censeur",
+    "other_forms" : [ "censeurs" ]
+  }, {
+    "canonical_form" : "capitoul",
+    "other_forms" : [ "capitouls" ]
+  }, {
+    "canonical_form" : "proconsul",
+    "other_forms" : [ "proconsuls" ]
+  }, {
+    "canonical_form" : "procurateur",
+    "other_forms" : [ "procurateurs" ]
+  }, {
+    "canonical_form" : "procureur",
+    "other_forms" : [ "procureurs" ]
+  }, {
+    "canonical_form" : "président",
+    "other_forms" : [ "présidente", "présidentes", "présidents" ]
+  }, {
+    "canonical_form" : "prévôt",
+    "other_forms" : [ "prévôts" ]
+  }, {
+    "canonical_form" : "questeur",
+    "other_forms" : [ "questeurs" ]
+  }, {
+    "canonical_form" : "quindécemvir",
+    "other_forms" : [ "quindécemvirs", "quindécimvir", "quindécimvirs" ]
+  }, {
+    "canonical_form" : "robin",
+    "other_forms" : [ "robins" ]
+  }, {
+    "canonical_form" : "substitut",
+    "other_forms" : [ "substituts" ]
+  }, {
+    "canonical_form" : "suffète",
+    "other_forms" : [ "suffètes" ]
+  }, {
+    "canonical_form" : "tribun",
+    "other_forms" : [ "tribuns" ]
+  }, {
+    "canonical_form" : "triumvir",
+    "other_forms" : [ "triumvirs" ]
+  }, {
+    "canonical_form" : "podestat",
+    "other_forms" : [ "podestats" ]
+  }, {
+    "canonical_form" : "maïeur",
+    "other_forms" : [ "mayeur", "mayeurs", "maïeurs" ]
+  }, {
+    "canonical_form" : "alcade",
+    "other_forms" : [ "alcades" ]
+  }, {
+    "canonical_form" : "alderman",
+    "other_forms" : [ "aldermans" ]
+  }, {
+    "canonical_form" : "archonte",
+    "other_forms" : [ "archontes" ]
+  }, {
+    "canonical_form" : "avocat",
+    "other_forms" : [ "avocate", "avocates", "avocats" ]
+  }, {
+    "canonical_form" : "avoyer",
+    "other_forms" : [ "avoyers" ]
+  }, {
+    "canonical_form" : "bourgmestre",
+    "other_forms" : [ "bourgmestres" ]
+  }, {
+    "canonical_form" : "corregidor",
+    "other_forms" : [ "corregidors" ]
+  }, {
+    "canonical_form" : "jurat",
+    "other_forms" : [ "jurats" ]
+  }, {
+    "canonical_form" : "lieutenant",
+    "other_forms" : [ "lieutenants" ]
+  }, {
+    "canonical_form" : "viguier",
+    "other_forms" : [ "viguiers" ]
+  } ]
+}

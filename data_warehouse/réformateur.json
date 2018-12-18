@@ -1,0 +1,16 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "réformateur",
+    "other_forms" : [ "réformateurs", "réformatrice", "réformatrices" ]
+  }, {
+    "canonical_form" : "hérétique",
+    "other_forms" : [ "hérétiques" ]
+  }, {
+    "canonical_form" : "innovateur",
+    "other_forms" : [ "innovateurs", "innovatrice", "innovatrices" ]
+  }, {
+    "canonical_form" : "rénovateur",
+    "other_forms" : [ "rénovateurs", "rénovatrice", "rénovatrices" ]
+  } ]
+}

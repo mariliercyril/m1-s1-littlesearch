@@ -1,0 +1,76 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "énoncer"
+  }, {
+    "canonical_form" : "exprimer"
+  }, {
+    "canonical_form" : "déclarer"
+  }, {
+    "canonical_form" : "exposer"
+  }, {
+    "canonical_form" : "formuler"
+  }, {
+    "canonical_form" : "prononcer"
+  }, {
+    "canonical_form" : "signifier"
+  }, {
+    "canonical_form" : "signaler"
+  }, {
+    "canonical_form" : "expliquer"
+  }, {
+    "canonical_form" : "affirmer"
+  }, {
+    "canonical_form" : "articuler"
+  }, {
+    "canonical_form" : "former"
+  }, {
+    "canonical_form" : "indiquer"
+  }, {
+    "canonical_form" : "poser"
+  }, {
+    "canonical_form" : "préciser"
+  }, {
+    "canonical_form" : "présenter"
+  }, {
+    "canonical_form" : "émettre"
+  }, {
+    "canonical_form" : "proférer"
+  }, {
+    "canonical_form" : "avancer"
+  }, {
+    "canonical_form" : "établir"
+  }, {
+    "canonical_form" : "rendre"
+  }, {
+    "canonical_form" : "raconter"
+  }, {
+    "canonical_form" : "adresser"
+  }, {
+    "canonical_form" : "énumérer"
+  }, {
+    "canonical_form" : "écrire"
+  }, {
+    "canonical_form" : "stipuler"
+  }, {
+    "canonical_form" : "proposer"
+  }, {
+    "canonical_form" : "proclamer"
+  }, {
+    "canonical_form" : "notifier"
+  }, {
+    "canonical_form" : "mentionner"
+  }, {
+    "canonical_form" : "expliciter"
+  }, {
+    "canonical_form" : "déduire"
+  }, {
+    "canonical_form" : "alléguer"
+  }, {
+    "canonical_form" : "balbutier"
+  }, {
+    "canonical_form" : "décliner"
+  }, {
+    "canonical_form" : "éclaircir"
+  } ]
+}

@@ -1,0 +1,40 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "établi",
+    "other_forms" : [ "établie", "établies", "établis" ]
+  }, {
+    "canonical_form" : "certain",
+    "other_forms" : [ "certaine", "certaines", "certains" ]
+  }, {
+    "canonical_form" : "vrai",
+    "other_forms" : [ "vraie", "vraies", "vrais" ]
+  }, {
+    "canonical_form" : "réel",
+    "other_forms" : [ "réelle", "réelles", "réels" ]
+  }, {
+    "canonical_form" : "sûr",
+    "other_forms" : [ "sûre", "sûres", "sûrs" ]
+  }, {
+    "canonical_form" : "authentique",
+    "other_forms" : [ "authentiques" ]
+  }, {
+    "canonical_form" : "tangible",
+    "other_forms" : [ "tangibles" ]
+  }, {
+    "canonical_form" : "irréfragable",
+    "other_forms" : [ "irréfragables" ]
+  }, {
+    "canonical_form" : "sédentaire",
+    "other_forms" : [ "sédentaires" ]
+  }, {
+    "canonical_form" : "constant",
+    "other_forms" : [ "constante", "constantes", "constants" ]
+  }, {
+    "canonical_form" : "acquis",
+    "other_forms" : [ "acquise", "acquises" ]
+  }, {
+    "canonical_form" : "tranquille",
+    "other_forms" : [ "tranquilles" ]
+  } ]
+}

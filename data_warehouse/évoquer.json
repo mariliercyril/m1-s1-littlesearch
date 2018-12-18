@@ -1,0 +1,74 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "évoquer"
+  }, {
+    "canonical_form" : "rappeler"
+  }, {
+    "canonical_form" : "retracer"
+  }, {
+    "canonical_form" : "appeler"
+  }, {
+    "canonical_form" : "citer"
+  }, {
+    "canonical_form" : "songer"
+  }, {
+    "canonical_form" : "révéler"
+  }, {
+    "canonical_form" : "représenter"
+  }, {
+    "canonical_form" : "figurer"
+  }, {
+    "canonical_form" : "effleurer"
+  }, {
+    "canonical_form" : "éveiller"
+  }, {
+    "canonical_form" : "susciter"
+  }, {
+    "canonical_form" : "suggérer"
+  }, {
+    "canonical_form" : "repasser"
+  }, {
+    "canonical_form" : "nommer"
+  }, {
+    "canonical_form" : "mentionner"
+  }, {
+    "canonical_form" : "imaginer"
+  }, {
+    "canonical_form" : "examiner"
+  }, {
+    "canonical_form" : "saisir"
+  }, {
+    "canonical_form" : "réveiller"
+  }, {
+    "canonical_form" : "revivre"
+  }, {
+    "canonical_form" : "remémorer"
+  }, {
+    "canonical_form" : "montrer"
+  }, {
+    "canonical_form" : "décrire"
+  }, {
+    "canonical_form" : "interpeller"
+  }, {
+    "canonical_form" : "invoquer"
+  }, {
+    "canonical_form" : "poser"
+  }, {
+    "canonical_form" : "rêver"
+  }, {
+    "canonical_form" : "fleurer"
+  }, {
+    "canonical_form" : "convoquer"
+  }, {
+    "canonical_form" : "associer"
+  }, {
+    "canonical_form" : "apparaître"
+  }, {
+    "canonical_form" : "afficher"
+  }, {
+    "canonical_form" : "aborder"
+  }, {
+    "canonical_form" : "symboliser"
+  } ]
+}

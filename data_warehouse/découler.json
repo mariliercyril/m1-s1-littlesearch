@@ -1,0 +1,38 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "découler"
+  }, {
+    "canonical_form" : "résulter"
+  }, {
+    "canonical_form" : "venir"
+  }, {
+    "canonical_form" : "procéder"
+  }, {
+    "canonical_form" : "couler"
+  }, {
+    "canonical_form" : "provenir"
+  }, {
+    "canonical_form" : "émaner"
+  }, {
+    "canonical_form" : "dégouliner"
+  }, {
+    "canonical_form" : "naître"
+  }, {
+    "canonical_form" : "suivre"
+  }, {
+    "canonical_form" : "sourdre"
+  }, {
+    "canonical_form" : "ruisseler"
+  }, {
+    "canonical_form" : "ressortir"
+  }, {
+    "canonical_form" : "dériver"
+  }, {
+    "canonical_form" : "dépendre"
+  }, {
+    "canonical_form" : "dégoutter"
+  }, {
+    "canonical_form" : "impliquer"
+  } ]
+}

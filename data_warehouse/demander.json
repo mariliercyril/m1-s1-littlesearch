@@ -1,0 +1,94 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "demander"
+  }, {
+    "canonical_form" : "revendiquer"
+  }, {
+    "canonical_form" : "solliciter"
+  }, {
+    "canonical_form" : "requérir"
+  }, {
+    "canonical_form" : "réclamer"
+  }, {
+    "canonical_form" : "exiger"
+  }, {
+    "canonical_form" : "sommer"
+  }, {
+    "canonical_form" : "prier"
+  }, {
+    "canonical_form" : "appeler"
+  }, {
+    "canonical_form" : "commander"
+  }, {
+    "canonical_form" : "souhaiter"
+  }, {
+    "canonical_form" : "ordonner"
+  }, {
+    "canonical_form" : "prescrire"
+  }, {
+    "canonical_form" : "interroger"
+  }, {
+    "canonical_form" : "désirer"
+  }, {
+    "canonical_form" : "enjoindre"
+  }, {
+    "canonical_form" : "supplier"
+  }, {
+    "canonical_form" : "recommander"
+  }, {
+    "canonical_form" : "chercher"
+  }, {
+    "canonical_form" : "interpeller"
+  }, {
+    "canonical_form" : "rechercher"
+  }, {
+    "canonical_form" : "inviter"
+  }, {
+    "canonical_form" : "implorer"
+  }, {
+    "canonical_form" : "questionner"
+  }, {
+    "canonical_form" : "sonder"
+  }, {
+    "canonical_form" : "quêter"
+  }, {
+    "canonical_form" : "prétendre"
+  }, {
+    "canonical_form" : "quémander"
+  }, {
+    "canonical_form" : "nécessiter"
+  }, {
+    "canonical_form" : "mander"
+  }, {
+    "canonical_form" : "imposer"
+  }, {
+    "canonical_form" : "briguer"
+  }, {
+    "canonical_form" : "adjurer"
+  }, {
+    "canonical_form" : "mériter"
+  }, {
+    "canonical_form" : "insister"
+  }, {
+    "canonical_form" : "convier"
+  }, {
+    "canonical_form" : "consulter"
+  }, {
+    "canonical_form" : "aimer"
+  }, {
+    "canonical_form" : "redemander"
+  }, {
+    "canonical_form" : "pétitionner"
+  }, {
+    "canonical_form" : "présenter"
+  }, {
+    "canonical_form" : "postuler"
+  }, {
+    "canonical_form" : "mendier"
+  }, {
+    "canonical_form" : "cuisiner"
+  }, {
+    "canonical_form" : "conjurer"
+  } ]
+}

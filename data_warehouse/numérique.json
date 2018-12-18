@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "numérique",
+    "other_forms" : [ "numériques" ]
+  }, {
+    "canonical_form" : "discret",
+    "other_forms" : [ "discrets", "discrète", "discrètes" ]
+  }, {
+    "canonical_form" : "numéral",
+    "other_forms" : [ "numérale", "numérales", "numéraux" ]
+  } ]
+}

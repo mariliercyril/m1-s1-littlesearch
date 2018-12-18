@@ -1,0 +1,49 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "date",
+    "other_forms" : [ "dates" ]
+  }, {
+    "canonical_form" : "temps",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "époque",
+    "other_forms" : [ "époques" ]
+  }, {
+    "canonical_form" : "an",
+    "other_forms" : [ "ans" ]
+  }, {
+    "canonical_form" : "délai",
+    "other_forms" : [ "délais" ]
+  }, {
+    "canonical_form" : "jour",
+    "other_forms" : [ "jours" ]
+  }, {
+    "canonical_form" : "période",
+    "other_forms" : [ "périodes" ]
+  }, {
+    "canonical_form" : "échéance",
+    "other_forms" : [ "échéances" ]
+  }, {
+    "canonical_form" : "terme",
+    "other_forms" : [ "termes" ]
+  }, {
+    "canonical_form" : "rubrique",
+    "other_forms" : [ "rubriques" ]
+  }, {
+    "canonical_form" : "quantième",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "moment",
+    "other_forms" : [ "moments" ]
+  }, {
+    "canonical_form" : "millésime",
+    "other_forms" : [ "millésimes" ]
+  }, {
+    "canonical_form" : "année",
+    "other_forms" : [ "années" ]
+  }, {
+    "canonical_form" : "événement",
+    "other_forms" : [ "événements" ]
+  } ]
+}

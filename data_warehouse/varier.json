@@ -1,0 +1,30 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "varier"
+  }, {
+    "canonical_form" : "changer"
+  }, {
+    "canonical_form" : "bigarrer"
+  }, {
+    "canonical_form" : "diversifier"
+  }, {
+    "canonical_form" : "nuancer"
+  }, {
+    "canonical_form" : "transformer"
+  }, {
+    "canonical_form" : "osciller"
+  }, {
+    "canonical_form" : "modifier"
+  }, {
+    "canonical_form" : "fluctuer"
+  }, {
+    "canonical_form" : "flotter"
+  }, {
+    "canonical_form" : "différer"
+  }, {
+    "canonical_form" : "chamarrer"
+  }, {
+    "canonical_form" : "évoluer"
+  } ]
+}

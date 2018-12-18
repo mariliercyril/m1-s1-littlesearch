@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "persan",
+    "other_forms" : [ "persane", "persanes", "persans" ]
+  }, {
+    "canonical_form" : "iranien",
+    "other_forms" : [ "iranienne", "iraniennes", "iraniens" ]
+  }, {
+    "canonical_form" : "parsi",
+    "other_forms" : [ "parsie", "parsies", "parsis" ]
+  } ]
+}

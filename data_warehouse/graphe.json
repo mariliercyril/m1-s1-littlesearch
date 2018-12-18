@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "graphe",
+    "other_forms" : [ "graphes" ]
+  }, {
+    "canonical_form" : "arborescence",
+    "other_forms" : [ "arborescences" ]
+  }, {
+    "canonical_form" : "représentation",
+    "other_forms" : [ "représentations" ]
+  } ]
+}

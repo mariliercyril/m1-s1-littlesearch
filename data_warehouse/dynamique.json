@@ -1,0 +1,43 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "dynamique",
+    "other_forms" : [ "dynamiques" ]
+  }, {
+    "canonical_form" : "actif",
+    "other_forms" : [ "actifs", "active", "actives" ]
+  }, {
+    "canonical_form" : "entreprenant",
+    "other_forms" : [ "entreprenante", "entreprenantes", "entreprenants" ]
+  }, {
+    "canonical_form" : "vivant",
+    "other_forms" : [ "vivante", "vivantes", "vivants" ]
+  }, {
+    "canonical_form" : "ardent",
+    "other_forms" : [ "ardente", "ardentes", "ardents" ]
+  }, {
+    "canonical_form" : "énergique",
+    "other_forms" : [ "énergiques" ]
+  }, {
+    "canonical_form" : "vaillant",
+    "other_forms" : [ "vaillante", "vaillantes", "vaillants" ]
+  }, {
+    "canonical_form" : "remuant",
+    "other_forms" : [ "remuante", "remuantes", "remuants" ]
+  }, {
+    "canonical_form" : "physique",
+    "other_forms" : [ "physiques" ]
+  }, {
+    "canonical_form" : "industrieux",
+    "other_forms" : [ "industrieuse", "industrieuses" ]
+  }, {
+    "canonical_form" : "dispos",
+    "other_forms" : [ "dispose", "disposes" ]
+  }, {
+    "canonical_form" : "balistique",
+    "other_forms" : [ "balistiques" ]
+  }, {
+    "canonical_form" : "allant",
+    "other_forms" : [ "allante", "allantes", "allants" ]
+  } ]
+}

@@ -1,0 +1,211 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "poème",
+    "other_forms" : [ "poèmes" ]
+  }, {
+    "canonical_form" : "poésie",
+    "other_forms" : [ "poésies" ]
+  }, {
+    "canonical_form" : "chant",
+    "other_forms" : [ "chants" ]
+  }, {
+    "canonical_form" : "pièce",
+    "other_forms" : [ "pièces" ]
+  }, {
+    "canonical_form" : "chanson",
+    "other_forms" : [ "chansons" ]
+  }, {
+    "canonical_form" : "strophe",
+    "other_forms" : [ "strophes" ]
+  }, {
+    "canonical_form" : "satire",
+    "other_forms" : [ "satires" ]
+  }, {
+    "canonical_form" : "hymne",
+    "other_forms" : [ "hymnes" ]
+  }, {
+    "canonical_form" : "mélodie",
+    "other_forms" : [ "mélodies" ]
+  }, {
+    "canonical_form" : "quatrain",
+    "other_forms" : [ "quatrains" ]
+  }, {
+    "canonical_form" : "éloge",
+    "other_forms" : [ "éloges" ]
+  }, {
+    "canonical_form" : "églogue",
+    "other_forms" : [ "églogues" ]
+  }, {
+    "canonical_form" : "complainte",
+    "other_forms" : [ "complaintes" ]
+  }, {
+    "canonical_form" : "ballade",
+    "other_forms" : [ "ballades" ]
+  }, {
+    "canonical_form" : "oeuvre",
+    "other_forms" : [ "oeuvres" ]
+  }, {
+    "canonical_form" : "ouvrage",
+    "other_forms" : [ "ouvrages" ]
+  }, {
+    "canonical_form" : "rhapsodie",
+    "other_forms" : [ "rhapsodies" ]
+  }, {
+    "canonical_form" : "rondeau",
+    "other_forms" : [ "rondeaux" ]
+  }, {
+    "canonical_form" : "septain",
+    "other_forms" : [ "septains" ]
+  }, {
+    "canonical_form" : "sizain",
+    "other_forms" : [ "sizains" ]
+  }, {
+    "canonical_form" : "stance",
+    "other_forms" : [ "stances" ]
+  }, {
+    "canonical_form" : "ver",
+    "other_forms" : [ "vers" ]
+  }, {
+    "canonical_form" : "virelai",
+    "other_forms" : [ "virelais" ]
+  }, {
+    "canonical_form" : "élégie",
+    "other_forms" : [ "élégies" ]
+  }, {
+    "canonical_form" : "épigramme",
+    "other_forms" : [ "épigrammes" ]
+  }, {
+    "canonical_form" : "épopée",
+    "other_forms" : [ "épopées" ]
+  }, {
+    "canonical_form" : "ode",
+    "other_forms" : [ "odes" ]
+  }, {
+    "canonical_form" : "lied",
+    "other_forms" : [ "lieder", "lieders", "lieds" ]
+  }, {
+    "canonical_form" : "blason",
+    "other_forms" : [ "blasons" ]
+  }, {
+    "canonical_form" : "bouquet",
+    "other_forms" : [ "bouquets" ]
+  }, {
+    "canonical_form" : "cantilène",
+    "other_forms" : [ "cantilènes" ]
+  }, {
+    "canonical_form" : "cantique",
+    "other_forms" : [ "cantiques" ]
+  }, {
+    "canonical_form" : "comédie",
+    "other_forms" : [ "comédies" ]
+  }, {
+    "canonical_form" : "dialogue",
+    "other_forms" : [ "dialogues" ]
+  }, {
+    "canonical_form" : "héroïde",
+    "other_forms" : [ "héroïdes" ]
+  }, {
+    "canonical_form" : "geste",
+    "other_forms" : [ "gestes" ]
+  }, {
+    "canonical_form" : "fable",
+    "other_forms" : [ "fables" ]
+  }, {
+    "canonical_form" : "sonnet",
+    "other_forms" : [ "sonnets" ]
+  }, {
+    "canonical_form" : "sirvente",
+    "other_forms" : [ "sirventes" ]
+  }, {
+    "canonical_form" : "rotrouenge",
+    "other_forms" : [ "rotrouenges", "rotruenge", "rotruenges" ]
+  }, {
+    "canonical_form" : "romance",
+    "other_forms" : [ "romances" ]
+  }, {
+    "canonical_form" : "psaume",
+    "other_forms" : [ "psaumes" ]
+  }, {
+    "canonical_form" : "priapée",
+    "other_forms" : [ "priapées" ]
+  }, {
+    "canonical_form" : "pastourelle",
+    "other_forms" : [ "pastourelles" ]
+  }, {
+    "canonical_form" : "stichomythie",
+    "other_forms" : [ "stichomythies" ]
+  }, {
+    "canonical_form" : "tenson",
+    "other_forms" : [ "tensons" ]
+  }, {
+    "canonical_form" : "épître",
+    "other_forms" : [ "épîtres" ]
+  }, {
+    "canonical_form" : "épithalame",
+    "other_forms" : [ "épithalames" ]
+  }, {
+    "canonical_form" : "villanelle",
+    "other_forms" : [ "villanelles" ]
+  }, {
+    "canonical_form" : "triolet",
+    "other_forms" : [ "triolets" ]
+  }, {
+    "canonical_form" : "tragédie",
+    "other_forms" : [ "tragédies" ]
+  }, {
+    "canonical_form" : "thrène",
+    "other_forms" : [ "thrènes" ]
+  }, {
+    "canonical_form" : "tercet",
+    "other_forms" : [ "tercets" ]
+  }, {
+    "canonical_form" : "pantoum",
+    "other_forms" : [ "pantoums" ]
+  }, {
+    "canonical_form" : "opéra",
+    "other_forms" : [ "opéras" ]
+  }, {
+    "canonical_form" : "odelette",
+    "other_forms" : [ "odelettes" ]
+  }, {
+    "canonical_form" : "bergerie",
+    "other_forms" : [ "bergeries" ]
+  }, {
+    "canonical_form" : "cantate",
+    "other_forms" : [ "cantates" ]
+  }, {
+    "canonical_form" : "canzone",
+    "other_forms" : [ "canzona", "canzonas", "canzones" ]
+  }, {
+    "canonical_form" : "centon",
+    "other_forms" : [ "centons" ]
+  }, {
+    "canonical_form" : "dithyrambe",
+    "other_forms" : [ "dithyrambes" ]
+  }, {
+    "canonical_form" : "dizain",
+    "other_forms" : [ "dizains" ]
+  }, {
+    "canonical_form" : "douzain",
+    "other_forms" : [ "douzains" ]
+  }, {
+    "canonical_form" : "fabliau",
+    "other_forms" : [ "fabliaux" ]
+  }, {
+    "canonical_form" : "huitain",
+    "other_forms" : [ "huitains" ]
+  }, {
+    "canonical_form" : "idylle",
+    "other_forms" : [ "idylles" ]
+  }, {
+    "canonical_form" : "macaronée",
+    "other_forms" : [ "macaronées" ]
+  }, {
+    "canonical_form" : "madrigal",
+    "other_forms" : [ "madrigaux" ]
+  }, {
+    "canonical_form" : "nome",
+    "other_forms" : [ "nomes" ]
+  } ]
+}

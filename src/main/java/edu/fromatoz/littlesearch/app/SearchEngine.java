@@ -5,7 +5,7 @@ import java.io.UnsupportedEncodingException;
 import java.util.List;
 import java.util.ListIterator;
 
-import edu.fromatoz.littlesearch.searchengine.SynonymsSearcher;
+import edu.fromatoz.littlesearch.searchengine.Synonymysearch;
 import org.apache.lucene.document.Document;
 
 import edu.fromatoz.littlesearch.searchengine.Littlesearch;
@@ -25,7 +25,7 @@ public class SearchEngine {
 	/**
 	 * The name of the directory of the Text Corpus.
 	 */
-	private static final String TEXT_CORPUS_DIRECTORY_NAME = "texts";
+	private static final String TEXT_CORPUS_DIRECTORY_NAME = "mathematicians";
 	/**
 	 * The directory of the Text Corpus.
 	 */
@@ -48,7 +48,7 @@ public class SearchEngine {
 	 */
 	public static void main(String[] args) {
 
-        SynonymsSearcher synonymsSearcher = new SynonymsSearcher();
+        Synonymysearch synonymsSearcher = new Synonymysearch();
 
 		// Gives the search words to the engine...
 		StringBuilder wordsBuilder = new StringBuilder();
@@ -74,7 +74,7 @@ public class SearchEngine {
 			System.exit(1);
 		} else {
 			// If the indexing is successful, searches for words and for synonyms if exist...
-			List<Document> hitDocuments = Littlesearch.search(synonymsSearcher.searchSynonyms(words));
+			List<Document> hitDocuments = Littlesearch.search(synonymsSearcher.search(words));
 			if (hitDocuments.isEmpty()) {
 				System.out.println("Littlesearch ne trouve rien pour \"" + words + "\".");
 				System.exit(1);

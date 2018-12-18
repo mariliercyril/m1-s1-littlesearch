@@ -1,0 +1,76 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "critique",
+    "other_forms" : [ "critiques" ]
+  }, {
+    "canonical_form" : "dangereux",
+    "other_forms" : [ "dangereuse", "dangereuses" ]
+  }, {
+    "canonical_form" : "grave",
+    "other_forms" : [ "graves" ]
+  }, {
+    "canonical_form" : "difficile",
+    "other_forms" : [ "difficiles" ]
+  }, {
+    "canonical_form" : "préoccupant",
+    "other_forms" : [ "préoccupante", "préoccupantes", "préoccupants" ]
+  }, {
+    "canonical_form" : "périlleux",
+    "other_forms" : [ "périlleuse", "périlleuses" ]
+  }, {
+    "canonical_form" : "délicat",
+    "other_forms" : [ "délicate", "délicates", "délicats" ]
+  }, {
+    "canonical_form" : "contempteur",
+    "other_forms" : [ "contempteurs", "contemptrice", "contemptrices" ]
+  }, {
+    "canonical_form" : "crucial",
+    "other_forms" : [ "cruciale", "cruciales", "cruciaux" ]
+  }, {
+    "canonical_form" : "dramatique",
+    "other_forms" : [ "dramatiques" ]
+  }, {
+    "canonical_form" : "négateur",
+    "other_forms" : [ "négateurs", "négatrice", "négatrices" ]
+  }, {
+    "canonical_form" : "moraliste",
+    "other_forms" : [ "moralistes" ]
+  }, {
+    "canonical_form" : "imminent",
+    "other_forms" : [ "imminente", "imminentes", "imminents" ]
+  }, {
+    "canonical_form" : "herméneutique",
+    "other_forms" : [ "herméneutiques" ]
+  }, {
+    "canonical_form" : "névralgique",
+    "other_forms" : [ "névralgiques" ]
+  }, {
+    "canonical_form" : "scientifique",
+    "other_forms" : [ "scientifiques" ]
+  }, {
+    "canonical_form" : "soupçonneux",
+    "other_forms" : [ "soupçonneuse", "soupçonneuses" ]
+  }, {
+    "canonical_form" : "sérieux",
+    "other_forms" : [ "sérieuse", "sérieuses" ]
+  }, {
+    "canonical_form" : "frondeur",
+    "other_forms" : [ "frondeurs", "frondeuse", "frondeuses" ]
+  }, {
+    "canonical_form" : "climatérique",
+    "other_forms" : [ "climatériques" ]
+  }, {
+    "canonical_form" : "destructeur",
+    "other_forms" : [ "destructeurs", "destructrice", "destructrices" ]
+  }, {
+    "canonical_form" : "décisif",
+    "other_forms" : [ "décisifs", "décisive", "décisives" ]
+  }, {
+    "canonical_form" : "démolisseur",
+    "other_forms" : [ "démolisseurs", "démolisseuse", "démolisseuses" ]
+  }, {
+    "canonical_form" : "dénigreur",
+    "other_forms" : [ "dénigreurs", "dénigreuse", "dénigreuses" ]
+  } ]
+}

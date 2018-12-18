@@ -1,0 +1,62 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "croire"
+  }, {
+    "canonical_form" : "imaginer"
+  }, {
+    "canonical_form" : "compter"
+  }, {
+    "canonical_form" : "estimer"
+  }, {
+    "canonical_form" : "présumer"
+  }, {
+    "canonical_form" : "considérer"
+  }, {
+    "canonical_form" : "juger"
+  }, {
+    "canonical_form" : "supposer"
+  }, {
+    "canonical_form" : "espérer"
+  }, {
+    "canonical_form" : "accepter"
+  }, {
+    "canonical_form" : "admettre"
+  }, {
+    "canonical_form" : "réputer"
+  }, {
+    "canonical_form" : "soupçonner"
+  }, {
+    "canonical_form" : "trouver"
+  }, {
+    "canonical_form" : "écouter"
+  }, {
+    "canonical_form" : "reconnaître"
+  }, {
+    "canonical_form" : "avaler"
+  }, {
+    "canonical_form" : "attendre"
+  }, {
+    "canonical_form" : "apprécier"
+  }, {
+    "canonical_form" : "préjuger"
+  }, {
+    "canonical_form" : "sembler"
+  }, {
+    "canonical_form" : "tromper"
+  }, {
+    "canonical_form" : "jurer"
+  }, {
+    "canonical_form" : "abuser"
+  }, {
+    "canonical_form" : "adhérer"
+  }, {
+    "canonical_form" : "cuider"
+  }, {
+    "canonical_form" : "donner"
+  }, {
+    "canonical_form" : "faillir"
+  }, {
+    "canonical_form" : "gober"
+  } ]
+}

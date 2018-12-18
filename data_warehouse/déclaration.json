@@ -1,0 +1,118 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "déclaration",
+    "other_forms" : [ "déclarations" ]
+  }, {
+    "canonical_form" : "affirmation",
+    "other_forms" : [ "affirmations" ]
+  }, {
+    "canonical_form" : "annonce",
+    "other_forms" : [ "annonces" ]
+  }, {
+    "canonical_form" : "avis",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "proclamation",
+    "other_forms" : [ "proclamations" ]
+  }, {
+    "canonical_form" : "note",
+    "other_forms" : [ "notes" ]
+  }, {
+    "canonical_form" : "témoignage",
+    "other_forms" : [ "témoignages" ]
+  }, {
+    "canonical_form" : "communication",
+    "other_forms" : [ "communications" ]
+  }, {
+    "canonical_form" : "rapport",
+    "other_forms" : [ "rapports" ]
+  }, {
+    "canonical_form" : "promesse",
+    "other_forms" : [ "promesses" ]
+  }, {
+    "canonical_form" : "profession",
+    "other_forms" : [ "professions" ]
+  }, {
+    "canonical_form" : "manifestation",
+    "other_forms" : [ "manifestations" ]
+  }, {
+    "canonical_form" : "dire",
+    "other_forms" : [ "dires" ]
+  }, {
+    "canonical_form" : "état",
+    "other_forms" : [ "états" ]
+  }, {
+    "canonical_form" : "proposition",
+    "other_forms" : [ "propositions" ]
+  }, {
+    "canonical_form" : "propos",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "parole",
+    "other_forms" : [ "paroles" ]
+  }, {
+    "canonical_form" : "message",
+    "other_forms" : [ "messages" ]
+  }, {
+    "canonical_form" : "aveu",
+    "other_forms" : [ "aveux" ]
+  }, {
+    "canonical_form" : "assurance",
+    "other_forms" : [ "assurances" ]
+  }, {
+    "canonical_form" : "allégation",
+    "other_forms" : [ "allégations" ]
+  }, {
+    "canonical_form" : "énonciation",
+    "other_forms" : [ "énonciations" ]
+  }, {
+    "canonical_form" : "révélation",
+    "other_forms" : [ "révélations" ]
+  }, {
+    "canonical_form" : "protestation",
+    "other_forms" : [ "protestations" ]
+  }, {
+    "canonical_form" : "information",
+    "other_forms" : [ "informations" ]
+  }, {
+    "canonical_form" : "confession",
+    "other_forms" : [ "confessions" ]
+  }, {
+    "canonical_form" : "attestation",
+    "other_forms" : [ "attestations" ]
+  }, {
+    "canonical_form" : "approbation",
+    "other_forms" : [ "approbations" ]
+  }, {
+    "canonical_form" : "version",
+    "other_forms" : [ "versions" ]
+  }, {
+    "canonical_form" : "verdict",
+    "other_forms" : [ "verdicts" ]
+  }, {
+    "canonical_form" : "questionnaire",
+    "other_forms" : [ "questionnaires" ]
+  }, {
+    "canonical_form" : "notification",
+    "other_forms" : [ "notifications" ]
+  }, {
+    "canonical_form" : "intimation",
+    "other_forms" : [ "intimations" ]
+  }, {
+    "canonical_form" : "inscription",
+    "other_forms" : [ "inscriptions" ]
+  }, {
+    "canonical_form" : "indication",
+    "other_forms" : [ "indications" ]
+  }, {
+    "canonical_form" : "déposition",
+    "other_forms" : [ "dépositions" ]
+  }, {
+    "canonical_form" : "ban",
+    "other_forms" : [ "bans" ]
+  }, {
+    "canonical_form" : "énumération",
+    "other_forms" : [ "énumérations" ]
+  } ]
+}

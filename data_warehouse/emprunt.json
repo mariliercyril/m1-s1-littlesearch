@@ -1,0 +1,31 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "emprunt",
+    "other_forms" : [ "emprunts" ]
+  }, {
+    "canonical_form" : "imitation",
+    "other_forms" : [ "imitations" ]
+  }, {
+    "canonical_form" : "calque",
+    "other_forms" : [ "calques" ]
+  }, {
+    "canonical_form" : "plagiat",
+    "other_forms" : [ "plagiats" ]
+  }, {
+    "canonical_form" : "adoption",
+    "other_forms" : [ "adoptions" ]
+  }, {
+    "canonical_form" : "copie",
+    "other_forms" : [ "copies" ]
+  }, {
+    "canonical_form" : "dette",
+    "other_forms" : [ "dettes" ]
+  }, {
+    "canonical_form" : "démarquage",
+    "other_forms" : [ "démarquages" ]
+  }, {
+    "canonical_form" : "finance",
+    "other_forms" : [ "finances" ]
+  } ]
+}

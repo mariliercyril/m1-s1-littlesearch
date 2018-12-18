@@ -1,0 +1,88 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "continu",
+    "other_forms" : [ "continue", "continues", "continus" ]
+  }, {
+    "canonical_form" : "suivi",
+    "other_forms" : [ "suivie", "suivies", "suivis" ]
+  }, {
+    "canonical_form" : "constant",
+    "other_forms" : [ "constante", "constantes", "constants" ]
+  }, {
+    "canonical_form" : "incessant",
+    "other_forms" : [ "incessante", "incessantes", "incessants" ]
+  }, {
+    "canonical_form" : "éternel",
+    "other_forms" : [ "éternelle", "éternelles", "éternels" ]
+  }, {
+    "canonical_form" : "perpétuel",
+    "other_forms" : [ "perpétuelle", "perpétuelles", "perpétuels" ]
+  }, {
+    "canonical_form" : "persistant",
+    "other_forms" : [ "persistante", "persistantes", "persistants" ]
+  }, {
+    "canonical_form" : "immuable",
+    "other_forms" : [ "immuables" ]
+  }, {
+    "canonical_form" : "permanent",
+    "other_forms" : [ "permanente", "permanentes", "permanents" ]
+  }, {
+    "canonical_form" : "ininterrompu",
+    "other_forms" : [ "ininterrompue", "ininterrompues", "ininterrompus" ]
+  }, {
+    "canonical_form" : "durable",
+    "other_forms" : [ "durables" ]
+  }, {
+    "canonical_form" : "continuel",
+    "other_forms" : [ "continuelle", "continuelles", "continuels" ]
+  }, {
+    "canonical_form" : "stable",
+    "other_forms" : [ "stables" ]
+  }, {
+    "canonical_form" : "sempiternel",
+    "other_forms" : [ "sempiternelle", "sempiternelles", "sempiternels" ]
+  }, {
+    "canonical_form" : "régulier",
+    "other_forms" : [ "réguliers", "régulière", "régulières" ]
+  }, {
+    "canonical_form" : "invariable",
+    "other_forms" : [ "invariables" ]
+  }, {
+    "canonical_form" : "assidu",
+    "other_forms" : [ "assidue", "assidues", "assidus" ]
+  }, {
+    "canonical_form" : "inépuisable",
+    "other_forms" : [ "inépuisables" ]
+  }, {
+    "canonical_form" : "infini",
+    "other_forms" : [ "infinie", "infinies", "infinis" ]
+  }, {
+    "canonical_form" : "fixe",
+    "other_forms" : [ "fixes" ]
+  }, {
+    "canonical_form" : "successif",
+    "other_forms" : [ "successifs", "successive", "successives" ]
+  }, {
+    "canonical_form" : "interminable",
+    "other_forms" : [ "interminables" ]
+  }, {
+    "canonical_form" : "indéfectible",
+    "other_forms" : [ "indéfectibles" ]
+  }, {
+    "canonical_form" : "tenant",
+    "other_forms" : [ "tenante", "tenantes", "tenants" ]
+  }, {
+    "canonical_form" : "opiniâtre",
+    "other_forms" : [ "opiniâtres" ]
+  }, {
+    "canonical_form" : "inextinguible",
+    "other_forms" : [ "inextinguibles" ]
+  }, {
+    "canonical_form" : "continent",
+    "other_forms" : [ "continente", "continentes", "continents" ]
+  }, {
+    "canonical_form" : "uniforme",
+    "other_forms" : [ "uniformes" ]
+  } ]
+}

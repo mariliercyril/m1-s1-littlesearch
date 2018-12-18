@@ -1,0 +1,109 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "personnage",
+    "other_forms" : [ "personnages" ]
+  }, {
+    "canonical_form" : "notabilité",
+    "other_forms" : [ "notabilités" ]
+  }, {
+    "canonical_form" : "sommité",
+    "other_forms" : [ "sommités" ]
+  }, {
+    "canonical_form" : "personnalité",
+    "other_forms" : [ "personnalités" ]
+  }, {
+    "canonical_form" : "homme",
+    "other_forms" : [ "hommes" ]
+  }, {
+    "canonical_form" : "personne",
+    "other_forms" : [ "personnes" ]
+  }, {
+    "canonical_form" : "type",
+    "other_forms" : [ "types" ]
+  }, {
+    "canonical_form" : "figure",
+    "other_forms" : [ "figures" ]
+  }, {
+    "canonical_form" : "ponte",
+    "other_forms" : [ "pontes" ]
+  }, {
+    "canonical_form" : "individu",
+    "other_forms" : [ "individus" ]
+  }, {
+    "canonical_form" : "célébrité",
+    "other_forms" : [ "célébrités" ]
+  }, {
+    "canonical_form" : "autorité",
+    "other_forms" : [ "autorités" ]
+  }, {
+    "canonical_form" : "protagoniste",
+    "other_forms" : [ "protagonistes" ]
+  }, {
+    "canonical_form" : "illustration",
+    "other_forms" : [ "illustrations" ]
+  }, {
+    "canonical_form" : "zèbre",
+    "other_forms" : [ "zèbres" ]
+  }, {
+    "canonical_form" : "visage",
+    "other_forms" : [ "visages" ]
+  }, {
+    "canonical_form" : "manitou",
+    "other_forms" : [ "manitous" ]
+  }, {
+    "canonical_form" : "héros",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "huile",
+    "other_forms" : [ "huiles" ]
+  }, {
+    "canonical_form" : "bonze",
+    "other_forms" : [ "bonzes" ]
+  }, {
+    "canonical_form" : "interlocuteur",
+    "other_forms" : [ "interlocuteurs", "interlocutrice", "interlocutrices" ]
+  }, {
+    "canonical_form" : "légume",
+    "other_forms" : [ "légumes" ]
+  }, {
+    "canonical_form" : "matador",
+    "other_forms" : [ "matadors" ]
+  }, {
+    "canonical_form" : "paillasse",
+    "other_forms" : [ "paillasses" ]
+  }, {
+    "canonical_form" : "rôle",
+    "other_forms" : [ "rôles" ]
+  }, {
+    "canonical_form" : "héroïne",
+    "other_forms" : [ "héroïnes" ]
+  }, {
+    "canonical_form" : "gloire",
+    "other_forms" : [ "gloires" ]
+  }, {
+    "canonical_form" : "dignitaire",
+    "other_forms" : [ "dignitaires" ]
+  }, {
+    "canonical_form" : "arlequin",
+    "other_forms" : [ "arlequine", "arlequines", "arlequins" ]
+  }, {
+    "canonical_form" : "barbon",
+    "other_forms" : [ "barbons" ]
+  }, {
+    "canonical_form" : "capitan",
+    "other_forms" : [ "capitans" ]
+  }, {
+    "canonical_form" : "citoyen",
+    "other_forms" : [ "citoyenne", "citoyennes", "citoyens" ]
+  }, {
+    "canonical_form" : "comparse",
+    "other_forms" : [ "comparses" ]
+  }, {
+    "canonical_form" : "comédien",
+    "other_forms" : [ "comédienne", "comédiennes", "comédiens" ]
+  }, {
+    "canonical_form" : "zigoto",
+    "other_forms" : [ "zigotos" ]
+  } ]
+}

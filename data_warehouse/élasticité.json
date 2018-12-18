@@ -1,0 +1,22 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "élasticité",
+    "other_forms" : [ "élasticités" ]
+  }, {
+    "canonical_form" : "souplesse",
+    "other_forms" : [ "souplesses" ]
+  }, {
+    "canonical_form" : "tonus",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "tonicité",
+    "other_forms" : [ "tonicités" ]
+  }, {
+    "canonical_form" : "ressort",
+    "other_forms" : [ "ressorts" ]
+  }, {
+    "canonical_form" : "mollesse",
+    "other_forms" : [ ]
+  } ]
+}

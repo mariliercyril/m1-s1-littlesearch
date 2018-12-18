@@ -1,0 +1,31 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "amateur",
+    "other_forms" : [ "amateurs" ]
+  }, {
+    "canonical_form" : "amoureux",
+    "other_forms" : [ "amoureuse", "amoureuses" ]
+  }, {
+    "canonical_form" : "gourmand",
+    "other_forms" : [ "gourmande", "gourmandes", "gourmands" ]
+  }, {
+    "canonical_form" : "friand",
+    "other_forms" : [ "friande", "friandes", "friands" ]
+  }, {
+    "canonical_form" : "fantaisiste",
+    "other_forms" : [ "fantaisistes" ]
+  }, {
+    "canonical_form" : "curieux",
+    "other_forms" : [ "curieuse", "curieuses" ]
+  }, {
+    "canonical_form" : "admirateur",
+    "other_forms" : [ "admirateurs", "admiratrice", "admiratrices" ]
+  }, {
+    "canonical_form" : "sauteur",
+    "other_forms" : [ "sauteurs", "sauteuse", "sauteuses" ]
+  }, {
+    "canonical_form" : "féru",
+    "other_forms" : [ "férue", "férues", "férus" ]
+  } ]
+}

@@ -1,0 +1,50 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "prier"
+  }, {
+    "canonical_form" : "demander"
+  }, {
+    "canonical_form" : "supplier"
+  }, {
+    "canonical_form" : "implorer"
+  }, {
+    "canonical_form" : "appeler"
+  }, {
+    "canonical_form" : "inviter"
+  }, {
+    "canonical_form" : "solliciter"
+  }, {
+    "canonical_form" : "réclamer"
+  }, {
+    "canonical_form" : "sommer"
+  }, {
+    "canonical_form" : "recommander"
+  }, {
+    "canonical_form" : "requérir"
+  }, {
+    "canonical_form" : "revendiquer"
+  }, {
+    "canonical_form" : "insister"
+  }, {
+    "canonical_form" : "adjurer"
+  }, {
+    "canonical_form" : "crier"
+  }, {
+    "canonical_form" : "enjoindre"
+  }, {
+    "canonical_form" : "invoquer"
+  }, {
+    "canonical_form" : "presser"
+  }, {
+    "canonical_form" : "retenir"
+  }, {
+    "canonical_form" : "intercéder"
+  }, {
+    "canonical_form" : "convier"
+  }, {
+    "canonical_form" : "conjurer"
+  }, {
+    "canonical_form" : "adorer"
+  } ]
+}

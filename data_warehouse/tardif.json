@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "tardif",
+    "other_forms" : [ "tardifs", "tardive", "tardives" ]
+  }, {
+    "canonical_form" : "lent",
+    "other_forms" : [ "lente", "lentes", "lents" ]
+  }, {
+    "canonical_form" : "long",
+    "other_forms" : [ "longs", "longue", "longues" ]
+  } ]
+}

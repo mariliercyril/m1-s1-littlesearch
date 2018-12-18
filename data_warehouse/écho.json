@@ -1,0 +1,91 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "écho",
+    "other_forms" : [ "échos" ]
+  }, {
+    "canonical_form" : "copie",
+    "other_forms" : [ "copies" ]
+  }, {
+    "canonical_form" : "imitation",
+    "other_forms" : [ "imitations" ]
+  }, {
+    "canonical_form" : "reproduction",
+    "other_forms" : [ "reproductions" ]
+  }, {
+    "canonical_form" : "représentation",
+    "other_forms" : [ "représentations" ]
+  }, {
+    "canonical_form" : "image",
+    "other_forms" : [ "images" ]
+  }, {
+    "canonical_form" : "anecdote",
+    "other_forms" : [ "anecdotes" ]
+  }, {
+    "canonical_form" : "ton",
+    "other_forms" : [ "tons" ]
+  }, {
+    "canonical_form" : "son",
+    "other_forms" : [ "sons" ]
+  }, {
+    "canonical_form" : "répétition",
+    "other_forms" : [ "répétitions" ]
+  }, {
+    "canonical_form" : "rumeur",
+    "other_forms" : [ "rumeurs" ]
+  }, {
+    "canonical_form" : "potin",
+    "other_forms" : [ "potins" ]
+  }, {
+    "canonical_form" : "expression",
+    "other_forms" : [ "expressions" ]
+  }, {
+    "canonical_form" : "redoublement",
+    "other_forms" : [ "redoublements" ]
+  }, {
+    "canonical_form" : "reflet",
+    "other_forms" : [ "reflets" ]
+  }, {
+    "canonical_form" : "réduplication",
+    "other_forms" : [ "réduplications" ]
+  }, {
+    "canonical_form" : "répercussion",
+    "other_forms" : [ "répercussions" ]
+  }, {
+    "canonical_form" : "réponse",
+    "other_forms" : [ "réponses" ]
+  }, {
+    "canonical_form" : "résonance",
+    "other_forms" : [ "résonances" ]
+  }, {
+    "canonical_form" : "ouï-dire",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "on-dit",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "miroir",
+    "other_forms" : [ "miroirs" ]
+  }, {
+    "canonical_form" : "histoire",
+    "other_forms" : [ "histoires" ]
+  }, {
+    "canonical_form" : "consonance",
+    "other_forms" : [ "consonances" ]
+  }, {
+    "canonical_form" : "calque",
+    "other_forms" : [ "calques" ]
+  }, {
+    "canonical_form" : "article",
+    "other_forms" : [ "articles" ]
+  }, {
+    "canonical_form" : "approbation",
+    "other_forms" : [ "approbations" ]
+  }, {
+    "canonical_form" : "adhésion",
+    "other_forms" : [ "adhésions" ]
+  }, {
+    "canonical_form" : "sympathie",
+    "other_forms" : [ "sympathies" ]
+  } ]
+}

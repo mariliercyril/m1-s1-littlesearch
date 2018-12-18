@@ -1,0 +1,52 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "anecdote",
+    "other_forms" : [ "anecdotes" ]
+  }, {
+    "canonical_form" : "conte",
+    "other_forms" : [ "contes" ]
+  }, {
+    "canonical_form" : "histoire",
+    "other_forms" : [ "histoires" ]
+  }, {
+    "canonical_form" : "fable",
+    "other_forms" : [ "fables" ]
+  }, {
+    "canonical_form" : "potin",
+    "other_forms" : [ "potins" ]
+  }, {
+    "canonical_form" : "récit",
+    "other_forms" : [ "récits" ]
+  }, {
+    "canonical_form" : "bavardage",
+    "other_forms" : [ "bavardages" ]
+  }, {
+    "canonical_form" : "écho",
+    "other_forms" : [ "échos" ]
+  }, {
+    "canonical_form" : "qu'en-dira-t-on",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "narration",
+    "other_forms" : [ "narrations" ]
+  }, {
+    "canonical_form" : "médisance",
+    "other_forms" : [ "médisances" ]
+  }, {
+    "canonical_form" : "historiette",
+    "other_forms" : [ "historiettes" ]
+  }, {
+    "canonical_form" : "feuilleton",
+    "other_forms" : [ "feuilletons" ]
+  }, {
+    "canonical_form" : "bagou",
+    "other_forms" : [ "bagous" ]
+  }, {
+    "canonical_form" : "intrigue",
+    "other_forms" : [ "intrigues" ]
+  }, {
+    "canonical_form" : "particularité",
+    "other_forms" : [ "particularités" ]
+  } ]
+}

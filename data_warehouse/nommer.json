@@ -1,0 +1,90 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "nommer"
+  }, {
+    "canonical_form" : "désigner"
+  }, {
+    "canonical_form" : "indiquer"
+  }, {
+    "canonical_form" : "révéler"
+  }, {
+    "canonical_form" : "signaler"
+  }, {
+    "canonical_form" : "donner"
+  }, {
+    "canonical_form" : "appeler"
+  }, {
+    "canonical_form" : "affecter"
+  }, {
+    "canonical_form" : "qualifier"
+  }, {
+    "canonical_form" : "établir"
+  }, {
+    "canonical_form" : "faire"
+  }, {
+    "canonical_form" : "dénommer"
+  }, {
+    "canonical_form" : "citer"
+  }, {
+    "canonical_form" : "déclarer"
+  }, {
+    "canonical_form" : "dénoncer"
+  }, {
+    "canonical_form" : "introniser"
+  }, {
+    "canonical_form" : "prendre"
+  }, {
+    "canonical_form" : "évoquer"
+  }, {
+    "canonical_form" : "énumérer"
+  }, {
+    "canonical_form" : "élire"
+  }, {
+    "canonical_form" : "traiter"
+  }, {
+    "canonical_form" : "instituer"
+  }, {
+    "canonical_form" : "envoyer"
+  }, {
+    "canonical_form" : "choisir"
+  }, {
+    "canonical_form" : "baptiser"
+  }, {
+    "canonical_form" : "étiqueter"
+  }, {
+    "canonical_form" : "titulariser"
+  }, {
+    "canonical_form" : "reconnaître"
+  }, {
+    "canonical_form" : "promouvoir"
+  }, {
+    "canonical_form" : "mentionner"
+  }, {
+    "canonical_form" : "installer"
+  }, {
+    "canonical_form" : "déplacer"
+  }, {
+    "canonical_form" : "conférer"
+  }, {
+    "canonical_form" : "commettre"
+  }, {
+    "canonical_form" : "bombarder"
+  }, {
+    "canonical_form" : "sélectionner"
+  }, {
+    "canonical_form" : "surnommer"
+  }, {
+    "canonical_form" : "prénommer"
+  }, {
+    "canonical_form" : "parachuter"
+  }, {
+    "canonical_form" : "intituler"
+  }, {
+    "canonical_form" : "commissionner"
+  }, {
+    "canonical_form" : "acclamer"
+  }, {
+    "canonical_form" : "verser"
+  } ]
+}

@@ -1,0 +1,112 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "sagesse",
+    "other_forms" : [ "sagesses" ]
+  }, {
+    "canonical_form" : "circonspection",
+    "other_forms" : [ "circonspections" ]
+  }, {
+    "canonical_form" : "réserve",
+    "other_forms" : [ "réserves" ]
+  }, {
+    "canonical_form" : "prudence",
+    "other_forms" : [ "prudences" ]
+  }, {
+    "canonical_form" : "raison",
+    "other_forms" : [ "raisons" ]
+  }, {
+    "canonical_form" : "pondération",
+    "other_forms" : [ "pondérations" ]
+  }, {
+    "canonical_form" : "modération",
+    "other_forms" : [ "modérations" ]
+  }, {
+    "canonical_form" : "mesure",
+    "other_forms" : [ "mesures" ]
+  }, {
+    "canonical_form" : "sens",
+    "other_forms" : [ "sen" ]
+  }, {
+    "canonical_form" : "tact",
+    "other_forms" : [ "tacts" ]
+  }, {
+    "canonical_form" : "sobriété",
+    "other_forms" : [ "sobriétés" ]
+  }, {
+    "canonical_form" : "discrétion",
+    "other_forms" : [ "discrétions" ]
+  }, {
+    "canonical_form" : "vertu",
+    "other_forms" : [ "vertus" ]
+  }, {
+    "canonical_form" : "pudeur",
+    "other_forms" : [ "pudeurs" ]
+  }, {
+    "canonical_form" : "décence",
+    "other_forms" : [ "décences" ]
+  }, {
+    "canonical_form" : "discernement",
+    "other_forms" : [ "discernements" ]
+  }, {
+    "canonical_form" : "connaissance",
+    "other_forms" : [ "connaissances" ]
+  }, {
+    "canonical_form" : "usage",
+    "other_forms" : [ "usages" ]
+  }, {
+    "canonical_form" : "sérénité",
+    "other_forms" : [ "sérénités" ]
+  }, {
+    "canonical_form" : "science",
+    "other_forms" : [ "sciences" ]
+  }, {
+    "canonical_form" : "savoir",
+    "other_forms" : [ "savoirs" ]
+  }, {
+    "canonical_form" : "sapience",
+    "other_forms" : [ "sapiences" ]
+  }, {
+    "canonical_form" : "philosophie",
+    "other_forms" : [ "philosophies" ]
+  }, {
+    "canonical_form" : "humanisme",
+    "other_forms" : [ "humanismes" ]
+  }, {
+    "canonical_form" : "expérience",
+    "other_forms" : [ "expériences" ]
+  }, {
+    "canonical_form" : "continence",
+    "other_forms" : [ "continences" ]
+  }, {
+    "canonical_form" : "chasteté",
+    "other_forms" : [ "chastetés" ]
+  }, {
+    "canonical_form" : "prud'homie",
+    "other_forms" : [ "prud'homies" ]
+  }, {
+    "canonical_form" : "prévoyance",
+    "other_forms" : [ "prévoyances" ]
+  }, {
+    "canonical_form" : "tranquillité",
+    "other_forms" : [ "tranquillités" ]
+  }, {
+    "canonical_form" : "paix",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "obéissance",
+    "other_forms" : [ "obéissances" ]
+  }, {
+    "canonical_form" : "maturité",
+    "other_forms" : [ "maturités" ]
+  }, {
+    "canonical_form" : "honnêteté",
+    "other_forms" : [ "honnêtetés" ]
+  }, {
+    "canonical_form" : "docilité",
+    "other_forms" : [ "docilités" ]
+  }, {
+    "canonical_form" : "vérité",
+    "other_forms" : [ "vérités" ]
+  } ]
+}

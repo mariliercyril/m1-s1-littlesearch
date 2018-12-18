@@ -1,0 +1,25 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "conserve",
+    "other_forms" : [ "conserves" ]
+  }, {
+    "canonical_form" : "boucan",
+    "other_forms" : [ "boucans" ]
+  }, {
+    "canonical_form" : "confiture",
+    "other_forms" : [ "confitures" ]
+  }, {
+    "canonical_form" : "conservation",
+    "other_forms" : [ "conservations" ]
+  }, {
+    "canonical_form" : "corned-beef",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "pemmican",
+    "other_forms" : [ "pemmicans" ]
+  }, {
+    "canonical_form" : "singe",
+    "other_forms" : [ "singes" ]
+  } ]
+}

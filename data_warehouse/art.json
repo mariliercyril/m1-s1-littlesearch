@@ -1,0 +1,136 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "art",
+    "other_forms" : [ "arts" ]
+  }, {
+    "canonical_form" : "habileté",
+    "other_forms" : [ "habiletés" ]
+  }, {
+    "canonical_form" : "adresse",
+    "other_forms" : [ "adresses" ]
+  }, {
+    "canonical_form" : "truc",
+    "other_forms" : [ "trucs" ]
+  }, {
+    "canonical_form" : "manière",
+    "other_forms" : [ "manières" ]
+  }, {
+    "canonical_form" : "don",
+    "other_forms" : [ "dons" ]
+  }, {
+    "canonical_form" : "artifice",
+    "other_forms" : [ "artifices" ]
+  }, {
+    "canonical_form" : "façon",
+    "other_forms" : [ "façons" ]
+  }, {
+    "canonical_form" : "astuce",
+    "other_forms" : [ "astuces" ]
+  }, {
+    "canonical_form" : "intelligence",
+    "other_forms" : [ "intelligences" ]
+  }, {
+    "canonical_form" : "pouvoir",
+    "other_forms" : [ "pouvoirs" ]
+  }, {
+    "canonical_form" : "travail",
+    "other_forms" : [ "travaux" ]
+  }, {
+    "canonical_form" : "talent",
+    "other_forms" : [ "talents" ]
+  }, {
+    "canonical_form" : "savoir-faire",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "méthode",
+    "other_forms" : [ "méthodes" ]
+  }, {
+    "canonical_form" : "maîtrise",
+    "other_forms" : [ "maîtrises" ]
+  }, {
+    "canonical_form" : "étude",
+    "other_forms" : [ "études" ]
+  }, {
+    "canonical_form" : "science",
+    "other_forms" : [ "sciences" ]
+  }, {
+    "canonical_form" : "ruse",
+    "other_forms" : [ "ruses" ]
+  }, {
+    "canonical_form" : "qualité",
+    "other_forms" : [ "qualités" ]
+  }, {
+    "canonical_form" : "métier",
+    "other_forms" : [ "métiers" ]
+  }, {
+    "canonical_form" : "industrie",
+    "other_forms" : [ "industries" ]
+  }, {
+    "canonical_form" : "style",
+    "other_forms" : [ "styles" ]
+  }, {
+    "canonical_form" : "compétence",
+    "other_forms" : [ "compétences" ]
+  }, {
+    "canonical_form" : "apprêt",
+    "other_forms" : [ "apprêts" ]
+  }, {
+    "canonical_form" : "état",
+    "other_forms" : [ "états" ]
+  }, {
+    "canonical_form" : "recherche",
+    "other_forms" : [ "recherches" ]
+  }, {
+    "canonical_form" : "profession",
+    "other_forms" : [ "professions" ]
+  }, {
+    "canonical_form" : "dextérité",
+    "other_forms" : [ "dextérités" ]
+  }, {
+    "canonical_form" : "application",
+    "other_forms" : [ "applications" ]
+  }, {
+    "canonical_form" : "tour",
+    "other_forms" : [ "tours" ]
+  }, {
+    "canonical_form" : "préparation",
+    "other_forms" : [ "préparations" ]
+  }, {
+    "canonical_form" : "génie",
+    "other_forms" : [ "génies" ]
+  }, {
+    "canonical_form" : "discipline",
+    "other_forms" : [ "disciplines" ]
+  }, {
+    "canonical_form" : "beauté",
+    "other_forms" : [ "beautés" ]
+  }, {
+    "canonical_form" : "affectation",
+    "other_forms" : [ "affectations" ]
+  }, {
+    "canonical_form" : "soin",
+    "other_forms" : [ "soins" ]
+  }, {
+    "canonical_form" : "puissance",
+    "other_forms" : [ "puissances" ]
+  }, {
+    "canonical_form" : "poésie",
+    "other_forms" : [ "poésies" ]
+  }, {
+    "canonical_form" : "fard",
+    "other_forms" : [ "fards" ]
+  }, {
+    "canonical_form" : "effort",
+    "other_forms" : [ "efforts" ]
+  }, {
+    "canonical_form" : "artisanat",
+    "other_forms" : [ "artisanats" ]
+  }, {
+    "canonical_form" : "alchimie",
+    "other_forms" : [ "alchimies" ]
+  }, {
+    "canonical_form" : "éloquence",
+    "other_forms" : [ "éloquences" ]
+  } ]
+}

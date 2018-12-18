@@ -1,0 +1,16 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "britannique",
+    "other_forms" : [ "britanniques" ]
+  }, {
+    "canonical_form" : "anglais",
+    "other_forms" : [ "anglaise", "anglaises" ]
+  }, {
+    "canonical_form" : "anglo-saxon",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "celte",
+    "other_forms" : [ "celtes" ]
+  } ]
+}

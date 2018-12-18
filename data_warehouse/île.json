@@ -1,0 +1,22 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "île",
+    "other_forms" : [ "îles" ]
+  }, {
+    "canonical_form" : "îlot",
+    "other_forms" : [ "îlots" ]
+  }, {
+    "canonical_form" : "havre",
+    "other_forms" : [ "havres" ]
+  }, {
+    "canonical_form" : "oasis",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "terre",
+    "other_forms" : [ "terres" ]
+  }, {
+    "canonical_form" : "îlet",
+    "other_forms" : [ "îlets" ]
+  } ]
+}

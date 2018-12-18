@@ -1,0 +1,70 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "profession",
+    "other_forms" : [ "professions" ]
+  }, {
+    "canonical_form" : "métier",
+    "other_forms" : [ "métiers" ]
+  }, {
+    "canonical_form" : "fonction",
+    "other_forms" : [ "fonctions" ]
+  }, {
+    "canonical_form" : "état",
+    "other_forms" : [ "états" ]
+  }, {
+    "canonical_form" : "situation",
+    "other_forms" : [ "situations" ]
+  }, {
+    "canonical_form" : "travail",
+    "other_forms" : [ "travaux" ]
+  }, {
+    "canonical_form" : "emploi",
+    "other_forms" : [ "emplois" ]
+  }, {
+    "canonical_form" : "déclaration",
+    "other_forms" : [ "déclarations" ]
+  }, {
+    "canonical_form" : "occupation",
+    "other_forms" : [ "occupations" ]
+  }, {
+    "canonical_form" : "position",
+    "other_forms" : [ "positions" ]
+  }, {
+    "canonical_form" : "spécialité",
+    "other_forms" : [ "spécialités" ]
+  }, {
+    "canonical_form" : "qualité",
+    "other_forms" : [ "qualités" ]
+  }, {
+    "canonical_form" : "carrière",
+    "other_forms" : [ "carrières" ]
+  }, {
+    "canonical_form" : "art",
+    "other_forms" : [ "arts" ]
+  }, {
+    "canonical_form" : "champ",
+    "other_forms" : [ "champs" ]
+  }, {
+    "canonical_form" : "confession",
+    "other_forms" : [ "confessions" ]
+  }, {
+    "canonical_form" : "proclamation",
+    "other_forms" : [ "proclamations" ]
+  }, {
+    "canonical_form" : "industrie",
+    "other_forms" : [ "industries" ]
+  }, {
+    "canonical_form" : "gagne-pain",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "credo",
+    "other_forms" : [ "credos" ]
+  }, {
+    "canonical_form" : "charge",
+    "other_forms" : [ "charges" ]
+  }, {
+    "canonical_form" : "affirmation",
+    "other_forms" : [ "affirmations" ]
+  } ]
+}

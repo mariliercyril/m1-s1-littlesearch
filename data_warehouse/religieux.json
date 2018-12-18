@@ -1,0 +1,91 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "religieux",
+    "other_forms" : [ "religieuse", "religieuses" ]
+  }, {
+    "canonical_form" : "congréganiste",
+    "other_forms" : [ "congréganistes" ]
+  }, {
+    "canonical_form" : "spirituel",
+    "other_forms" : [ "spirituelle", "spirituelles", "spirituels" ]
+  }, {
+    "canonical_form" : "monastique",
+    "other_forms" : [ "monastiques" ]
+  }, {
+    "canonical_form" : "ecclésiastique",
+    "other_forms" : [ "ecclésiastiques" ]
+  }, {
+    "canonical_form" : "dévot",
+    "other_forms" : [ "dévote", "dévotes", "dévots" ]
+  }, {
+    "canonical_form" : "révérend",
+    "other_forms" : [ "révérende", "révérendes", "révérends" ]
+  }, {
+    "canonical_form" : "surnaturel",
+    "other_forms" : [ "surnaturelle", "surnaturelles", "surnaturels" ]
+  }, {
+    "canonical_form" : "thaumaturgique",
+    "other_forms" : [ "thaumaturgiques" ]
+  }, {
+    "canonical_form" : "cistercien",
+    "other_forms" : [ "cistercienne", "cisterciennes", "cisterciens" ]
+  }, {
+    "canonical_form" : "dominicain",
+    "other_forms" : [ "dominicaine", "dominicaines", "dominicains" ]
+  }, {
+    "canonical_form" : "franciscain",
+    "other_forms" : [ "franciscaine", "franciscaines", "franciscains" ]
+  }, {
+    "canonical_form" : "monial",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "mystique",
+    "other_forms" : [ "mystiques" ]
+  }, {
+    "canonical_form" : "novice",
+    "other_forms" : [ "novices" ]
+  }, {
+    "canonical_form" : "jésuite",
+    "other_forms" : [ "jésuites" ]
+  }, {
+    "canonical_form" : "hiératique",
+    "other_forms" : [ "hiératiques" ]
+  }, {
+    "canonical_form" : "fétichiste",
+    "other_forms" : [ "fétichistes" ]
+  }, {
+    "canonical_form" : "pratiquant",
+    "other_forms" : [ "pratiquante", "pratiquantes", "pratiquants" ]
+  }, {
+    "canonical_form" : "profès",
+    "other_forms" : [ "professe", "professes" ]
+  }, {
+    "canonical_form" : "prêcheur",
+    "other_forms" : [ "prêcheurs", "prêcheuse", "prêcheuses" ]
+  }, {
+    "canonical_form" : "théologique",
+    "other_forms" : [ "théologiques" ]
+  }, {
+    "canonical_form" : "augustin",
+    "other_forms" : [ "augustine", "augustines", "augustins" ]
+  }, {
+    "canonical_form" : "chartreux",
+    "other_forms" : [ "chartreuse", "chartreuses" ]
+  }, {
+    "canonical_form" : "claustral",
+    "other_forms" : [ "claustrale", "claustrales", "claustraux" ]
+  }, {
+    "canonical_form" : "confessionnel",
+    "other_forms" : [ "confessionnelle", "confessionnelles", "confessionnels" ]
+  }, {
+    "canonical_form" : "conventuel",
+    "other_forms" : [ "conventuelle", "conventuelles", "conventuels" ]
+  }, {
+    "canonical_form" : "dévotieux",
+    "other_forms" : [ "dévotieuse", "dévotieuses" ]
+  }, {
+    "canonical_form" : "anachorète",
+    "other_forms" : [ "anachorètes" ]
+  } ]
+}

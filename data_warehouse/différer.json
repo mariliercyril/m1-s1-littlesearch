@@ -1,0 +1,46 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "différer"
+  }, {
+    "canonical_form" : "retarder"
+  }, {
+    "canonical_form" : "remettre"
+  }, {
+    "canonical_form" : "ajourner"
+  }, {
+    "canonical_form" : "renvoyer"
+  }, {
+    "canonical_form" : "temporiser"
+  }, {
+    "canonical_form" : "reculer"
+  }, {
+    "canonical_form" : "surseoir"
+  }, {
+    "canonical_form" : "proroger"
+  }, {
+    "canonical_form" : "atermoyer"
+  }, {
+    "canonical_form" : "repousser"
+  }, {
+    "canonical_form" : "tarder"
+  }, {
+    "canonical_form" : "éloigner"
+  }, {
+    "canonical_form" : "traîner"
+  }, {
+    "canonical_form" : "suspendre"
+  }, {
+    "canonical_form" : "lanterner"
+  }, {
+    "canonical_form" : "attendre"
+  }, {
+    "canonical_form" : "postposer"
+  }, {
+    "canonical_form" : "diverger"
+  }, {
+    "canonical_form" : "différencier"
+  }, {
+    "canonical_form" : "varier"
+  } ]
+}

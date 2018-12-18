@@ -1,0 +1,127 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "amoureux",
+    "other_forms" : [ "amoureuse", "amoureuses" ]
+  }, {
+    "canonical_form" : "fanatique",
+    "other_forms" : [ "fanatiques" ]
+  }, {
+    "canonical_form" : "fervent",
+    "other_forms" : [ "fervente", "ferventes", "fervents" ]
+  }, {
+    "canonical_form" : "fou",
+    "other_forms" : [ "fol", "folle", "folles", "fous" ]
+  }, {
+    "canonical_form" : "tendre",
+    "other_forms" : [ "tendres" ]
+  }, {
+    "canonical_form" : "amateur",
+    "other_forms" : [ "amateurs" ]
+  }, {
+    "canonical_form" : "affectueux",
+    "other_forms" : [ "affectueuse", "affectueuses" ]
+  }, {
+    "canonical_form" : "gourmand",
+    "other_forms" : [ "gourmande", "gourmandes", "gourmands" ]
+  }, {
+    "canonical_form" : "sentimental",
+    "other_forms" : [ "sentimentale", "sentimentales", "sentimentaux" ]
+  }, {
+    "canonical_form" : "féru",
+    "other_forms" : [ "férue", "férues", "férus" ]
+  }, {
+    "canonical_form" : "friand",
+    "other_forms" : [ "friande", "friandes", "friands" ]
+  }, {
+    "canonical_form" : "doux",
+    "other_forms" : [ "douce", "douces" ]
+  }, {
+    "canonical_form" : "chéri",
+    "other_forms" : [ "chérie", "chéries", "chéris" ]
+  }, {
+    "canonical_form" : "ardent",
+    "other_forms" : [ "ardente", "ardentes", "ardents" ]
+  }, {
+    "canonical_form" : "épris",
+    "other_forms" : [ "éprise", "éprises" ]
+  }, {
+    "canonical_form" : "voluptueux",
+    "other_forms" : [ "voluptueuse", "voluptueuses" ]
+  }, {
+    "canonical_form" : "soupirant",
+    "other_forms" : [ "soupirante", "soupirantes", "soupirants" ]
+  }, {
+    "canonical_form" : "sensible",
+    "other_forms" : [ "sensibles" ]
+  }, {
+    "canonical_form" : "langoureux",
+    "other_forms" : [ "langoureuse", "langoureuses" ]
+  }, {
+    "canonical_form" : "galant",
+    "other_forms" : [ "galante", "galantes", "galants" ]
+  }, {
+    "canonical_form" : "chaud",
+    "other_forms" : [ "chaude", "chaudes", "chauds" ]
+  }, {
+    "canonical_form" : "avide",
+    "other_forms" : [ "avides" ]
+  }, {
+    "canonical_form" : "érotique",
+    "other_forms" : [ "érotiques" ]
+  }, {
+    "canonical_form" : "sensuel",
+    "other_forms" : [ "sensuelle", "sensuelles", "sensuels" ]
+  }, {
+    "canonical_form" : "lascif",
+    "other_forms" : [ "lascifs", "lascive", "lascives" ]
+  }, {
+    "canonical_form" : "caressant",
+    "other_forms" : [ "caressante", "caressantes", "caressants" ]
+  }, {
+    "canonical_form" : "attentif",
+    "other_forms" : [ "attentifs", "attentive", "attentives" ]
+  }, {
+    "canonical_form" : "aimable",
+    "other_forms" : [ "aimables" ]
+  }, {
+    "canonical_form" : "adorateur",
+    "other_forms" : [ "adorateurs", "adoratrice", "adoratrices" ]
+  }, {
+    "canonical_form" : "admirateur",
+    "other_forms" : [ "admirateurs", "admiratrice", "admiratrices" ]
+  }, {
+    "canonical_form" : "câlin",
+    "other_forms" : [ "câline", "câlines", "câlins" ]
+  }, {
+    "canonical_form" : "entiché",
+    "other_forms" : [ "entichée", "entichées", "entichés" ]
+  }, {
+    "canonical_form" : "salace",
+    "other_forms" : [ "salaces" ]
+  }, {
+    "canonical_form" : "transi",
+    "other_forms" : [ "transie", "transies", "transis" ]
+  }, {
+    "canonical_form" : "brûlant",
+    "other_forms" : [ "brûlante", "brûlantes", "brûlants" ]
+  }, {
+    "canonical_form" : "alangui",
+    "other_forms" : [ "alanguie", "alanguies", "alanguis" ]
+  }, {
+    "canonical_form" : "aimant",
+    "other_forms" : [ "aimante", "aimantes", "aimants" ]
+  }, {
+    "canonical_form" : "passionnel",
+    "other_forms" : [ "passionnelle", "passionnelles", "passionnels" ]
+  }, {
+    "canonical_form" : "sexuel",
+    "other_forms" : [ "sexuelle", "sexuelles", "sexuels" ]
+  }, {
+    "canonical_form" : "assoti",
+    "other_forms" : [ "assotie", "assoties", "assotis" ]
+  }, {
+    "canonical_form" : "amical",
+    "other_forms" : [ "amicale", "amicales", "amicaux" ]
+  } ]
+}

@@ -1,0 +1,115 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "voyage",
+    "other_forms" : [ "voyages" ]
+  }, {
+    "canonical_form" : "tour",
+    "other_forms" : [ "tours" ]
+  }, {
+    "canonical_form" : "circuit",
+    "other_forms" : [ "circuits" ]
+  }, {
+    "canonical_form" : "promenade",
+    "other_forms" : [ "promenades" ]
+  }, {
+    "canonical_form" : "excursion",
+    "other_forms" : [ "excursions" ]
+  }, {
+    "canonical_form" : "expédition",
+    "other_forms" : [ "expéditions" ]
+  }, {
+    "canonical_form" : "passage",
+    "other_forms" : [ "passages" ]
+  }, {
+    "canonical_form" : "transport",
+    "other_forms" : [ "transports" ]
+  }, {
+    "canonical_form" : "va-et-vient",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "trajet",
+    "other_forms" : [ "trajets" ]
+  }, {
+    "canonical_form" : "randonnée",
+    "other_forms" : [ "randonnées" ]
+  }, {
+    "canonical_form" : "périple",
+    "other_forms" : [ "périples" ]
+  }, {
+    "canonical_form" : "visite",
+    "other_forms" : [ "visites" ]
+  }, {
+    "canonical_form" : "raid",
+    "other_forms" : [ "raids" ]
+  }, {
+    "canonical_form" : "navette",
+    "other_forms" : [ "navettes" ]
+  }, {
+    "canonical_form" : "incursion",
+    "other_forms" : [ "incursions" ]
+  }, {
+    "canonical_form" : "errance",
+    "other_forms" : [ "errances" ]
+  }, {
+    "canonical_form" : "déplacement",
+    "other_forms" : [ "déplacements" ]
+  }, {
+    "canonical_form" : "route",
+    "other_forms" : [ "routes" ]
+  }, {
+    "canonical_form" : "rallye",
+    "other_forms" : [ "rallyes" ]
+  }, {
+    "canonical_form" : "navigation",
+    "other_forms" : [ "navigations" ]
+  }, {
+    "canonical_form" : "locomotion",
+    "other_forms" : [ "locomotions" ]
+  }, {
+    "canonical_form" : "itinéraire",
+    "other_forms" : [ "itinéraires" ]
+  }, {
+    "canonical_form" : "exploration",
+    "other_forms" : [ "explorations" ]
+  }, {
+    "canonical_form" : "croisière",
+    "other_forms" : [ "croisières" ]
+  }, {
+    "canonical_form" : "odyssée",
+    "other_forms" : [ "odyssées" ]
+  }, {
+    "canonical_form" : "perambulation",
+    "other_forms" : [ "perambulations" ]
+  }, {
+    "canonical_form" : "pèlerinage",
+    "other_forms" : [ "pèlerinages" ]
+  }, {
+    "canonical_form" : "pérégrination",
+    "other_forms" : [ "pérégrinations" ]
+  }, {
+    "canonical_form" : "séjour",
+    "other_forms" : [ "séjours" ]
+  }, {
+    "canonical_form" : "tourisme",
+    "other_forms" : [ "tourismes" ]
+  }, {
+    "canonical_form" : "exode",
+    "other_forms" : [ "exodes" ]
+  }, {
+    "canonical_form" : "campagne",
+    "other_forms" : [ "campagnes" ]
+  }, {
+    "canonical_form" : "bonheur",
+    "other_forms" : [ "bonheurs" ]
+  }, {
+    "canonical_form" : "balade",
+    "other_forms" : [ "balades" ]
+  }, {
+    "canonical_form" : "anesthésie",
+    "other_forms" : [ "anesthésies" ]
+  }, {
+    "canonical_form" : "trip",
+    "other_forms" : [ "trips" ]
+  } ]
+}

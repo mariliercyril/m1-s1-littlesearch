@@ -1,0 +1,226 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "ligne",
+    "other_forms" : [ "lignes" ]
+  }, {
+    "canonical_form" : "direction",
+    "other_forms" : [ "directions" ]
+  }, {
+    "canonical_form" : "ordre",
+    "other_forms" : [ "ordres" ]
+  }, {
+    "canonical_form" : "sens",
+    "other_forms" : [ "sen" ]
+  }, {
+    "canonical_form" : "forme",
+    "other_forms" : [ "formes" ]
+  }, {
+    "canonical_form" : "filiation",
+    "other_forms" : [ "filiations" ]
+  }, {
+    "canonical_form" : "famille",
+    "other_forms" : [ "familles" ]
+  }, {
+    "canonical_form" : "contour",
+    "other_forms" : [ "contours" ]
+  }, {
+    "canonical_form" : "voie",
+    "other_forms" : [ "voies" ]
+  }, {
+    "canonical_form" : "silhouette",
+    "other_forms" : [ "silhouettes" ]
+  }, {
+    "canonical_form" : "règle",
+    "other_forms" : [ "règles" ]
+  }, {
+    "canonical_form" : "galbe",
+    "other_forms" : [ "galbes" ]
+  }, {
+    "canonical_form" : "file",
+    "other_forms" : [ "files" ]
+  }, {
+    "canonical_form" : "dessin",
+    "other_forms" : [ "dessins" ]
+  }, {
+    "canonical_form" : "bordure",
+    "other_forms" : [ "bordures" ]
+  }, {
+    "canonical_form" : "allure",
+    "other_forms" : [ "allures" ]
+  }, {
+    "canonical_form" : "niveau",
+    "other_forms" : [ "niveaux" ]
+  }, {
+    "canonical_form" : "orientation",
+    "other_forms" : [ "orientations" ]
+  }, {
+    "canonical_form" : "race",
+    "other_forms" : [ "races" ]
+  }, {
+    "canonical_form" : "raie",
+    "other_forms" : [ "raies" ]
+  }, {
+    "canonical_form" : "limite",
+    "other_forms" : [ "limites" ]
+  }, {
+    "canonical_form" : "genre",
+    "other_forms" : [ "genres" ]
+  }, {
+    "canonical_form" : "côté",
+    "other_forms" : [ "côtés" ]
+  }, {
+    "canonical_form" : "cordeau",
+    "other_forms" : [ "cordeaux" ]
+  }, {
+    "canonical_form" : "barre",
+    "other_forms" : [ "barres" ]
+  }, {
+    "canonical_form" : "axe",
+    "other_forms" : [ "axes" ]
+  }, {
+    "canonical_form" : "ascendance",
+    "other_forms" : [ "ascendances" ]
+  }, {
+    "canonical_form" : "parenté",
+    "other_forms" : [ "parentés" ]
+  }, {
+    "canonical_form" : "orthodoxie",
+    "other_forms" : [ "orthodoxies" ]
+  }, {
+    "canonical_form" : "maintien",
+    "other_forms" : [ "maintiens" ]
+  }, {
+    "canonical_form" : "linéament",
+    "other_forms" : [ "linéaments" ]
+  }, {
+    "canonical_form" : "port",
+    "other_forms" : [ "ports" ]
+  }, {
+    "canonical_form" : "profil",
+    "other_forms" : [ "profils" ]
+  }, {
+    "canonical_form" : "rang",
+    "other_forms" : [ "rangs" ]
+  }, {
+    "canonical_form" : "rayure",
+    "other_forms" : [ "rayures" ]
+  }, {
+    "canonical_form" : "ride",
+    "other_forms" : [ "rides" ]
+  }, {
+    "canonical_form" : "route",
+    "other_forms" : [ "routes" ]
+  }, {
+    "canonical_form" : "tringle",
+    "other_forms" : [ "tringles" ]
+  }, {
+    "canonical_form" : "liaison",
+    "other_forms" : [ "liaisons" ]
+  }, {
+    "canonical_form" : "haie",
+    "other_forms" : [ "haies" ]
+  }, {
+    "canonical_form" : "frontière",
+    "other_forms" : [ "frontières" ]
+  }, {
+    "canonical_form" : "alignement",
+    "other_forms" : [ "alignements" ]
+  }, {
+    "canonical_form" : "allongement",
+    "other_forms" : [ "allongements" ]
+  }, {
+    "canonical_form" : "architecture",
+    "other_forms" : [ "architectures" ]
+  }, {
+    "canonical_form" : "base",
+    "other_forms" : [ "bases" ]
+  }, {
+    "canonical_form" : "chapelet",
+    "other_forms" : [ "chapelets" ]
+  }, {
+    "canonical_form" : "chemin",
+    "other_forms" : [ "chemins" ]
+  }, {
+    "canonical_form" : "cordage",
+    "other_forms" : [ "cordages" ]
+  }, {
+    "canonical_form" : "cordon",
+    "other_forms" : [ "cordons" ]
+  }, {
+    "canonical_form" : "descendance",
+    "other_forms" : [ "descendances" ]
+  }, {
+    "canonical_form" : "enfilade",
+    "other_forms" : [ "enfilades" ]
+  }, {
+    "canonical_form" : "rayon",
+    "other_forms" : [ "rayons" ]
+  }, {
+    "canonical_form" : "poids",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "norme",
+    "other_forms" : [ "normes" ]
+  }, {
+    "canonical_form" : "mélodie",
+    "other_forms" : [ "mélodies" ]
+  }, {
+    "canonical_form" : "mitraillette",
+    "other_forms" : [ "mitraillettes" ]
+  }, {
+    "canonical_form" : "retranchement",
+    "other_forms" : [ "retranchements" ]
+  }, {
+    "canonical_form" : "rideau",
+    "other_forms" : [ "rideaux" ]
+  }, {
+    "canonical_form" : "segment",
+    "other_forms" : [ "segments" ]
+  }, {
+    "canonical_form" : "simbleau",
+    "other_forms" : [ "simbleaux" ]
+  }, {
+    "canonical_form" : "strie",
+    "other_forms" : [ "stries" ]
+  }, {
+    "canonical_form" : "tiret",
+    "other_forms" : [ "tirets" ]
+  }, {
+    "canonical_form" : "libouret",
+    "other_forms" : [ "libourets" ]
+  }, {
+    "canonical_form" : "intersection",
+    "other_forms" : [ "intersections" ]
+  }, {
+    "canonical_form" : "arête",
+    "other_forms" : [ "arêtes" ]
+  }, {
+    "canonical_form" : "bretelle",
+    "other_forms" : [ "bretelles" ]
+  }, {
+    "canonical_form" : "chemin de fer",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "conformisme",
+    "other_forms" : [ "conformismes" ]
+  }, {
+    "canonical_form" : "délinéament",
+    "other_forms" : [ "délinéaments" ]
+  }, {
+    "canonical_form" : "démarcation",
+    "other_forms" : [ "démarcations" ]
+  }, {
+    "canonical_form" : "front",
+    "other_forms" : [ "fronts" ]
+  }, {
+    "canonical_form" : "hachure",
+    "other_forms" : [ "hachures" ]
+  }, {
+    "canonical_form" : "horizon",
+    "other_forms" : [ "horizons" ]
+  }, {
+    "canonical_form" : "amarre",
+    "other_forms" : [ "amarres" ]
+  } ]
+}

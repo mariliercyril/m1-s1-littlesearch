@@ -1,0 +1,154 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "homme",
+    "other_forms" : [ "hommes" ]
+  }, {
+    "canonical_form" : "individu",
+    "other_forms" : [ "individus" ]
+  }, {
+    "canonical_form" : "type",
+    "other_forms" : [ "types" ]
+  }, {
+    "canonical_form" : "personne",
+    "other_forms" : [ "personnes" ]
+  }, {
+    "canonical_form" : "bougre",
+    "other_forms" : [ "bougres", "bougresse", "bougresses" ]
+  }, {
+    "canonical_form" : "mec",
+    "other_forms" : [ "mecs" ]
+  }, {
+    "canonical_form" : "citoyen",
+    "other_forms" : [ "citoyenne", "citoyennes", "citoyens" ]
+  }, {
+    "canonical_form" : "zèbre",
+    "other_forms" : [ "zèbres" ]
+  }, {
+    "canonical_form" : "être",
+    "other_forms" : [ "êtres" ]
+  }, {
+    "canonical_form" : "zigoto",
+    "other_forms" : [ "zigotos" ]
+  }, {
+    "canonical_form" : "pistolet",
+    "other_forms" : [ "pistolets" ]
+  }, {
+    "canonical_form" : "pierrot",
+    "other_forms" : [ "pierrots" ]
+  }, {
+    "canonical_form" : "personnage",
+    "other_forms" : [ "personnages" ]
+  }, {
+    "canonical_form" : "zig",
+    "other_forms" : [ "zigs", "zigue", "zigues" ]
+  }, {
+    "canonical_form" : "oiseau",
+    "other_forms" : [ "oiseaux" ]
+  }, {
+    "canonical_form" : "habitant",
+    "other_forms" : [ "habitante", "habitantes", "habitants" ]
+  }, {
+    "canonical_form" : "gars",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "esprit",
+    "other_forms" : [ "esprits" ]
+  }, {
+    "canonical_form" : "quidam",
+    "other_forms" : [ "quidams" ]
+  }, {
+    "canonical_form" : "soldat",
+    "other_forms" : [ "soldats" ]
+  }, {
+    "canonical_form" : "âme",
+    "other_forms" : [ "âmes" ]
+  }, {
+    "canonical_form" : "moineau",
+    "other_forms" : [ "moineaux" ]
+  }, {
+    "canonical_form" : "guignol",
+    "other_forms" : [ "guignols" ]
+  }, {
+    "canonical_form" : "corps",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "amant",
+    "other_forms" : [ "amante", "amantes", "amants" ]
+  }, {
+    "canonical_form" : "piaf",
+    "other_forms" : [ "piafs" ]
+  }, {
+    "canonical_form" : "société",
+    "other_forms" : [ "sociétés" ]
+  }, {
+    "canonical_form" : "tête",
+    "other_forms" : [ "têtes" ]
+  }, {
+    "canonical_form" : "luron",
+    "other_forms" : [ "luronne", "luronnes", "lurons" ]
+  }, {
+    "canonical_form" : "lascar",
+    "other_forms" : [ "lascars" ]
+  }, {
+    "canonical_form" : "humanité",
+    "other_forms" : [ "humanités" ]
+  }, {
+    "canonical_form" : "gonze",
+    "other_forms" : [ "gonzes" ]
+  }, {
+    "canonical_form" : "gens",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "garçon",
+    "other_forms" : [ "garçons" ]
+  }, {
+    "canonical_form" : "créature",
+    "other_forms" : [ "créatures" ]
+  }, {
+    "canonical_form" : "monsieur",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "mecton",
+    "other_forms" : [ "mectons" ]
+  }, {
+    "canonical_form" : "mari",
+    "other_forms" : [ "maris" ]
+  }, {
+    "canonical_form" : "pante",
+    "other_forms" : [ "pantes" ]
+  }, {
+    "canonical_form" : "pèlerin",
+    "other_forms" : [ "pèlerine", "pèlerines", "pèlerins" ]
+  }, {
+    "canonical_form" : "zouave",
+    "other_forms" : [ "zouaves" ]
+  }, {
+    "canonical_form" : "lapin",
+    "other_forms" : [ "lapine", "lapines", "lapins" ]
+  }, {
+    "canonical_form" : "jules",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "bras",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "célébrité",
+    "other_forms" : [ "célébrités" ]
+  }, {
+    "canonical_form" : "diable",
+    "other_forms" : [ "diables" ]
+  }, {
+    "canonical_form" : "espèce",
+    "other_forms" : [ "espèces" ]
+  }, {
+    "canonical_form" : "gus",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "hère",
+    "other_forms" : [ "hères" ]
+  }, {
+    "canonical_form" : "époux",
+    "other_forms" : [ "épouse", "épouses" ]
+  } ]
+}

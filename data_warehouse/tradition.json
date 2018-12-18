@@ -1,0 +1,52 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "tradition",
+    "other_forms" : [ "traditions" ]
+  }, {
+    "canonical_form" : "rite",
+    "other_forms" : [ "rites" ]
+  }, {
+    "canonical_form" : "coutume",
+    "other_forms" : [ "coutumes" ]
+  }, {
+    "canonical_form" : "habitude",
+    "other_forms" : [ "habitudes" ]
+  }, {
+    "canonical_form" : "usage",
+    "other_forms" : [ "usages" ]
+  }, {
+    "canonical_form" : "observance",
+    "other_forms" : [ "observances" ]
+  }, {
+    "canonical_form" : "routine",
+    "other_forms" : [ "routines" ]
+  }, {
+    "canonical_form" : "survivance",
+    "other_forms" : [ "survivances" ]
+  }, {
+    "canonical_form" : "mémoire",
+    "other_forms" : [ "mémoires" ]
+  }, {
+    "canonical_form" : "mythe",
+    "other_forms" : [ "mythes" ]
+  }, {
+    "canonical_form" : "mode",
+    "other_forms" : [ "modes" ]
+  }, {
+    "canonical_form" : "légende",
+    "other_forms" : [ "légendes" ]
+  }, {
+    "canonical_form" : "héritage",
+    "other_forms" : [ "héritages" ]
+  }, {
+    "canonical_form" : "folklore",
+    "other_forms" : [ "folklores" ]
+  }, {
+    "canonical_form" : "croyance",
+    "other_forms" : [ "croyances" ]
+  }, {
+    "canonical_form" : "transmission",
+    "other_forms" : [ "transmissions" ]
+  } ]
+}

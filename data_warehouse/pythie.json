@@ -1,0 +1,22 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "pythie",
+    "other_forms" : [ "pythies" ]
+  }, {
+    "canonical_form" : "pythonisse",
+    "other_forms" : [ "pythonisses" ]
+  }, {
+    "canonical_form" : "sibylle",
+    "other_forms" : [ "sibylles" ]
+  }, {
+    "canonical_form" : "devineresse",
+    "other_forms" : [ "devineresses" ]
+  }, {
+    "canonical_form" : "prophétesse",
+    "other_forms" : [ "prophétesses" ]
+  }, {
+    "canonical_form" : "prêtresse",
+    "other_forms" : [ "prêtresses" ]
+  } ]
+}

@@ -1,0 +1,73 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "poète",
+    "other_forms" : [ "poètes" ]
+  }, {
+    "canonical_form" : "troubadour",
+    "other_forms" : [ "troubadours" ]
+  }, {
+    "canonical_form" : "barde",
+    "other_forms" : [ "bardes" ]
+  }, {
+    "canonical_form" : "trouvère",
+    "other_forms" : [ "trouvères" ]
+  }, {
+    "canonical_form" : "auteur",
+    "other_forms" : [ "auteurs" ]
+  }, {
+    "canonical_form" : "versificateur",
+    "other_forms" : [ "versificateurs" ]
+  }, {
+    "canonical_form" : "ménestrel",
+    "other_forms" : [ "ménestrels" ]
+  }, {
+    "canonical_form" : "minnesinger",
+    "other_forms" : [ "minnesingers" ]
+  }, {
+    "canonical_form" : "métromane",
+    "other_forms" : [ "métromanes" ]
+  }, {
+    "canonical_form" : "parolier",
+    "other_forms" : [ "paroliers" ]
+  }, {
+    "canonical_form" : "poétereau",
+    "other_forms" : [ "poétereaux" ]
+  }, {
+    "canonical_form" : "prophète",
+    "other_forms" : [ "prophètes" ]
+  }, {
+    "canonical_form" : "rhapsode",
+    "other_forms" : [ "rhapsodes" ]
+  }, {
+    "canonical_form" : "rhétoriqueur",
+    "other_forms" : [ "rhétoriqueurs" ]
+  }, {
+    "canonical_form" : "rimailleur",
+    "other_forms" : [ "rimailleurs", "rimailleuse", "rimailleuses" ]
+  }, {
+    "canonical_form" : "scalde",
+    "other_forms" : [ "scaldes" ]
+  }, {
+    "canonical_form" : "utopiste",
+    "other_forms" : [ "utopistes" ]
+  }, {
+    "canonical_form" : "jongleur",
+    "other_forms" : [ "jongleurs", "jongleuse", "jongleuses" ]
+  }, {
+    "canonical_form" : "amant",
+    "other_forms" : [ "amante", "amantes", "amants" ]
+  }, {
+    "canonical_form" : "aède",
+    "other_forms" : [ "aèdes" ]
+  }, {
+    "canonical_form" : "chantre",
+    "other_forms" : [ "chantres" ]
+  }, {
+    "canonical_form" : "cigale",
+    "other_forms" : [ "cigales" ]
+  }, {
+    "canonical_form" : "écrivain",
+    "other_forms" : [ "écrivains" ]
+  } ]
+}

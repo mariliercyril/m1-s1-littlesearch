@@ -47,7 +47,9 @@ public class SearchEngine {
 	 *  the words which we would to find
 	 */
 	public static void main(String[] args) {
+
         SynonymsSearcher synonymsSearcher = new SynonymsSearcher();
+
 		// Gives the search words to the engine...
 		StringBuilder wordsBuilder = new StringBuilder();
 		String words = "";

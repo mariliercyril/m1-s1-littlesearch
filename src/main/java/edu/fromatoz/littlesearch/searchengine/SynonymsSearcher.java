@@ -50,14 +50,14 @@ public class SynonymsSearcher {
 					for (Word synonym : synonyms) {
 						if ((new String((synonym.getCanonicalForm()).getBytes("UTF-8"))).equals(word)) {
 							wordsList.remove(word);
-							wordsList.add((new String((synonyms[0].getCanonicalForm()).getBytes("UTF-8"))));
+							wordsList.add(new String((synonyms[0].getCanonicalForm()).getBytes("UTF-8")));
 							switch (partOfSpeech) {
 								case "substantif":
 								case "adjectif":
 									Object[] otherContextualForms = ((Noun)synonyms[0]).getOtherForms();
 									if (otherContextualForms.length > 0) {
 										for (Object otherContextualForm : otherContextualForms) {
-											wordsList.add((new String((otherContextualForm.toString()).getBytes("UTF-8"))));
+											wordsList.add(new String((otherContextualForm.toString()).getBytes("UTF-8")));
 										}
 									}
 									break;
@@ -71,11 +71,11 @@ public class SynonymsSearcher {
 										for (Object otherForm : otherForms) {
 											if ((new String((otherForm.toString()).getBytes("UTF-8"))).equals(word)) {
 												wordsList.remove(word);
-												wordsList.add((new String((synonyms[0].getCanonicalForm()).getBytes("UTF-8"))));
+												wordsList.add(new String((synonyms[0].getCanonicalForm()).getBytes("UTF-8")));
 												Object[] otherInitialForms = ((Noun)synonyms[0]).getOtherForms();
 												if (otherInitialForms.length > 0) {
 													for (Object otherInitialForm : otherInitialForms) {
-														wordsList.add((new String((otherInitialForm.toString()).getBytes("UTF-8"))));
+														wordsList.add(new String((otherInitialForm.toString()).getBytes("UTF-8")));
 													}
 												}
 											}

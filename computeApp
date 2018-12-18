@@ -25,7 +25,7 @@ analysis()
 execution()
 {
 	echo -e "\n\n${magentafat}EXECUTION...${neutral}";
-	./searchFor Riemann;
+	./searchFor évolutions Riemann géomètre témoigner;
 	sleep 1;
 }
 

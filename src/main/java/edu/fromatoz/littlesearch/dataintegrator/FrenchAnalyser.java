@@ -1,5 +1,6 @@
 package edu.fromatoz.littlesearch.dataintegrator;
 
+import java.io.UnsupportedEncodingException;
 import java.util.Arrays;
 import java.util.Set;
 import java.util.TreeSet;
@@ -160,7 +161,11 @@ public class FrenchAnalyser {
 		Set<String> keys = VALUES_FILE_READER.getKeys(valuesFileName);
 		for (String key : keys) {
 			for (String value : (VALUES_FILE_READER.getStringValue(valuesFileName, key)).split("\\s")) {
-				words.add(value);
+				try {
+					words.add(new String(value.getBytes("ISO-8859-1")));
+				} catch (UnsupportedEncodingException uee) {
+					uee.printStackTrace();
+				}
 			}
 		}
 

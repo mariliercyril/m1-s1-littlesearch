@@ -1,0 +1,54 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "réserver"
+  }, {
+    "canonical_form" : "conserver"
+  }, {
+    "canonical_form" : "garder"
+  }, {
+    "canonical_form" : "destiner"
+  }, {
+    "canonical_form" : "maintenir"
+  }, {
+    "canonical_form" : "préserver"
+  }, {
+    "canonical_form" : "retenir"
+  }, {
+    "canonical_form" : "épargner"
+  }, {
+    "canonical_form" : "préparer"
+  }, {
+    "canonical_form" : "protéger"
+  }, {
+    "canonical_form" : "arrêter"
+  }, {
+    "canonical_form" : "économiser"
+  }, {
+    "canonical_form" : "soigner"
+  }, {
+    "canonical_form" : "sauver"
+  }, {
+    "canonical_form" : "sauvegarder"
+  }, {
+    "canonical_form" : "prévoir"
+  }, {
+    "canonical_form" : "prédestiner"
+  }, {
+    "canonical_form" : "garantir"
+  }, {
+    "canonical_form" : "excepter"
+  }, {
+    "canonical_form" : "entretenir"
+  }, {
+    "canonical_form" : "louer"
+  }, {
+    "canonical_form" : "attribuer"
+  }, {
+    "canonical_form" : "attendre"
+  }, {
+    "canonical_form" : "affecter"
+  }, {
+    "canonical_form" : "vouer"
+  } ]
+}

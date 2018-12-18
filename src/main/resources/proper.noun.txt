@@ -1,5 +1,5 @@
 # Proper nouns
-proper.nouns.first.names=Augustin Candide Claude Jacob Jean Louis Marie Pierre René
-proper.nouns.last.names=Cantor Cardan Cicéron Fermat Lie Pascal Serre Souda
+proper.nouns.first.names=Auguste Augustin Candide Claude Jacob Jean Louis Marie Pierre René
+proper.nouns.last.names=Blanc Cantor Cardan Cicéron Fermat Germain Lie Pascal Poussin Rousseau Serre Souda
 
 proper.nouns.place.names=Babylone Bâle Castres Chine Halle Jersey Londres Paris Perse Sceaux Suisse

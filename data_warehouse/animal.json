@@ -1,0 +1,25 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "animal",
+    "other_forms" : [ "animale", "animales", "animaux" ]
+  }, {
+    "canonical_form" : "bête",
+    "other_forms" : [ "bêtes" ]
+  }, {
+    "canonical_form" : "grossier",
+    "other_forms" : [ "grossiers", "grossière", "grossières" ]
+  }, {
+    "canonical_form" : "matériel",
+    "other_forms" : [ "matérielle", "matérielles", "matériels" ]
+  }, {
+    "canonical_form" : "bestial",
+    "other_forms" : [ "bestiale", "bestiales", "bestiaux" ]
+  }, {
+    "canonical_form" : "brut",
+    "other_forms" : [ "brute", "brutes", "bruts" ]
+  }, {
+    "canonical_form" : "charnel",
+    "other_forms" : [ ]
+  } ]
+}

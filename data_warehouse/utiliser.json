@@ -1,0 +1,40 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "utiliser"
+  }, {
+    "canonical_form" : "employer"
+  }, {
+    "canonical_form" : "user"
+  }, {
+    "canonical_form" : "pratiquer"
+  }, {
+    "canonical_form" : "prendre"
+  }, {
+    "canonical_form" : "profiter"
+  }, {
+    "canonical_form" : "adopter"
+  }, {
+    "canonical_form" : "manier"
+  }, {
+    "canonical_form" : "exploiter"
+  }, {
+    "canonical_form" : "emprunter"
+  }, {
+    "canonical_form" : "disposer"
+  }, {
+    "canonical_form" : "recourir"
+  }, {
+    "canonical_form" : "manipuler"
+  }, {
+    "canonical_form" : "consommer"
+  }, {
+    "canonical_form" : "appliquer"
+  }, {
+    "canonical_form" : "amortir"
+  }, {
+    "canonical_form" : "assimiler"
+  }, {
+    "canonical_form" : "consacrer"
+  } ]
+}

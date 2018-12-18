@@ -1,0 +1,73 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "échange",
+    "other_forms" : [ "échanges" ]
+  }, {
+    "canonical_form" : "changement",
+    "other_forms" : [ "changements" ]
+  }, {
+    "canonical_form" : "commerce",
+    "other_forms" : [ "commerces" ]
+  }, {
+    "canonical_form" : "communication",
+    "other_forms" : [ "communications" ]
+  }, {
+    "canonical_form" : "change",
+    "other_forms" : [ "changes" ]
+  }, {
+    "canonical_form" : "conversation",
+    "other_forms" : [ "conversations" ]
+  }, {
+    "canonical_form" : "transport",
+    "other_forms" : [ "transports" ]
+  }, {
+    "canonical_form" : "transaction",
+    "other_forms" : [ "transactions" ]
+  }, {
+    "canonical_form" : "dialogue",
+    "other_forms" : [ "dialogues" ]
+  }, {
+    "canonical_form" : "récompense",
+    "other_forms" : [ "récompenses" ]
+  }, {
+    "canonical_form" : "retour",
+    "other_forms" : [ "retours" ]
+  }, {
+    "canonical_form" : "remplacement",
+    "other_forms" : [ "remplacements" ]
+  }, {
+    "canonical_form" : "permutation",
+    "other_forms" : [ "permutations" ]
+  }, {
+    "canonical_form" : "métabolisme",
+    "other_forms" : [ "métabolismes" ]
+  }, {
+    "canonical_form" : "exportation",
+    "other_forms" : [ "exportations" ]
+  }, {
+    "canonical_form" : "dédommagement",
+    "other_forms" : [ "dédommagements" ]
+  }, {
+    "canonical_form" : "contrepartie",
+    "other_forms" : [ "contreparties" ]
+  }, {
+    "canonical_form" : "contrat",
+    "other_forms" : [ "contrats" ]
+  }, {
+    "canonical_form" : "communion",
+    "other_forms" : [ "communions" ]
+  }, {
+    "canonical_form" : "aliénation",
+    "other_forms" : [ "aliénations" ]
+  }, {
+    "canonical_form" : "affrontement",
+    "other_forms" : [ "affrontements" ]
+  }, {
+    "canonical_form" : "affaire",
+    "other_forms" : [ "affaires" ]
+  }, {
+    "canonical_form" : "troc",
+    "other_forms" : [ "trocs" ]
+  } ]
+}

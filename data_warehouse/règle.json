@@ -1,0 +1,163 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "règle",
+    "other_forms" : [ "règles" ]
+  }, {
+    "canonical_form" : "loi",
+    "other_forms" : [ "lois" ]
+  }, {
+    "canonical_form" : "norme",
+    "other_forms" : [ "normes" ]
+  }, {
+    "canonical_form" : "règlement",
+    "other_forms" : [ "règlements" ]
+  }, {
+    "canonical_form" : "principe",
+    "other_forms" : [ "principes" ]
+  }, {
+    "canonical_form" : "système",
+    "other_forms" : [ "systèmes" ]
+  }, {
+    "canonical_form" : "statut",
+    "other_forms" : [ "statuts" ]
+  }, {
+    "canonical_form" : "théorie",
+    "other_forms" : [ "théories" ]
+  }, {
+    "canonical_form" : "ordre",
+    "other_forms" : [ "ordres" ]
+  }, {
+    "canonical_form" : "convention",
+    "other_forms" : [ "conventions" ]
+  }, {
+    "canonical_form" : "formule",
+    "other_forms" : [ "formules" ]
+  }, {
+    "canonical_form" : "précepte",
+    "other_forms" : [ "préceptes" ]
+  }, {
+    "canonical_form" : "protocole",
+    "other_forms" : [ "protocoles" ]
+  }, {
+    "canonical_form" : "prescription",
+    "other_forms" : [ "prescriptions" ]
+  }, {
+    "canonical_form" : "forme",
+    "other_forms" : [ "formes" ]
+  }, {
+    "canonical_form" : "dogme",
+    "other_forms" : [ "dogmes" ]
+  }, {
+    "canonical_form" : "convenance",
+    "other_forms" : [ "convenances" ]
+  }, {
+    "canonical_form" : "constitution",
+    "other_forms" : [ "constitutions" ]
+  }, {
+    "canonical_form" : "discipline",
+    "other_forms" : [ "disciplines" ]
+  }, {
+    "canonical_form" : "méthode",
+    "other_forms" : [ "méthodes" ]
+  }, {
+    "canonical_form" : "usage",
+    "other_forms" : [ "usages" ]
+  }, {
+    "canonical_form" : "ligne",
+    "other_forms" : [ "lignes" ]
+  }, {
+    "canonical_form" : "formalité",
+    "other_forms" : [ "formalités" ]
+  }, {
+    "canonical_form" : "obligation",
+    "other_forms" : [ "obligations" ]
+  }, {
+    "canonical_form" : "institution",
+    "other_forms" : [ "institutions" ]
+  }, {
+    "canonical_form" : "exigence",
+    "other_forms" : [ "exigences" ]
+  }, {
+    "canonical_form" : "credo",
+    "other_forms" : [ "credos" ]
+  }, {
+    "canonical_form" : "commandement",
+    "other_forms" : [ "commandements" ]
+  }, {
+    "canonical_form" : "canon",
+    "other_forms" : [ "canons" ]
+  }, {
+    "canonical_form" : "base",
+    "other_forms" : [ "bases" ]
+  }, {
+    "canonical_form" : "évangile",
+    "other_forms" : [ "évangiles" ]
+  }, {
+    "canonical_form" : "régime",
+    "other_forms" : [ "régimes" ]
+  }, {
+    "canonical_form" : "orthodoxie",
+    "other_forms" : [ "orthodoxies" ]
+  }, {
+    "canonical_form" : "observance",
+    "other_forms" : [ "observances" ]
+  }, {
+    "canonical_form" : "maxime",
+    "other_forms" : [ "maximes" ]
+  }, {
+    "canonical_form" : "institut",
+    "other_forms" : [ "instituts" ]
+  }, {
+    "canonical_form" : "habitude",
+    "other_forms" : [ "habitudes" ]
+  }, {
+    "canonical_form" : "doctrine",
+    "other_forms" : [ "doctrines" ]
+  }, {
+    "canonical_form" : "coutume",
+    "other_forms" : [ "coutumes" ]
+  }, {
+    "canonical_form" : "jauge",
+    "other_forms" : [ "jauges" ]
+  }, {
+    "canonical_form" : "mesure",
+    "other_forms" : [ "mesures" ]
+  }, {
+    "canonical_form" : "sauterelle",
+    "other_forms" : [ "sauterelles" ]
+  }, {
+    "canonical_form" : "syntaxe",
+    "other_forms" : [ "syntaxes" ]
+  }, {
+    "canonical_form" : "té",
+    "other_forms" : [ "tés" ]
+  }, {
+    "canonical_form" : "gouverne",
+    "other_forms" : [ "gouvernes" ]
+  }, {
+    "canonical_form" : "férule",
+    "other_forms" : [ "férules" ]
+  }, {
+    "canonical_form" : "exemple",
+    "other_forms" : [ "exemples" ]
+  }, {
+    "canonical_form" : "définition",
+    "other_forms" : [ "définitions" ]
+  }, {
+    "canonical_form" : "décimètre",
+    "other_forms" : [ "décimètres" ]
+  }, {
+    "canonical_form" : "compas",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "carrelet",
+    "other_forms" : [ "carrelets" ]
+  }, {
+    "canonical_form" : "alidade",
+    "other_forms" : [ "alidades" ]
+  }, {
+    "canonical_form" : "vernier",
+    "other_forms" : [ "verniers" ]
+  } ]
+}

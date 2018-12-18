@@ -41,6 +41,10 @@ public class SynonymsSet {
 	private String partOfSpeech;
 	private Word[] synonyms;
 
+	// To allow to deserialize...
+	public SynonymsSet() {
+	}
+
 	/**
 	 * Constructs a synonyms set from a word.
 	 * 

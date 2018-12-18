@@ -1,6 +1,7 @@
 package edu.fromatoz.littlesearch.dataintegrator.model.entity.word;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
+
 import edu.fromatoz.littlesearch.dataintegrator.model.entity.Word;
 
 /**
@@ -12,7 +13,7 @@ import edu.fromatoz.littlesearch.dataintegrator.model.entity.Word;
  */
 public final class Verb extends Word {
 
-	public Verb(@JsonProperty("canonical_form") String canonicalForm) {
+	public Verb(@JsonProperty("canonical_form")String canonicalForm) {
 
 		super(canonicalForm);
 	}

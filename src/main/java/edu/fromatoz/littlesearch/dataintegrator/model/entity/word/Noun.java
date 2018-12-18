@@ -19,7 +19,7 @@ public final class Noun extends Word {
 
 	private Object[] otherForms;
 
-	public Noun(@JsonProperty("canonical_form")String canonicalForm,@JsonProperty("other_forms")Object[] otherForms) {
+	public Noun(@JsonProperty("canonical_form")String canonicalForm, @JsonProperty("other_forms")Object[] otherForms) {
 
 		super(canonicalForm);
 		this.otherForms = otherForms;

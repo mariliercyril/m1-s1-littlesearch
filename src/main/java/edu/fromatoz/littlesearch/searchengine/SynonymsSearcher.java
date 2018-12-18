@@ -1,98 +1,103 @@
 package edu.fromatoz.littlesearch.searchengine;
 
-import com.fasterxml.jackson.databind.JsonNode;
-import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.databind.ObjectReader;
-import edu.fromatoz.littlesearch.dataintegrator.controller.FrenchTagger;
-import edu.fromatoz.littlesearch.dataintegrator.model.entity.Word;
-import edu.fromatoz.littlesearch.dataintegrator.model.entity.word.Noun;
-import edu.fromatoz.littlesearch.dataintegrator.model.entity.word.Verb;
-import edu.fromatoz.littlesearch.tool.Extension;
-import edu.fromatoz.littlesearch.tool.Separator;
-import org.apache.lucene.analysis.TokenStream;
-import org.apache.lucene.analysis.fr.FrenchAnalyzer;
-import org.apache.lucene.analysis.tokenattributes.CharTermAttribute;
-import org.tartarus.snowball.ext.FrenchStemmer;
+import com.fasterxml.jackson.core.JsonParseException;
 
-import java.io.*;
+import com.fasterxml.jackson.databind.JsonMappingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
+
+import edu.fromatoz.littlesearch.dataintegrator.model.entity.SynonymsSet;
+import edu.fromatoz.littlesearch.dataintegrator.model.entity.Word;
+
+import edu.fromatoz.littlesearch.dataintegrator.model.entity.word.Noun;
+
+import edu.fromatoz.littlesearch.tool.Separator;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
 import java.nio.charset.StandardCharsets;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+
 /**
- * @author Andrei Zabolotnîi
+ * @author Andrei ZabolotnÃ®i
  * @author Cyril Marilier
  */
 public class SynonymsSearcher {
-    // The Data Warehouse
-    private static final String DATA_WAREHOUSE = "data_warehouse";
-    // The JSON file name extended format...
-    private static final String JSON_FILE_NAME_EXTENDED_FORMAT = "%s" + (Separator.POINT).getValue() + (Extension.JSON).getValue();
-    // The JSON file path format...
-    private static final String JSON_FILE_PATH_FORMAT = DATA_WAREHOUSE + (Separator.SLASH).getValue() + JSON_FILE_NAME_EXTENDED_FORMAT;
 
-    public String searchSynonyms(String words) throws IOException {
-        List<String> separatedWordsAndSteamed = new ArrayList<>();
-        FrenchStemmer frenchStemmer = new FrenchStemmer();
+	// The Data Warehouse
+	private static final String DATA_WAREHOUSE = "data_warehouse";
 
-        StringBuilder allWordsToSearch = new StringBuilder();
-        for (String w: words.split(" ")) {
-            String lowerCase = w.toLowerCase();
-            if(!separatedWordsAndSteamed.contains(lowerCase))
-                separatedWordsAndSteamed.add(lowerCase);
+	public String searchSynonyms(String words) {
 
-            frenchStemmer.setCurrent(lowerCase);
-            frenchStemmer.stem();
-            if(!separatedWordsAndSteamed.contains(frenchStemmer.getCurrent()))
-                separatedWordsAndSteamed.add(frenchStemmer.getCurrent());
-        }
+		String[] separatedWords = words.split((Separator.SPACE).getValue());
+		List<String> wordsList = new ArrayList<>(Arrays.asList(separatedWords));
 
-        for (String word : separatedWordsAndSteamed) {
-            //get the json file form data_warehouse
-            File jsonFile = new File(String.format(JSON_FILE_PATH_FORMAT, word));
-            allWordsToSearch.append(word).append(Separator.SPACE.getValue());
-            if ((jsonFile.exists())) {
-                ObjectMapper objectMapper = new ObjectMapper();
-                ObjectReader objectReader = objectMapper.reader();
-                JsonNode synonymsNode = objectReader.readTree(new InputStreamReader(new FileInputStream(jsonFile),StandardCharsets.ISO_8859_1));
-                //get array of synonyms from jsonNode
-                String data = synonymsNode.get("synonyms").toString();
-                //get partOfSpeech from jsonNode
-                String partOfSpeech = synonymsNode.get("part_of_speech").asText();
-                if (partOfSpeech != null) {
-                        switch (partOfSpeech){
-                            case "verbe":
-                                List<Verb> verbList = objectMapper.readValue(data,
-                                        objectMapper.getTypeFactory().constructCollectionType(List.class, Verb.class));
-                                if(!verbList.isEmpty()){
-                                    for (Verb v:verbList) {
-                                        if(!allWordsToSearch.toString().contains(v.getCanonicalForm()))
-                                            allWordsToSearch.append(v.getCanonicalForm()).append(Separator.SPACE.getValue());
-                                    }
-                                }
-                                break;
-                            case "substantif":
-                            case "adjectif":
-                                List<Noun> nounList = objectMapper.readValue(data,
-                                        objectMapper.getTypeFactory().constructCollectionType(List.class, Noun.class));
-                                if(!nounList.isEmpty()){
-                                    for (Noun n : nounList) {
-                                        if(!allWordsToSearch.toString().contains(n.getCanonicalForm()))
-                                        allWordsToSearch.append(n.getCanonicalForm()).append(Separator.SPACE.getValue());
-                                        if(n.getOtherForms().length > 0){
-                                            for (Object otherForm:n.getOtherForms()) {
-                                                if(!allWordsToSearch.toString().contains(otherForm.toString()))
-                                                    allWordsToSearch.append(otherForm.toString()).append(Separator.SPACE.getValue());
-                                            }
-                                        }
-                                    }
-                                }
-                                break;
-                        }
-                }
-            }
-        }
-        //System.out.println(allWordsToSearch.toString());
-        return allWordsToSearch.toString();
-    }
+		for (String word : separatedWords) {
+			// Gets the JSON files of the data warehouse
+			File[] files = (new File(String.format(DATA_WAREHOUSE))).listFiles();
+			for (File file : files) {
+				ObjectMapper objectMapper = new ObjectMapper();
+				try {
+					SynonymsSet synonymsSet = objectMapper.readValue(new InputStreamReader(new FileInputStream(file), StandardCharsets.ISO_8859_1), SynonymsSet.class);
+					String partOfSpeech = synonymsSet.getPartOfSpeech();
+
+					Word[] synonyms = synonymsSet.getSynonyms();
+					for (Word synonym : synonyms) {
+						if ((new String((synonym.getCanonicalForm()).getBytes("UTF-8"))).equals(word)) {
+							wordsList.remove(word);
+							wordsList.add((new String((synonyms[0].getCanonicalForm()).getBytes("UTF-8"))));
+							switch (partOfSpeech) {
+								case "substantif":
+								case "adjectif":
+									Object[] otherContextualForms = ((Noun)synonyms[0]).getOtherForms();
+									if (otherContextualForms.length > 0) {
+										for (Object otherContextualForm : otherContextualForms) {
+											wordsList.add((new String((otherContextualForm.toString()).getBytes("UTF-8"))));
+										}
+									}
+									break;
+							}
+						} else {
+							switch (partOfSpeech) {
+								case "substantif":
+								case "adjectif":
+									Object[] otherForms = ((Noun)synonym).getOtherForms();
+									if (otherForms.length > 0) {
+										for (Object otherForm : otherForms) {
+											if ((new String((otherForm.toString()).getBytes("UTF-8"))).equals(word)) {
+												wordsList.remove(word);
+												wordsList.add((new String((synonyms[0].getCanonicalForm()).getBytes("UTF-8"))));
+												Object[] otherInitialForms = ((Noun)synonyms[0]).getOtherForms();
+												if (otherInitialForms.length > 0) {
+													for (Object otherInitialForm : otherInitialForms) {
+														wordsList.add((new String((otherInitialForm.toString()).getBytes("UTF-8"))));
+													}
+												}
+											}
+										}
+									}
+									break;
+							}
+						}
+					}
+				} catch (JsonParseException jpe) {
+					jpe.printStackTrace();
+				} catch (JsonMappingException jme) {
+					jme.printStackTrace();
+				} catch (IOException ioe) {
+					ioe.printStackTrace();
+				}
+			}
+		}
+
+		System.out.println(wordsList + "\n");
+
+		return String.join(" ", wordsList);
+	}
+
 }

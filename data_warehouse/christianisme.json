@@ -1,0 +1,10 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "christianisme",
+    "other_forms" : [ "christianismes" ]
+  }, {
+    "canonical_form" : "catholicisme",
+    "other_forms" : [ "catholicismes" ]
+  } ]
+}

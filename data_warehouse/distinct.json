@@ -1,0 +1,91 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "distinct",
+    "other_forms" : [ "distincte", "distinctes", "distincts" ]
+  }, {
+    "canonical_form" : "clair",
+    "other_forms" : [ "claire", "claires", "clairs" ]
+  }, {
+    "canonical_form" : "visible",
+    "other_forms" : [ "visibles" ]
+  }, {
+    "canonical_form" : "net",
+    "other_forms" : [ "nets", "nette", "nettes" ]
+  }, {
+    "canonical_form" : "particulier",
+    "other_forms" : [ "particuliers", "particulière", "particulières" ]
+  }, {
+    "canonical_form" : "précis",
+    "other_forms" : [ "précise", "précises" ]
+  }, {
+    "canonical_form" : "perceptible",
+    "other_forms" : [ "perceptibles" ]
+  }, {
+    "canonical_form" : "intelligible",
+    "other_forms" : [ "intelligibles" ]
+  }, {
+    "canonical_form" : "différent",
+    "other_forms" : [ "différente", "différentes", "différents" ]
+  }, {
+    "canonical_form" : "transparent",
+    "other_forms" : [ "transparente", "transparentes", "transparents" ]
+  }, {
+    "canonical_form" : "spécifique",
+    "other_forms" : [ "spécifiques" ]
+  }, {
+    "canonical_form" : "spécial",
+    "other_forms" : [ "spéciale", "spéciales", "spéciaux" ]
+  }, {
+    "canonical_form" : "singulier",
+    "other_forms" : [ "singuliers", "singulière", "singulières" ]
+  }, {
+    "canonical_form" : "sensible",
+    "other_forms" : [ "sensibles" ]
+  }, {
+    "canonical_form" : "propre",
+    "other_forms" : [ "propres" ]
+  }, {
+    "canonical_form" : "original",
+    "other_forms" : [ "originale", "originales", "originaux" ]
+  }, {
+    "canonical_form" : "apparent",
+    "other_forms" : [ "apparente", "apparentes", "apparents" ]
+  }, {
+    "canonical_form" : "seul",
+    "other_forms" : [ "seule", "seules", "seuls" ]
+  }, {
+    "canonical_form" : "ostensible",
+    "other_forms" : [ "ostensibles" ]
+  }, {
+    "canonical_form" : "manifeste",
+    "other_forms" : [ "manifestes" ]
+  }, {
+    "canonical_form" : "indépendant",
+    "other_forms" : [ "indépendante", "indépendantes", "indépendants" ]
+  }, {
+    "canonical_form" : "individuel",
+    "other_forms" : [ "individuelle", "individuelles", "individuels" ]
+  }, {
+    "canonical_form" : "dissemblable",
+    "other_forms" : [ "dissemblables" ]
+  }, {
+    "canonical_form" : "compréhensible",
+    "other_forms" : [ "compréhensibles" ]
+  }, {
+    "canonical_form" : "autre",
+    "other_forms" : [ "autres" ]
+  }, {
+    "canonical_form" : "audible",
+    "other_forms" : [ "audibles" ]
+  }, {
+    "canonical_form" : "divers",
+    "other_forms" : [ "diverse", "diverses" ]
+  }, {
+    "canonical_form" : "explicite",
+    "other_forms" : [ "explicites" ]
+  }, {
+    "canonical_form" : "étranger",
+    "other_forms" : [ "étrangers", "étrangère", "étrangères" ]
+  } ]
+}

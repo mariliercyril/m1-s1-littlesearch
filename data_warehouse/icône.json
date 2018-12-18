@@ -1,0 +1,13 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "icône",
+    "other_forms" : [ "icônes" ]
+  }, {
+    "canonical_form" : "image",
+    "other_forms" : [ "images" ]
+  }, {
+    "canonical_form" : "peinture",
+    "other_forms" : [ "peintures" ]
+  } ]
+}

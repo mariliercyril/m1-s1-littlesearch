@@ -1,0 +1,133 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "prix",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "récompense",
+    "other_forms" : [ "récompenses" ]
+  }, {
+    "canonical_form" : "loyer",
+    "other_forms" : [ "loyers" ]
+  }, {
+    "canonical_form" : "taux",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "valeur",
+    "other_forms" : [ "valeurs" ]
+  }, {
+    "canonical_form" : "tarif",
+    "other_forms" : [ "tarifs" ]
+  }, {
+    "canonical_form" : "salaire",
+    "other_forms" : [ "salaires" ]
+  }, {
+    "canonical_form" : "trophée",
+    "other_forms" : [ "trophées" ]
+  }, {
+    "canonical_form" : "tribut",
+    "other_forms" : [ "tributs" ]
+  }, {
+    "canonical_form" : "taxe",
+    "other_forms" : [ "taxes" ]
+  }, {
+    "canonical_form" : "intérêt",
+    "other_forms" : [ "intérêts" ]
+  }, {
+    "canonical_form" : "coût",
+    "other_forms" : [ "coûts" ]
+  }, {
+    "canonical_form" : "cour",
+    "other_forms" : [ "cours" ]
+  }, {
+    "canonical_form" : "cote",
+    "other_forms" : [ "cotes" ]
+  }, {
+    "canonical_form" : "évaluation",
+    "other_forms" : [ "évaluations" ]
+  }, {
+    "canonical_form" : "somme",
+    "other_forms" : [ "sommes" ]
+  }, {
+    "canonical_form" : "paiement",
+    "other_forms" : [ "paiements", "payement", "payements" ]
+  }, {
+    "canonical_form" : "médaille",
+    "other_forms" : [ "médailles" ]
+  }, {
+    "canonical_form" : "facture",
+    "other_forms" : [ "factures" ]
+  }, {
+    "canonical_form" : "estimation",
+    "other_forms" : [ "estimations" ]
+  }, {
+    "canonical_form" : "carte",
+    "other_forms" : [ "cartes" ]
+  }, {
+    "canonical_form" : "addition",
+    "other_forms" : [ "additions" ]
+  }, {
+    "canonical_form" : "dépens",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "encouragement",
+    "other_forms" : [ "encouragements" ]
+  }, {
+    "canonical_form" : "louage",
+    "other_forms" : [ "louages" ]
+  }, {
+    "canonical_form" : "mercuriale",
+    "other_forms" : [ "mercuriales" ]
+  }, {
+    "canonical_form" : "mérite",
+    "other_forms" : [ "mérites" ]
+  }, {
+    "canonical_form" : "oscar",
+    "other_forms" : [ "oscars" ]
+  }, {
+    "canonical_form" : "rançon",
+    "other_forms" : [ "rançons" ]
+  }, {
+    "canonical_form" : "rapport",
+    "other_forms" : [ "rapports" ]
+  }, {
+    "canonical_form" : "diplôme",
+    "other_forms" : [ "diplômes" ]
+  }, {
+    "canonical_form" : "devis",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "couronne",
+    "other_forms" : [ "couronnes" ]
+  }, {
+    "canonical_form" : "bordereau",
+    "other_forms" : [ "bordereaux" ]
+  }, {
+    "canonical_form" : "cachet",
+    "other_forms" : [ "cachets" ]
+  }, {
+    "canonical_form" : "cadeau",
+    "other_forms" : [ "cadeaux" ]
+  }, {
+    "canonical_form" : "cherté",
+    "other_forms" : [ "chertés" ]
+  }, {
+    "canonical_form" : "choix",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "châtiment",
+    "other_forms" : [ "châtiments" ]
+  }, {
+    "canonical_form" : "condition",
+    "other_forms" : [ "conditions" ]
+  }, {
+    "canonical_form" : "cotation",
+    "other_forms" : [ "cotations" ]
+  }, {
+    "canonical_form" : "coupe",
+    "other_forms" : [ "coupes" ]
+  }, {
+    "canonical_form" : "accessit",
+    "other_forms" : [ "accessits" ]
+  } ]
+}

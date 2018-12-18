@@ -1,0 +1,319 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "coup",
+    "other_forms" : [ "coups" ]
+  }, {
+    "canonical_form" : "torgnole",
+    "other_forms" : [ "torgnoles" ]
+  }, {
+    "canonical_form" : "blessure",
+    "other_forms" : [ "blessures" ]
+  }, {
+    "canonical_form" : "choc",
+    "other_forms" : [ "chocs" ]
+  }, {
+    "canonical_form" : "beigne",
+    "other_forms" : [ "beignes" ]
+  }, {
+    "canonical_form" : "attaque",
+    "other_forms" : [ "attaques" ]
+  }, {
+    "canonical_form" : "gifle",
+    "other_forms" : [ "gifles" ]
+  }, {
+    "canonical_form" : "soufflet",
+    "other_forms" : [ "soufflets" ]
+  }, {
+    "canonical_form" : "talmouse",
+    "other_forms" : [ "talmouses" ]
+  }, {
+    "canonical_form" : "heurt",
+    "other_forms" : [ "heurts" ]
+  }, {
+    "canonical_form" : "correction",
+    "other_forms" : [ "corrections" ]
+  }, {
+    "canonical_form" : "calotte",
+    "other_forms" : [ "calottes" ]
+  }, {
+    "canonical_form" : "injure",
+    "other_forms" : [ "injures" ]
+  }, {
+    "canonical_form" : "outrage",
+    "other_forms" : [ "outrages" ]
+  }, {
+    "canonical_form" : "tort",
+    "other_forms" : [ "torts" ]
+  }, {
+    "canonical_form" : "tour",
+    "other_forms" : [ "tours" ]
+  }, {
+    "canonical_form" : "impact",
+    "other_forms" : [ "impacts" ]
+  }, {
+    "canonical_form" : "contusion",
+    "other_forms" : [ "contusions" ]
+  }, {
+    "canonical_form" : "claque",
+    "other_forms" : [ "claques" ]
+  }, {
+    "canonical_form" : "châtaigne",
+    "other_forms" : [ "châtaignes" ]
+  }, {
+    "canonical_form" : "charge",
+    "other_forms" : [ "charges" ]
+  }, {
+    "canonical_form" : "bosse",
+    "other_forms" : [ "bosses" ]
+  }, {
+    "canonical_form" : "action",
+    "other_forms" : [ "actions" ]
+  }, {
+    "canonical_form" : "punition",
+    "other_forms" : [ "punitions" ]
+  }, {
+    "canonical_form" : "tape",
+    "other_forms" : [ "tapes" ]
+  }, {
+    "canonical_form" : "trempe",
+    "other_forms" : [ "trempes" ]
+  }, {
+    "canonical_form" : "échauffourée",
+    "other_forms" : [ "échauffourées" ]
+  }, {
+    "canonical_form" : "épreuve",
+    "other_forms" : [ "épreuves" ]
+  }, {
+    "canonical_form" : "pile",
+    "other_forms" : [ "piles" ]
+  }, {
+    "canonical_form" : "meurtrissure",
+    "other_forms" : [ "meurtrissures" ]
+  }, {
+    "canonical_form" : "accident",
+    "other_forms" : [ "accidents" ]
+  }, {
+    "canonical_form" : "battement",
+    "other_forms" : [ "battements" ]
+  }, {
+    "canonical_form" : "botte",
+    "other_forms" : [ "bottes" ]
+  }, {
+    "canonical_form" : "combine",
+    "other_forms" : [ "combines" ]
+  }, {
+    "canonical_form" : "commotion",
+    "other_forms" : [ "commotions" ]
+  }, {
+    "canonical_form" : "dommage",
+    "other_forms" : [ "dommages" ]
+  }, {
+    "canonical_form" : "offense",
+    "other_forms" : [ "offenses" ]
+  }, {
+    "canonical_form" : "mornifle",
+    "other_forms" : [ "mornifles" ]
+  }, {
+    "canonical_form" : "malheur",
+    "other_forms" : [ "malheurs" ]
+  }, {
+    "canonical_form" : "salve",
+    "other_forms" : [ "salves" ]
+  }, {
+    "canonical_form" : "secousse",
+    "other_forms" : [ "secousses" ]
+  }, {
+    "canonical_form" : "sévices",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "taloche",
+    "other_forms" : [ "taloches" ]
+  }, {
+    "canonical_form" : "truc",
+    "other_forms" : [ "trucs" ]
+  }, {
+    "canonical_form" : "verre",
+    "other_forms" : [ "verres" ]
+  }, {
+    "canonical_form" : "élan",
+    "other_forms" : [ "élans" ]
+  }, {
+    "canonical_form" : "giboulée",
+    "other_forms" : [ "giboulées" ]
+  }, {
+    "canonical_form" : "frappement",
+    "other_forms" : [ "frappements" ]
+  }, {
+    "canonical_form" : "estocade",
+    "other_forms" : [ "estocades" ]
+  }, {
+    "canonical_form" : "astuce",
+    "other_forms" : [ "astuces" ]
+  }, {
+    "canonical_form" : "baffe",
+    "other_forms" : [ "baffes" ]
+  }, {
+    "canonical_form" : "bagarre",
+    "other_forms" : [ "bagarres" ]
+  }, {
+    "canonical_form" : "bastonnade",
+    "other_forms" : [ "bastonnades" ]
+  }, {
+    "canonical_form" : "beignet",
+    "other_forms" : [ "beignets" ]
+  }, {
+    "canonical_form" : "bourrade",
+    "other_forms" : [ "bourrades" ]
+  }, {
+    "canonical_form" : "castagne",
+    "other_forms" : [ "castagnes" ]
+  }, {
+    "canonical_form" : "catastrophe",
+    "other_forms" : [ "catastrophes" ]
+  }, {
+    "canonical_form" : "engagement",
+    "other_forms" : [ "engagements" ]
+  }, {
+    "canonical_form" : "ecchymose",
+    "other_forms" : [ "ecchymoses" ]
+  }, {
+    "canonical_form" : "danse",
+    "other_forms" : [ "danses" ]
+  }, {
+    "canonical_form" : "coquard",
+    "other_forms" : [ "coquarde", "coquardes", "coquards" ]
+  }, {
+    "canonical_form" : "châtiment",
+    "other_forms" : [ "châtiments" ]
+  }, {
+    "canonical_form" : "préjudice",
+    "other_forms" : [ "préjudices" ]
+  }, {
+    "canonical_form" : "ramponneau",
+    "other_forms" : [ "ramponneaux" ]
+  }, {
+    "canonical_form" : "ratatouille",
+    "other_forms" : [ "ratatouilles" ]
+  }, {
+    "canonical_form" : "renfoncement",
+    "other_forms" : [ "renfoncements" ]
+  }, {
+    "canonical_form" : "rouste",
+    "other_forms" : [ "roustes" ]
+  }, {
+    "canonical_form" : "pochon",
+    "other_forms" : [ "pochons" ]
+  }, {
+    "canonical_form" : "pichenette",
+    "other_forms" : [ "pichenettes" ]
+  }, {
+    "canonical_form" : "percussion",
+    "other_forms" : [ "percussions" ]
+  }, {
+    "canonical_form" : "pain",
+    "other_forms" : [ "pains" ]
+  }, {
+    "canonical_form" : "jet",
+    "other_forms" : [ "jets" ]
+  }, {
+    "canonical_form" : "horion",
+    "other_forms" : [ "horions" ]
+  }, {
+    "canonical_form" : "saisissement",
+    "other_forms" : [ "saisissements" ]
+  }, {
+    "canonical_form" : "sanglade",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "éclat",
+    "other_forms" : [ "éclats" ]
+  }, {
+    "canonical_form" : "ébranlement",
+    "other_forms" : [ "ébranlements" ]
+  }, {
+    "canonical_form" : "tir",
+    "other_forms" : [ "tirs" ]
+  }, {
+    "canonical_form" : "tatouille",
+    "other_forms" : [ "tatouilles" ]
+  }, {
+    "canonical_form" : "taquet",
+    "other_forms" : [ "taquets" ]
+  }, {
+    "canonical_form" : "tamponnement",
+    "other_forms" : [ "tamponnements" ]
+  }, {
+    "canonical_form" : "tampon",
+    "other_forms" : [ "tampons" ]
+  }, {
+    "canonical_form" : "tabac",
+    "other_forms" : [ "tabacs" ]
+  }, {
+    "canonical_form" : "sévice",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "son",
+    "other_forms" : [ "sons" ]
+  }, {
+    "canonical_form" : "émotion",
+    "other_forms" : [ "émotions" ]
+  }, {
+    "canonical_form" : "hasard",
+    "other_forms" : [ "hasards" ]
+  }, {
+    "canonical_form" : "canonnade",
+    "other_forms" : [ "canonnades" ]
+  }, {
+    "canonical_form" : "canon",
+    "other_forms" : [ "canons" ]
+  }, {
+    "canonical_form" : "avoine",
+    "other_forms" : [ "avoines" ]
+  }, {
+    "canonical_form" : "atout",
+    "other_forms" : [ "atouts" ]
+  }, {
+    "canonical_form" : "arquebusade",
+    "other_forms" : [ "arquebusades" ]
+  }, {
+    "canonical_form" : "agiotage",
+    "other_forms" : [ "agiotages" ]
+  }, {
+    "canonical_form" : "chiquenaude",
+    "other_forms" : [ "chiquenaudes" ]
+  }, {
+    "canonical_form" : "contredanse",
+    "other_forms" : [ "contredanses" ]
+  }, {
+    "canonical_form" : "gourmade",
+    "other_forms" : [ "gourmades" ]
+  }, {
+    "canonical_form" : "goulée",
+    "other_forms" : [ "goulées" ]
+  }, {
+    "canonical_form" : "gnon",
+    "other_forms" : [ "gnons" ]
+  }, {
+    "canonical_form" : "giroflée",
+    "other_forms" : [ "giroflées" ]
+  }, {
+    "canonical_form" : "fusillade",
+    "other_forms" : [ "fusillades" ]
+  }, {
+    "canonical_form" : "frôlement",
+    "other_forms" : [ "frôlements" ]
+  }, {
+    "canonical_form" : "foi",
+    "other_forms" : [ "fois" ]
+  }, {
+    "canonical_form" : "escourgée",
+    "other_forms" : [ "escourgées" ]
+  }, {
+    "canonical_form" : "distribution",
+    "other_forms" : [ "distributions" ]
+  }, {
+    "canonical_form" : "abattage",
+    "other_forms" : [ "abatage", "abatages", "abattages" ]
+  } ]
+}

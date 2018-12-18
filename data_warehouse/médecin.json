@@ -1,0 +1,85 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "médecin",
+    "other_forms" : [ "médecins" ]
+  }, {
+    "canonical_form" : "praticien",
+    "other_forms" : [ "praticienne", "praticiennes", "praticiens" ]
+  }, {
+    "canonical_form" : "docteur",
+    "other_forms" : [ "docteurs" ]
+  }, {
+    "canonical_form" : "oculiste",
+    "other_forms" : [ "oculistes" ]
+  }, {
+    "canonical_form" : "neurologue",
+    "other_forms" : [ "neurologues" ]
+  }, {
+    "canonical_form" : "médicastre",
+    "other_forms" : [ "médicastres" ]
+  }, {
+    "canonical_form" : "morticole",
+    "other_forms" : [ "morticoles" ]
+  }, {
+    "canonical_form" : "mire",
+    "other_forms" : [ "mires" ]
+  }, {
+    "canonical_form" : "oto-rhino-laryngologiste",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "physicien",
+    "other_forms" : [ "physicienne", "physiciennes", "physiciens" ]
+  }, {
+    "canonical_form" : "psychiatre",
+    "other_forms" : [ "psychiatres" ]
+  }, {
+    "canonical_form" : "pédiatre",
+    "other_forms" : [ "pédiatres" ]
+  }, {
+    "canonical_form" : "radiologue",
+    "other_forms" : [ "radiologiste", "radiologistes", "radiologues" ]
+  }, {
+    "canonical_form" : "stomatologiste",
+    "other_forms" : [ "stomatologistes", "stomatologue", "stomatologues" ]
+  }, {
+    "canonical_form" : "thérapeute",
+    "other_forms" : [ "thérapeutes" ]
+  }, {
+    "canonical_form" : "toubib",
+    "other_forms" : [ "toubibs" ]
+  }, {
+    "canonical_form" : "anesthésiste",
+    "other_forms" : [ "anesthésistes" ]
+  }, {
+    "canonical_form" : "auriste",
+    "other_forms" : [ "auristes" ]
+  }, {
+    "canonical_form" : "carabin",
+    "other_forms" : [ "carabins" ]
+  }, {
+    "canonical_form" : "cardiologue",
+    "other_forms" : [ "cardiologues" ]
+  }, {
+    "canonical_form" : "chirurgien",
+    "other_forms" : [ "chirurgienne", "chirurgiennes", "chirurgiens" ]
+  }, {
+    "canonical_form" : "clinicien",
+    "other_forms" : [ "cliniciens" ]
+  }, {
+    "canonical_form" : "dermatologiste",
+    "other_forms" : [ "dermatologistes", "dermatologue", "dermatologues" ]
+  }, {
+    "canonical_form" : "doctoresse",
+    "other_forms" : [ "doctoresses" ]
+  }, {
+    "canonical_form" : "esculape",
+    "other_forms" : [ "esculapes" ]
+  }, {
+    "canonical_form" : "faculté",
+    "other_forms" : [ "facultés" ]
+  }, {
+    "canonical_form" : "gynécologue",
+    "other_forms" : [ "gynécologues" ]
+  } ]
+}

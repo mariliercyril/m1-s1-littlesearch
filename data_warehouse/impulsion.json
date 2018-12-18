@@ -1,0 +1,91 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "impulsion",
+    "other_forms" : [ "impulsions" ]
+  }, {
+    "canonical_form" : "mouvement",
+    "other_forms" : [ "mouvements" ]
+  }, {
+    "canonical_form" : "élan",
+    "other_forms" : [ "élans" ]
+  }, {
+    "canonical_form" : "excitation",
+    "other_forms" : [ "excitations" ]
+  }, {
+    "canonical_form" : "inspiration",
+    "other_forms" : [ "inspirations" ]
+  }, {
+    "canonical_form" : "tendance",
+    "other_forms" : [ "tendances" ]
+  }, {
+    "canonical_form" : "suggestion",
+    "other_forms" : [ "suggestions" ]
+  }, {
+    "canonical_form" : "pression",
+    "other_forms" : [ "pressions" ]
+  }, {
+    "canonical_form" : "influence",
+    "other_forms" : [ "influences" ]
+  }, {
+    "canonical_form" : "impression",
+    "other_forms" : [ "impressions" ]
+  }, {
+    "canonical_form" : "entraînement",
+    "other_forms" : [ "entraînements" ]
+  }, {
+    "canonical_form" : "aspiration",
+    "other_forms" : [ "aspirations" ]
+  }, {
+    "canonical_form" : "appel",
+    "other_forms" : [ "appels" ]
+  }, {
+    "canonical_form" : "voix",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "instinct",
+    "other_forms" : [ "instincts" ]
+  }, {
+    "canonical_form" : "instigation",
+    "other_forms" : [ "instigations" ]
+  }, {
+    "canonical_form" : "force",
+    "other_forms" : [ "forces" ]
+  }, {
+    "canonical_form" : "conseil",
+    "other_forms" : [ "conseils" ]
+  }, {
+    "canonical_form" : "animation",
+    "other_forms" : [ "animations" ]
+  }, {
+    "canonical_form" : "motion",
+    "other_forms" : [ "motions" ]
+  }, {
+    "canonical_form" : "percussion",
+    "other_forms" : [ "percussions" ]
+  }, {
+    "canonical_form" : "remous",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "soulèvement",
+    "other_forms" : [ "soulèvements" ]
+  }, {
+    "canonical_form" : "motif",
+    "other_forms" : [ "motifs" ]
+  }, {
+    "canonical_form" : "marche",
+    "other_forms" : [ "marches" ]
+  }, {
+    "canonical_form" : "humeur",
+    "other_forms" : [ "humeurs" ]
+  }, {
+    "canonical_form" : "essor",
+    "other_forms" : [ "essors" ]
+  }, {
+    "canonical_form" : "bond",
+    "other_forms" : [ "bonds" ]
+  }, {
+    "canonical_form" : "top",
+    "other_forms" : [ "tops" ]
+  } ]
+}

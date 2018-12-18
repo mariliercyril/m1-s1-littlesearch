@@ -1,0 +1,34 @@
+{
+  "part_of_speech" : "adjectif",
+  "synonyms" : [ {
+    "canonical_form" : "intègre",
+    "other_forms" : [ "intègres" ]
+  }, {
+    "canonical_form" : "honnête",
+    "other_forms" : [ "honnêtes" ]
+  }, {
+    "canonical_form" : "probe",
+    "other_forms" : [ "probes" ]
+  }, {
+    "canonical_form" : "pur",
+    "other_forms" : [ "pure", "pures", "purs" ]
+  }, {
+    "canonical_form" : "équitable",
+    "other_forms" : [ "équitables" ]
+  }, {
+    "canonical_form" : "juste",
+    "other_forms" : [ "justes" ]
+  }, {
+    "canonical_form" : "impartial",
+    "other_forms" : [ "impartiale", "impartiales", "impartiaux" ]
+  }, {
+    "canonical_form" : "entier",
+    "other_forms" : [ "entiers", "entière", "entières" ]
+  }, {
+    "canonical_form" : "incorruptible",
+    "other_forms" : [ "incorruptibles" ]
+  }, {
+    "canonical_form" : "vertueux",
+    "other_forms" : [ "vertueuse", "vertueuses" ]
+  } ]
+}

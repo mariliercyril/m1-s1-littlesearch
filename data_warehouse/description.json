@@ -1,0 +1,55 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "description",
+    "other_forms" : [ "descriptions" ]
+  }, {
+    "canonical_form" : "tableau",
+    "other_forms" : [ "tableaux" ]
+  }, {
+    "canonical_form" : "récit",
+    "other_forms" : [ "récits" ]
+  }, {
+    "canonical_form" : "esquisse",
+    "other_forms" : [ "esquisses" ]
+  }, {
+    "canonical_form" : "image",
+    "other_forms" : [ "images" ]
+  }, {
+    "canonical_form" : "peinture",
+    "other_forms" : [ "peintures" ]
+  }, {
+    "canonical_form" : "état",
+    "other_forms" : [ "états" ]
+  }, {
+    "canonical_form" : "représentation",
+    "other_forms" : [ "représentations" ]
+  }, {
+    "canonical_form" : "rapport",
+    "other_forms" : [ "rapports" ]
+  }, {
+    "canonical_form" : "portrait",
+    "other_forms" : [ "portraits" ]
+  }, {
+    "canonical_form" : "histoire",
+    "other_forms" : [ "histoires" ]
+  }, {
+    "canonical_form" : "croquis",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "conte",
+    "other_forms" : [ "contes" ]
+  }, {
+    "canonical_form" : "signalement",
+    "other_forms" : [ "signalements" ]
+  }, {
+    "canonical_form" : "hypotypose",
+    "other_forms" : [ "hypotyposes" ]
+  }, {
+    "canonical_form" : "fresque",
+    "other_forms" : [ "fresques" ]
+  }, {
+    "canonical_form" : "définition",
+    "other_forms" : [ "définitions" ]
+  } ]
+}

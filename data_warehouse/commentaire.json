@@ -1,0 +1,73 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "commentaire",
+    "other_forms" : [ "commentaires" ]
+  }, {
+    "canonical_form" : "explication",
+    "other_forms" : [ "explications" ]
+  }, {
+    "canonical_form" : "note",
+    "other_forms" : [ "notes" ]
+  }, {
+    "canonical_form" : "exégèse",
+    "other_forms" : [ "exégèses" ]
+  }, {
+    "canonical_form" : "remarque",
+    "other_forms" : [ "remarques" ]
+  }, {
+    "canonical_form" : "propos",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "glose",
+    "other_forms" : [ "gloses" ]
+  }, {
+    "canonical_form" : "bavardage",
+    "other_forms" : [ "bavardages" ]
+  }, {
+    "canonical_form" : "annotation",
+    "other_forms" : [ "annotations" ]
+  }, {
+    "canonical_form" : "souvenir",
+    "other_forms" : [ "souvenirs" ]
+  }, {
+    "canonical_form" : "potin",
+    "other_forms" : [ "potins" ]
+  }, {
+    "canonical_form" : "paraphrase",
+    "other_forms" : [ "paraphrases" ]
+  }, {
+    "canonical_form" : "observation",
+    "other_forms" : [ "observations" ]
+  }, {
+    "canonical_form" : "mémoire",
+    "other_forms" : [ "mémoires" ]
+  }, {
+    "canonical_form" : "médisance",
+    "other_forms" : [ "médisances" ]
+  }, {
+    "canonical_form" : "interprétation",
+    "other_forms" : [ "interprétations" ]
+  }, {
+    "canonical_form" : "histoire",
+    "other_forms" : [ "histoires" ]
+  }, {
+    "canonical_form" : "commérage",
+    "other_forms" : [ "commérages" ]
+  }, {
+    "canonical_form" : "cancan",
+    "other_forms" : [ "cancans" ]
+  }, {
+    "canonical_form" : "scolie",
+    "other_forms" : [ "scolies" ]
+  }, {
+    "canonical_form" : "racontar",
+    "other_forms" : [ "racontars" ]
+  }, {
+    "canonical_form" : "anagogie",
+    "other_forms" : [ "anagogies" ]
+  }, {
+    "canonical_form" : "éclaircissement",
+    "other_forms" : [ "éclaircissements" ]
+  } ]
+}

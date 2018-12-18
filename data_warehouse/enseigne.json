@@ -1,0 +1,76 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "enseigne",
+    "other_forms" : [ "enseignes" ]
+  }, {
+    "canonical_form" : "bannière",
+    "other_forms" : [ "bannières" ]
+  }, {
+    "canonical_form" : "drapeau",
+    "other_forms" : [ "drapeaux" ]
+  }, {
+    "canonical_form" : "étendard",
+    "other_forms" : [ "étendards" ]
+  }, {
+    "canonical_form" : "guidon",
+    "other_forms" : [ "guidons" ]
+  }, {
+    "canonical_form" : "signe",
+    "other_forms" : [ "signes" ]
+  }, {
+    "canonical_form" : "marque",
+    "other_forms" : [ "marques" ]
+  }, {
+    "canonical_form" : "pancarte",
+    "other_forms" : [ "pancartes" ]
+  }, {
+    "canonical_form" : "panneau",
+    "other_forms" : [ "panneaux" ]
+  }, {
+    "canonical_form" : "panonceau",
+    "other_forms" : [ "panonceaux" ]
+  }, {
+    "canonical_form" : "pavillon",
+    "other_forms" : [ "pavillons" ]
+  }, {
+    "canonical_form" : "porte-drapeau",
+    "other_forms" : [ ]
+  }, {
+    "canonical_form" : "preuve",
+    "other_forms" : [ "preuves" ]
+  }, {
+    "canonical_form" : "écriteau",
+    "other_forms" : [ "écriteaux" ]
+  }, {
+    "canonical_form" : "manipule",
+    "other_forms" : [ "manipules" ]
+  }, {
+    "canonical_form" : "indice",
+    "other_forms" : [ "indices" ]
+  }, {
+    "canonical_form" : "affiche",
+    "other_forms" : [ "affiches" ]
+  }, {
+    "canonical_form" : "aigle",
+    "other_forms" : [ "aigles" ]
+  }, {
+    "canonical_form" : "bouchon",
+    "other_forms" : [ "bouchons" ]
+  }, {
+    "canonical_form" : "carotte",
+    "other_forms" : [ "carottes" ]
+  }, {
+    "canonical_form" : "figure",
+    "other_forms" : [ "figures" ]
+  }, {
+    "canonical_form" : "gonfalon",
+    "other_forms" : [ "gonfalons", "gonfanon", "gonfanons" ]
+  }, {
+    "canonical_form" : "image",
+    "other_forms" : [ "images" ]
+  }, {
+    "canonical_form" : "écusson",
+    "other_forms" : [ "écussons" ]
+  } ]
+}

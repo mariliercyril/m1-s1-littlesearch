@@ -1,0 +1,32 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "démembrer"
+  }, {
+    "canonical_form" : "diviser"
+  }, {
+    "canonical_form" : "morceler"
+  }, {
+    "canonical_form" : "partager"
+  }, {
+    "canonical_form" : "dépecer"
+  }, {
+    "canonical_form" : "séparer"
+  }, {
+    "canonical_form" : "écarteler"
+  }, {
+    "canonical_form" : "disloquer"
+  }, {
+    "canonical_form" : "distraire"
+  }, {
+    "canonical_form" : "découper"
+  }, {
+    "canonical_form" : "désagréger"
+  }, {
+    "canonical_form" : "fractionner"
+  }, {
+    "canonical_form" : "lotir"
+  }, {
+    "canonical_form" : "retrancher"
+  } ]
+}

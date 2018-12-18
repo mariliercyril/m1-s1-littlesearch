@@ -1,0 +1,58 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "incendie",
+    "other_forms" : [ "incendies" ]
+  }, {
+    "canonical_form" : "conflagration",
+    "other_forms" : [ "conflagrations" ]
+  }, {
+    "canonical_form" : "révolution",
+    "other_forms" : [ "révolutions" ]
+  }, {
+    "canonical_form" : "fureur",
+    "other_forms" : [ "fureurs" ]
+  }, {
+    "canonical_form" : "frénésie",
+    "other_forms" : [ "frénésies" ]
+  }, {
+    "canonical_form" : "combustion",
+    "other_forms" : [ "combustions" ]
+  }, {
+    "canonical_form" : "brasier",
+    "other_forms" : [ "brasiers" ]
+  }, {
+    "canonical_form" : "rage",
+    "other_forms" : [ "rages" ]
+  }, {
+    "canonical_form" : "incandescence",
+    "other_forms" : [ "incandescences" ]
+  }, {
+    "canonical_form" : "ignition",
+    "other_forms" : [ "ignitions" ]
+  }, {
+    "canonical_form" : "guerre",
+    "other_forms" : [ "guerres" ]
+  }, {
+    "canonical_form" : "foyer",
+    "other_forms" : [ "foyers" ]
+  }, {
+    "canonical_form" : "embrasement",
+    "other_forms" : [ "embrasements" ]
+  }, {
+    "canonical_form" : "déchaînement",
+    "other_forms" : [ "déchaînements" ]
+  }, {
+    "canonical_form" : "convulsion",
+    "other_forms" : [ "convulsions" ]
+  }, {
+    "canonical_form" : "brûlure",
+    "other_forms" : [ "brûlures" ]
+  }, {
+    "canonical_form" : "brûlement",
+    "other_forms" : [ "brûlements" ]
+  }, {
+    "canonical_form" : "bouleversement",
+    "other_forms" : [ "bouleversements" ]
+  } ]
+}

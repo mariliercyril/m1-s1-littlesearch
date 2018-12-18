@@ -192,8 +192,8 @@ public class Littlesearch {
 			// Parses a query for searching for words in the indexed content.
 			QueryParser queryParser = new QueryParser(content, ANALYZER);
 			Query query = queryParser.parse(words);
-			// Gets meta-information of the top 10 documents (sorted by relevance, the default sorting mode)...
-			TopDocs foundDocs = indexSearcher.search(query, 10);
+			// Gets meta-information of the top 5 documents (sorted by relevance, the default sorting mode)...
+			TopDocs foundDocs = indexSearcher.search(query, 5);
 			// Adds the corresponding documents to the list...
 			for (ScoreDoc hit : foundDocs.scoreDocs) {
 				hitDocs.add(indexSearcher.getIndexReader().document(hit.doc));

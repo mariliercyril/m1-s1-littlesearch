@@ -61,6 +61,32 @@ Ou encore :
 ./searchFor Riemann travail
 ```
 
+Par défaut, la recherche est effectuée par synonymie, autant que faire se peut (par exemple, le mot Riemann, étant un nom propre, n'aura aucun synonyme) ; si l'on veut rechercher un mot exact (avec l'orthographe saisie), alors il suffit d'entrer le mot en question entre tirets bas ("underscore") :
+
+```sh
+./searchFor Riemann _travaux_
+```
+
+Au cas où l'on veut rechercher plusieurs mots exacts :
+
+```sh
+./searchFor Riemann _travaux_ _mathématicienne_
+```
+
+Il est aussi possible d'écrire :
+
+```sh
+./searchFor "Riemann _travaux_ _mathématicienne_"
+```
+
+Ou encore :
+
+```sh
+./searchFor Riemann "_travaux_" _mathématicienne_
+```
+
+**Attention** : En revanche, il n'est pas encore possible de rechercher une expression (c'est-à-dire une suite mots) exacte...
+
 Documentation
 ------------
 

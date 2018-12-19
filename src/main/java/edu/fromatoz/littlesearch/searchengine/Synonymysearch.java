@@ -30,7 +30,13 @@ public class Synonymysearch {
 	// The Data Warehouse
 	private static final String DATA_WAREHOUSE = "data_warehouse";
 
-	public String search(String words) {
+	// Adds a private constructor to hide the implicit public one (indicated by SonarQube).
+	private Synonymysearch() {
+
+		throw new IllegalStateException("Synonymysearch class");
+	}
+
+	public static String search(String words) {
 
 		String[] separatedWords = words.split((Separator.SPACE).getValue());
 		List<String> contextualForms = new ArrayList<>(Arrays.asList(separatedWords));
@@ -60,13 +66,10 @@ public class Synonymysearch {
 			}
 		}
 
-		// For demo...
-		System.out.println(contextualForms + "\n");
-
 		return String.join(" ", contextualForms);
 	}
 
-	private List<String> getForms(List<String> forms, Word synonym, String partOfSpeech) {
+	private static List<String> getForms(List<String> forms, Word synonym, String partOfSpeech) {
 
 		try {
 			forms.add(new String((synonym.getCanonicalForm()).getBytes("UTF-8")));

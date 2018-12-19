@@ -92,7 +92,7 @@ public class DataIntegrator {
 			StringBuilder textBuilder = new StringBuilder();
 			String paragraph;
 			while ((paragraph = bufferedReader.readLine()) != null) {
-				textBuilder.append(paragraph + "\n");
+				textBuilder.append(paragraph + (Separator.NEW_LINE).getValue());
 			}
 			String text = textBuilder.toString();
 			if (!(text.isEmpty())) {

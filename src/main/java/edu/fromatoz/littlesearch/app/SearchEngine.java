@@ -40,6 +40,9 @@ public class SearchEngine {
 	 */
 	public static final String TEXT_FILE_PATH_FORMAT = TEXT_CORPUS_DIRECTORY + Separator.SLASH.getValue() + TEXT_FILE_EXTENDED_NAME_FORMAT;
 
+	private static StringBuilder exactWordsBuilder = new StringBuilder();
+	private static StringBuilder wordsBuilder = new StringBuilder();
+
 	/**
 	 * Allows an user to search for words into the text of the corpus.
 	 * 
@@ -48,22 +51,22 @@ public class SearchEngine {
 	 */
 	public static void main(String[] args) {
 
-        Synonymysearch synonymsSearcher = new Synonymysearch();
-
 		// Gives the search words to the engine...
-		StringBuilder wordsBuilder = new StringBuilder();
 		String words = "";
 		if (args.length > 0) {
 			for (String word : args) {
 				try {
 					word = new String(word.getBytes("UTF-8"));
+					buildWords(word);
 				} catch (UnsupportedEncodingException uee) {
 					uee.printStackTrace();
 				}
-				wordsBuilder.append(word + " ");
 			}
-			words = wordsBuilder.toString();
-			words = words.substring(0, words.lastIndexOf(' '));
+			words = exactWordsBuilder.toString();
+			words += Synonymysearch.search(wordsBuilder.toString());
+
+			// For demo...
+			System.out.println("[" + String.join(", ", words.split((Separator.SPACE).getValue())) + "]" + (Separator.NEW_LINE).getValue());
 		} else {
 			System.out.println("Use: ./searchFor <word>...");
 			System.exit(0);
@@ -74,7 +77,7 @@ public class SearchEngine {
 			System.exit(1);
 		} else {
 			// If the indexing is successful, searches for words and for synonyms if exist...
-			List<Document> hitDocuments = Littlesearch.search(synonymsSearcher.search(words));
+			List<Document> hitDocuments = Littlesearch.search(words);
 			if (hitDocuments.isEmpty()) {
 				System.out.println("Littlesearch ne trouve rien pour \"" + words + "\".");
 				System.exit(1);
@@ -84,9 +87,19 @@ public class SearchEngine {
 				int i = 0;
 				while (hitDocumentsIterator.hasNext()) {
 					Document hitDocument = hitDocumentsIterator.next();
-					System.out.println("Document " + ++i + ":\n" + hitDocument.get("content"));
+					System.out.println("Document " + ++i + ":" + (Separator.NEW_LINE).getValue() + hitDocument.get("content"));
 				}
 			}
+		}
+	}
+
+	private static void buildWords(String word) {
+
+		if (word.startsWith("_") && word.endsWith("_")) {
+			word = word.substring(1, word.length() - 1);
+			exactWordsBuilder.append(word + (Separator.SPACE).getValue());
+		} else {
+			wordsBuilder.append(word + (Separator.SPACE).getValue());
 		}
 	}
 

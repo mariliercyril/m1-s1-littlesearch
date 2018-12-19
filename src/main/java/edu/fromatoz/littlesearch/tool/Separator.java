@@ -24,6 +24,11 @@ public enum Separator {
 	HYPHEN("-"),
 
 	/**
+	 * The singleton instance for the <b>new line</b>.
+	 */
+	NEW_LINE("\n"),
+
+	/**
 	 * The singleton instance for the <b>point</b>.
 	 */
 	POINT("."),

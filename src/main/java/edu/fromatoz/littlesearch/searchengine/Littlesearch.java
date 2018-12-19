@@ -45,6 +45,7 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 
 import edu.fromatoz.littlesearch.app.SearchEngine;
+import edu.fromatoz.littlesearch.tool.Separator;
 
 /**
  * The {@code Littlesearch} class defines a search engine.
@@ -77,13 +78,11 @@ public class Littlesearch {
 
 	// The writer of the index:
 	private static IndexWriter indexWriter;
-	
-	
 
 	// Adds a private constructor to hide the implicit public one (indicated by SonarQube).
 	private Littlesearch() {
 
-		throw new IllegalStateException("Utility class");
+		throw new IllegalStateException("Littlesearch class");
 	}
 
 	/**
@@ -161,7 +160,7 @@ public class Littlesearch {
 			StringBuilder textBuilder = new StringBuilder();
 			String paragraph;
 			while ((paragraph = bufferedReader.readLine()) != null) {
-				textBuilder.append(paragraph + "\n");
+				textBuilder.append(paragraph + (Separator.NEW_LINE).getValue());
 			}
 			text = textBuilder.toString();
 		} catch (FileNotFoundException fnfe) {

@@ -6,6 +6,7 @@ import java.util.Arrays;
 import java.util.Set;
 import java.util.TreeSet;
 
+import edu.fromatoz.littlesearch.tool.Separator;
 import edu.fromatoz.littlesearch.tool.ValuesFileReader;
 
 /**
@@ -27,7 +28,7 @@ public class FrenchAnalyser {
 
 		this.text = text;
 		// For monitoring...
-		System.out.print("\n" + this.text);
+		System.out.print((Separator.NEW_LINE).getValue() + this.text);
 	}
 
 	/**

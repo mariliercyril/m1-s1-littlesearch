@@ -2,10 +2,12 @@ package edu.fromatoz.littlesearch.app;
 
 import java.io.File;
 import java.io.UnsupportedEncodingException;
+
 import java.util.List;
 import java.util.ListIterator;
 
 import edu.fromatoz.littlesearch.searchengine.Synonymysearch;
+
 import org.apache.lucene.document.Document;
 
 import edu.fromatoz.littlesearch.searchengine.Littlesearch;
@@ -64,6 +66,7 @@ public class SearchEngine {
 			}
 			words = exactWordsBuilder.toString();
 			words += Synonymysearch.search(wordsBuilder.toString());
+			words = words.trim();
 
 			// For demo...
 			System.out.println("[" + String.join(", ", words.split((Separator.SPACE).getValue())) + "]" + (Separator.NEW_LINE).getValue());

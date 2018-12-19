@@ -29,7 +29,7 @@
           <include>determinants.txt</include>
           <include>articles.txt</include>
           <include>others.txt</include>
-          <include>proper.noun.txt</include>
+          <include>proper.nouns.txt</include>
         </includes>
       </resource>
     </resources>

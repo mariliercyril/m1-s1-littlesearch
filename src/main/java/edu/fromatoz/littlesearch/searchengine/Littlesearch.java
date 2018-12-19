@@ -45,6 +45,7 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 
 import edu.fromatoz.littlesearch.app.SearchEngine;
+
 import edu.fromatoz.littlesearch.tool.Separator;
 
 /**

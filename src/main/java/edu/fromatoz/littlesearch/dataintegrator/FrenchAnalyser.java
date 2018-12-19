@@ -63,7 +63,7 @@ public class FrenchAnalyser {
 		// Does the task 4: Filters the stop words
 		filterStopWords();
 		// Does the task 5: Annotates proper nouns (for a NER (Named-Entity Recognition) for proper noun)
-		annotate("proper.noun");
+		annotate("proper.nouns");
 		// Does the task 6: Disambiguates "être" tokens
 		disambiguate("être", "été");
 		disambiguate("être", "est");
@@ -131,7 +131,7 @@ public class FrenchAnalyser {
 	private void annotate(String namedEntityFileName) {
 
 		for (String properNoun : getWords(namedEntityFileName)) {
-			disambiguate(properNoun + "[" + namedEntityFileName.toUpperCase() + "]", properNoun);
+			disambiguate(properNoun + "[" + (namedEntityFileName.substring(0, namedEntityFileName.length() - 1)).toUpperCase() + "]", properNoun);
 		}
 	}
 

@@ -10,12 +10,14 @@ import java.nio.charset.StandardCharsets;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectWriter;
 
+import edu.fromatoz.littlesearch.app.SearchEngine;
 import edu.fromatoz.littlesearch.dataintegrator.controller.FrenchTagger;
 
 import edu.fromatoz.littlesearch.dataintegrator.model.entity.SynonymsSet;
 
 import edu.fromatoz.littlesearch.tool.Extension;
 import edu.fromatoz.littlesearch.tool.Separator;
+import org.apache.log4j.Logger;
 
 /**
  * The {@code JSONWriter} class defines a writer for any JSON file corresponding to a word.
@@ -24,6 +26,10 @@ import edu.fromatoz.littlesearch.tool.Separator;
  * @author Cyril Marilier
  */
 public class JSONWriter {
+    /**
+     *Logger
+     */
+    private static final Logger LOGGER = Logger.getLogger(JSONWriter.class);
 
 	// The Data Warehouse
 	private static final String DATA_WAREHOUSE = "data_warehouse";
@@ -48,7 +54,8 @@ public class JSONWriter {
 					try {
 						objectWripper.writeValue(new OutputStreamWriter(new FileOutputStream(jsonFile), StandardCharsets.ISO_8859_1), synonymsSet);
 						// TODO: To replace by log...
-						System.out.println(objectWripper.writeValueAsString(synonymsSet));
+                        LOGGER.debug(objectWripper.writeValueAsString(synonymsSet));
+						//System.out.println(objectWripper.writeValueAsString(synonymsSet));
 					} catch (IOException ioe) {
 						ioe.printStackTrace();
 					}

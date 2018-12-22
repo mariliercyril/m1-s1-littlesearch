@@ -8,6 +8,7 @@ import java.io.InputStreamReader;
 
 import java.util.Set;
 
+import org.apache.log4j.Logger;
 import org.jsoup.Jsoup;
 
 import org.jsoup.nodes.Document;
@@ -71,7 +72,12 @@ public class DataIntegrator {
 	 */
 	public static final String SYNONYMY_FORMAT = String.format(CNRTL_URL_FORMAT, "synonymie") + RESOURCE_PATH_FORMAT;
 
-	/**
+    /**
+     *Logger
+     */
+    private static final Logger LOGGER = Logger.getLogger(DataIntegrator.class);
+
+    /**
 	 * Allows a developer to integrate data from the text of the corpus.
 	 * 
 	 * @param args
@@ -102,7 +108,8 @@ public class DataIntegrator {
 				Set<String> words = frenchAnalyser.getTokens();
 				for (String word : words) {
 					// For monitoring...
-					System.out.println(word);
+                    LOGGER.debug(word);
+					//System.out.println(word);
 					// Loads the word data into the warehouse (as a JSON file)
 					jsonWriter.load(word);
 				}

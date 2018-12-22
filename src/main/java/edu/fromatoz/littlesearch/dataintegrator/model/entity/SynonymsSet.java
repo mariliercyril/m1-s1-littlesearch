@@ -7,6 +7,8 @@ import java.util.Date;
 import java.util.List;
 import java.util.ListIterator;
 
+import edu.fromatoz.littlesearch.app.SearchEngine;
+import org.apache.log4j.Logger;
 import org.jsoup.nodes.Element;
 
 import org.jsoup.select.Elements;
@@ -31,6 +33,10 @@ import edu.fromatoz.littlesearch.tool.Separator;
  */
 @JsonPropertyOrder({ "part_of_speech", "synonyms" })
 public class SynonymsSet {
+    /**
+     *Logger
+     */
+    private static final Logger LOGGER = Logger.getLogger(SynonymsSet.class);
 
 	// The log format...
 	private static final String LOG_FORMAT = " [canonical_form: %S; part_of_speech: %S]";
@@ -105,8 +111,10 @@ public class SynonymsSet {
 	private void monitor(FrenchTagger tagger) {
 
 		// TODO: To replace by log...
-		System.out.print(simpleDateFormat.format(new Date()));
-		System.out.println(String.format(LOG_FORMAT, tagger.getCanonicalForm(), tagger.getPartOfSpeech()));
+        LOGGER.debug(simpleDateFormat.format(new Date()));
+        LOGGER.debug(String.format(LOG_FORMAT, tagger.getCanonicalForm(), tagger.getPartOfSpeech()));
+		//System.out.print(simpleDateFormat.format(new Date()));
+		//System.out.println(String.format(LOG_FORMAT, tagger.getCanonicalForm(), tagger.getPartOfSpeech()));
 	}
 
 }

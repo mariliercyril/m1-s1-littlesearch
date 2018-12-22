@@ -1,9 +1,14 @@
 package edu.fromatoz.littlesearch;
 
+import edu.fromatoz.littlesearch.dataintegrator.model.JSONWriter;
+import org.apache.log4j.Logger;
 import org.tartarus.snowball.ext.FrenchStemmer;
 
 public class StandardFrenchStemmerTest {
-
+	/**
+	 *Logger
+	 */
+	private static final Logger LOGGER = Logger.getLogger(StandardFrenchStemmerTest.class);
 	public static void main(String[] args) {
 
 		FrenchStemmer frenchStemmer = new FrenchStemmer();
@@ -16,8 +21,8 @@ public class StandardFrenchStemmerTest {
 
 		frenchStemmer.setCurrent(word);
 		frenchStemmer.stem();
-
-		System.out.println(word + "\t[stem: " + frenchStemmer.getCurrent() + "]");
+		LOGGER.debug(word + "\t[stem: " + frenchStemmer.getCurrent() + "]");
+		//System.out.println(word + "\t[stem: " + frenchStemmer.getCurrent() + "]");
 	}
 
 }

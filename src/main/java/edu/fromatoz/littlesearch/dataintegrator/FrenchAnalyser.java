@@ -6,8 +6,10 @@ import java.util.Arrays;
 import java.util.Set;
 import java.util.TreeSet;
 
+import edu.fromatoz.littlesearch.dataintegrator.model.JSONWriter;
 import edu.fromatoz.littlesearch.tool.Separator;
 import edu.fromatoz.littlesearch.tool.ValuesFileReader;
+import org.apache.log4j.Logger;
 
 /**
  * The {@code FrenchAnalyser} class defines an analyser for the French language.
@@ -17,7 +19,10 @@ import edu.fromatoz.littlesearch.tool.ValuesFileReader;
  * @author Cyril Marilier
  */
 public class FrenchAnalyser {
-
+	/**
+	 *Logger
+	 */
+	private static final Logger LOGGER = Logger.getLogger(JSONWriter.class);
 	private static final ValuesFileReader VALUES_FILE_READER = ValuesFileReader.getInstance();
 
 	private String text;
@@ -28,7 +33,8 @@ public class FrenchAnalyser {
 
 		this.text = text;
 		// For monitoring...
-		System.out.print((Separator.NEW_LINE).getValue() + this.text);
+		LOGGER.debug((Separator.NEW_LINE).getValue() + this.text);
+		//System.out.print((Separator.NEW_LINE).getValue() + this.text);
 	}
 
 	/**
@@ -76,8 +82,8 @@ public class FrenchAnalyser {
 		disambiguate("J.-C.", "-C");
 
 		// For monitoring...
-		System.out.println(tokens);
-
+		//System.out.println(tokens);
+		LOGGER.debug(tokens);
 		return tokens;
 	}
 

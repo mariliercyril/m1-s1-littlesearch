@@ -1,0 +1,78 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "réaliser"
+  }, {
+    "canonical_form" : "faire"
+  }, {
+    "canonical_form" : "accomplir"
+  }, {
+    "canonical_form" : "exécuter"
+  }, {
+    "canonical_form" : "pratiquer"
+  }, {
+    "canonical_form" : "voir"
+  }, {
+    "canonical_form" : "saisir"
+  }, {
+    "canonical_form" : "remplir"
+  }, {
+    "canonical_form" : "pénétrer"
+  }, {
+    "canonical_form" : "procéder"
+  }, {
+    "canonical_form" : "entendre"
+  }, {
+    "canonical_form" : "effectuer"
+  }, {
+    "canonical_form" : "créer"
+  }, {
+    "canonical_form" : "consommer"
+  }, {
+    "canonical_form" : "concevoir"
+  }, {
+    "canonical_form" : "atteindre"
+  }, {
+    "canonical_form" : "monter"
+  }, {
+    "canonical_form" : "opérer"
+  }, {
+    "canonical_form" : "vendre"
+  }, {
+    "canonical_form" : "éprouver"
+  }, {
+    "canonical_form" : "matérialiser"
+  }, {
+    "canonical_form" : "fabriquer"
+  }, {
+    "canonical_form" : "couronner"
+  }, {
+    "canonical_form" : "comprendre"
+  }, {
+    "canonical_form" : "commettre"
+  }, {
+    "canonical_form" : "appliquer"
+  }, {
+    "canonical_form" : "achever"
+  }, {
+    "canonical_form" : "liquider"
+  }, {
+    "canonical_form" : "personnifier"
+  }, {
+    "canonical_form" : "convertir"
+  }, {
+    "canonical_form" : "concrétiser"
+  }, {
+    "canonical_form" : "combler"
+  }, {
+    "canonical_form" : "brader"
+  }, {
+    "canonical_form" : "agir"
+  }, {
+    "canonical_form" : "actualiser"
+  }, {
+    "canonical_form" : "accoucher"
+  }, {
+    "canonical_form" : "solder"
+  } ]
+}

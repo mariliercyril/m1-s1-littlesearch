@@ -1,0 +1,44 @@
+{
+  "part_of_speech" : "verbe",
+  "synonyms" : [ {
+    "canonical_form" : "restreindre"
+  }, {
+    "canonical_form" : "réduire"
+  }, {
+    "canonical_form" : "diminuer"
+  }, {
+    "canonical_form" : "limiter"
+  }, {
+    "canonical_form" : "borner"
+  }, {
+    "canonical_form" : "resserrer"
+  }, {
+    "canonical_form" : "modérer"
+  }, {
+    "canonical_form" : "rétrécir"
+  }, {
+    "canonical_form" : "circonscrire"
+  }, {
+    "canonical_form" : "amoindrir"
+  }, {
+    "canonical_form" : "abréger"
+  }, {
+    "canonical_form" : "renfermer"
+  }, {
+    "canonical_form" : "rapetisser"
+  }, {
+    "canonical_form" : "gêner"
+  }, {
+    "canonical_form" : "délimiter"
+  }, {
+    "canonical_form" : "comprimer"
+  }, {
+    "canonical_form" : "cantonner"
+  }, {
+    "canonical_form" : "localiser"
+  }, {
+    "canonical_form" : "minimiser"
+  }, {
+    "canonical_form" : "rabaisser"
+  } ]
+}

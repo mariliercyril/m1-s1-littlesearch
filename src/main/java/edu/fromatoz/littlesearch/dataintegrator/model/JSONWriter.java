@@ -10,13 +10,13 @@ import java.nio.charset.StandardCharsets;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectWriter;
 
-import edu.fromatoz.littlesearch.app.SearchEngine;
 import edu.fromatoz.littlesearch.dataintegrator.controller.FrenchTagger;
 
 import edu.fromatoz.littlesearch.dataintegrator.model.entity.SynonymsSet;
 
 import edu.fromatoz.littlesearch.tool.Extension;
 import edu.fromatoz.littlesearch.tool.Separator;
+
 import org.apache.log4j.Logger;
 
 /**
@@ -26,10 +26,11 @@ import org.apache.log4j.Logger;
  * @author Cyril Marilier
  */
 public class JSONWriter {
-    /**
-     *Logger
-     */
-    private static final Logger LOGGER = Logger.getLogger(JSONWriter.class);
+
+	/**
+	 * Logger
+	 */
+	private static final Logger LOGGER = Logger.getLogger(JSONWriter.class);
 
 	// The Data Warehouse
 	private static final String DATA_WAREHOUSE = "data_warehouse";
@@ -53,11 +54,11 @@ public class JSONWriter {
 					ObjectWriter objectWripper = (new ObjectMapper()).writerWithDefaultPrettyPrinter();
 					try {
 						objectWripper.writeValue(new OutputStreamWriter(new FileOutputStream(jsonFile), StandardCharsets.ISO_8859_1), synonymsSet);
-						// TODO: To replace by log...
-                        LOGGER.debug(objectWripper.writeValueAsString(synonymsSet));
-						//System.out.println(objectWripper.writeValueAsString(synonymsSet));
+
+						// For monitoring...
+						LOGGER.info(objectWripper.writeValueAsString(synonymsSet));
 					} catch (IOException ioe) {
-						ioe.printStackTrace();
+						LOGGER.error(ioe);
 					}
 				}
 			}

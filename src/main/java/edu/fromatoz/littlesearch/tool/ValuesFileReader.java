@@ -6,11 +6,18 @@ import java.io.InputStream;
 import java.util.Properties;
 import java.util.Set;
 
+import org.apache.log4j.Logger;
+
 /**
  * The {@code ValuesFileReader} class defines the Singleton instance for the reader of values file.
  * <p>The single instance of this class should properly behave in a multi-threaded environment.</p>
  */
 public final class ValuesFileReader {
+
+	/**
+	 * Logger
+	 */
+	private static final Logger LOGGER = Logger.getLogger(ValuesFileReader.class);
 
 	private static final String VALUES_FILE_SUFFIX = (Separator.POINT).getValue() + (Extension.TEXT).getValue();
 
@@ -59,7 +66,7 @@ public final class ValuesFileReader {
 			Values values = this.getValues(String.format(VALUES_FILE_PATH_FORMAT, valuesFileName));
 			value = values.getValue(key);
 		} catch (NullPointerException npe) {
-			npe.printStackTrace();
+			LOGGER.error(npe);
 		}
 
 		return value;
@@ -98,14 +105,14 @@ public final class ValuesFileReader {
 		try {
 			values.load(inputStream);
 		} catch (IOException ioe) {
-			ioe.printStackTrace();
+			LOGGER.error(ioe);
 		} finally {
 			try {
 				if (inputStream != null) {
 					inputStream.close();
 				}
 			} catch (IOException ioe) {
-				ioe.printStackTrace();
+				LOGGER.error(ioe);
 			}
 		}
 

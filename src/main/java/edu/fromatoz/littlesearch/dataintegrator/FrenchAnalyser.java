@@ -7,8 +7,10 @@ import java.util.Set;
 import java.util.TreeSet;
 
 import edu.fromatoz.littlesearch.dataintegrator.model.JSONWriter;
+
 import edu.fromatoz.littlesearch.tool.Separator;
 import edu.fromatoz.littlesearch.tool.ValuesFileReader;
+
 import org.apache.log4j.Logger;
 
 /**
@@ -19,10 +21,12 @@ import org.apache.log4j.Logger;
  * @author Cyril Marilier
  */
 public class FrenchAnalyser {
+
 	/**
-	 *Logger
+	 * Logger
 	 */
 	private static final Logger LOGGER = Logger.getLogger(JSONWriter.class);
+
 	private static final ValuesFileReader VALUES_FILE_READER = ValuesFileReader.getInstance();
 
 	private String text;
@@ -32,9 +36,9 @@ public class FrenchAnalyser {
 	public FrenchAnalyser(String text) {
 
 		this.text = text;
+
 		// For monitoring...
-		LOGGER.debug((Separator.NEW_LINE).getValue() + this.text);
-		//System.out.print((Separator.NEW_LINE).getValue() + this.text);
+		LOGGER.info(this.text);
 	}
 
 	/**
@@ -82,8 +86,7 @@ public class FrenchAnalyser {
 		disambiguate("J.-C.", "-C");
 
 		// For monitoring...
-		//System.out.println(tokens);
-		LOGGER.debug(tokens);
+		LOGGER.info(tokens);
 		return tokens;
 	}
 
@@ -175,7 +178,7 @@ public class FrenchAnalyser {
 				try {
 					words.add(new String(value.getBytes("ISO-8859-1")));
 				} catch (UnsupportedEncodingException uee) {
-					uee.printStackTrace();
+					LOGGER.error(uee);
 				}
 			}
 		}

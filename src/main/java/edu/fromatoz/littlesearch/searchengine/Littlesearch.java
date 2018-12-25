@@ -18,6 +18,8 @@ import java.nio.file.attribute.BasicFileAttributes;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.apache.log4j.Logger;
+
 import org.apache.lucene.analysis.Analyzer;
 
 import org.apache.lucene.analysis.fr.FrenchAnalyzer;
@@ -61,6 +63,11 @@ import edu.fromatoz.littlesearch.tool.Separator;
  * @author Cyril Marilier
  */
 public class Littlesearch {
+
+	/**
+	 * Logger
+	 */
+	private static final Logger LOGGER = Logger.getLogger(Littlesearch.class);
 
 	// The Analyzer as a FrenchAnalyzer (constructed with the default stop words for the French language).
 	private static final Analyzer ANALYZER = new FrenchAnalyzer();
@@ -125,7 +132,7 @@ public class Littlesearch {
 				throw new NoSuchFileException("The TC's directory doesn't exist or it isn't a directory.");
 			}
 		} catch (IOException ioe) {
-			ioe.printStackTrace();
+			LOGGER.error(ioe);
 		}
 
 		return false;
@@ -149,7 +156,7 @@ public class Littlesearch {
 			// Indexes the document... (Updates it, if exists...)
 			indexWriter.updateDocument(new Term(path, textFilePath.toString()), doc);
 		} catch (IOException ioe) {
-			ioe.printStackTrace();
+			LOGGER.error(ioe);
 		}
 	}
 
@@ -165,9 +172,9 @@ public class Littlesearch {
 			}
 			text = textBuilder.toString();
 		} catch (FileNotFoundException fnfe) {
-			fnfe.printStackTrace();
+			LOGGER.error(fnfe);
 		} catch (IOException ioe) {
-			ioe.printStackTrace();
+			LOGGER.error(ioe);
 		}
 
 		return text;
@@ -199,9 +206,9 @@ public class Littlesearch {
 				hitDocs.add(indexSearcher.getIndexReader().document(hit.doc));
 			}
 		} catch (IOException ioe) {
-			ioe.printStackTrace();
+			LOGGER.error(ioe);
 		} catch (ParseException pe) {
-			pe.printStackTrace();
+			LOGGER.error(pe);
 		} finally {
 			try {
 				if (indexReader != null) {
@@ -211,7 +218,7 @@ public class Littlesearch {
 					indexDirectory.close();
 				}
 			} catch (IOException ioe) {
-				ioe.printStackTrace();
+				LOGGER.error(ioe);
 			}
 		}
 

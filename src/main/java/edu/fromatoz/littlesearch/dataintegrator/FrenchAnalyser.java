@@ -8,7 +8,6 @@ import java.util.TreeSet;
 
 import edu.fromatoz.littlesearch.dataintegrator.model.JSONWriter;
 
-import edu.fromatoz.littlesearch.tool.Separator;
 import edu.fromatoz.littlesearch.tool.ValuesFileReader;
 
 import org.apache.log4j.Logger;

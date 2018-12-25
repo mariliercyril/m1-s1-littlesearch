@@ -6,8 +6,11 @@ import java.util.Arrays;
 import java.util.Set;
 import java.util.TreeSet;
 
-import edu.fromatoz.littlesearch.tool.Separator;
+import edu.fromatoz.littlesearch.dataintegrator.model.JSONWriter;
+
 import edu.fromatoz.littlesearch.tool.ValuesFileReader;
+
+import org.apache.log4j.Logger;
 
 /**
  * The {@code FrenchAnalyser} class defines an analyser for the French language.
@@ -18,6 +21,11 @@ import edu.fromatoz.littlesearch.tool.ValuesFileReader;
  */
 public class FrenchAnalyser {
 
+	/**
+	 * Logger
+	 */
+	private static final Logger LOGGER = Logger.getLogger(JSONWriter.class);
+
 	private static final ValuesFileReader VALUES_FILE_READER = ValuesFileReader.getInstance();
 
 	private String text;
@@ -27,8 +35,9 @@ public class FrenchAnalyser {
 	public FrenchAnalyser(String text) {
 
 		this.text = text;
+
 		// For monitoring...
-		System.out.print((Separator.NEW_LINE).getValue() + this.text);
+		LOGGER.info(this.text);
 	}
 
 	/**
@@ -76,8 +85,7 @@ public class FrenchAnalyser {
 		disambiguate("J.-C.", "-C");
 
 		// For monitoring...
-		System.out.println(tokens);
-
+		LOGGER.info(tokens);
 		return tokens;
 	}
 
@@ -169,7 +177,7 @@ public class FrenchAnalyser {
 				try {
 					words.add(new String(value.getBytes("ISO-8859-1")));
 				} catch (UnsupportedEncodingException uee) {
-					uee.printStackTrace();
+					LOGGER.error(uee);
 				}
 			}
 		}

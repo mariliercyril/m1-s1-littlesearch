@@ -8,6 +8,8 @@ import java.io.InputStreamReader;
 
 import java.util.Set;
 
+import org.apache.log4j.Logger;
+
 import org.jsoup.Jsoup;
 
 import org.jsoup.nodes.Document;
@@ -35,6 +37,11 @@ import edu.fromatoz.littlesearch.tool.Separator;
  * @author Cyril Marilier
  */
 public class DataIntegrator {
+
+	/**
+	 * Logger
+	 */
+	private static final Logger LOGGER = Logger.getLogger(DataIntegrator.class);
 
 	/**
 	 * The <b>communication protocol</b>.
@@ -71,7 +78,7 @@ public class DataIntegrator {
 	 */
 	public static final String SYNONYMY_FORMAT = String.format(CNRTL_URL_FORMAT, "synonymie") + RESOURCE_PATH_FORMAT;
 
-	/**
+    /**
 	 * Allows a developer to integrate data from the text of the corpus.
 	 * 
 	 * @param args
@@ -80,7 +87,7 @@ public class DataIntegrator {
 	public static void main(String[] args) {
 
 		// Gives the text file name to the integrator...
-		String textFileName = "JEROME_CARDAN";
+		String textFileName = "BERNHARD_RIEMANN";
 		if (args.length > 0) {
 			textFileName = args[0];
 		}
@@ -102,15 +109,16 @@ public class DataIntegrator {
 				Set<String> words = frenchAnalyser.getTokens();
 				for (String word : words) {
 					// For monitoring...
-					System.out.println(word);
+					LOGGER.info(word);
+
 					// Loads the word data into the warehouse (as a JSON file)
 					jsonWriter.load(word);
 				}
 			}
 		} catch (FileNotFoundException fnfe) {
-			fnfe.printStackTrace();
+			LOGGER.error(fnfe);
 		} catch (IOException ioe) {
-			ioe.printStackTrace();
+			LOGGER.error(ioe);
 		}
 	}
 

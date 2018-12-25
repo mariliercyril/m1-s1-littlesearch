@@ -8,6 +8,8 @@ import java.util.ListIterator;
 
 import edu.fromatoz.littlesearch.searchengine.Synonymysearch;
 
+import org.apache.log4j.Logger;
+
 import org.apache.lucene.document.Document;
 
 import edu.fromatoz.littlesearch.searchengine.Littlesearch;
@@ -23,6 +25,11 @@ import edu.fromatoz.littlesearch.tool.Separator;
  * @author Cyril Marilier
  */
 public class SearchEngine {
+
+	/**
+	 * Logger
+	 */
+	private static final Logger LOGGER = Logger.getLogger(SearchEngine.class);
 
 	/**
 	 * The name of the directory of the Text Corpus.
@@ -45,7 +52,7 @@ public class SearchEngine {
 	private static StringBuilder exactWordsBuilder = new StringBuilder();
 	private static StringBuilder wordsBuilder = new StringBuilder();
 
-	/**
+    /**
 	 * Allows an user to search for words into the text of the corpus.
 	 * 
 	 * @param args
@@ -61,7 +68,7 @@ public class SearchEngine {
 					word = new String(word.getBytes("UTF-8"));
 					buildWords(word);
 				} catch (UnsupportedEncodingException uee) {
-					uee.printStackTrace();
+					LOGGER.error(uee);
 				}
 			}
 			words = exactWordsBuilder.toString();
@@ -69,9 +76,9 @@ public class SearchEngine {
 			words = words.trim();
 
 			// For demo...
-			System.out.println("[" + String.join(", ", words.split((Separator.SPACE).getValue())) + "]" + (Separator.NEW_LINE).getValue());
+			LOGGER.info("[" + String.join(", ", words.split((Separator.SPACE).getValue())) + "]" + (Separator.NEW_LINE).getValue());
 		} else {
-			System.out.println("Use: ./searchFor <word>...");
+		    LOGGER.info("Use: ./searchFor <word>...");
 			System.exit(0);
 		}
 
@@ -82,7 +89,7 @@ public class SearchEngine {
 			// If the indexing is successful, searches for words and for synonyms if exist...
 			List<Document> hitDocuments = Littlesearch.search(words);
 			if (hitDocuments.isEmpty()) {
-				System.out.println("Littlesearch ne trouve rien pour \"" + words + "\".");
+			    LOGGER.info("Littlesearch ne trouve rien pour \"" + words + "\".");
 				System.exit(1);
 			} else {
 				// If the engine finds at least one of the searched words in an indexed document, returns the document in question...
@@ -90,7 +97,7 @@ public class SearchEngine {
 				int i = 0;
 				while (hitDocumentsIterator.hasNext()) {
 					Document hitDocument = hitDocumentsIterator.next();
-					System.out.println("Document " + ++i + ":" + (Separator.NEW_LINE).getValue() + hitDocument.get("content"));
+					LOGGER.info("Document " + ++i + ":" + (Separator.NEW_LINE).getValue() + hitDocument.get("content"));
 				}
 			}
 		}

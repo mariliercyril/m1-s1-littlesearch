@@ -1,0 +1,16 @@
+{
+  "part_of_speech" : "substantif",
+  "synonyms" : [ {
+    "canonical_form" : "ingénieur",
+    "other_forms" : [ "ingénieurs" ]
+  }, {
+    "canonical_form" : "architecte",
+    "other_forms" : [ "architectes" ]
+  }, {
+    "canonical_form" : "chef",
+    "other_forms" : [ "chefs" ]
+  }, {
+    "canonical_form" : "constructeur",
+    "other_forms" : [ "constructeurs" ]
+  } ]
+}

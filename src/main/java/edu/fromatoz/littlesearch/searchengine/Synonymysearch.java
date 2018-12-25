@@ -21,11 +21,18 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+import org.apache.log4j.Logger;
+
 /**
  * @author Andrei Zabolotnîi
  * @author Cyril Marilier
  */
 public class Synonymysearch {
+
+	/**
+	 * Logger
+	 */
+	private static final Logger LOGGER = Logger.getLogger(Littlesearch.class);
 
 	// The Data Warehouse
 	private static final String DATA_WAREHOUSE = "data_warehouse";
@@ -61,7 +68,7 @@ public class Synonymysearch {
 						}
 					}
 				} catch (IOException ioe) {
-					ioe.printStackTrace();
+					LOGGER.error(ioe);
 				}
 			}
 		}
@@ -82,7 +89,7 @@ public class Synonymysearch {
 				}
 			}
 		} catch (UnsupportedEncodingException uee) {
-			uee.printStackTrace();
+			LOGGER.error(uee);
 		}
 
 		return forms;

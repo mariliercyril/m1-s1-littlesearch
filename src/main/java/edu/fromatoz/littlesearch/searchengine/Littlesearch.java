@@ -1,19 +1,14 @@
 package edu.fromatoz.littlesearch.searchengine;
 
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-import java.nio.file.FileVisitResult;
-import java.nio.file.Files;
 import java.nio.file.NoSuchFileException;
-import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.nio.file.SimpleFileVisitor;
-
-import java.nio.file.attribute.BasicFileAttributes;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -32,9 +27,7 @@ import org.apache.lucene.document.TextField;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
-
 import org.apache.lucene.index.Term;
-
 import org.apache.lucene.queryparser.classic.ParseException;
 import org.apache.lucene.queryparser.classic.QueryParser;
 
@@ -102,10 +95,11 @@ public class Littlesearch {
 
 		try {
 			// Opens the directory, on the disk (normally in a temporary way), where the index is going to be stored.
-			indexDirectory = FSDirectory.open(Paths.get(System.getProperty("java.io.tmpdir")));
+			indexDirectory = FSDirectory.open(Paths.get(System.getProperty("java.io.tmpdir"), (Separator.SLASH).getValue(), "littlesearch_index"));
 
 			// Defines a configuration for giving the analyzer to the index writer...
 			IndexWriterConfig indexWriterConfig = new IndexWriterConfig(ANALYZER);
+			indexWriterConfig.setOpenMode(IndexWriterConfig.OpenMode.CREATE_OR_APPEND);
 
 			// Creates an index writer.
 			indexWriter = new IndexWriter(indexDirectory, indexWriterConfig);
@@ -114,16 +108,16 @@ public class Littlesearch {
 			if ((SearchEngine.TEXT_CORPUS_DIRECTORY).isDirectory()) {
 				// Checks whether the TC (as a directory) is empty...
 				if (((SearchEngine.TEXT_CORPUS_DIRECTORY).list()).length > 0) {
-					// Walks in the TC as in a file tree.
-					Files.walkFileTree((SearchEngine.TEXT_CORPUS_DIRECTORY).toPath(), new SimpleFileVisitor<Path>() {
-						@Override
-						public FileVisitResult visitFile(Path textFilePath, BasicFileAttributes attributes) {
-							// Indexes text in the file...
-							index(textFilePath);
+					// Gets the files of the TC
+					File[] files = (SearchEngine.TEXT_CORPUS_DIRECTORY).listFiles();
+					for (File file : files) {
+						index(file);
+					}
 
-							return FileVisitResult.CONTINUE;
-						}
-					});
+					// "Commits all pending changes (added and deleted documents, segment merges, added indexes, etc.) to the index..."
+					// (Necessary to solve "org.apache.lucene.index.IndexNotFoundException: no segments* file found in MMapDirectory".)
+					indexWriter.commit();
+
 					return true;
 				} else {
 					throw new NoSuchFileException("The TC's directory is empty.");
@@ -139,32 +133,40 @@ public class Littlesearch {
 	}
 
 	/**
-	 * Indexes the text of a file of which the path is as a parameter.
+	 * Indexes the text of a file that is as a parameter.
 	 * 
-	 * @param textFilePath
-	 *  the path of a text file
+	 * @param textFile
+	 *  the file of a text
 	 */
-	private static void index(Path textFilePath) {
+	private static void index(File textFile) {
 
 		try {
 			// Constructs a document from the file of which the path which is as a parameter...
 			Document doc = new Document();
 			// Stores the path which is as a parameter.
-			doc.add(new StringField(path, textFilePath.toString(), Field.Store.YES));
+			doc.add(new StringField(path, textFile.toString(), Field.Store.YES));
 			// Store the content (which is text) of the file of which the path which is as a parameter.
-			doc.add(new TextField(content, getText(textFilePath), Field.Store.YES));
-			// Indexes the document... (Updates it, if exists...)
-			indexWriter.updateDocument(new Term(path, textFilePath.toString()), doc);
+			doc.add(new TextField(content, getText(textFile), Field.Store.YES));
+			// Indexes the document... (Updates it, if it exists...)
+			indexWriter.updateDocument(new Term(path, textFile.toString()), doc);
 		} catch (IOException ioe) {
 			LOGGER.error(ioe);
 		}
 	}
 
-	private static String getText(Path textFilePath) {
+	/**
+	 * Returns the text of a file that is as a parameter.
+	 * 
+	 * @param textFile
+	 *  the file of a text
+	 * 
+	 * @return the text to be indexed
+	 */
+	private static String getText(File textFile) {
 
 		String text = "";
 
-		try (BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(new FileInputStream(textFilePath.toString())))) {
+		try (BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(new FileInputStream(textFile.toString())))) {
 			StringBuilder textBuilder = new StringBuilder();
 			String paragraph;
 			while ((paragraph = bufferedReader.readLine()) != null) {

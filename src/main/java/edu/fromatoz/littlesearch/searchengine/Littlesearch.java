@@ -19,7 +19,6 @@ import org.apache.lucene.analysis.Analyzer;
 
 import org.apache.lucene.analysis.fr.FrenchAnalyzer;
 
-import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
@@ -67,10 +66,10 @@ public class Littlesearch {
 	private static final Analyzer ANALYZER = new FrenchAnalyzer();
 
 	// The name of the field which should contain the content of text...
-	private static String content = "content";
+	private static final String CONTENT_FIELD_NAME = "content";
 
 	// The name of the field which should contain the path of a text file...
-	private static String path = "path";
+	private static final String PATH_FIELD_NAME = "path";
 
 	// The directory where the index will be stored:
 	private static Directory indexDirectory;
@@ -143,13 +142,13 @@ public class Littlesearch {
 
 		try {
 			// Constructs a document from the file of which the path which is as a parameter...
-			Document doc = new Document();
+			org.apache.lucene.document.Document doc = new org.apache.lucene.document.Document();
 			// Stores the path which is as a parameter.
-			doc.add(new StringField(path, textFile.toString(), Field.Store.YES));
+			doc.add(new StringField(PATH_FIELD_NAME, textFile.getPath(), Field.Store.YES));
 			// Store the content (which is text) of the file of which the path which is as a parameter.
-			doc.add(new TextField(content, getText(textFile), Field.Store.YES));
+			doc.add(new TextField(CONTENT_FIELD_NAME, getText(textFile), Field.Store.YES));
 			// Indexes the document... (Updates it, if it exists...)
-			indexWriter.updateDocument(new Term(path, textFile.toString()), doc);
+			indexWriter.updateDocument(new Term(PATH_FIELD_NAME, textFile.toString()), doc);
 		} catch (IOException ioe) {
 			LOGGER.error(ioe);
 		}
@@ -193,20 +192,20 @@ public class Littlesearch {
 	 */
 	public static List<Document> search(String words) {
 
-		List<Document> hitDocs = new ArrayList<>();
+		List<Document> documents = new ArrayList<>();
 
 		try {
 			// Opens the directory where the index was stored...
 			indexReader = DirectoryReader.open(indexDirectory);
 			IndexSearcher indexSearcher = new IndexSearcher(indexReader);
 			// Parses a query for searching for words in the indexed content.
-			QueryParser queryParser = new QueryParser(content, ANALYZER);
+			QueryParser queryParser = new QueryParser(CONTENT_FIELD_NAME, ANALYZER);
 			Query query = queryParser.parse(words);
 			// Gets meta-information of the top 5 documents (sorted by relevance, the default sorting mode)...
 			TopDocs foundDocs = indexSearcher.search(query, 5);
 			// Adds the corresponding documents to the list...
 			for (ScoreDoc hit : foundDocs.scoreDocs) {
-				hitDocs.add(indexSearcher.getIndexReader().document(hit.doc));
+				documents.add(new Littlesearch.Document(hit));
 			}
 		} catch (IOException ioe) {
 			LOGGER.error(ioe);
@@ -225,7 +224,41 @@ public class Littlesearch {
 			}
 		}
 
-        return hitDocs;
+        return documents;
+	}
+
+	public static class Document {
+
+		private int number;
+		private String content;
+		private float score;
+
+		private Document(ScoreDoc hit) {
+
+			number = hit.doc;
+			score = hit.score;
+			try {
+				content = (indexReader.document(number)).get(CONTENT_FIELD_NAME);
+			} catch (IOException ioe) {
+				LOGGER.error(ioe);
+			}
+		}
+
+		public int getNumber() {
+
+			return number;
+		}
+
+		public float getScore() {
+
+			return score;
+		}
+
+		public String getContent() {
+
+			return content;
+		}
+
 	}
 
 }

@@ -10,8 +10,6 @@ import edu.fromatoz.littlesearch.searchengine.Synonymysearch;
 
 import org.apache.log4j.Logger;
 
-import org.apache.lucene.document.Document;
-
 import edu.fromatoz.littlesearch.searchengine.Littlesearch;
 
 import edu.fromatoz.littlesearch.tool.Extension;
@@ -87,17 +85,17 @@ public class SearchEngine {
 			System.exit(1);
 		} else {
 			// If the indexing is successful, searches for words and for synonyms if exist...
-			List<Document> hitDocuments = Littlesearch.search(words);
-			if (hitDocuments.isEmpty()) {
+			List<Littlesearch.Document> documents = Littlesearch.search(words);
+			if (documents.isEmpty()) {
 			    LOGGER.info("Littlesearch ne trouve rien pour \"" + words + "\".");
 				System.exit(1);
 			} else {
 				// If the engine finds at least one of the searched words in an indexed document, returns the document in question...
-				ListIterator<Document> hitDocumentsIterator = hitDocuments.listIterator();
-				int i = 0;
-				while (hitDocumentsIterator.hasNext()) {
-					Document hitDocument = hitDocumentsIterator.next();
-					LOGGER.info("Document " + ++i + ":" + (Separator.NEW_LINE).getValue() + hitDocument.get("content"));
+				ListIterator<Littlesearch.Document> documentsIterator = documents.listIterator();
+				while (documentsIterator.hasNext()) {
+					edu.fromatoz.littlesearch.searchengine.Littlesearch.Document document = documentsIterator.next();
+					LOGGER.info("Document " + document.getNumber() + " (" + document.getScore() + ") " + (Separator.COLON).getValue());
+					LOGGER.info(document.getContent());
 				}
 			}
 		}

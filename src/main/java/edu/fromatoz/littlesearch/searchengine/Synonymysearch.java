@@ -17,9 +17,9 @@ import java.io.UnsupportedEncodingException;
 
 import java.nio.charset.StandardCharsets;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
+import java.util.Set;
+import java.util.TreeSet;
 
 import org.apache.log4j.Logger;
 
@@ -46,7 +46,7 @@ public class Synonymysearch {
 	public static String search(String words) {
 
 		String[] separatedWords = words.split((Separator.SPACE).getValue());
-		List<String> contextualForms = new ArrayList<>(Arrays.asList(separatedWords));
+		Set<String> contextualForms = new TreeSet<>(Arrays.asList(separatedWords));
 
 		for (String word : separatedWords) {
 			// Gets the JSON files of the data warehouse
@@ -59,11 +59,10 @@ public class Synonymysearch {
 
 					Word[] synonyms = synonymsSet.getSynonyms();
 					for (Word synonym : synonyms) {
-						List<String> forms = new ArrayList<>();
+						Set<String> forms = new TreeSet<>();
 						forms = getForms(forms, synonym, partOfSpeech);
 
 						if (forms.stream().anyMatch(f -> f.equals(word))) {
-							contextualForms.remove(word);
 							contextualForms = getForms(contextualForms, synonyms[0], partOfSpeech);
 						}
 					}
@@ -76,7 +75,7 @@ public class Synonymysearch {
 		return String.join(" ", contextualForms);
 	}
 
-	private static List<String> getForms(List<String> forms, Word synonym, String partOfSpeech) {
+	private static Set<String> getForms(Set<String> forms, Word synonym, String partOfSpeech) {
 
 		try {
 			forms.add(new String((synonym.getCanonicalForm()).getBytes("UTF-8")));
